@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KI-Depot</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg:#0d1117; --card:#161b22; --border:#30363d; --text:#e6edf3;
+    --muted:#8b949e; --green:#3fb950; --red:#f85149; --accent:#58a6ff;
+  }
+  * { box-sizing:border-box; margin:0; }
+  body { background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; padding:16px; max-width:960px; margin:0 auto; }
+  h1 { font-size:1.3rem; margin-bottom:2px; }
+  .sub { color:var(--muted); font-size:.8rem; margin-bottom:16px; }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; margin-bottom:16px; }
+  .card { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:12px; }
+  .card .label { color:var(--muted); font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; }
+  .card .value { font-size:1.25rem; font-weight:600; margin-top:4px; }
+  .card .delta { font-size:.8rem; margin-top:2px; }
+  .pos { color:var(--green); } .neg { color:var(--red); }
+  section { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:14px; margin-bottom:16px; }
+  h2 { font-size:.95rem; margin-bottom:10px; color:var(--accent); }
+  table { width:100%; border-collapse:collapse; font-size:.82rem; }
+  th { text-align:left; color:var(--muted); font-weight:500; padding:6px 8px; border-bottom:1px solid var(--border); white-space:nowrap; }
+  td { padding:7px 8px; border-bottom:1px solid var(--border); white-space:nowrap; }
+  tr:last-child td { border-bottom:none; }
+  .num { text-align:right; }
+  th.num { text-align:right; }
+  .name { color:var(--muted); font-size:.72rem; }
+  .reason { white-space:normal; color:var(--muted); font-size:.76rem; line-height:1.4; }
+  .badge { display:inline-block; padding:1px 8px; border-radius:10px; font-size:.7rem; font-weight:600; }
+  .badge.buy { background:#1a3626; color:var(--green); }
+  .badge.sell { background:#3d1d1d; color:var(--red); }
+  .tablewrap { overflow-x:auto; }
+  #chartwrap { height:280px; }
+  .empty { color:var(--muted); font-size:.85rem; padding:8px 0; }
+  footer { color:var(--muted); font-size:.72rem; text-align:center; padding:10px 0 30px; line-height:1.5; }
+</style>
+</head>
+<body>
+<h1>🤖 KI-Depot – Paper Trading</h1>
+<div class="sub" id="meta">Lade Daten …</div>
+
+<div class="cards">
+  <div class="card"><div class="label">Depotwert</div><div class="value" id="totalValue">–</div><div class="delta" id="totalPnl"></div></div>
+  <div class="card"><div class="label" id="benchLabel">Benchmark</div><div class="value" id="benchValue">–</div><div class="delta" id="benchPnl"></div></div>
+  <div class="card"><div class="label">Vorsprung zur Benchmark</div><div class="value" id="alpha">–</div></div>
+  <div class="card"><div class="label">Cash</div><div class="value" id="cash">–</div></div>
+</div>
+
+<section><h2>Depot vs. Benchmark</h2><div id="chartwrap"><canvas id="chart"></canvas></div></section>
+<section><h2>Positionen</h2><div class="tablewrap" id="positions"></div></section>
+<section><h2>Offene Orders</h2><div class="tablewrap" id="orders"></div></section>
+<section><h2>Trade-Historie &amp; KI-Begründungen</h2><div class="tablewrap" id="trades"></div></section>
+
+<footer>Fiktives Depot ohne echtes Geld. Keine Anlageberatung.<br>Tägliche Bewertung durch KI · Kursdaten: Yahoo Finance · <span id="lastUpdate"></span></footer>
+
+<script>
+const eur = v => v==null ? "–" : v.toLocaleString("de-DE",{style:"currency",currency:"EUR"});
+const pct = v => (v>=0?"+":"") + v.toLocaleString("de-DE",{maximumFractionDigits:2}) + " %";
+const cls = v => v>=0 ? "pos" : "neg";
+
+fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
+  const start = d.config.startCapital;
+  const last = d.history[d.history.length-1];
+  const value = last ? last.depot : d.cash;
+  const bench = last ? last.benchmark : null;
+
+  document.getElementById("meta").textContent =
+    (d.config.started ? "Start: " + d.config.started + " · " : "Depot wartet auf den ersten automatischen Lauf · ")
+    + "Startkapital: " + eur(start);
+
+  document.getElementById("totalValue").textContent = eur(value);
+  const pnl = value - start;
+  const el = document.getElementById("totalPnl");
+  el.textContent = eur(pnl) + " (" + pct(pnl/start*100) + ")";
+  el.className = "delta " + cls(pnl);
+
+  document.getElementById("benchLabel").textContent = d.config.benchmarkName + " (fiktiv gleich investiert)";
+  if (bench != null) {
+    document.getElementById("benchValue").textContent = eur(bench);
+    const bp = bench - start;
+    const be = document.getElementById("benchPnl");
+    be.textContent = eur(bp) + " (" + pct(bp/start*100) + ")";
+    be.className = "delta " + cls(bp);
+    const a = document.getElementById("alpha");
+    a.textContent = eur(value - bench);
+    a.className = "value " + cls(value - bench);
+  }
+  document.getElementById("cash").textContent = eur(d.cash);
+  document.getElementById("lastUpdate").textContent = d.lastUpdate ? "Stand: " + d.lastUpdate : "";
+
+  // Chart
+  if (d.history.length) {
+    new Chart(document.getElementById("chart"), {
+      type: "line",
+      data: { labels: d.history.map(h=>h.date), datasets: [
+        { label:"KI-Depot", data:d.history.map(h=>h.depot), borderColor:"#58a6ff", backgroundColor:"rgba(88,166,255,.12)", fill:true, tension:.25, pointRadius:2 },
+        { label:d.config.benchmarkName, data:d.history.map(h=>h.benchmark), borderColor:"#8b949e", borderDash:[5,4], fill:false, tension:.25, pointRadius:2 }
+      ]},
+      options: { maintainAspectRatio:false, interaction:{mode:"index",intersect:false},
+        plugins:{ legend:{labels:{color:"#e6edf3"}} },
+        scales:{ x:{ticks:{color:"#8b949e",maxTicksLimit:8},grid:{color:"#21262d"}},
+                 y:{ticks:{color:"#8b949e",callback:v=>v.toLocaleString("de-DE")+" €"},grid:{color:"#21262d"}} } }
+    });
+  } else {
+    document.getElementById("chartwrap").innerHTML = '<div class="empty">Noch keine Historie – der erste automatische Lauf legt sie an.</div>';
+  }
+
+  // Positionen
+  const posEl = document.getElementById("positions");
+  if (d.positions.length) {
+    posEl.innerHTML = "<table><tr><th>Titel</th><th class=num>Stück</th><th class=num>Kurs</th><th class=num>Wert</th><th class=num>±</th></tr>" +
+      d.positions.map(p=>{
+        const v = p.valueEur ?? p.investedEur;
+        const pl = v - p.investedEur, plp = pl / p.investedEur * 100;
+        return `<tr><td><b>${p.symbol}</b><br><span class=name>${p.name}</span></td>
+          <td class=num>${p.shares.toLocaleString("de-DE")}</td>
+          <td class=num>${p.lastPriceUsd ? p.lastPriceUsd.toLocaleString("de-DE",{maximumFractionDigits:2})+" $" : "–"}</td>
+          <td class=num>${eur(v)}</td>
+          <td class="num ${cls(pl)}">${eur(pl)}<br>${pct(plp)}</td></tr>`;
+      }).join("") + "</table>";
+  } else posEl.innerHTML = '<div class="empty">Noch keine Positionen – Orders werden beim nächsten Lauf ausgeführt.</div>';
+
+  // Orders
+  const ordEl = document.getElementById("orders");
+  if (d.orders.length) {
+    ordEl.innerHTML = "<table><tr><th></th><th>Titel</th><th class=num>Betrag</th><th>Begründung</th></tr>" +
+      d.orders.map(o=>`<tr><td><span class="badge ${o.type}">${o.type==="buy"?"KAUF":"VERKAUF"}</span></td>
+        <td><b>${o.symbol}</b><br><span class=name>${o.name??""}</span></td>
+        <td class=num>${o.amountEur?eur(o.amountEur):(o.all?"alles":o.shares+" St.")}</td>
+        <td class=reason>${o.reason??""}</td></tr>`).join("") + "</table>";
+  } else ordEl.innerHTML = '<div class="empty">Keine offenen Orders.</div>';
+
+  // Trades
+  const trEl = document.getElementById("trades");
+  if (d.trades.length) {
+    trEl.innerHTML = "<table><tr><th>Datum</th><th></th><th>Titel</th><th class=num>Betrag</th><th>KI-Begründung</th></tr>" +
+      [...d.trades].reverse().map(t=>`<tr><td>${t.date}</td>
+        <td><span class="badge ${t.type}">${t.type==="buy"?"KAUF":"VERKAUF"}</span></td>
+        <td><b>${t.symbol}</b></td>
+        <td class=num>${eur(t.amountEur)}${t.realizedPnlEur!=null?`<br><span class="${cls(t.realizedPnlEur)}">${eur(t.realizedPnlEur)}</span>`:""}</td>
+        <td class=reason>${t.reason}</td></tr>`).join("") + "</table>";
+  } else trEl.innerHTML = '<div class="empty">Noch keine ausgeführten Trades.</div>';
+}).catch(e=>{
+  document.getElementById("meta").textContent = "Fehler beim Laden von data.json: " + e;
+});
+</script>
+</body>
+</html>

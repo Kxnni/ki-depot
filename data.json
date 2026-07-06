@@ -1,0 +1,75 @@
+{
+  "config": {
+    "startCapital": 10000,
+    "currency": "EUR",
+    "benchmark": "^GSPC",
+    "benchmarkName": "S&P 500",
+    "started": null,
+    "benchmarkStart": null
+  },
+  "cash": 10000.0,
+  "positions": [],
+  "orders": [
+    {
+      "type": "buy",
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "amountEur": 1500,
+      "created": "2026-07-06",
+      "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert."
+    },
+    {
+      "type": "buy",
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (ADR)",
+      "amountEur": 1500,
+      "created": "2026-07-06",
+      "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms."
+    },
+    {
+      "type": "buy",
+      "symbol": "ASML",
+      "name": "ASML (ADR)",
+      "amountEur": 1400,
+      "created": "2026-07-06",
+      "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken."
+    },
+    {
+      "type": "buy",
+      "symbol": "V",
+      "name": "Visa",
+      "amountEur": 1300,
+      "created": "2026-07-06",
+      "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish."
+    },
+    {
+      "type": "buy",
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "amountEur": 1200,
+      "created": "2026-07-06",
+      "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind."
+    },
+    {
+      "type": "buy",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "amountEur": 1000,
+      "created": "2026-07-06",
+      "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch."
+    },
+    {
+      "type": "buy",
+      "symbol": "VRT",
+      "name": "Vertiv Holdings",
+      "amountEur": 800,
+      "created": "2026-07-06",
+      "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung."
+    }
+  ],
+  "trades": [],
+  "history": [],
+  "quotes": {},
+  "fx": {},
+  "lastUpdate": null
+}
