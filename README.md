@@ -12,3 +12,11 @@ Fiktives 10.000-€-Depot, täglich von KI bewertet, Ziel: den S&P 500 schlagen.
 
 
 
+<<<<<<< Updated upstream
+=======
+## Danach läuft automatisch
+
+- **Börsentäglich 17:00 (MESZ):** GitHub Actions aktualisiert Kurse, Depotwert und Benchmark und führt offene Orders aus – auch wenn der Mac aus ist.
+- **Werktäglich 22:15 (wenn Mac an, sonst nachgeholt):** Claude bewertet das Depot, entscheidet über Käufe/Verkäufe und pusht Orders + Begründung. Ausführung am Folgetag um 17:00.
+- **Beim Öffnen des Dashboards:** Live-Kurse der Positionen via Finnhub (kostenloser API-Key in `index.html`).
+>>>>>>> Stashed changes

@@ -7,7 +7,7 @@
 1. **Universum:** Liquide Aktien aus USA und Europa (US-Listings/ADRs, alle Kurse in USD, Depotführung in EUR).
 2. **Positionsgrößen:** Maximal 10 Positionen, maximal 20 % des Depotwerts je Position, mindestens 5 % Cash-Reserve.
 3. **Bruchstücke:** Erlaubt (Paper Trading), keine Transaktionskosten (Vereinfachung – bei täglichem Handel real relevant, daher: wenige, begründete Trades).
-4. **Orderausführung:** Die KI legt Orders an; ausgeführt werden sie beim nächsten automatischen Kurslauf (börsentäglich ~22:45 MESZ) zum dann aktuellen Kurs.
+4. **Orderausführung:** Die KI legt Orders an; ausgeführt werden sie beim nächsten automatischen Kurslauf (börsentäglich 17:00 MESZ) zum dann aktuellen Kurs – Orders vom Vorabend also am Folgetag.
 5. **Dokumentationspflicht:** Jede Kauf-/Verkaufsentscheidung wird mit Begründung in `data.json` (Trades) und `ENTSCHEIDUNGEN.md` festgehalten.
 6. **Benchmark:** S&P 500, verankert am Indexstand des ersten Laufs. Benchmarkwert = 10.000 € × (Index heute / Index bei Start).
 7. **Disziplin:** Kein Überhandeln. Trades nur bei klarer Begründung (neue Nachrichten, Bewertungsänderung, Risikomanagement) – nicht aus Langeweile. An den meisten Tagen ist „nichts tun" die richtige Entscheidung.
@@ -15,7 +15,8 @@
 ## Tagesablauf
 
 - **~22:15 Uhr (Cowork-Task, holt verpasste Läufe nach):** KI prüft Marktnachrichten und Depot, entscheidet über Orders, dokumentiert die Analyse, pusht zu GitHub.
-- **22:45 MESZ (GitHub Actions, läuft immer):** Skript holt Kurse, führt offene Orders aus, schreibt Depotwert und Benchmark in die Historie.
+- **17:00 MESZ (GitHub Actions, läuft immer):** Skript holt Kurse, führt offene Orders aus, schreibt Depotwert und Benchmark in die Historie.
+- **Beim Öffnen des Dashboards:** Live-Kurse via Finnhub, unabhängig vom letzten Lauf.
 
 ## Ausgangslage (06.07.2026)
 

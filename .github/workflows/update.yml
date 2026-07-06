@@ -2,8 +2,8 @@ name: Tägliches Depot-Update
 
 on:
   schedule:
-    # Börsentäglich 20:45 UTC = 22:45 MESZ (nach US-Börsenschluss)
-    - cron: "45 20 * * 1-5"
+    # Börsentäglich 15:00 UTC = 17:00 MESZ (US-Markt geöffnet, Europa kurz vor Schluss)
+    - cron: "0 15 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

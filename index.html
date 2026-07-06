@@ -14,6 +14,7 @@
   body { background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; padding:16px; max-width:960px; margin:0 auto; }
   h1 { font-size:1.3rem; margin-bottom:2px; }
   .sub { color:var(--muted); font-size:.8rem; margin-bottom:16px; }
+  .live { color:var(--green); font-weight:600; }
   .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; margin-bottom:16px; }
   .card { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:12px; }
   .card .label { color:var(--muted); font-size:.72rem; text-transform:uppercase; letter-spacing:.05em; }
@@ -44,7 +45,7 @@
 <div class="sub" id="meta">Lade Daten …</div>
 
 <div class="cards">
-  <div class="card"><div class="label">Depotwert</div><div class="value" id="totalValue">–</div><div class="delta" id="totalPnl"></div></div>
+  <div class="card"><div class="label" id="totalLabel">Depotwert</div><div class="value" id="totalValue">–</div><div class="delta" id="totalPnl"></div></div>
   <div class="card"><div class="label" id="benchLabel">Benchmark</div><div class="value" id="benchValue">–</div><div class="delta" id="benchPnl"></div></div>
   <div class="card"><div class="label">Vorsprung zur Benchmark</div><div class="value" id="alpha">–</div></div>
   <div class="card"><div class="label">Cash</div><div class="value" id="cash">–</div></div>
@@ -55,46 +56,71 @@
 <section><h2>Offene Orders</h2><div class="tablewrap" id="orders"></div></section>
 <section><h2>Trade-Historie &amp; KI-Begründungen</h2><div class="tablewrap" id="trades"></div></section>
 
-<footer>Fiktives Depot ohne echtes Geld. Keine Anlageberatung.<br>Tägliche Bewertung durch KI · Kursdaten: Yahoo Finance · <span id="lastUpdate"></span></footer>
+<footer>Fiktives Depot ohne echtes Geld. Keine Anlageberatung.<br>Tägliche Bewertung durch KI · Kursdaten: Yahoo Finance / Live: Finnhub · <span id="lastUpdate"></span></footer>
 
 <script>
+const FINNHUB_KEY = "d961amhr01qifmv392i0d961amhr01qifmv392ig";
 const eur = v => v==null ? "–" : v.toLocaleString("de-DE",{style:"currency",currency:"EUR"});
 const pct = v => (v>=0?"+":"") + v.toLocaleString("de-DE",{maximumFractionDigits:2}) + " %";
 const cls = v => v>=0 ? "pos" : "neg";
+const $ = id => document.getElementById(id);
 
-fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
+function depotValue(d) {
+  if (d.__live) return d.__live.total;
+  const last = d.history[d.history.length-1];
+  return last ? last.depot : d.cash;
+}
+
+function renderCards(d) {
   const start = d.config.startCapital;
   const last = d.history[d.history.length-1];
-  const value = last ? last.depot : d.cash;
+  const value = depotValue(d);
   const bench = last ? last.benchmark : null;
 
-  document.getElementById("meta").textContent =
-    (d.config.started ? "Start: " + d.config.started + " · " : "Depot wartet auf den ersten automatischen Lauf · ")
-    + "Startkapital: " + eur(start);
-
-  document.getElementById("totalValue").textContent = eur(value);
+  $("totalLabel").innerHTML = "Depotwert" + (d.__live ? ' · <span class="live">LIVE ' + d.__live.time + "</span>" : "");
+  $("totalValue").textContent = eur(value);
   const pnl = value - start;
-  const el = document.getElementById("totalPnl");
-  el.textContent = eur(pnl) + " (" + pct(pnl/start*100) + ")";
-  el.className = "delta " + cls(pnl);
+  $("totalPnl").textContent = eur(pnl) + " (" + pct(pnl/start*100) + ")";
+  $("totalPnl").className = "delta " + cls(pnl);
 
-  document.getElementById("benchLabel").textContent = d.config.benchmarkName + " (fiktiv gleich investiert)";
+  $("benchLabel").textContent = d.config.benchmarkName + " (fiktiv gleich investiert)";
   if (bench != null) {
-    document.getElementById("benchValue").textContent = eur(bench);
+    $("benchValue").textContent = eur(bench);
     const bp = bench - start;
-    const be = document.getElementById("benchPnl");
-    be.textContent = eur(bp) + " (" + pct(bp/start*100) + ")";
-    be.className = "delta " + cls(bp);
-    const a = document.getElementById("alpha");
-    a.textContent = eur(value - bench);
-    a.className = "value " + cls(value - bench);
+    $("benchPnl").textContent = eur(bp) + " (" + pct(bp/start*100) + ")";
+    $("benchPnl").className = "delta " + cls(bp);
+    $("alpha").textContent = eur(value - bench);
+    $("alpha").className = "value " + cls(value - bench);
   }
-  document.getElementById("cash").textContent = eur(d.cash);
-  document.getElementById("lastUpdate").textContent = d.lastUpdate ? "Stand: " + d.lastUpdate : "";
+  $("cash").textContent = eur(d.cash);
+}
 
-  // Chart
+function renderPositions(d) {
+  const el = $("positions");
+  if (!d.positions.length) {
+    el.innerHTML = '<div class="empty">Noch keine Positionen – Orders werden beim nächsten Lauf ausgeführt.</div>';
+    return;
+  }
+  el.innerHTML = "<table><tr><th>Titel</th><th class=num>Stück</th><th class=num>Kurs</th><th class=num>Wert</th><th class=num>±</th></tr>" +
+    d.positions.map(p=>{
+      const v = p.valueEur ?? p.investedEur;
+      const pl = v - p.investedEur, plp = pl / p.investedEur * 100;
+      return `<tr><td><b>${p.symbol}</b><br><span class=name>${p.name}</span></td>
+        <td class=num>${p.shares.toLocaleString("de-DE")}</td>
+        <td class=num>${p.lastPriceUsd ? p.lastPriceUsd.toLocaleString("de-DE",{maximumFractionDigits:2})+" $" : "–"}</td>
+        <td class=num>${eur(v)}</td>
+        <td class="num ${cls(pl)}">${eur(pl)}<br>${pct(plp)}</td></tr>`;
+    }).join("") + "</table>";
+}
+
+function renderStatic(d) {
+  $("meta").textContent =
+    (d.config.started ? "Start: " + d.config.started + " · " : "Depot wartet auf den ersten automatischen Lauf · ")
+    + "Startkapital: " + eur(d.config.startCapital);
+  $("lastUpdate").textContent = d.lastUpdate ? "Stand: " + d.lastUpdate : "";
+
   if (d.history.length) {
-    new Chart(document.getElementById("chart"), {
+    new Chart($("chart"), {
       type: "line",
       data: { labels: d.history.map(h=>h.date), datasets: [
         { label:"KI-Depot", data:d.history.map(h=>h.depot), borderColor:"#58a6ff", backgroundColor:"rgba(88,166,255,.12)", fill:true, tension:.25, pointRadius:2 },
@@ -106,26 +132,10 @@ fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
                  y:{ticks:{color:"#8b949e",callback:v=>v.toLocaleString("de-DE")+" €"},grid:{color:"#21262d"}} } }
     });
   } else {
-    document.getElementById("chartwrap").innerHTML = '<div class="empty">Noch keine Historie – der erste automatische Lauf legt sie an.</div>';
+    $("chartwrap").innerHTML = '<div class="empty">Noch keine Historie – der erste automatische Lauf legt sie an.</div>';
   }
 
-  // Positionen
-  const posEl = document.getElementById("positions");
-  if (d.positions.length) {
-    posEl.innerHTML = "<table><tr><th>Titel</th><th class=num>Stück</th><th class=num>Kurs</th><th class=num>Wert</th><th class=num>±</th></tr>" +
-      d.positions.map(p=>{
-        const v = p.valueEur ?? p.investedEur;
-        const pl = v - p.investedEur, plp = pl / p.investedEur * 100;
-        return `<tr><td><b>${p.symbol}</b><br><span class=name>${p.name}</span></td>
-          <td class=num>${p.shares.toLocaleString("de-DE")}</td>
-          <td class=num>${p.lastPriceUsd ? p.lastPriceUsd.toLocaleString("de-DE",{maximumFractionDigits:2})+" $" : "–"}</td>
-          <td class=num>${eur(v)}</td>
-          <td class="num ${cls(pl)}">${eur(pl)}<br>${pct(plp)}</td></tr>`;
-      }).join("") + "</table>";
-  } else posEl.innerHTML = '<div class="empty">Noch keine Positionen – Orders werden beim nächsten Lauf ausgeführt.</div>';
-
-  // Orders
-  const ordEl = document.getElementById("orders");
+  const ordEl = $("orders");
   if (d.orders.length) {
     ordEl.innerHTML = "<table><tr><th></th><th>Titel</th><th class=num>Betrag</th><th>Begründung</th></tr>" +
       d.orders.map(o=>`<tr><td><span class="badge ${o.type}">${o.type==="buy"?"KAUF":"VERKAUF"}</span></td>
@@ -134,8 +144,7 @@ fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
         <td class=reason>${o.reason??""}</td></tr>`).join("") + "</table>";
   } else ordEl.innerHTML = '<div class="empty">Keine offenen Orders.</div>';
 
-  // Trades
-  const trEl = document.getElementById("trades");
+  const trEl = $("trades");
   if (d.trades.length) {
     trEl.innerHTML = "<table><tr><th>Datum</th><th></th><th>Titel</th><th class=num>Betrag</th><th>KI-Begründung</th></tr>" +
       [...d.trades].reverse().map(t=>`<tr><td>${t.date}</td>
@@ -144,8 +153,38 @@ fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
         <td class=num>${eur(t.amountEur)}${t.realizedPnlEur!=null?`<br><span class="${cls(t.realizedPnlEur)}">${eur(t.realizedPnlEur)}</span>`:""}</td>
         <td class=reason>${t.reason}</td></tr>`).join("") + "</table>";
   } else trEl.innerHTML = '<div class="empty">Noch keine ausgeführten Trades.</div>';
+}
+
+async function applyLiveQuotes(d) {
+  const fx = d.fx && d.fx.EURUSD;
+  if (!d.positions.length || !fx || !FINNHUB_KEY) return;
+  const quotes = await Promise.all(d.positions.map(p =>
+    fetch(`https://finnhub.io/api/v1/quote?symbol=${encodeURIComponent(p.symbol)}&token=${FINNHUB_KEY}`)
+      .then(r => r.ok ? r.json() : null).catch(() => null)
+  ));
+  let ok = false;
+  quotes.forEach((q, i) => {
+    if (q && q.c > 0) {
+      const p = d.positions[i];
+      p.lastPriceUsd = q.c;
+      p.valueEur = Math.round(p.shares * q.c / fx * 100) / 100;
+      ok = true;
+    }
+  });
+  if (!ok) return; // Fallback: Tagesstand bleibt stehen
+  const total = Math.round((d.cash + d.positions.reduce((s,p) => s + (p.valueEur ?? p.investedEur), 0)) * 100) / 100;
+  d.__live = { total, time: new Date().toLocaleTimeString("de-DE", {hour:"2-digit", minute:"2-digit"}) };
+  renderCards(d);
+  renderPositions(d);
+}
+
+fetch("data.json?t=" + Date.now()).then(r=>r.json()).then(d=>{
+  renderStatic(d);
+  renderCards(d);
+  renderPositions(d);
+  applyLiveQuotes(d); // Live-Kurse nachladen (FX vom letzten Tageslauf)
 }).catch(e=>{
-  document.getElementById("meta").textContent = "Fehler beim Laden von data.json: " + e;
+  $("meta").textContent = "Fehler beim Laden von data.json: " + e;
 });
 </script>
 </body>
