@@ -17,7 +17,7 @@
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
       "lastPriceUsd": 366.46,
-      "valueEur": 1500.01
+      "valueEur": 1501.85
     },
     {
       "symbol": "TSM",
@@ -27,7 +27,7 @@
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
       "lastPriceUsd": 451.79,
-      "valueEur": 1499.99
+      "valueEur": 1501.83
     },
     {
       "symbol": "ASML",
@@ -37,7 +37,7 @@
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
       "lastPriceUsd": 1825.07,
-      "valueEur": 1400.02
+      "valueEur": 1401.74
     },
     {
       "symbol": "V",
@@ -47,7 +47,7 @@
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
       "lastPriceUsd": 357.25,
-      "valueEur": 1300.0
+      "valueEur": 1301.59
     },
     {
       "symbol": "NEE",
@@ -57,7 +57,7 @@
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
       "lastPriceUsd": 87.44,
-      "valueEur": 1200.0
+      "valueEur": 1201.47
     },
     {
       "symbol": "MU",
@@ -67,7 +67,7 @@
       "entryDate": "2026-07-06",
       "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
       "lastPriceUsd": 984.75,
-      "valueEur": 999.98
+      "valueEur": 1001.21
     },
     {
       "symbol": "VRT",
@@ -77,7 +77,7 @@
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
       "lastPriceUsd": 318.47,
-      "valueEur": 800.0
+      "valueEur": 800.98
     }
   ],
   "orders": [],
@@ -159,40 +159,46 @@
       "depot": 10000.0,
       "benchmark": 10000.0,
       "spx": 7537.43
+    },
+    {
+      "date": "2026-07-07",
+      "depot": 10010.67,
+      "benchmark": 10000.0,
+      "spx": 7537.43
     }
   ],
   "quotes": {
     "ASML": {
       "usd": 1825.07,
-      "eur": 1594.92
+      "eur": 1596.88
     },
     "GOOGL": {
       "usd": 366.46,
-      "eur": 320.25
+      "eur": 320.64
     },
     "MU": {
       "usd": 984.75,
-      "eur": 860.57
+      "eur": 861.62
     },
     "NEE": {
       "usd": 87.44,
-      "eur": 76.41
+      "eur": 76.51
     },
     "TSM": {
       "usd": 451.79,
-      "eur": 394.82
+      "eur": 395.3
     },
     "V": {
       "usd": 357.25,
-      "eur": 312.2
+      "eur": 312.58
     },
     "VRT": {
       "usd": 318.47,
-      "eur": 278.31
+      "eur": 278.65
     }
   },
   "fx": {
-    "EURUSD": 1.1443
+    "EURUSD": 1.1429
   },
-  "lastUpdate": "2026-07-06 20:47 UTC"
+  "lastUpdate": "2026-07-07 09:55 UTC"
 }
