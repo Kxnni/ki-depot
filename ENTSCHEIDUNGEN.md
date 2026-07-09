@@ -41,3 +41,5 @@
 **Fehler-Check:** Visa als "Stabilisator" hat bisher nicht stabilisiert (-2,7 % bei flachem Markt). Noch kein Handlungsbedarf, aber wenn V bei der nächsten Marktkorrektur erneut stärker fällt als der Index, ist die Stabilisator-These zu überdenken.
 
 **Quellen:** Yahoo Finance (Marktbericht 09.07.), CNBC/Fortune (SK-Hynix-Listing), TIKR/Bloomberg (Alphabet-Kapitalerhöhung), TradingKey (Micron), ad-hoc-news (ASML High-NA), ts2.tech (Vertiv, NEE/Dominion).
+
+**Nachtrag (Abend-Check, 09.07.):** Zweiter Lauf des Tages, keine neuen Erkenntnisse seit dem Eintrag oben. US-Schlusskurse bestätigt: S&P 500 +0,8 % auf 7.543, Nasdaq +1,3 % – Markt ignoriert die Iran-Eskalation und blickt auf das SK-Hynix-Debüt morgen. GOOGL schloss bei ~362 $ (leicht erholt), keine After-Hours-News zu den Positionen. Entscheidung von heute Nachmittag (keine Trades, GOOGL auf Watchlist, ASML/TSM-Earnings 15./16.07. abwarten) bleibt unverändert bestehen.
