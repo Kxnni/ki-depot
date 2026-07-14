@@ -87,3 +87,23 @@
 **Technischer Hinweis:** Der Lauf vom 10.07. wurde lokal geschrieben, aber wegen abgestürzter Git-Locks nie committet/gepusht – wird mit diesem Commit nachgeholt.
 
 **Quellen:** Yahoo Finance/Motley Fool (Marktbericht 13.07., Memory-Bärenmarkt), TradingKey/Seeking Alpha (MU vs. SKHY, Anthropic-Deal, 250-Mrd.-Investition), EBC/BigGo/24-7WallSt (ASML-Earnings-Preview, implied move), Barchart/Cryptonomist (GOOGL, UK-Regulierung, Earnings 22.07.).
+
+## 14.07.2026 – Keine Trades: CPI-Erleichterung, MU-Erholung, morgen ASML-Zahlen
+
+**Depotstand (per 14.07., 16:08 UTC):** 9.808,10 € (-1,92 %) vs. Benchmark 9.991,75 € (-0,08 %). Rückstand ~1,8 pp – leicht verbessert gegenüber gestern (2,2 pp).
+
+**Marktlage:** Erleichterungsrally nach kühlerem CPI: Juni-Inflation 3,5 % YoY statt erwarteter 3,8 % – S&P 500 +0,4 %, Nasdaq +1 %, Dow -0,1 %. Chipwerte erholen sich vom Memory-Ausverkauf. Gegenwind bleibt geopolitisch: Die USA setzen ab heute 16:00 ET die Blockade iranischer Schifffahrt im Golf wieder in Kraft, Öl weiter fest. Diese Woche laufen die Bank-Earnings an.
+
+**Positionen:**
+- **MU (+4–6 % heute, ~980 $):** Kräftige Erholung vom gestrigen Bärenmarkt-Tief (933 $). Citi bestätigt Buy (Kursziel 1.400 $, 90-Tage-Catalyst-Watch), KeyBanc erhöht auf 1.750 $. CEO Mehrotra: DRAM/NAND-Nachfrage übersteigt das Angebot, enge Versorgungslage „bis über Kalenderjahr 2027 hinaus". **Der gestern gesetzte Trigger (Schluss < 880 $ → halbieren) ist weit entfernt und bleibt scharf.** Die Halten-Entscheidung von gestern war richtig – ein Verkauf ins sektorweite Stimmungstief hätte den heutigen Rebound verpasst. Halten.
+- **ASML:** Earnings MORGEN (15.07.). Konsens: EPS 7,94 $, Umsatz ~10,3 Mrd. $ (EPS +75 % YoY), Optionsmarkt preist ±8,4 %. Entscheidend: H2-Guidance und Backlog (High-NA-Nachfrage vs. TSMC-Verschiebung auf 2029). Seit 09.07. gilt: keine Aktion vor den Zahlen. Morgen wird auf Basis der Zahlen über den gesamten Chip-Block (ASML, TSM, MU = ~38 %) entschieden.
+- **TSM:** Earnings übermorgen (16.07.). Halten, gleiche Logik.
+- **GOOGL (Watchlist):** Stabilisiert (~356 $), mit 4,3 Bio. $ inzwischen zweitwertvollstes Unternehmen der Welt. Kernfrage Kapitalerhöhung/FCF unverändert offen bis Earnings 22.07. Halten.
+- **NEE:** Dominion-Deal (0,8138 NEE-Aktien je D-Aktie, Closing H2 2027 erwartet) läuft planmäßig; Earnings-Preview-Fokus der Analysten liegt auf Data-Center-Backlog. Halten.
+- **V, VRT:** Keine relevanten News. Halten.
+
+**Entscheidung: Keine Trades** (fünfter Lauf in Folge). Begründung: (1) ASML meldet in <24 h mit ±8 % implied move, TSM in 48 h – jeder Trade davor wäre eine Wette, keine Analyse. (2) MU-Rebound bestätigt die gestrige Überprüfung, Trigger 880 $ bleibt bestehen. (3) Keine These gebrochen, 13,3 % Cash als Puffer für die Zeit nach den Earnings. Konkreter Plan für morgen: Nach den ASML-Zahlen prüfen, ob (a) bei starker H2-Guidance der Chip-Block bestätigt bleibt oder (b) bei Enttäuschung die am 13.07. notierte Diversifikation (Energie/Defensive) umgesetzt wird.
+
+**Fehler-Check:** Der gestrige Eintrag hielt dem Druck stand – nicht ins Tief verkauft, MU heute +5 %. Aber ehrlich: Das ist ein Tag, kein Beweis. Die Klumpen-Kritik vom 13.07. (46 % Halbleiter-Umfeld) bleibt gültig und wird nach ASML/TSM-Earnings adressiert.
+
+**Quellen:** Yahoo Finance/TheStreet/24-7WallSt (Marktbericht & CPI 14.07.), TradingKey/Benzinga/Motley Fool (MU-Rebound, Citi/KeyBanc), TipRanks/EBC/TradingKey (ASML-Preview), Seeking Alpha/SEC (NEE-Dominion), Cryptonomist/Bloomberg (GOOGL).
