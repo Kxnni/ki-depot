@@ -107,3 +107,29 @@
 **Fehler-Check:** Der gestrige Eintrag hielt dem Druck stand – nicht ins Tief verkauft, MU heute +5 %. Aber ehrlich: Das ist ein Tag, kein Beweis. Die Klumpen-Kritik vom 13.07. (46 % Halbleiter-Umfeld) bleibt gültig und wird nach ASML/TSM-Earnings adressiert.
 
 **Quellen:** Yahoo Finance/TheStreet/24-7WallSt (Marktbericht & CPI 14.07.), TradingKey/Benzinga/Motley Fool (MU-Rebound, Citi/KeyBanc), TipRanks/EBC/TradingKey (ASML-Preview), Seeking Alpha/SEC (NEE-Dominion), Cryptonomist/Bloomberg (GOOGL).
+
+## 15.07.2026 – Keine Trades: ASML liefert, MU-Trigger hält (knapp), morgen TSM
+
+**Depotstand (per 15.07., 16:14 UTC):** 9.688,87 € (-3,11 %) vs. Benchmark 10.001,06 € (+0,01 %). Rückstand ~3,1 pp. Achtung: Der Snapshot erfasste MU intraday bei 888 $ nahe Tagestief; Schlusskurs war 913,27 $ – zum Handelsschluss stand das Depot also etwas besser als die Historie zeigt.
+
+**Marktlage:** S&P 500 +0,38 % auf 7.572 (neues Terrain über unserem Benchmark-Start), Nasdaq +0,62 %. PPI kühler als erwartet – nach dem CPI vom Vortag die zweite Inflationsentspannung in Folge. Auffällig: Rotation aus Halbleitern in Big Tech (Apple +4 % auf Allzeithoch, Amazon/Microsoft/GOOGL ~+3 %), während Memory-Werte erneut abverkauft wurden.
+
+**Das ASML-Ereignis (Kern des Tages):**
+- Q2 über eigener Guidance: 9,3 Mrd. € Umsatz, 54 % Bruttomarge, 2,9 Mrd. € Nettogewinn; Installed-Base-Geschäft 2,8 Mrd. € (~300 Mio. über Erwartung).
+- Jahresguidance zum ZWEITEN Mal dieses Jahr erhöht: 43–45 Mrd. € Umsatz, Bruttomarge 54–56 %; Q3-Guidance 11–12 Mrd. €.
+- Kursreaktion: +2,9 % regulär auf ~1.776 $, nachbörslich weitere +3,5 % auf ~1.838 $ – über unserem Einstand (1.825 $).
+- **Bewertung:** Die am 13.07. formulierte Sorge (Enttäuschung → Diversifikation) ist für ASML vom Tisch. Logic- UND Memory-Kunden bestellen. Die Equipment-These ist bestätigt. Halten.
+
+**MU (-7 % auf 913,27 $):** Auslöser diesmal nicht Zyklus, sondern Struktur: Berichte, dass Apple CXMT-Speicherchips für China-Geräte testet – Symbol für erstarkende chinesische DRAM-Konkurrenz. Zog Intel, AMD, Marvell mit runter. Einordnung: CXMT bedroht primär Commodity-DRAM im China-Markt, nicht Microns HBM-Führung (der Kern unserer These); Citi (KZ 1.400 $) und KeyBanc (1.750 $, erst gestern erhöht) bleiben bullish, Versorgungslage laut CEO eng bis 2027+. **Trigger Schluss < 880 $ nicht ausgelöst (913 $), bleibt scharf.** Aber ehrlich: zweiter ~8-%-Einbruch binnen einer Woche, und die China-Story ist ein echtes neues Risiko, kein Sentiment-Rauschen. MU steht auf Bewährung – Entscheidung über den gesamten Chip-Block fällt morgen nach TSM.
+
+**TSM:** Earnings MORGEN 16.07. (vor US-Handel). Guidance 39–40,2 Mrd. $ Umsatz, Konsens-EPS ~3,80 $, Juni-Umsatz war +68 % YoY. Fokus: CoWoS-Kapazität, 2-nm-Preise, Capex. ASMLs starke Zahlen sind ein gutes Vorzeichen. Kein Trade vor den Zahlen. Halten.
+
+**Übrige Positionen:** GOOGL profitiert von der Big-Tech-Rotation (~+3 %, Earnings 22.07.) – Halten. NEE, V: keine relevanten News – Halten. VRT: keine Firmennews, dürfte vom Semi-Selloff mitgezogen worden sein – Halten.
+
+**Entscheidung: Keine Trades** (sechster Lauf in Folge). Begründung: (1) ASML hat die Halten-Disziplin der letzten Woche validiert – vor den Zahlen zu verkaufen wäre teuer gewesen. (2) TSM meldet in <24 h; die am 13.07. angekündigte Grundsatzentscheidung über den Chip-Block (ASML/TSM/MU ~37 %) fällt morgen auf Basis beider Earnings. (3) MU-Trigger ist definiert und nicht ausgelöst – ihn heute zu überstimmen wäre genau das Regel-Aufweichen, das wir vermeiden wollen. 13,4 % Cash bleiben als Puffer.
+
+**Plan für morgen:** (a) TSM stark + MU stabilisiert → Chip-Block bestätigt, ggf. Cash-Einsatz prüfen. (b) TSM stark, aber MU-China-Story eskaliert → MU-Halbierung zugunsten Diversifikation (Energie/Defensive) auch OHNE Trigger-Auslösung erwägen und sauber begründen. (c) TSM enttäuscht → Chip-Block-Reduktion wie am 13.07. skizziert.
+
+**Fehler-Check:** Die Klumpen-Kritik vom 13.07. bleibt der wunde Punkt: ~46 % Halbleiter-Umfeld erklärt, warum das Depot bei einem Memory-Schock 3 pp hinter dem Index liegt, obwohl 5 von 7 Thesen intakt sind. ASML-Bestätigung ist erfreulich, heilt aber die Konzentration nicht.
+
+**Quellen:** StockTitan/Investing.com/Seeking Alpha (ASML Q2, Guidance-Erhöhung), CNBC/Yahoo Finance/24-7WallSt (Marktbericht, PPI, Rotation), 24-7WallSt/FXLeaders/Cryptonomist/TradingKey (MU/CXMT, Schlusskurs), TipRanks/TradingKey/TechTimes (TSM-Preview).
