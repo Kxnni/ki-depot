@@ -80,7 +80,16 @@
       "valueEur": 732.52
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "shares": 0.581,
+      "created": "2026-07-16",
+      "reason": "Halbierung gemäß Plan (b) vom 15.07.: China-Risiko eskaliert strukturell (CXMT-IPO über 8,5 Mrd. $, USA erwägen neue HBM-Exportbeschränkungen). Kurs intraday unter dem 880-$-Trigger. HBM-These für die verbleibende Hälfte intakt."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",

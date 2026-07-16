@@ -133,3 +133,28 @@
 **Fehler-Check:** Die Klumpen-Kritik vom 13.07. bleibt der wunde Punkt: ~46 % Halbleiter-Umfeld erklärt, warum das Depot bei einem Memory-Schock 3 pp hinter dem Index liegt, obwohl 5 von 7 Thesen intakt sind. ASML-Bestätigung ist erfreulich, heilt aber die Konzentration nicht.
 
 **Quellen:** StockTitan/Investing.com/Seeking Alpha (ASML Q2, Guidance-Erhöhung), CNBC/Yahoo Finance/24-7WallSt (Marktbericht, PPI, Rotation), 24-7WallSt/FXLeaders/Cryptonomist/TradingKey (MU/CXMT, Schlusskurs), TipRanks/TradingKey/TechTimes (TSM-Preview).
+
+## 16.07.2026 – TRADE: MU-Halbierung (Plan b ausgelöst), TSM-These bestätigt trotz Kursrückgang
+
+**Depotstand (per 15.07., letzter Kurslauf):** 9.688,87 € (-3,11 %) vs. Benchmark 10.001,06 € (+0,01 %). Hinweis: Der heutige 17:00-Lauf war zum Zeitpunkt dieser Bewertung (17:25 MESZ) noch nicht in data.json sichtbar.
+
+**Marktlage:** S&P 500 leicht schwächer (~-0,2 bis -0,4 %), Nasdaq -0,8 %, Dow +0,1 %. Erneuter Chip-Selloff – Zweifel, ob die massiven AI-Investitionen die Bewertungen rechtfertigen. US-Iran-Eskalation treibt Öl und Anleiherenditen. Deutliche Rotation in Defensives: UnitedHealth +7 % nach starken Zahlen, Healthcare-Sektor zieht Kapital aus Tech an.
+
+**Das TSM-Ereignis (Kern des Tages):**
+- Q2 klar über Konsens: 40,2 Mrd. $ Umsatz (+36 % YoY, Erwartung ~39,3 Mrd.), EPS 4,31 $ (Konsens ~3,94 $), Bruttomarge 67,7 %, Nettomarge 55,6 %.
+- ABER: Capex-Erhöhung auf 60–64 Mrd. $ (+15 %), FCF -17,5 % QoQ, Hinweis auf temporär niedrigere Margen durch Auslands-Fabs. Kursreaktion -4 %, sechster Verlusttag in Folge.
+- **Bewertung:** Die Nachfrage-These (Quasi-Monopol, AI-Engpass) ist durch die Zahlen BESTÄTIGT – der Selloff betrifft Kapitaldisziplin/Margen, nicht die Nachfrage. Zusammen mit ASMLs Guidance-Erhöhung gestern: Scenario (a) für TSM/ASML – Chip-Kern-Thesen intakt. Halten, kein Nachkauf im fallenden Sentiment.
+
+**MU – Entscheidung zur Halbierung:**
+- Die China-Story ist binnen 24 h weiter eskaliert: CXMT kündigt IPO über 8,5 Mrd. $ an (Kriegskasse für Kapazitätsausbau), zusätzlich erwägen die USA neue HBM-Exportbeschränkungen – ein zweites, regulatorisches Risiko direkt auf Microns China-Geschäft.
+- Kurs heute ~876 $ (-4,6 %), intraday UNTER dem 880-$-Trigger; dritter harter Abverkauf in einer Woche (Volumen 25 % über Schnitt).
+- Damit ist exakt Plan (b) vom 15.07. eingetreten: TSM fundamental stark, aber MU-China-Story eskaliert → Halbierung auch ohne bestätigten Schlusskurs-Trigger. **Order: Verkauf 0,581 Stück (Hälfte), Ausführung beim nächsten Kurslauf.**
+- Warum nicht Komplettverkauf: HBM-Führung und enge Versorgung bis 2027+ (CEO), Citi KZ 1.400 $ / KeyBanc 1.750 $ bestehen; CXMT bedroht primär Commodity-DRAM. Die halbe Position trägt das verbleibende Thesen-Risiko, die Halbierung begrenzt das Struktur-Risiko.
+
+**Übrige Positionen:** ASML: nachbörsliche Stärke von gestern bestätigt die Equipment-These – Halten. GOOGL: keine neuen News, Earnings 22.07. – Halten. NEE, V: keine relevanten News – Halten. VRT: -2,8 % im Semi-Sog, Earnings 29.07. – Halten.
+
+**Cash-Verwendung:** Die Halbierung hebt Cash auf ~18 %. Die Diversifikation (Healthcare/Defensive, Kandidat: J&J – erhöhter 2026-Ausblick, 2,2 % Dividende, Rotations-Rückenwind) wird NICHT heute umgesetzt: JNJ meldet kommende Woche Earnings, und Kaufen unmittelbar vor Zahlen widerspricht unserer eigenen Disziplin der letzten Woche. Entscheidung nach den JNJ-Zahlen bzw. im Lauf nach Ausführung des MU-Verkaufs.
+
+**Fehler-Check:** Der 880-$-Trigger war richtig gesetzt, aber die Lehre der Woche ist unbequem: MU wurde am 06.07. bei 985 $ gekauft, „bewusst kleinere Position" – trotzdem kostet der ~11-%-Drawdown das Depot ~1 pp Performance. Die Klumpen-Kritik vom 13.07. wird mit diesem Trade erstmals adressiert (Halbleiter-Umfeld sinkt von ~46 % auf ~41 %). Offen bleibt: Falls der heutige Schluss ÜBER 880 $ liegt, war die Order streng genommen vor Trigger-Bestätigung – das ist eine bewusste Plan-(b)-Entscheidung wegen der Eskalation (IPO + Exportbeschränkungen), keine Panik, und sie ist hiermit dokumentiert.
+
+**Quellen:** TechPowerUp/GuruFocus/WTOP (TSM Q2), Indmoney/Stocktwits/Schaeffers (TSM-Kursreaktion, Capex), TradingKey (MU -4,6 %, CXMT-IPO 8,5 Mrd. $, HBM-Exportbeschränkungen), Yahoo Finance/TheStreet (Marktbericht 16.07., UNH, Rotation), CNBC/QuiverQuant (JNJ-Ausblick), StockTitan (VRT Earnings 29.07.).
