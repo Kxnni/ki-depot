@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 1300.0,
+  "cash": 1731.69,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 372.68,
-      "valueEur": 1526.14
+      "lastPriceUsd": 370.079,
+      "valueEur": 1514.69
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 413.1,
-      "valueEur": 1372.14
+      "lastPriceUsd": 407.973,
+      "valueEur": 1354.4
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1738.31,
-      "valueEur": 1334.05
+      "lastPriceUsd": 1808.15,
+      "valueEur": 1386.92
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 358.1,
-      "valueEur": 1303.66
+      "lastPriceUsd": 361.545,
+      "valueEur": 1315.51
     },
     {
       "symbol": "NEE",
@@ -56,18 +56,18 @@
       "investedEur": 1200,
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 88.73,
-      "valueEur": 1218.23
+      "lastPriceUsd": 89.2,
+      "valueEur": 1224.04
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "shares": 1.162,
-      "investedEur": 1000,
+      "shares": 0.581,
+      "investedEur": 500.0,
       "entryDate": "2026-07-06",
       "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
-      "lastPriceUsd": 888.0,
-      "valueEur": 902.13
+      "lastPriceUsd": 850.3,
+      "valueEur": 431.69
     },
     {
       "symbol": "VRT",
@@ -76,20 +76,11 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 291.48,
-      "valueEur": 732.52
+      "lastPriceUsd": 291.5,
+      "valueEur": 732.19
     }
   ],
-  "orders": [
-    {
-      "type": "sell",
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "shares": 0.581,
-      "created": "2026-07-16",
-      "reason": "Halbierung gemäß Plan (b) vom 15.07.: China-Risiko eskaliert strukturell (CXMT-IPO über 8,5 Mrd. $, USA erwägen neue HBM-Exportbeschränkungen). Kurs intraday unter dem 880-$-Trigger. HBM-These für die verbleibende Hälfte intakt."
-    }
-  ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -160,6 +151,17 @@
       "priceUsd": 318.47,
       "amountEur": 800,
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung."
+    },
+    {
+      "date": "2026-07-16",
+      "type": "sell",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "shares": 0.581,
+      "priceUsd": 850.3,
+      "amountEur": 431.69,
+      "realizedPnlEur": -68.31,
+      "reason": "Halbierung gemäß Plan (b) vom 15.07.: China-Risiko eskaliert strukturell (CXMT-IPO über 8,5 Mrd. $, USA erwägen neue HBM-Exportbeschränkungen). Kurs intraday unter dem 880-$-Trigger. HBM-These für die verbleibende Hälfte intakt."
     }
   ],
   "history": [
@@ -210,40 +212,46 @@
       "depot": 9688.87,
       "benchmark": 10001.06,
       "spx": 7538.23
+    },
+    {
+      "date": "2026-07-16",
+      "depot": 9691.13,
+      "benchmark": 10019.14,
+      "spx": 7551.86
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1738.31,
-      "eur": 1519.77
+      "usd": 1808.15,
+      "eur": 1580.0
     },
     "GOOGL": {
-      "usd": 372.68,
-      "eur": 325.83
+      "usd": 370.079,
+      "eur": 323.38
     },
     "MU": {
-      "usd": 888.0,
-      "eur": 776.36
+      "usd": 850.3,
+      "eur": 743.01
     },
     "NEE": {
-      "usd": 88.73,
-      "eur": 77.57
+      "usd": 89.2,
+      "eur": 77.94
     },
     "TSM": {
-      "usd": 413.1,
-      "eur": 361.16
+      "usd": 407.973,
+      "eur": 356.5
     },
     "V": {
-      "usd": 358.1,
-      "eur": 313.08
+      "usd": 361.545,
+      "eur": 315.93
     },
     "VRT": {
-      "usd": 291.48,
-      "eur": 254.83
+      "usd": 291.5,
+      "eur": 254.72
     }
   },
   "fx": {
-    "EURUSD": 1.1438
+    "EURUSD": 1.1444
   },
-  "lastUpdate": "2026-07-15 16:14 UTC"
+  "lastUpdate": "2026-07-16 16:10 UTC"
 }
