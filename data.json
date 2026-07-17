@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 370.079,
-      "valueEur": 1514.69
+      "lastPriceUsd": 346.365,
+      "valueEur": 1418.13
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 407.973,
-      "valueEur": 1354.4
+      "lastPriceUsd": 402.78,
+      "valueEur": 1337.62
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1808.15,
-      "valueEur": 1386.92
+      "lastPriceUsd": 1778.61,
+      "valueEur": 1364.74
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 361.545,
-      "valueEur": 1315.51
+      "lastPriceUsd": 357.645,
+      "valueEur": 1301.78
     },
     {
       "symbol": "NEE",
@@ -56,8 +56,8 @@
       "investedEur": 1200,
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 89.2,
-      "valueEur": 1224.04
+      "lastPriceUsd": 89.58,
+      "valueEur": 1229.69
     },
     {
       "symbol": "MU",
@@ -66,8 +66,8 @@
       "investedEur": 500.0,
       "entryDate": "2026-07-06",
       "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
-      "lastPriceUsd": 850.3,
-      "valueEur": 431.69
+      "lastPriceUsd": 884.0,
+      "valueEur": 448.95
     },
     {
       "symbol": "VRT",
@@ -76,8 +76,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 291.5,
-      "valueEur": 732.19
+      "lastPriceUsd": 294.235,
+      "valueEur": 739.32
     }
   ],
   "orders": [],
@@ -218,40 +218,46 @@
       "depot": 9691.13,
       "benchmark": 10019.14,
       "spx": 7551.86
+    },
+    {
+      "date": "2026-07-17",
+      "depot": 9571.92,
+      "benchmark": 9919.24,
+      "spx": 7476.56
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1808.15,
-      "eur": 1580.0
+      "usd": 1778.61,
+      "eur": 1554.73
     },
     "GOOGL": {
-      "usd": 370.079,
-      "eur": 323.38
+      "usd": 346.365,
+      "eur": 302.77
     },
     "MU": {
-      "usd": 850.3,
-      "eur": 743.01
+      "usd": 884.0,
+      "eur": 772.73
     },
     "NEE": {
-      "usd": 89.2,
-      "eur": 77.94
+      "usd": 89.58,
+      "eur": 78.3
     },
     "TSM": {
-      "usd": 407.973,
-      "eur": 356.5
+      "usd": 402.78,
+      "eur": 352.08
     },
     "V": {
-      "usd": 361.545,
-      "eur": 315.93
+      "usd": 357.645,
+      "eur": 312.63
     },
     "VRT": {
-      "usd": 291.5,
-      "eur": 254.72
+      "usd": 294.235,
+      "eur": 257.2
     }
   },
   "fx": {
-    "EURUSD": 1.1444
+    "EURUSD": 1.144
   },
-  "lastUpdate": "2026-07-16 16:10 UTC"
+  "lastUpdate": "2026-07-17 16:08 UTC"
 }
