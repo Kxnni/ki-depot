@@ -80,7 +80,16 @@
       "valueEur": 739.32
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "buy",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "amountEur": 1000,
+      "created": "2026-07-18",
+      "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
