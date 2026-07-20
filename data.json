@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 1731.69,
+  "cash": 731.69,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 346.365,
-      "valueEur": 1418.13
+      "lastPriceUsd": 355.64,
+      "valueEur": 1458.78
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 402.78,
-      "valueEur": 1337.62
+      "lastPriceUsd": 406.22,
+      "valueEur": 1351.53
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1778.61,
-      "valueEur": 1364.74
+      "lastPriceUsd": 1746.07,
+      "valueEur": 1342.24
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 357.645,
-      "valueEur": 1301.78
+      "lastPriceUsd": 362.21,
+      "valueEur": 1320.82
     },
     {
       "symbol": "NEE",
@@ -56,8 +56,8 @@
       "investedEur": 1200,
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 89.58,
-      "valueEur": 1229.69
+      "lastPriceUsd": 88.16,
+      "valueEur": 1212.42
     },
     {
       "symbol": "MU",
@@ -66,8 +66,8 @@
       "investedEur": 500.0,
       "entryDate": "2026-07-06",
       "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
-      "lastPriceUsd": 884.0,
-      "valueEur": 448.95
+      "lastPriceUsd": 900.215,
+      "valueEur": 458.03
     },
     {
       "symbol": "VRT",
@@ -76,20 +76,21 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 294.235,
-      "valueEur": 739.32
-    }
-  ],
-  "orders": [
+      "lastPriceUsd": 295.54,
+      "valueEur": 743.96
+    },
     {
-      "type": "buy",
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "amountEur": 1000,
-      "created": "2026-07-18",
-      "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft."
+      "shares": 4.5404,
+      "investedEur": 1000,
+      "entryDate": "2026-07-20",
+      "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
+      "lastPriceUsd": 251.5,
+      "valueEur": 1000.01
     }
   ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -171,6 +172,16 @@
       "amountEur": 431.69,
       "realizedPnlEur": -68.31,
       "reason": "Halbierung gemäß Plan (b) vom 15.07.: China-Risiko eskaliert strukturell (CXMT-IPO über 8,5 Mrd. $, USA erwägen neue HBM-Exportbeschränkungen). Kurs intraday unter dem 880-$-Trigger. HBM-These für die verbleibende Hälfte intakt."
+    },
+    {
+      "date": "2026-07-20",
+      "type": "buy",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "shares": 4.5404,
+      "priceUsd": 251.5,
+      "amountEur": 1000,
+      "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft."
     }
   ],
   "history": [
@@ -233,40 +244,50 @@
       "depot": 9571.92,
       "benchmark": 9919.24,
       "spx": 7476.56
+    },
+    {
+      "date": "2026-07-20",
+      "depot": 9619.48,
+      "benchmark": 9941.35,
+      "spx": 7493.22
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1778.61,
-      "eur": 1554.73
+      "usd": 1746.07,
+      "eur": 1529.09
     },
     "GOOGL": {
-      "usd": 346.365,
-      "eur": 302.77
+      "usd": 355.64,
+      "eur": 311.45
+    },
+    "JNJ": {
+      "usd": 251.5,
+      "eur": 220.25
     },
     "MU": {
-      "usd": 884.0,
-      "eur": 772.73
+      "usd": 900.215,
+      "eur": 788.35
     },
     "NEE": {
-      "usd": 89.58,
-      "eur": 78.3
+      "usd": 88.16,
+      "eur": 77.2
     },
     "TSM": {
-      "usd": 402.78,
-      "eur": 352.08
+      "usd": 406.22,
+      "eur": 355.74
     },
     "V": {
-      "usd": 357.645,
-      "eur": 312.63
+      "usd": 362.21,
+      "eur": 317.2
     },
     "VRT": {
-      "usd": 294.235,
-      "eur": 257.2
+      "usd": 295.54,
+      "eur": 258.81
     }
   },
   "fx": {
-    "EURUSD": 1.144
+    "EURUSD": 1.1419
   },
-  "lastUpdate": "2026-07-17 16:08 UTC"
+  "lastUpdate": "2026-07-20 16:20 UTC"
 }
