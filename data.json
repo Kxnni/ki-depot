@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 334.41,
-      "valueEur": 1376.4
+      "lastPriceUsd": 334.42,
+      "valueEur": 1358.42
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 374.255,
-      "valueEur": 1249.45
+      "lastPriceUsd": 403.82,
+      "valueEur": 1330.49
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1531.975,
-      "valueEur": 1181.69
+      "lastPriceUsd": 1658.81,
+      "valueEur": 1262.77
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 372.09,
-      "valueEur": 1361.5
+      "lastPriceUsd": 363.19,
+      "valueEur": 1311.53
     },
     {
       "symbol": "NEE",
@@ -56,8 +56,8 @@
       "investedEur": 1200,
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 89.18,
-      "valueEur": 1230.65
+      "lastPriceUsd": 87.22,
+      "valueEur": 1187.84
     },
     {
       "symbol": "MU",
@@ -66,8 +66,8 @@
       "investedEur": 500.0,
       "entryDate": "2026-07-06",
       "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
-      "lastPriceUsd": 760.365,
-      "valueEur": 388.2
+      "lastPriceUsd": 862.84,
+      "valueEur": 434.75
     },
     {
       "symbol": "VRT",
@@ -76,8 +76,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 224.645,
-      "valueEur": 567.44
+      "lastPriceUsd": 227.83,
+      "valueEur": 567.94
     },
     {
       "symbol": "JNJ",
@@ -86,8 +86,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 267.95,
-      "valueEur": 1069.07
+      "lastPriceUsd": 256.178,
+      "valueEur": 1008.72
     }
   ],
   "orders": [],
@@ -292,44 +292,50 @@
       "depot": 9156.09,
       "benchmark": 9740.91,
       "spx": 7342.14
+    },
+    {
+      "date": "2026-07-30",
+      "depot": 9194.15,
+      "benchmark": 9838.02,
+      "spx": 7415.34
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1531.975,
-      "eur": 1346.2
+      "usd": 1658.81,
+      "eur": 1438.57
     },
     "GOOGL": {
-      "usd": 334.41,
-      "eur": 293.86
+      "usd": 334.42,
+      "eur": 290.02
     },
     "JNJ": {
-      "usd": 267.95,
-      "eur": 235.46
+      "usd": 256.178,
+      "eur": 222.16
     },
     "MU": {
-      "usd": 760.365,
-      "eur": 668.16
+      "usd": 862.84,
+      "eur": 748.28
     },
     "NEE": {
-      "usd": 89.18,
-      "eur": 78.37
+      "usd": 87.22,
+      "eur": 75.64
     },
     "TSM": {
-      "usd": 374.255,
-      "eur": 328.87
+      "usd": 403.82,
+      "eur": 350.2
     },
     "V": {
-      "usd": 372.09,
-      "eur": 326.97
+      "usd": 363.19,
+      "eur": 314.97
     },
     "VRT": {
-      "usd": 224.645,
-      "eur": 197.4
+      "usd": 227.83,
+      "eur": 197.58
     }
   },
   "fx": {
-    "EURUSD": 1.138
+    "EURUSD": 1.1531
   },
-  "lastUpdate": "2026-07-29 16:16 UTC"
+  "lastUpdate": "2026-07-30 16:20 UTC"
 }
