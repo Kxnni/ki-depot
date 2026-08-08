@@ -90,7 +90,23 @@
       "valueEur": 1005.29
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "all": true,
+      "reason": "Aufloesung der Reststueck-Position (4,6 %). Die HBM-Preis-These ist erstmals konkret angegriffen (Goldman: HBM-Preise koennten 2026 erstmals fallen; Memory-Werte im Baerenmarkt, Kaeufer-Pushback bei Kontrakten), das China-/CXMT-Risiko vom 16.07. besteht fort. Portfoliologik: MU ist eine redundante, deutlich volatilere Auspraegung derselben Halbleiter-Wette, die wir mit TSM und ASML bereits doppelt halten - bei 4,6 % Gewicht liefert sie keinen Beitrag mehr, nur noch Schwankung (Intraday-Range >8 %). Erloes finanziert den Aufbau der fehlenden Finanz-Position."
+    },
+    {
+      "type": "buy",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "amountEur": 600,
+      "created": "2026-08-08",
+      "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
