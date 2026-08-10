@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 731.69,
+  "cash": 573.28,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 356.975,
-      "valueEur": 1445.77
+      "lastPriceUsd": 353.89,
+      "valueEur": 1435.01
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 417.12,
-      "valueEur": 1370.27
+      "lastPriceUsd": 424.43,
+      "valueEur": 1395.98
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1725.525,
-      "valueEur": 1309.7
+      "lastPriceUsd": 1754.915,
+      "valueEur": 1333.62
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 364.185,
-      "valueEur": 1311.25
+      "lastPriceUsd": 360.805,
+      "valueEur": 1300.66
     },
     {
       "symbol": "NEE",
@@ -56,18 +56,8 @@
       "investedEur": 1200,
       "entryDate": "2026-07-06",
       "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 84.89,
-      "valueEur": 1152.71
-    },
-    {
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "shares": 0.581,
-      "investedEur": 500.0,
-      "entryDate": "2026-07-06",
-      "reason": "HBM-Speicher ist ein kritischer AI-Engpass. Bewusst kleinere Position: Kurs bereits stark gelaufen, Speichermarkt ist zyklisch.",
-      "lastPriceUsd": 872.684,
-      "valueEur": 438.42
+      "lastPriceUsd": 84.18,
+      "valueEur": 1144.46
     },
     {
       "symbol": "VRT",
@@ -76,8 +66,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 277.91,
-      "valueEur": 690.75
+      "lastPriceUsd": 272.8,
+      "valueEur": 678.87
     },
     {
       "symbol": "JNJ",
@@ -86,27 +76,21 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 256.06,
-      "valueEur": 1005.29
-    }
-  ],
-  "orders": [
-    {
-      "type": "sell",
-      "symbol": "MU",
-      "name": "Micron Technology",
-      "all": true,
-      "reason": "Aufloesung der Reststueck-Position (4,6 %). Die HBM-Preis-These ist erstmals konkret angegriffen (Goldman: HBM-Preise koennten 2026 erstmals fallen; Memory-Werte im Baerenmarkt, Kaeufer-Pushback bei Kontrakten), das China-/CXMT-Risiko vom 16.07. besteht fort. Portfoliologik: MU ist eine redundante, deutlich volatilere Auspraegung derselben Halbleiter-Wette, die wir mit TSM und ASML bereits doppelt halten - bei 4,6 % Gewicht liefert sie keinen Beitrag mehr, nur noch Schwankung (Intraday-Range >8 %). Erloes finanziert den Aufbau der fehlenden Finanz-Position."
+      "lastPriceUsd": 260.055,
+      "valueEur": 1022.21
     },
     {
-      "type": "buy",
       "symbol": "JPM",
       "name": "JPMorgan Chase",
-      "amountEur": 600,
-      "created": "2026-08-08",
-      "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %."
+      "shares": 1.9325,
+      "investedEur": 600,
+      "entryDate": "2026-08-10",
+      "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
+      "lastPriceUsd": 358.635,
+      "valueEur": 600.0
     }
   ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -198,6 +182,27 @@
       "priceUsd": 251.5,
       "amountEur": 1000,
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "sell",
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "shares": 0.581,
+      "priceUsd": 877.94,
+      "amountEur": 441.59,
+      "realizedPnlEur": -58.41,
+      "reason": "Aufloesung der Reststueck-Position (4,6 %). Die HBM-Preis-These ist erstmals konkret angegriffen (Goldman: HBM-Preise koennten 2026 erstmals fallen; Memory-Werte im Baerenmarkt, Kaeufer-Pushback bei Kontrakten), das China-/CXMT-Risiko vom 16.07. besteht fort. Portfoliologik: MU ist eine redundante, deutlich volatilere Auspraegung derselben Halbleiter-Wette, die wir mit TSM und ASML bereits doppelt halten - bei 4,6 % Gewicht liefert sie keinen Beitrag mehr, nur noch Schwankung (Intraday-Range >8 %). Erloes finanziert den Aufbau der fehlenden Finanz-Position."
+    },
+    {
+      "date": "2026-08-10",
+      "type": "buy",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "shares": 1.9325,
+      "priceUsd": 358.635,
+      "amountEur": 600,
+      "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %."
     }
   ],
   "history": [
@@ -344,44 +349,54 @@
       "depot": 9455.85,
       "benchmark": 10290.22,
       "spx": 7756.18
+    },
+    {
+      "date": "2026-08-10",
+      "depot": 9484.09,
+      "benchmark": 10299.81,
+      "spx": 7763.41
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1725.525,
-      "eur": 1492.02
+      "usd": 1754.915,
+      "eur": 1519.28
     },
     "GOOGL": {
-      "usd": 356.975,
-      "eur": 308.67
+      "usd": 353.89,
+      "eur": 306.37
     },
     "JNJ": {
-      "usd": 256.06,
-      "eur": 221.41
+      "usd": 260.055,
+      "eur": 225.14
+    },
+    "JPM": {
+      "usd": 358.635,
+      "eur": 310.48
     },
     "MU": {
-      "usd": 872.684,
-      "eur": 754.59
+      "usd": 877.94,
+      "eur": 760.06
     },
     "NEE": {
-      "usd": 84.89,
-      "eur": 73.4
+      "usd": 84.18,
+      "eur": 72.88
     },
     "TSM": {
-      "usd": 417.12,
-      "eur": 360.67
+      "usd": 424.43,
+      "eur": 367.44
     },
     "V": {
-      "usd": 364.185,
-      "eur": 314.9
+      "usd": 360.805,
+      "eur": 312.36
     },
     "VRT": {
-      "usd": 277.91,
-      "eur": 240.3
+      "usd": 272.8,
+      "eur": 236.17
     }
   },
   "fx": {
-    "EURUSD": 1.1565
+    "EURUSD": 1.1551
   },
-  "lastUpdate": "2026-08-07 15:46 UTC"
+  "lastUpdate": "2026-08-10 15:52 UTC"
 }
