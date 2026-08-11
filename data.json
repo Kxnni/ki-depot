@@ -90,7 +90,24 @@
       "valueEur": 603.99
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "all": true,
+      "created": "2026-08-11",
+      "reason": "Ende der am 08.08. gesetzten Beobachtungsfrist mit negativem Befund. Die Kaufthese war ein defensiver, sauberer AI-Strom-Engpasswert. Das Wertpapier ist inzwischen etwas anderes: Der 66,8-Mrd.-$-All-Stock-Zusammenschluss mit Dominion schliesst laut Unternehmensangabe erst in der zweiten Jahreshaelfte 2027, verwaessert Altaktionaere auf 74,5 % und haengt an HSR-Freigabe plus mehreren Bundes- und Landesregulierern - Virginias Gouverneurin Spanberger interveniert formell im Genehmigungsverfahren. Aus einem Versorger ist eine zweijaehrige Regulierungs- und Fusionsstory geworden. Der Test der Frist ist zudem eindeutig ausgefallen: Selbst das ideale Umfeld nach dem schwachen Juli-Arbeitsmarktbericht - fallende Renditen, die zinssensitivste Ecke des Index - hat kein Re-Rating ausgeloest, und der Rueckenwind ist bereits weg (10-jaehrige Rendite zurueck ueber 4,66-4,7 %). Bewertung ohne Sicherheitsmarge (GF Value 81,59 $ bei Kurs 84,70 $), BofA senkte auf 93 $ bei Neutral. Nicht das Thema war falsch, sondern das Vehikel."
+    },
+    {
+      "type": "buy",
+      "symbol": "CVX",
+      "name": "Chevron",
+      "amountEur": 700,
+      "created": "2026-08-11",
+      "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
