@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 573.28,
+  "cash": 1038.2,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 349.35,
-      "valueEur": 1417.59
+      "lastPriceUsd": 341.945,
+      "valueEur": 1387.78
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 422.27,
-      "valueEur": 1389.84
+      "lastPriceUsd": 429.2,
+      "valueEur": 1412.89
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1794.99,
-      "valueEur": 1365.02
+      "lastPriceUsd": 1813.06,
+      "valueEur": 1379.0
     },
     {
       "symbol": "V",
@@ -46,18 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 363.225,
-      "valueEur": 1310.29
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "shares": 15.704,
-      "investedEur": 1200,
-      "entryDate": "2026-07-06",
-      "reason": "Größter US-Erzeuger erneuerbarer Energien. Strom ist der Engpass Nr. 1 für neue AI-Rechenzentren – defensives Geschäftsmodell mit AI-Rückenwind.",
-      "lastPriceUsd": 85.5,
-      "valueEur": 1163.21
+      "lastPriceUsd": 358.725,
+      "valueEur": 1294.28
     },
     {
       "symbol": "VRT",
@@ -66,8 +56,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 279.165,
-      "valueEur": 695.19
+      "lastPriceUsd": 293.76,
+      "valueEur": 731.66
     },
     {
       "symbol": "JNJ",
@@ -76,8 +66,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 259.37,
-      "valueEur": 1020.22
+      "lastPriceUsd": 260.84,
+      "valueEur": 1026.18
     },
     {
       "symbol": "JPM",
@@ -86,28 +76,21 @@
       "investedEur": 600,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 360.77,
-      "valueEur": 603.99
-    }
-  ],
-  "orders": [
-    {
-      "type": "sell",
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "all": true,
-      "created": "2026-08-11",
-      "reason": "Ende der am 08.08. gesetzten Beobachtungsfrist mit negativem Befund. Die Kaufthese war ein defensiver, sauberer AI-Strom-Engpasswert. Das Wertpapier ist inzwischen etwas anderes: Der 66,8-Mrd.-$-All-Stock-Zusammenschluss mit Dominion schliesst laut Unternehmensangabe erst in der zweiten Jahreshaelfte 2027, verwaessert Altaktionaere auf 74,5 % und haengt an HSR-Freigabe plus mehreren Bundes- und Landesregulierern - Virginias Gouverneurin Spanberger interveniert formell im Genehmigungsverfahren. Aus einem Versorger ist eine zweijaehrige Regulierungs- und Fusionsstory geworden. Der Test der Frist ist zudem eindeutig ausgefallen: Selbst das ideale Umfeld nach dem schwachen Juli-Arbeitsmarktbericht - fallende Renditen, die zinssensitivste Ecke des Index - hat kein Re-Rating ausgeloest, und der Rueckenwind ist bereits weg (10-jaehrige Rendite zurueck ueber 4,66-4,7 %). Bewertung ohne Sicherheitsmarge (GF Value 81,59 $ bei Kurs 84,70 $), BofA senkte auf 93 $ bei Neutral. Nicht das Thema war falsch, sondern das Vehikel."
+      "lastPriceUsd": 365.05,
+      "valueEur": 611.26
     },
     {
-      "type": "buy",
       "symbol": "CVX",
       "name": "Chevron",
-      "amountEur": 700,
-      "created": "2026-08-11",
-      "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI."
+      "shares": 4.1111,
+      "investedEur": 700,
+      "entryDate": "2026-08-12",
+      "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
+      "lastPriceUsd": 196.51,
+      "valueEur": 700.0
     }
   ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -220,6 +203,27 @@
       "priceUsd": 358.635,
       "amountEur": 600,
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "sell",
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "shares": 15.704,
+      "priceUsd": 85.611,
+      "amountEur": 1164.92,
+      "realizedPnlEur": -35.08,
+      "reason": "Ende der am 08.08. gesetzten Beobachtungsfrist mit negativem Befund. Die Kaufthese war ein defensiver, sauberer AI-Strom-Engpasswert. Das Wertpapier ist inzwischen etwas anderes: Der 66,8-Mrd.-$-All-Stock-Zusammenschluss mit Dominion schliesst laut Unternehmensangabe erst in der zweiten Jahreshaelfte 2027, verwaessert Altaktionaere auf 74,5 % und haengt an HSR-Freigabe plus mehreren Bundes- und Landesregulierern - Virginias Gouverneurin Spanberger interveniert formell im Genehmigungsverfahren. Aus einem Versorger ist eine zweijaehrige Regulierungs- und Fusionsstory geworden. Der Test der Frist ist zudem eindeutig ausgefallen: Selbst das ideale Umfeld nach dem schwachen Juli-Arbeitsmarktbericht - fallende Renditen, die zinssensitivste Ecke des Index - hat kein Re-Rating ausgeloest, und der Rueckenwind ist bereits weg (10-jaehrige Rendite zurueck ueber 4,66-4,7 %). Bewertung ohne Sicherheitsmarge (GF Value 81,59 $ bei Kurs 84,70 $), BofA senkte auf 93 $ bei Neutral. Nicht das Thema war falsch, sondern das Vehikel."
+    },
+    {
+      "date": "2026-08-12",
+      "type": "buy",
+      "symbol": "CVX",
+      "name": "Chevron",
+      "shares": 4.1111,
+      "priceUsd": 196.51,
+      "amountEur": 700,
+      "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI."
     }
   ],
   "history": [
@@ -378,44 +382,54 @@
       "depot": 9538.63,
       "benchmark": 10272.29,
       "spx": 7742.67
+    },
+    {
+      "date": "2026-08-12",
+      "depot": 9581.25,
+      "benchmark": 10270.85,
+      "spx": 7741.58
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1794.99,
-      "eur": 1555.05
+      "usd": 1813.06,
+      "eur": 1570.97
+    },
+    "CVX": {
+      "usd": 196.51,
+      "eur": 170.27
     },
     "GOOGL": {
-      "usd": 349.35,
-      "eur": 302.65
+      "usd": 341.945,
+      "eur": 296.29
     },
     "JNJ": {
-      "usd": 259.37,
-      "eur": 224.7
+      "usd": 260.84,
+      "eur": 226.01
     },
     "JPM": {
-      "usd": 360.77,
-      "eur": 312.54
+      "usd": 365.05,
+      "eur": 316.31
     },
     "NEE": {
-      "usd": 85.5,
-      "eur": 74.07
+      "usd": 85.611,
+      "eur": 74.18
     },
     "TSM": {
-      "usd": 422.27,
-      "eur": 365.82
+      "usd": 429.2,
+      "eur": 371.89
     },
     "V": {
-      "usd": 363.225,
-      "eur": 314.67
+      "usd": 358.725,
+      "eur": 310.83
     },
     "VRT": {
-      "usd": 279.165,
-      "eur": 241.85
+      "usd": 293.76,
+      "eur": 254.54
     }
   },
   "fx": {
-    "EURUSD": 1.1543
+    "EURUSD": 1.1541
   },
-  "lastUpdate": "2026-08-11 15:52 UTC"
+  "lastUpdate": "2026-08-12 15:52 UTC"
 }
