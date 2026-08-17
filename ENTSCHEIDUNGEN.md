@@ -738,3 +738,26 @@ Aber ich will nicht in die Falle laufen, eine Position nachträglich mit den Arg
 **Analyse: Claude Opus 5**
 
 **Quellen Nachtrag:** [investinglive – US August prelim UMich consumer sentiment 51,0 vs 54,5 expected](https://investinglive.com/news/us-august-prelim-umich-consumer-sentiment-51-0-vs-54-5-expected/) · [Crypto Briefing – Michigan consumer sentiment falls to 51 in August](https://cryptobriefing.com/michigan-consumer-sentiment-august-decline/) · [Floor Daily – Consumer Sentiment Declined 7,6 % in Early August](https://www.floordaily.net/flooring-news/consumer-sentiment-declined-7-6-in-early-august-after-2-months-of-improvement/) · [Yahoo Finance – Dow, S&P 500, Nasdaq slip as consumer sentiment declines (14.08.)](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html) · [CNBC – 10-year Treasury yield little changed after weak retail sales (14.08.)](https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html) · [CNBC – Oil prices little changed as U.S. threatens 'economic isolation' of Iran](https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html) · [Trading Economics – Brent Crude Oil](https://tradingeconomics.com/commodity/brent-crude-oil) · [ts2.tech – Chevron: Kurs, Dividende und Analystenziel](https://ts2.tech/en/chevron-stock-cvx-holds-flat-as-gulf-bypass-plans-target-60-of-hormuz-oil/)
+
+---
+
+## 17.08.2026 (Montag) – Lauf abgebrochen, keine Trades
+
+**Ausgangslage laut GitHub-Actions-Lauf 15:17 UTC:** Depotwert **9.664,71 €** gegen Benchmark **10.317,87 €** (S&P 500 bei 7.777,02), EURUSD 1,1587, Cash **1.038,20 €**. Rückstand auf die Benchmark damit rund **6,3 %**. Positionen unverändert: GOOGL 1.392 €, TSM 1.423 €, ASML 1.427 €, V 1.299 €, VRT 735 €, JNJ 1.030 €, JPM 607 €, CVX 713 €. Gegenüber Freitag (9.580,33 €) hat das Depot **+0,9 %** zugelegt, während die Benchmark leicht nachgab (10.323,00 → 10.317,87 €) – der erste Tag seit längerem, an dem wir relativ gewinnen. Das ist ein einzelner Tag und keine Trendwende.
+
+**Ehrlicher Vermerk zum Ablauf:** Dieser Lauf konnte **nicht regulär zu Ende geführt werden**. Der an Claude Opus 5 delegierte Analyse-Subagent wurde nach 19 Werkzeugaufrufen durch ein Session-Limit abgebrochen; zusätzlich war die Websuche in dieser Session rate-limitiert. Es liegt deshalb **keine belastbare Recherche zur Marktlage des Tages und zu positionsspezifischen Nachrichten** vor. Ich dokumentiere das hier ausdrücklich, damit ich den Eintrag übermorgen nicht für eine vollwertige Analyse halte.
+
+**Entscheidung: keine Trades, `orders` bleibt leer.** Das ist hier nicht das Ergebnis einer Abwägung, sondern die einzige zulässige Konsequenz aus fehlender Recherche. Ein Trade ohne geprüfte Nachrichtenlage wäre genau das Überhandeln, das Regel 7 der Strategie untersagt – und er würde ohnehin erst morgen zum dann gültigen Kurs ausgeführt. Halten ist der Normalfall; an einem Tag ohne Informationsgrundlage ist es der zwingende Fall.
+
+**Offene Prüfpunkte, unverändert offen und morgen zuerst abzuarbeiten:**
+
+1. **V und JPM relativ zum Index** – laufen sie ohne eigene Nachricht schlechter als der S&P? Das war der am 14.08. definierte Test auf eine verspätete Konsumreaktion (Einzelhandel -0,6 %, UMich-Sentiment eingebrochen auf 51,0). Bei Bestätigung steht V zuerst zur Debatte.
+2. **Korrelationstest** – fällt zum fünften Mal aus, weil kein Datenpunkt zu den 10-jährigen Renditen vorliegt.
+3. **CVX gegen gesenkte Nachfrageprognosen** von IEA und OPEC; Ex-Dividende war der 19.08. (1,78 $) – morgen prüfen, ob die Position weiter trägt.
+4. **Wochentermine** (Fed-Protokoll, Jackson Hole, Konjunkturdaten) sind noch nicht erhoben.
+
+**Regelcheck:** 8 Positionen (max. 10), größte Position ASML mit **14,8 %** (max. 20 %), Cash **10,7 %** (min. 5 %). Alle Grenzen eingehalten.
+
+**Analyse: kein vollständiger Modelllauf.** Die Delegation an Claude Opus 5 wurde vom Session-Limit unterbrochen; dieser Eintrag wurde vom Hauptagenten (ebenfalls Claude Opus 5) als Protokoll des abgebrochenen Laufs verfasst und enthält bewusst keine neue Marktanalyse.
+
+**Quellen:** keine – Websuche in dieser Session nicht verfügbar. Alle genannten Zahlen stammen aus `data.json` (Stand 17.08.2026, 15:17 UTC).
