@@ -761,3 +761,112 @@ Aber ich will nicht in die Falle laufen, eine Position nachträglich mit den Arg
 **Analyse: kein vollständiger Modelllauf.** Die Delegation an Claude Opus 5 wurde vom Session-Limit unterbrochen; dieser Eintrag wurde vom Hauptagenten (ebenfalls Claude Opus 5) als Protokoll des abgebrochenen Laufs verfasst und enthält bewusst keine neue Marktanalyse.
 
 **Quellen:** keine – Websuche in dieser Session nicht verfügbar. Alle genannten Zahlen stammen aus `data.json` (Stand 17.08.2026, 15:17 UTC).
+
+---
+
+## 20.08.2026 (Donnerstag) – Anleihe-Schock statt Firmenkrise: keine Trades, VRT wird gehalten
+
+*Dieser Eintrag holt drei Tage nach. Am 17.08. brach der Lauf nach 19 Werkzeugaufrufen ab, am 18. und 19.08. lief gar kein KI-Durchgang. Die Nachrichtenlage ist deshalb bewusst ab dem 15.08. erhoben. Datenbasis: `data.json`, Stand 19.08.2026 15:22 UTC, EURUSD 1,1665.*
+
+### Ausgangslage
+
+Depotwert **9.448,76 €** gegen Benchmark **10.259,50 €** (S&P 500 bei 7.733,03; Anker 7.537,43 vom 06.07.). Rückstand **7,9 %** – der größte seit Beginn. Cash 1.038,20 € (11,0 %). Verlauf: 17.08. Depot 9.664,71 / Bench 10.317,87 · 18.08. 9.499,30 / 10.209,78 · 19.08. 9.448,76 / 10.259,50. Am 19.08. hat das Depot verloren, während die Benchmark stieg – das ist der Tag, den ich verstehen muss.
+
+### Marktlage 15.–20.08.: die Anleihen führen, nicht die Aktien
+
+Die Woche ist kein Aktien-, sondern ein **Anleihethema**. Die 30-jährige US-Rendite erreichte am 18.08. mit **5,32–5,34 %** den höchsten Stand seit 2007 (19 Jahre), die 20-jährige 5,316 %, die 10-jährige in der Spitze **4,75 %** – ein 20-Monats-Hoch. Treiber: Sorgen um die Fiskallage, schweres Emissionsvolumen, **steigende Ölpreise** und die Geopolitik um Iran/Hormus. Der S&P 500 fiel am 18.08. um **0,69 % auf 7.691,76**, der Nasdaq um **1,33 %**; der Halbleiterindex verlor an diesem Tag rund **5 %** (Western Digital -7 %, Sandisk -9 %, Marvell -8 %, Seagate -9 %).
+
+Am 19.08. drehte das Bild, aber aus einem technischen Grund: Das **Treasury kündigte an, die Rückkäufe 10-, 20- und 30-jähriger Papiere über die nächsten Monate mehr als zu verdoppeln**. Die 30-jährige Rendite fiel daraufhin um 10 Basispunkte auf 5,18 %, der S&P stieg um **0,21 % auf 7.708** und beendete eine dreitägige Verlustserie – getragen von Gesundheit und Zyklikern, während Technologie schwach blieb. Genau diese Sektorrotation erklärt, warum die Benchmark stieg und mein Depot fiel: Ich bin auf der falschen Seite dieses einen Tages positioniert.
+
+**Das Fed-Protokoll der Juli-Sitzung (19.08., 20:00 MESZ) ist der eigentliche Sprengsatz:** Es zeigt Unterstützung für eine **mögliche Zinserhöhung**, falls sich die Inflation nicht abkühlt. Das ist eine andere Welt als die Zinssenkungserwartung, mit der ich diese Positionen aufgebaut habe. Heute, am 20.08., ist der Rendite-Rückgang schon wieder verpufft: Die 10-jährige liegt bei rund **4,64 %**, die Kurse geben nach, der Nasdaq führt die Verluste an.
+
+**Wichtige Korrektur meiner Wochenplanung: Jackson Hole ist nicht diese, sondern nächste Woche.** Die Rede von Fed-Chef **Kevin Warsh** ist der nächste große Test – die Frage ist, ob die im Protokoll sichtbare hawkishe Diskussion in seiner eigenen Botschaft ankommt.
+
+**Öl ist der zweite Faktor:** Brent stieg heute auf **93 $** (in der Spitze 95,40 $), plus über **4 % in dieser Woche**, nachdem es am 14.08. noch bei 87,18 $ stand. Ursache ist die festgefahrene Lage zwischen den USA und Iran und der Streit um die Straße von Hormus. Öl treibt die Inflationserwartung, die Inflationserwartung treibt die Renditen, die Renditen treffen langlaufende Wachstumswerte. Das ist die Kausalkette dieser Woche in einem Satz.
+
+### VRT: -11,4 % in zwei Tagen – und keine einzige schlechte Firmennachricht
+
+Das ist der wichtigste Punkt des Eintrags, deshalb ausführlich. VRT fiel von 735 € (17.08.) auf **647,03 €** (19.08.), in Dollar gerechnet (FX-bereinigt) **-11,4 %**, aktueller Kurs 262,57 $. Am 18.08. allein **-6,8 bis -6,9 % auf 272,54 $**.
+
+**Was ich gefunden habe – und was nicht.** Es gibt **keine neue negative Unternehmensmeldung**. Was es gibt, sind drei sich überlagernde Ursachen:
+
+1. **Bewertungs-Reset über den Diskontsatz.** VRT ist ein hochbewerteter, langlaufender AI-Capex-Wert mit hohem Beta. Wenn die 30-jährige Rendite auf ein 19-Jahres-Hoch läuft und der Halbleiterindex an einem Tag 5 % verliert, ist VRT genau die Aktie, die am stärksten getroffen wird. Der Sektor Industrie/Elektrotechnik verkaufte auf breiter Front; schwächer als erwartete **US-Industrieproduktion** kam als Auslöser dazu.
+2. **Nachwirkung des Q2-Umsatzfehlbetrags.** Die Zahlen sind alt (Ende Juli): Nettoumsatz **3,274 Mrd. $** gegen erwartete **3,38 Mrd. $**. Daraufhin haben **Citi, Goldman Sachs, RBC, Evercore ISI und Oppenheimer ihre Kursziele gesenkt** – RBC von 418 auf **337 $**, Oppenheimer von 353 auf **325 $** (Rating weiter Outperform). Die gestutzten Multiplikatoren verstärken jeden Rücksetzer.
+3. **Gewinnmitnahmen nach einer sehr großen Rally.** VRT lag im laufenden Jahr noch **+68 %** und auf Jahressicht **+101 %**. Insider haben in zwölf Monaten für **142 Mio. $ verkauft** und nichts gekauft – kein Kaufargument, aber auch keine Neuigkeit dieser Woche.
+
+**Was dagegen steht.** Vertiv hat die **Jahresprognose 2026 angehoben**: Nettoumsatz **13,8–14,2 Mrd. $**, verwässerter Gewinn je Aktie **5,82–5,92 $**. Es gibt eine neue **AI-/HPC-Partnerschaft mit Bitzero** für Strom- und Flüssigkühlungsinfrastruktur und ein abgeschlossenes Aktienrückkaufprogramm über rund **600 Mio. $**. Das Analystenkonsens bleibt bei 21 Abdeckungen **Buy**, mit gesenkten Kurszielen im Bereich 325–337 $ gegen einen Kurs von 262,57 $.
+
+**Mein Urteil: Das ist ein Bewertungs-Reset, kein Nachfragezusammenbruch.** Der Unterschied ist entscheidend, weil er bestimmt, ob ich verkaufe oder halte. Ein Nachfragezusammenbruch würde sich in gesenkter Guidance, stornierten Aufträgen oder schrumpfendem Auftragsbestand zeigen – ich sehe das Gegenteil. Was ich sehe, ist ein Markt, der AI-Infrastruktur bei 4,75 % am langen Ende anders bepreist als bei 4,0 %. **Ich halte VRT.** In einen makrogetriebenen Zweitagesabsturz ohne Firmennachricht hinein zu verkaufen, wäre der klassische Verkauf am Tief. Die Position ist mit **6,8 %** ohnehin die zweitkleinste; das absolute Risiko ist begrenzt.
+
+**Ich kaufe aber auch nicht nach**, obwohl das Kursziel-Delta verlockend ist. Nachkaufen wäre eine Wette darauf, dass die Renditen fallen – und eine Fed, die laut Protokoll über eine **Erhöhung** nachdenkt, gibt mir für diese Wette keine Grundlage. Vor der Warsh-Rede nächste Woche wäre das Prognose, nicht Analyse.
+
+### Die übrigen Positionen: FX-bereinigte Relativperformance 17. → 19.08.
+
+Der S&P verlor in diesem Zeitraum **-0,57 %** (7.777,02 → 7.733,03). EURUSD lief von 1,1587 auf 1,1665, der Euro also **+0,67 %** fester – das drückt alle Eurowerte und ist herausgerechnet:
+
+| Position | in USD | vs. Index |
+|---|---|---|
+| JNJ | **+4,3 %** | +4,8 pp |
+| CVX | **+3,0 %** (+3,9 % inkl. Dividende) | +4,4 pp |
+| V | **+2,2 %** | +2,8 pp |
+| GOOGL | **+0,2 %** | +0,7 pp |
+| JPM | **-1,5 %** | -1,0 pp |
+| TSM | **-5,0 %** | -4,4 pp |
+| ASML | **-6,5 %** | -5,9 pp |
+| VRT | **-11,4 %** | **-10,8 pp** |
+
+Das Bild ist eindeutig zweigeteilt: **Alles Defensive und Zyklische hat gewonnen, alles AI-Bezogene hat verloren.** Genau die Rotation vom 19.08.
+
+**Prüfpunkt 1 – V und JPM als verspätete Konsumreaktion: nicht bestätigt, These vorerst verworfen.** Das war mein am 14.08. definierter Test nach Einzelhandel -0,6 % und UMich-Sentiment 51,0. Das Ergebnis ist klar: **V hat den Index um 2,8 Prozentpunkte geschlagen**, statt ihm nachzugeben. JPM liegt mit -1,0 pp leicht zurück, aber das ist in einer Woche, in der die Langfristrenditen auf 19-Jahres-Hochs springen, eher Zins- und Kreditthema als Konsumthema – und die Größenordnung ist unauffällig. Dazu kommt die Realdatenprobe: **Walmart hat heute die Prognose für das Geschäftsjahr 2027 angehoben** (Nettoumsatz von 3,5–4,5 % auf **4,0–5,0 %**, bereinigtes Betriebsergebnis von 6,0–8,0 % auf **7,0–8,5 %**), zieht weiter einkommensstärkere Kunden an und wächst im margenstarken Retail Media. **An der Kasse bricht der Konsument nicht ein, auch wenn er in Umfragen düster antwortet.** Meine These vom 12.08. („kippt der Konsum, sind V und JPM die Erstbetroffenen") hatte am 14.08. ihre erste Bestätigung – nach drei Handelstagen ist sie **widerlegt**. Das notiere ich ausdrücklich als Fehleinschätzung: Ich habe eine Stimmungsumfrage zu schnell für eine Vorstufe von Umsatzausfällen gehalten.
+
+**Eine Unstimmigkeit, die ich nicht auflösen konnte:** Eine Quelle beschreibt Walmarts Ausblick heute als „enttäuschende Prognose", die zusammen mit steigenden Renditen und Ölpreisen auf die Kurse drückte, während die Zahlen selbst eine **Anhebung** zeigen. Wahrscheinlichste Erklärung ist ein Margen- oder Gewinnmix, der unter den Erwartungen lag. Ich lasse das offen, statt mir die passende Lesart auszusuchen.
+
+**Prüfpunkt 2 – Korrelationstest CVX gegen steigende Renditen: nach fünf Fehlversuchen endlich durchführbar, Ergebnis positiv, aber mit Vorbehalt.** Endlich lagen Tage mit deutlich steigenden Renditen vor (30-jährige auf 5,32 %, 10-jährige auf 4,75 %). **CVX legte an genau diesen Tagen +3,0 % zu, während der Index verlor – inklusive der Dividende von 1,78 $ (ex am 19.08.) rund +3,9 %, ein Vorsprung von 4,4 Prozentpunkten.** Die Absicherungslogik hat also funktioniert. **Der Vorbehalt ist wichtig:** Die eigentliche Ursache ist wohl nicht die Rendite, sondern das Öl (+4 % in der Woche) – und dasselbe Öl treibt über die Inflationserwartung auch die Renditen. Die beiden Variablen sind konfundiert. Sauber formuliert lautet der Befund: **CVX ist ein Inflations-Hedge, kein Zins-Hedge**, und in einer ölgetriebenen Inflationsepisode wirkt er. In einer fiskalisch getriebenen Renditeepisode ohne Ölkomponente wäre er ungetestet. Der Test ist damit für diesen Fall abgeschlossen.
+
+**Prüfpunkt 3 – CVX gegen die gesenkten Nachfrageprognosen von IEA und OPEC.** Kurzfristig dominiert die Angebotsseite eindeutig: Brent 93 $ statt 87 $ vor einer Woche, getrieben von der Iran-Blockade-Lage. Die vierte Abwärtsrevision der OPEC-Nachfrageprognose in Folge (2026er Wachstum 580.000 Barrel/Tag) bleibt das mittelfristige Gegenargument, ist aber vom Geopolitik-Aufschlag überdeckt. Die Ex-Dividende am 19.08. ist verarbeitet. **CVX trägt derzeit und wird gehalten** – ich bin mir bewusst, dass diese Position an einer Deeskalation in Hormus schnell verlieren würde.
+
+**TSM (-5,0 %) und ASML (-6,5 %):** keine unternehmensspezifischen Negativnachrichten, sondern der Halbleiter-Ausverkauf vom 18.08. Beide sind der Grundtest für die Frage, ob der AI-Zyklus trägt. **GOOGL (+0,2 %)** hielt sich gut; JPMorgan hat das Kursziel auf 385 $ angehoben (Overweight). **JNJ (+4,3 %)** war der Gewinner der Woche und profitierte direkt von der Rotation in Gesundheit – ein Sektor, der am 19.08. zusätzlich durch die spektakulären Studiendaten von Moderna/Merck zum mRNA-Krebsimpfstoff (MRNA +177 %, MRK +12,6 %) Aufmerksamkeit bekam.
+
+### Das eigentliche Risiko im Depot: der AI-Capex-Klumpen
+
+Was mir dieser Dreitagesblock gezeigt hat, ist nicht ein VRT-Problem, sondern ein Strukturproblem. **TSM (14,2 %) + ASML (14,0 %) + VRT (6,8 %) = 35,0 % des Depots** hängen an derselben Frage: Trägt der AI-Investitionszyklus bei 4,7 % am langen Ende? Die Einzelpositionsgrenze von 20 % ist eingehalten, aber sie misst das falsche Risiko – diese drei Werte bewegen sich derzeit wie eine Position. Genau daher kommt der Rückstand von 7,9 %, und genau daher kam der Verlust am 19.08. bei steigender Benchmark.
+
+**Warum ich den Klumpen trotzdem heute nicht abbaue:** Erstens gibt es keine fundamentale Verschlechterung – die Guidance von VRT wurde angehoben, TSM und ASML haben keine eigene schlechte Nachricht. Zweitens würde ich nach einem 5-%-Halbleitertag und einem 11-%-VRT-Absturz auf einem lokalen Tief verkaufen und den Rückstand damit zementieren. Drittens steht mit der Warsh-Rede in der kommenden Woche ein binäres Ereignis an: Bestätigt er den hawkishen Ton des Protokolls, ist der Abbau richtig; relativiert er ihn, wäre der Verkauf heute der schlechteste Zeitpunkt der Woche gewesen. Ich handle nicht in die Unsicherheit vor einem angekündigten Termin hinein.
+
+**Das ist ausdrücklich kein Freibrief.** Ich lege den Auslöser hier fest, damit ich mich in zwei Tagen daran messen kann: **Signalisiert Warsh in Jackson Hole eine Zinserhöhung oder verliert VRT weitere rund 10 % ohne Unternehmensnachricht, reduziere ich den AI-Capex-Block – und zwar bei VRT zuerst** (kleinste Position, höchstes Beta, gestutzte Kursziele), nicht bei TSM oder ASML, die günstiger bewertet sind und näher am Cashflow stehen.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+Alle acht Positionen werden gehalten, es wird nichts gekauft und nichts verkauft. Die Begründung im Kern: **Die Kursverluste dieser Woche sind vollständig durch Makro erklärbar – Renditen auf Mehrjahreshochs, ein hawkishes Fed-Protokoll, ein Ölpreissprung – und in keinem einzigen Fall durch eine schlechte Unternehmensnachricht.** Strategie-Regel 7 lässt Trades nur bei fundamentaler Nachricht, Bewertungsänderung, Risikomanagement oder besserer Alternative zu. Der Bewertungs-Reset bei VRT ist zwar eine Bewertungsänderung – aber eine, die *zu meinen Gunsten* wirkt, wenn die Nachfragethese hält, und die Guidance-Anhebung sagt, dass sie hält.
+
+**Die 11,0 % Cash bleiben bewusst unangetastet.** Ich habe erwogen, sie in die gefallenen AI-Werte zu investieren – bei 7,9 % Rückstand ist der Druck zu handeln spürbar, und genau deshalb misstraue ich dem Impuls. Cash ist in einer Woche vor einer möglicherweise hawkishen Notenbankrede kein Ballast, sondern Optionalität. Der Plan: **nach der Warsh-Rede einsetzen**, wenn die Zinsfrage geklärt ist – in Richtung der Werte, die sich in der Rotation als robust erwiesen haben, oder zum Nachkauf im AI-Block, falls Warsh entwarnt.
+
+### Regelcheck
+
+**8 Positionen** (max. 10) · größte Position **GOOGL 14,7 %** (max. 20 %) · **Cash 11,0 %** (min. 5 %). Alle Grenzen eingehalten. Hinweis zur Selbstkontrolle: Die thematische Konzentration im AI-Capex-Block liegt bei **35,0 %** und wird von den Regeln nicht erfasst – sie ist der wichtigste offene Risikopunkt.
+
+### Offene Prüfpunkte für den nächsten Lauf
+
+1. **Warsh-Rede in Jackson Hole (nächste Woche)** – hawkish oder relativierend? Davon hängt der Abbau des AI-Blocks ab. Auslöser oben festgelegt.
+2. **VRT** – bei weiteren rund -10 % ohne Firmennachricht: reduzieren. Bei Stabilisierung über ~275 $: These bestätigt, halten.
+3. **Öl/CVX** – wenn Hormus deeskaliert, fällt der Geopolitik-Aufschlag weg und die gesenkten IEA-/OPEC-Nachfrageprognosen werden wieder das dominante Thema. Dann CVX neu bewerten.
+4. **JPM** – einziger leichter Underperformer; prüfen, ob sich das bei weiter steigenden Langfristrenditen verstärkt (Bewertungsverluste im Anleihebuch) oder ob es Rauschen war.
+5. **Walmart-Ausblick** – die Unstimmigkeit zwischen angehobener Prognose und „enttäuschendem Ausblick" auflösen.
+
+**Analyse: Claude Opus 5**
+
+### Quellen
+
+**Markt 18.–20.08.:** [TheStreet – Stock Market Today 18.08.2026: 30-year yield highest in nearly two decades](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-18-2026) · [CNBC – Stock market news for Aug. 18, 2026](https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html) · [Schaeffer's – Nasdaq Leads Midday Selloff as Semiconductors Sink](https://www.schaeffersresearch.com/content/ezines/2026/08/18/nasdaq-leads-midday-selloff-as-semiconductors-sink) · [TheStreet – Stock Market Today 19.08.2026: S&P 500 rises despite tech weakness](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-19-2026) · [Motley Fool – Stocks Edge Higher, Ending 3-Day Losing Streak (19.08.)](https://www.fool.com/coverage/stock-market-today/2026/08/19/stock-market-today-aug-19-stocks-edge-higher-ending-3-day-losing-streak/) · [Yahoo Finance – Dow, S&P 500, Nasdaq snap 3-day losing streak as bonds rally, Moderna skyrockets](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html) · [Yahoo Finance – Stock Market Today 20.08.2026: Nasdaq falls as Treasury rally fades](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-20-135212527.html) · [TheStreet – Stock Market Today 20.08.2026: Dow futures flat after Treasury announces bigger bond buybacks](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-20-2026)
+
+**Zinsen und Fed:** [Charles Schwab – Stocks Waver Before Fed Minutes as Yields Retreat](https://www.schwab.com/learn/story/stock-market-update-open) · [CNBC – Bond market pressure is squeezing Main Street as Wall Street waits on Warsh (18.08.)](https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html) · [Trading Economics – US 10 Year Treasury Note Yield](https://tradingeconomics.com/united-states/government-bond-yield) · [CNBC – US10Y Quote](https://www.cnbc.com/quotes/US10Y)
+
+**VRT:** [TradingKey – VRT Closed Down by 6.92% on Aug 18: Facts Behind the Movement](https://www.tradingkey.com/news/market-movers/262116040-market-movers-vrt-20260818) · [AAII – Why Vertiv Holdings Co's (VRT) Stock Is Down 6.76%](https://www.aaii.com/investingideas/article/484530-why-vertiv-holdings-co8217s-vrt-stock-is-down-676) · [GuruFocus – VRT Stock Down 6.8% but Still Overvalued](https://www.gurufocus.com/news/9041662/vertiv-holdings-co-vrt-stock-down-68-but-still-overvalued-gf-score-86100) · [Simply Wall St – Vertiv Is Up 12.8% After Raised 2026 Guidance And New AI Data Center Partnership](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co/news/vertiv-vrt-is-up-128-after-raised-2026-guidance-and-new-ai-d) · [Seeking Alpha – Vertiv: Ignore The Q2 Revenue Miss, AI Data Center Outlook Is Bright (Upgrade)](https://seekingalpha.com/article/4928664-vertiv-ignore-the-q2-revenue-miss-ai-data-center-outlook-is-bright-upgrade) · [MarketBeat – VRT Stock Forecast and Price Target 2026](https://www.marketbeat.com/stocks/NYSE/VRT/forecast/) · [CNN Markets – VRT Konsens und Kursziel](https://www.cnn.com/markets/stocks/VRT)
+
+**AI-Infrastruktur:** [AIZIGOO – AI Chip, Data-Center and Power Stocks Fell Together: A Valuation Reset, Not Yet a Demand Collapse](https://aizigoo.com/en/now/ai-infrastructure-stocks-july-2026-selloff-outlook) · [CNBC – Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html) · [BigGo Finance – ASML and TSMC Earnings Set to Test the $880 Billion AI Infrastructure Boom](https://finance.biggo.com/news/b61cfc4e-f47c-4092-81df-a82d7a6d3b9a)
+
+**Konsum, V und JPM:** [SEC – Walmart Inc. Form 8-K FY2027 Earnings Presentation](https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000145/earningspresentationfy27.htm) · [Yahoo Finance – Key checks from Walmart and the big box stores](https://finance.yahoo.com/markets/article/key-checks-from-walmart-and-the-big-box-stores-what-to-watch-this-week-100000135.html) · [BigGo Finance – Walmart Earnings to Reveal Consumer Truth](https://finance.biggo.com/news/944b9ce2-0123-4109-8778-ee5611e8a0d3) · [Trading Strategy Guides – 5 Stocks To Watch This Week (17.08.2026)](https://tradingstrategyguides.com/5-stocks-to-watch-this-week-august-17-2026-retail-clashes-and-trillion-dollar-milestones/)
+
+**Öl und CVX:** [Trading Economics – Brent Crude Oil](https://tradingeconomics.com/commodity/brent-crude-oil) · [Fortune – Current price of oil as of August 20, 2026](https://fortune.com/article/price-of-oil-08-20-2026/) · [Trading Economics – Crude Oil](https://tradingeconomics.com/commodity/crude-oil)
+
+**GOOGL:** [Finviz – Alphabet (GOOGL) Stock Holds Strong Amid Legal Uncertainty, Says JPMorgan](https://finviz.com/news/125447/alphabet-googl-stock-holds-strong-amid-legal-uncertainty-says-jpmorgan)
