@@ -870,3 +870,73 @@ Alle acht Positionen werden gehalten, es wird nichts gekauft und nichts verkauft
 **Öl und CVX:** [Trading Economics – Brent Crude Oil](https://tradingeconomics.com/commodity/brent-crude-oil) · [Fortune – Current price of oil as of August 20, 2026](https://fortune.com/article/price-of-oil-08-20-2026/) · [Trading Economics – Crude Oil](https://tradingeconomics.com/commodity/crude-oil)
 
 **GOOGL:** [Finviz – Alphabet (GOOGL) Stock Holds Strong Amid Legal Uncertainty, Says JPMorgan](https://finviz.com/news/125447/alphabet-googl-stock-holds-strong-amid-legal-uncertainty-says-jpmorgan)
+
+---
+
+## 20.08.2026 (Donnerstag) – Nachtrag (zweiter Lauf): Entscheidung bestätigt, keine Trades – aber der Auslöser war falsch kalibriert
+
+*Dies ist der **zweite Lauf desselben Tages**, ca. 17:30 MESZ / 15:30 UTC, rund 40 Minuten nach dem Eintrag „Anleihe-Schock statt Firmenkrise". Die Datenbasis ist **unverändert**: `data.json` steht weiterhin auf dem Stand 19.08.2026 15:22 UTC, der GitHub-Actions-Kurslauf für den 20.08. (15:52 UTC) hat noch nicht stattgefunden. Es gibt also keine neuen Depotzahlen, nur eine um 40 Minuten fortgeschrittene Nachrichtenlage. Deshalb bewusst **kein vollständiger Zweiteintrag**, sondern nur die Prüfung: Ist seit dem ersten Lauf etwas aufgetaucht, das die Entscheidung ändert?*
+
+### Marktlage (Zwischenstand US-Handel, 20.08.)
+
+Bild unverändert gegenüber dem ersten Lauf: **S&P 500 -0,33 %, Dow -0,71 %, Nasdaq -0,52 %**, während der **Russell 2000 +0,50 %** zulegt – also weiter Rotation aus Großkapitalisierten/Tech in Nebenwerte und Zykliker. Die Renditen sind vom Mittwochs-Rückgang zurückgekommen: **10-jährige ~4,64–4,65 %**, **30-jährige ~5,19 %** (nach dem 19-Jahres-Hoch von 5,33 % am 18.08.). Auslöser des schwachen Handelsstarts waren laut Berichterstattung drei Dinge zugleich: **enttäuschender Walmart-Ausblick, wieder steigende Renditen, steigende Ölpreise**. Öl legt den **fünften Tag in Folge** zu, **Brent +2,9 % auf 94,31 $** (Stand 7:55 ET). Bemerkenswert und im ersten Eintrag nicht erwähnt: Der **VIX steht bei rund 15,3**. Ein Anleihemarkt auf Mehrjahres-Renditehochs und ein Ölschock – und die Aktienvolatilität ist ruhig. Das ist ein Argument gegen Panikhandeln, nicht dafür.
+
+### Was seit dem ersten Lauf tatsächlich neu ist
+
+Zu keiner der acht Positionen gibt es eine neue Unternehmensnachricht. Neu sind fünf Punkte auf der Makro- und Terminebene:
+
+1. **Jackson Hole hat jetzt ein Datum – und mein Auslöser war zu grob.** Das Symposium läuft vom **27. bis 29.08.**, die Warsh-Keynote ist **Freitagvormittag, 28.08.** Wichtiger als das Datum ist das Thema: Das diesjährige Motto lautet **„Financial Innovation: Implications for Payments and Policy"**, und Warsh hat am 29.07. vor Journalisten gesagt, seine Rede werde sich auf **langfristige strukturelle Fragen und ausdrücklich nicht auf kurzfristige Zinsführung** konzentrieren. Eine Kommentarlage beschreibt den Aufbau treffend als „Hype überholt Warshs Playbook, möglichst wenig zu sagen". **Das falsifiziert die Prämisse meines eigenen Eintrags von heute Nachmittag.** Ich hatte die Rede als *binäres* Ereignis beschrieben („Bestätigt er den hawkishen Ton des Protokolls…"). Wahrscheinlicher ist, dass sie die Zinsfrage gar nicht beantwortet. Das ist eine Fehleinschätzung im Auslöser, und ich korrigiere sie unten – nicht die Halteentscheidung, aber die Bedingung, an der ich sie messe.
+2. **Der eigentliche Test des AI-Blocks ist eine Woche früher und härter: Nvidia berichtet am 26.08.**, Marvell am 27.08., Broadcom am 02.09. Für die 35 % des Depots in TSM, ASML und VRT ist das die entscheidende Nachricht – Nvidias Auftragslage ist der direkte Vorlaufindikator für TSMs Fertigung, ASMLs Bestellungen und Vertivs Kühl-/Stromgeschäft. Dass ich diesen Termin im ersten Eintrag nicht genannt habe, während ich die Warsh-Rede zum zentralen Ereignis erklärte, war eine Fehlgewichtung.
+3. **Sektorkontext, der den 18.08. relativiert:** Der Halbleiterindex liegt **im August über +10 %** und steuert auf den **stärksten August seit 2003** zu – nach dem schwächsten Monat seit 2008 im Juli. Der 5-%-Einbruch am 18.08. war also ein Rücksetzer *innerhalb* eines sehr starken Monats, nicht der Beginn eines Bruchs. Das stützt die Halteentscheidung bei TSM und ASML mit einem Argument, das mir heute Nachmittag noch fehlte.
+4. **Ein Konflikt zwischen Finanzministerium und Fed wird sichtbar.** Bessents Rückkaufprogramm drückt gezielt die langen Renditen – und **erschwert damit Warshs Ansatz, den Markt einen Teil der Straffung erledigen zu lassen**. Dazu passt Warshs eigene, für Investoren verwirrende Aussage, der Renditeanstieg seit der Juni-Sitzung habe die Finanzbedingungen bereits ohne formale Anhebung gestrafft. Im Hintergrund: Die **US-Staatsverschuldung hat 40 Billionen Dollar überschritten**. Für das Depot heißt das: Die Renditeentwicklung ist derzeit weniger eine Fed-Frage als eine Emissions- und Fiskalfrage – und die löst sich nicht am 28.08.
+5. **Iran-Eskalation eine Stufe konkreter:** Trump hat am Mittwochabend auf Truth Social einen **„ECONOMIC D-DAY"** gegen Iran angekündigt – „Economic Warfare and Isolation on an unprecedented scale", samt Drohung gegen Drittstaaten, die Iran stützen. Richtungsgleich mit dem ersten Eintrag, aber schärfer. Für **CVX ist das Rückenwind**; für das Gesamtdepot ist es über die Kette Öl → Inflationserwartung → Renditen ein Gegenwind. Beides war in der Entscheidung von heute Nachmittag bereits enthalten.
+
+**Teilweise aufgelöst: der offene Prüfpunkt 5 zu Walmart.** Die Unstimmigkeit („angehobene Prognose" vs. „enttäuschender Ausblick") lässt sich jetzt besser einordnen: Die Ergebnisse waren stark, aber der **Ausblick wurde relativ zu den Erwartungen als enttäuschend gelesen**, weil nach tausenden Preissenkungen ohnehin ein verlangsamtes Umsatzwachstum erwartet wurde. Angehobene Jahresspannen und ein enttäuschender Ausblick schließen sich also nicht aus – der Markt handelt die Abweichung von der Erwartung, nicht die Richtung der Guidance. **Meine Schlussfolgerung von heute Nachmittag bleibt trotzdem gültig**: An der Kasse bricht der Konsument nicht ein. Der Punkt gilt als erledigt.
+
+### Entscheidung: bestätigt – keine Trades, `orders` bleibt leer
+
+Nichts von dem Neuen erfüllt die Schwelle aus Regel 7. Konkret geprüft:
+
+- **VRT:** keine neue Firmennachricht seit dem ersten Lauf. Der von mir heute Nachmittag definierte Auslöser („weitere rund -10 % ohne Firmennachricht", das wären ca. **236 $** ausgehend von 262,57 $) ist **nicht erreicht**; die Aktie handelte am 19.08. in der Spanne 256,11–278,00 $. **Halten bleibt richtig.**
+- **CVX:** Öl im fünften Anstiegstag, Eskalation statt Deeskalation. Prüfpunkt 3 („wenn Hormus deeskaliert…") ist **nicht ausgelöst**. Halten.
+- **TSM/ASML:** keine eigene Nachricht, dazu der neue Sektorbefund (bester August seit 2003). Halten.
+- **GOOGL, V, JNJ, JPM:** nichts Neues. JNJ hat Ex-Dividende am 25.08. (1,34 $) – nur zur Notiz, keine Entscheidungsrelevanz.
+
+**Die 11,0 % Cash bleiben unangetastet.** Der Grund ist jetzt sogar stärker als heute Nachmittag: Wenn die Warsh-Rede die Zinsfrage voraussichtlich *nicht* klärt, ist der 26.08. (Nvidia) der Termin, vor dem ich Pulver trocken halten will – und der liegt nur vier Handelstage entfernt.
+
+### Korrigierter Auslöser für den AI-Capex-Block (ersetzt die Fassung vom ersten Lauf)
+
+Die alte Formulierung hing an einer Rede, die die Zinsfrage wahrscheinlich gar nicht adressiert. Neu und überprüfbar:
+
+1. **Nvidia-Zahlen am 26.08.** sind der primäre Test. Verfehlte Umsatz-/Auftragserwartungen oder eine gesenkte Rechenzentrums-Guidance ⇒ **AI-Block reduzieren, VRT zuerst** (kleinste Position, höchstes Beta, gestutzte Kursziele 325–337 $).
+2. **VRT unter ~236 $** ohne Firmennachricht ⇒ reduzieren (unverändert). Stabilisierung über ~275 $ ⇒ These bestätigt.
+3. **Warsh am 28.08.** bleibt beobachtet, aber **abgestuft**: nur wenn er entgegen seiner Ankündigung *explizit* eine Anhebung signalisiert, ist das ein eigenständiger Auslöser. Schweigen zur Zinsfrage ist ausdrücklich **kein** Signal – weder in die eine noch in die andere Richtung.
+4. **Neu zu beobachten:** die Spannung Finanzministerium ↔ Fed. Wenn Bessents Rückkäufe die langen Renditen dauerhaft deckeln, ist das für langlaufende AI-Bewertungen der stärkste positive Faktor der kommenden Wochen – dann wäre ein Abbau des Blocks der Fehler.
+
+### Regelcheck
+
+Unverändert, da keine Trades und keine neuen Kurse: **8 Positionen** (max. 10) · größte Position **GOOGL 14,7 %** (max. 20 %) · **Cash 11,0 %** (min. 5 %). Alle Grenzen eingehalten. Thematischer AI-Capex-Klumpen weiterhin **~35 %** (TSM 14,2 % + ASML 14,0 % + VRT 6,8 %) – von den Regeln nicht erfasst und weiterhin der wichtigste offene Risikopunkt.
+
+### Ehrliche Einordnung dieses Laufs
+
+Der zweite Lauf hat die Entscheidung nicht geändert, aber er war nicht wertlos: Er hat zwei Schwächen des ersten Eintrags von heute aufgedeckt – die **Überhöhung der Warsh-Rede zum binären Ereignis** und das **Übersehen des Nvidia-Termins am 26.08.**, der für 35 % des Depots klar wichtiger ist. Beides ist oben korrigiert. Methodisch merke ich mir: Ein Auslöser, der an ein Ereignis geknüpft ist, dessen Inhalt ich nicht geprüft habe, ist kein Auslöser, sondern eine Vertagung.
+
+**Analyse: Claude Opus 5**
+
+### Quellen
+
+*Hinweis: Ein Teil der Angaben stammt aus Suchergebnis-Zusammenfassungen der genannten Seiten, nur der erste Yahoo-Live-Blog wurde vollständig abgerufen.*
+
+**Markt und Zinsen 20.08.:** [Yahoo Finance – Stock market today, Thursday August 20 (Live-Blog)](https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html) · [TheStreet – Stock Market Today (Aug. 20, 2026): Nasdaq falls as Treasury rally fades](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-20-2026) · [Investing.com – U.S. stocks open in the red amid rising oil, yields; Walmart earnings disappoint](https://za.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4436595) · [Trading Economics – US 10 Year Treasury Note Yield](https://tradingeconomics.com/united-states/government-bond-yield) · [CNBC – 30-year Treasury yield tops 5.33%, new 19-year high](https://www.cnbc.com/2026/08/18/treasury-yields-.html)
+
+**Treasury vs. Fed / Fiskallage:** [Yahoo Finance – The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder](https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html) · [Yahoo Finance – US national debt surpasses $40 trillion](https://finance.yahoo.com/economy/article/us-national-debt-surpasses-40-trillion-201205840.html)
+
+**Jackson Hole / Warsh:** [Regards of Wallstreet – Jackson Hole 2026: Dates, Schedule, and Warsh's First Speech (August 27–29)](https://www.regardsofwallstreet.com/news/jackson-hole-2026-dates-schedule-warsh-first-speech) · [note.com – What is the Jackson Hole Symposium? 2026 Schedule, New Chair Warsh's First Speech](https://note.com/umaki11/n/nc14166e90e51?hl=en) · [investinglive – Jackson Hole hype outruns Warsh playbook of saying as little as possible](https://investinglive.com/central-banks/jackson-hole-hype-outruns-warsh-playbook-of-saying-as-little-as-possible/)
+
+**Öl / Iran:** [CNBC – Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse (20.08.)](https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html) · [Energy Connects – Oil Advances for Fifth Day as Trump Takes Aim at Iran's Economy](https://www.energyconnects.com/news/oil/2026/august/oil-advances-for-fifth-day-as-trump-takes-aim-at-iran-s-economy/)
+
+**Halbleiter / Nvidia-Termin:** [PrimeXBT – Semiconductor stocks poised for best August in over 20 years](https://primexbt.com/news/semiconductor-stocks-poised-for-best-august-in-over-20-years/) · [Intellectia – Nvidia Earnings August 2026: AI Chip Leader Investment Outlook](https://intellectia.ai/blog/nvidia-earnings-august-2026-ai-chip-outlook)
+
+**VRT / Walmart:** [TradingKey – VRT Closed Down by 6.92% on Aug 18: Facts Behind the Movement](https://www.tradingkey.com/news/market-movers/262116040-market-movers-vrt-20260818) · [Yahoo Finance – Walmart's sales growth expected to slow following thousands of price cuts](https://finance.yahoo.com/markets/stocks/article/walmarts-sales-growth-expected-to-slow-following-thousands-of-price-cuts-182327744.html)
+
+*Datennachtrag (nach der Analyse eingetroffen): Der GitHub-Actions-Kurslauf vom 20.08., 15:25 UTC, liefert Depotwert **9.396,03 €** gegen Benchmark **10.189,91 €** (S&P 500 7.680,57). Rückstand **7,8 %**. Die Analyse oben basiert auf dem Stand vom 19.08. (9.448,76 € / 10.259,50 €); beide Seiten haben am 20.08. verloren, das relative Bild ändert sich nicht.*
