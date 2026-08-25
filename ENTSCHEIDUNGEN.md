@@ -1113,3 +1113,113 @@ Was **für** die bisherige Linie spricht: Der Rückstand liegt seit dem 07.08. i
 **Zinsen und Jackson Hole:** [CNBC – Treasury yields fall as investors brace for Warsh's Jackson Hole keynote amid bond fears](https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html) · [CNBC – Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out](https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html)
 
 **Positionen:** [JournalArta – GOOGL Stock Analysis (24.08.2026)](https://journalarta.com/en/2026/08/24/googl-stock-analysis-gains-1-22-momentum-weakens/) · [CNN Markets – VRT Stock Quote Price and Forecast](https://www.cnn.com/markets/stocks/VRT) · [Yahoo Finance – Vertiv (VRT): Reviewing Valuation as AI Data Center Backlog, Orders and Liquid Cooling Demand Accelerate](https://finance.yahoo.com/news/vertiv-vrt-reviewing-valuation-ai-160536998.html) · [ad-hoc-news – Johnson & Johnson stock trades near record highs as 2026 revenue and EPS guidance rise](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-trades-near-record-highs-as-2026-revenue-and/69991957)
+
+---
+
+## 25.08.2026 (Dienstag) – Nachtrag (zweiter Lauf): Der WTI-Auslöser für CVX ist erreicht – ich prüfe wie zugesagt, halte aber, und setze dafür eine härtere Schwelle
+
+*Zweiter Lauf am selben Tag, geschrieben um ca. 17:25 MESZ bei laufender US-Sitzung. Der Morgeneintrag entstand vor US-Handelsbeginn. Dieser Nachtrag wiederholt ihn nicht, sondern prüft nur, ob die Information des Handelstages die Entscheidung von heute früh verändert.*
+
+### Was seit heute früh neu ist
+
+Vier Dinge, in der Reihenfolge ihrer Bedeutung für dieses Depot:
+
+**1. Öl hat den Auslöser gerissen, den ich heute früh selbst gesetzt habe.** WTI notiert im Tagesverlauf zwischen **82,5 und 83,3 $** (rund **-2 bis -3 %** nach bereits **-2,5 % am Montag** auf 84,89 $), Brent um **90 $** nach 92–93 $ gestern. Damit ist Punkt 4 der heute früh formulierten Auslöserliste – *„Wenn Öl trotz ‚Operation Economic Outcast' unter **85 $ (WTI)** fällt, ist die geopolitische Hälfte der CVX-These widerlegt"* – **erreicht**, und zwar nicht knapp. Der Grund ist derselbe wie am Montag, nur deutlicher: Der Markt liest die härteste Sanktionsrunde gegen Iran als **nicht versorgungswirksam**. Offen bleibt für die Händler nur, ob die Maßnahmen am Ende die Ströme durch Hormus treffen oder in eine Eskalation mit China als Irans Hauptabnehmer münden.
+
+**2. Die US-Daten von heute widersprechen dem Flash-PMI von Freitag – auf der Realwirtschaftsseite.**
+- **Verbrauchervertrauen (Conference Board) 89,4** nach 90,2 im Juli, erwartet 90,3. **Tiefster Stand seit sieben Monaten.** Als Begründung nennt die Erhebung ausdrücklich **Benzinpreise über 4 $/Gallone** infolge des Iran-Konflikts.
+- **Neubauverkäufe Juli: 607.000** Jahresrate, **-10,5 % gegenüber Juni** (678.000), erwartet 620.000. **Schwächster Wert seit Januar**, -6,3 % YoY. Mittlerer Westen -43 %, Süden -13 %.
+- **Case-Shiller (Juni): +1,9 % YoY** national nach +2,3 %, 20-Städte-Index **+2,1 %** nach +2,8 %. Die Hauspreisinflation verlangsamt sich klar.
+
+**3. Die Zinsen reagieren entsprechend:** Zehnjährige **-4 Bp auf 4,66 %**, getrieben von fallenden Ölpreisen und schwachen Daten. Das ist der dritte Tag in Folge mit nachgebenden Langfristrenditen.
+
+**4. Der Markt dreht ins Plus, angeführt von genau dem Block, der gestern verkauft wurde.** S&P 500 und Dow **je rund +0,4 %**, **Nasdaq +0,7 %**. Der Halbleiterkomplex erholt sich global: **TSMC +3,9 % in Taipeh**, **ASML über +3 % in Europa**, Micron +7,6 %, SanDisk +7,8 %, Seagate +5,8 %, Kospi +3,6 %. Bitcoin **über 80.000 $**, erstmals seit drei Monaten – laut Berichterstattung eine Reaktion auf die Anleiheintervention des Finanzministeriums und wieder aufkommende Sorgen um die Entwertung des Dollars. **Nvidia ist die Ausnahme:** siebte Verlustsitzung in Folge, **längste Verluststrecke seit 2022**, rund **-7 %** über die Strecke gegen -1,2 % beim S&P 500, Kurs um **210 $**.
+
+Zusätzlich neu auf dem Kalender: **Mittwoch kommt vor Nvidia noch der PCE-Deflator.** Damit fällt an einem Tag der wichtigste Inflationsdatenpunkt der Fed mit dem wichtigsten Einzelergebnis für die Hälfte dieses Depots zusammen.
+
+### Was das für die Regimefrage bedeutet
+
+Am 21.08. habe ich aus dem Flash-PMI (Composite 56,0, Verkaufspreise nahe Vierjahreshoch) ein klares „higher for longer"-Regime abgeleitet und daraus, dass der AI-Block verwundbarer und JPM/CVX bestätigt seien. **Die heutigen Daten zeigen, dass diese Ableitung zu geradlinig war.** Was sich tatsächlich abzeichnet, ist ein zweigeteiltes Bild: **heiße Preise im Dienstleistungssektor bei einer zinssensitiven Realwirtschaft, die deutlich abkühlt** – Neubauverkäufe auf Jahrestief, Hauspreisinflation halbiert gegenüber dem Vorjahr, Verbrauchervertrauen auf Siebenmonatstief. Das ist kein Boom, das ist eher der Anfang einer stagflationären Mischung.
+
+Für das Depot ist das ambivalent und heute per Kursreaktion ablesbar: Schwache Daten drücken die Renditen, fallende Renditen und fallendes Öl stützen die langlaufenden AI-Bewertungen – der Block, in dem wir zu 49,5 % stecken, hat heute den besten Tag seit einer Woche, während die Absicherungsseite (CVX) den Preis dafür zahlt. **Das ist genau das Verhalten, für das die Konstruktion gebaut ist**, nur diesmal mit umgekehrten Vorzeichen zum 24.08. Es bestätigt die Struktur und nicht die einseitige Regimeprognose vom 21.08.
+
+### Die CVX-Prüfung, wie heute früh zugesagt
+
+Der Auslöser ist erreicht, also führe ich die Prüfung durch und nicht nur die Kursnotiz.
+
+**Was gegen die Position spricht:**
+- Die geopolitische Hälfte der Kaufthese vom 12.08. ist damit **nicht mehr nur angekratzt, sondern praktisch erledigt**. Die härteste Sanktionsrunde gegen Iran, die es je gab, hat den Ölpreis in zwei Tagen um rund **5 %** *fallen* lassen. Deutlicher kann eine These nicht falsifiziert werden.
+- Die zweite Hälfte – Inflations- und Nominalwachstums-Hedge – steht heute ebenfalls schwächer da: Fallendes Öl ist selbst ein disinflationärer Impuls, und die Realdaten von heute (Häuser, Vertrauen) zeigen eine abkühlende Nachfrageseite.
+- OPEC+ hat laut Berichterstattung auf einen angebotsfreundlicheren Kurs geschwenkt. Das ist ein struktureller, kein tagesaktueller Gegenwind.
+
+**Was für die Position spricht:**
+- **Die Aktie bestätigt den Rohstoff nicht.** Chevron notiert bei rund **201,87 $** und damit weiter über der 200er-Marke, während WTI in zwei Sitzungen 5 % verloren hat. Ein Titel, der zwei fundamentale Negativtage nahezu unbeschadet übersteht, wird vom Markt offenkundig nicht als reiner Ölpreis-Proxy gehandelt, sondern über Förderkosten, Bilanz und Dividende (Rendite 3,40 %, 39 Jahre Steigerung). Chevrons US-Produktion war zuletzt +20 % auf 2,07 Mio. Barrel/Tag; bei 82 $ WTI verdient das Unternehmen weiterhin auskömmlich – die Schmerzgrenze integrierter Majors liegt sehr viel tiefer.
+- **Die Begründung des Ölrückgangs ist eine Meinung, kein Fakt.** Öl fällt, weil der Markt *glaubt*, dass die Sanktionen die Ströme nicht treffen. Das ist eine Einschätzung über die Wirksamkeit einer Politik, die vor 48 Stunden gestartet wurde und deren Fristen für Drittstaaten erst noch ablaufen. Ein Rückgang aus einer Erwartungsänderung ist etwas anderes als ein Rückgang aus einer Nachfrage- oder Angebotstatsache.
+- **Ein Verkauf würde heute die Konzentration erhöhen, die ich selbst als Hauptrisiko führe.** CVX ist 7,5 % des Depots. Verkaufe ich, steigt der Anteil des zinssensitiven AI-Blocks von 49,5 % auf über 53 %, und zwar **rund 24 Stunden vor Nvidia und PCE**. Das ist die falsche Richtung zum denkbar falschen Zeitpunkt.
+- Benzin über 4 $/Gallone bei WTI um 82 $ heißt in der Praxis: **weite Raffineriemargen**. Für einen integrierten Konzern ist genau das der Teil, der die Förderseite abfedert.
+
+**Ergebnis der Prüfung: halten.** Aber ich will das nicht mit einer weichen Formulierung durchwinken, denn hier entsteht ein Muster, das ich benennen muss: **Das ist der zweite CVX-Prüfpunkt binnen fünf Tagen, den ich mit „halten" beantworte** – am 21.08. der Hormus-Deeskalationspunkt, heute der 85-$-Punkt. Ein Auslöser, der zweimal erreicht wird und zweimal nichts auslöst, ist keine Regel, sondern Dekoration. **Deshalb ersetze ich ihn ab heute durch eine harte, zweiteilige Schwelle, die keinen Interpretationsspielraum lässt:**
+
+> **CVX wird reduziert oder verkauft, wenn WTI unter 78 $ schließt UND CVX unter 190 $ notiert.** Beides zusammen bedeutet, dass sowohl der Rohstoff als auch der Markt das Unternehmen abwerten – dann ist die Position nicht mehr Absicherung, sondern nur noch ein Verlust. Fällt nur eines von beidem, bleibt sie. Diese Schwelle wird nicht mehr verschoben.
+
+Der Abstand beträgt aktuell rund 5 % beim Öl und rund 6 % beim Kurs.
+
+### Depotstand
+
+Unverändert gegenüber heute früh, weil der GitHub-Actions-Kurslauf um 15:31 UTC noch nicht in `data.json` steht: **Depotwert 9.428,49 € gegen Benchmark 10.158,98 €**, Stand **24.08., 15:31 UTC**. Seit Start: **Depot -5,72 %, Benchmark +1,59 %, Rückstand 7,30 pp.**
+
+**Diese Zahlen sind heute besonders vorsichtig zu lesen.** Sie stammen aus einem Mittagsstand von *gestern*. Der heutige Handelstag – Chiperholung von +3 bis +4 % bei TSM und ASML, Öl -2,5 % – dürfte beide Seiten bewegt haben, das Depot dabei tendenziell etwas stärker als die Benchmark, weil unsere beiden Halbleiterpositionen zusammen 28 % ausmachen. **Ich schreibe das ausdrücklich als Vermutung und nicht als Ergebnis.** Nachkommastellen aus dieser Datenlage zu interpretieren, wäre der Fehler, den ich am 20.08. und heute früh schon zweimal notiert habe.
+
+### Die Positionen – nur die Veränderungen seit heute früh
+
+- **TSM (14,1 %)** und **ASML (13,9 %)** – die eigentlichen Gewinner des Tages. TSMC **+3,9 % in Taiwan**, ASML **über +3 % in Europa**. Damit ist der Montagsrückgang, den ich heute früh als reine Positionierung vor Nvidia eingeordnet habe, innerhalb einer Sitzung weitgehend zurückgenommen worden – die Einordnung war richtig. Keine neue Firmennachricht, keine Handlung.
+- **CVX (7,5 %)** – siehe Prüfung oben. Kurs rund 201,87 $, hält die 200er-Marke trotz -5 % im Öl über zwei Tage. Halten mit neuer, härterer Schwelle.
+- **JPM (6,3 %)** – heute zweischneidig. Positiv bleibt die Zinsmarge bei steiler Kurve. Neu und negativ: Neubauverkäufe -10,5 %, Hauspreisinflation auf +1,9 % halbiert, Verbrauchervertrauen auf Siebenmonatstief. Das ist die Nachfrage- und Kreditqualitätsseite einer Großbank, und sie kühlt ab. **Kein Handlungsgrund bei 6,3 % Gewicht**, aber der Gedanke, JPM aufzustocken, den ich seit dem 21.08. jeden Tag vertage, wird durch die heutigen Daten schwächer und nicht stärker. Das ist ein nützliches Nebenergebnis dieses Laufs.
+- **VRT (6,6 %)** – Auslöser bei 236 $ weiterhin nicht erreicht. Profitiert heute von der Chiperholung. Unverändert das höchste Ereignisrisiko im Depot für morgen Abend.
+- **GOOGL, V, JNJ** – keine neue Firmennachricht seit heute früh. JNJ heute ex Dividende (1,34 $); der Kursabschlag im nächsten Lauf ist buchhalterisch.
+
+**Zu Nvidia**, weil es die halbe Depothälfte betrifft: Sieben Verlusttage in Folge, längste Serie seit 2022, kumuliert rund -7 %. Die Erwartungshaltung ist damit weiter gesunken als heute früh angenommen. Gleichzeitig gilt die statistische Warnung: Die Aktie ist nach **fünf der letzten sechs** Quartalszahlen gefallen, im Schnitt der letzten vier um rund 6 % – trotz durchweg guter Zahlen. Konsens jetzt eher **93–95 Mrd. $** Umsatz (eigene Guidance 91 Mrd. $), Rechenzentrum rund **75 Mrd. $**, EPS um **3,09 $**, 59 von 62 Analysten mit Kaufempfehlung. **Der Markt verlangt für eine positive Reaktion offenbar eine angehobene Guidance, nicht nur einen Beat.** Das ändert nichts an der Entscheidung, den Termin abzuwarten – aber es senkt meine Erwartung, dass ein guter Bericht automatisch ein guter Kurstag wird.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+Zwei Optionen standen konkret zur Debatte:
+
+1. **CVX reduzieren, weil der selbst gesetzte Auslöser erreicht ist.** Verworfen aus den oben ausgeführten Gründen: Die Aktie bestätigt den Rohstoffrückgang nicht, der Auslöser lautete ausdrücklich „prüfen, nicht sofort verkaufen", und der Verkauf würde die Konzentration im AI-Block auf über 53 % treiben – 24 Stunden vor Nvidia und PCE. Ein Hedge abzubauen, unmittelbar bevor das Ereignis eintritt, gegen das er absichert, ist die schlechteste denkbare Reihenfolge. Ersetzt durch eine harte Doppelschwelle (WTI unter 78 $ **und** CVX unter 190 $).
+2. **Die Chiperholung zum Verkauf eines Teils von TSM oder ASML nutzen**, also in die Stärke hinein den Klumpen verkleinern. Das war die ernsthaftere Überlegung, weil sie in dieselbe Richtung zeigt wie mein eigener Befund vom 21.08. (Block ist ~50 %, das ist zu viel). Verworfen, weil es dieselbe Wette in umgekehrter Richtung wäre wie Option 1: **Eine Umschichtung im AI-Block 24 Stunden vor den Nvidia-Zahlen ist nur bei hartem, neuem Grund gerechtfertigt – und ein Erholungstag nach einem Rücksetzertag ist kein Grund, sondern Rauschen.** Wenn der Block zu groß ist, dann ist er das auch noch am Donnerstag, und dann weiß ich mehr.
+
+**Die Nachrichtenlage des Tages ist real, aber sie verändert keine der acht Anlagethesen.** Schwache Hausdaten und ein schwächeres Verbrauchervertrauen sind Makroinformation über das Zinsumfeld, keine Unternehmensinformation. Der Ölrückgang ist der einzige Punkt, der eine konkrete These berührt, und er ist geprüft. **Cash bleibt bei 11,0 %. Halten – zum zweiten Mal an diesem Tag.**
+
+### Auslöser für die nächsten Tage (aktualisiert)
+
+1. **Nvidia, Mittwoch 26.08. nach US-Schluss** – unverändert der primäre Test. Messlatte inzwischen **93–95 Mrd. $** Umsatz, Rechenzentrum um **75 Mrd. $**. **Entscheidend ist die Guidance, nicht der Beat.** Gesenkte oder nur bestätigte Rechenzentrums-Guidance ⇒ AI-Block reduzieren, VRT zuerst. Angehobene Guidance ⇒ These bestätigt.
+2. **Neu: PCE-Deflator am Mittwoch, vor Nvidia.** Ein PCE deutlich über Erwartung würde den Widerspruch zwischen heißem PMI und kalten Realdaten zugunsten der Inflationsseite auflösen und den AI-Block erneut belasten – und wäre gleichzeitig das stärkste verbliebene Argument für CVX.
+3. **CVX – neue harte Schwelle:** Reduktion nur, wenn **WTI unter 78 $ schließt UND CVX unter 190 $** notiert. Der alte 85-$-Auslöser ist heute erreicht, geprüft und damit verbraucht.
+4. **VRT unter ~236 $** ohne Firmennachricht ⇒ reduzieren. Stabilisierung über ~275 $ ⇒ These bestätigt. Unverändert seit 20.08.
+5. **Warsh, Jackson Hole, Freitag 28.08.** – nach den heutigen Schwächedaten steigt die Wahrscheinlichkeit, dass er sich ausgewogener äußert als vom Markt eingepreist. Nur ein *expliziter* Anhebungshinweis bleibt ein eigenständiger Auslöser.
+6. **Beobachten: JPM-Aufstockung.** Die heutigen Hausdaten sprechen erstmals gegen diesen seit dem 21.08. vertagten Plan. Wenn Neubauverkäufe und Verbrauchervertrauen im September weiter fallen, wird aus „vertagt" ein „verworfen".
+
+### Regelcheck
+
+**8 Positionen** (max. 10) · größte Position **GOOGL 14,95 %** (max. 20 %) · **Cash 1.038,20 € = 11,0 %** (min. 5 %). Alle Grenzen eingehalten, unverändert gegenüber heute früh, da keine Order ausgelöst wurde. Nicht von den Regeln erfasst und weiterhin das Hauptrisiko: der zinssensitive AI-Capex-Klumpen mit **49,5 %** (GOOGL 14,95 + TSM 14,09 + ASML 13,86 + VRT 6,62).
+
+### Ehrliche Einordnung
+
+**Erstens, der wichtigste Punkt dieses Nachtrags:** Ich habe am 21.08. aus einem einzigen starken Datenpunkt (Flash-PMI) ein ganzes Regime abgeleitet – „heißes Nominalwachstum, higher for longer" – und daraus zwei Positionen begründet. Vier Tage später liefern Verbrauchervertrauen, Neubauverkäufe und Case-Shiller das Gegenbild. **Beide Bilder sind wahr, weil sie verschiedene Teile der Wirtschaft messen**, aber meine Ableitung war einseitig, und einseitige Regimeprognosen sind genau die Sorte Analyse, die Portfolios in Faktorrisiken hineinlaufen lässt. Ich führe das ab jetzt als „geteiltes Bild": Dienstleistungspreise heiß, zinssensitive Realwirtschaft kühl.
+
+**Zweitens:** Der CVX-Auslöser ist erreicht, und ich handle nicht. Das ist begründet, aber es ist auch schon das zweite Mal in fünf Tagen. Ich habe deshalb die weiche Formulierung durch eine harte Doppelbedingung ersetzt, statt sie erneut zu dehnen. Wenn ich diese Schwelle beim nächsten Erreichen wieder verschiebe, ist das kein Urteilsfehler mehr, sondern Selbsttäuschung – und dieser Satz steht hier, damit ich ihn übermorgen lese.
+
+**Drittens, für die Bilanz dieses zweiten Laufs:** Er hat das Ergebnis des ersten nicht verändert, und das ist ein legitimes Ergebnis. Der einzige greifbare Mehrwert ist, dass eine vage Prüfbedingung durch eine überprüfbare ersetzt wurde und dass die Regimeannahme korrigiert ist. **Zwei Läufe an einem Tag rechtfertigen keine zwei Entscheidungen.**
+
+**Analyse: Claude Opus 5**
+
+### Quellen
+
+**Markt Dienstag 25.08.:** [Yahoo Finance – Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html) · [Yahoo Finance – Stock Market News for Aug 25, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-25-132700491.html) · [CNBC – S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names](https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html) · [Yahoo Finance – Global chip stocks extend rebound following last week's rout](https://finance.yahoo.com/markets/stocks/articles/chip-stocks-extend-global-rebound-102014494.html)
+
+**US-Konjunkturdaten 25.08.:** [KSAT/AP – US consumer confidence falls to lowest level in 7 months as gas prices remain elevated](https://www.ksat.com/business/2026/08/25/us-consumer-confidence-falls-to-lowest-level-in-7-months-as-gas-prices-remain-elevated/) · [Seeking Alpha – Consumer confidence slides in August to below consensus: Conference Board](https://seekingalpha.com/news/4152684-consumer-confidence-slides-in-august-to-below-consensus-conference-board) · [US Census Bureau – Monthly New Residential Sales, July 2026](https://www.census.gov/construction/nrs/pdf/newressales_202607.pdf) · [Reuters via WHBL – New US single-family home sales slide in July](https://whbl.com/2026/08/25/new-us-single-family-home-sales-slide-in-july/) · [PR Newswire – S&P Cotality Case-Shiller Index Reports Annual Gain in June 2026](http://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-june-2026-302859486.html) · [Trading Economics – United States New Home Sales](https://tradingeconomics.com/united-states/new-home-sales)
+
+**Zinsen:** [CNBC – Treasury yields fall as oil prices continue their slide this week](https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html) · [Trading Economics – US 10 Year Treasury Note Yield](https://tradingeconomics.com/united-states/government-bond-yield)
+
+**Öl und CVX:** [Trading Economics – Crude Oil](https://tradingeconomics.com/commodity/crude-oil) · [Fortune – Current price of oil as of August 25, 2026](https://fortune.com/article/price-of-oil-08-25-2026/) · [CNBC – Oil price today: WTI, Brent, U.S. sanctions, Iran](https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html) · [ad-hoc-news – Resilient Chevron stock trades above $200 as oil slips on Iran sanctions fears](https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-chevron-stock-trades-above-200-as-oil-slips-on-iran-sanctions/69991520) · [Yahoo Finance – Chevron Corporation (CVX) Drops as Oil Price Retreats](https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-drops-oil-123322272.html)
+
+**Nvidia vor den Zahlen:** [Yahoo Finance – Nvidia stock is on a 7-day losing streak ahead of its big earnings report](https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-on-a-7-day-losing-streak-ahead-of-its-big-earnings-report-121527754.html) · [24/7 Wall St. – Nvidia Notches Longest Losing Streak Since 2022. Tomorrow's Earnings Could Make It Worse](https://247wallst.com/investing/2026/08/25/nvidia-notches-longest-losing-streak-since-2022-tomorrows-earnings-could-make-it-worse/) · [Seeking Alpha – Nvidia Earnings Preview: Q2 2027](https://seekingalpha.com/article/4939733-nvidia-earnings-preview-q2-2027) · [Bloomberg – Nvidia Stock Bulls Get Punished in the Run-Up to Earnings](https://www.bloomberg.com/news/newsletters/2026-08-25/nvidia-stock-bulls-get-punished-in-the-run-up-to-earnings)
