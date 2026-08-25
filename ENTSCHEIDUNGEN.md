@@ -1032,3 +1032,84 @@ Zwei Korrekturen an eigenen früheren Aussagen stehen in diesem Eintrag. Erstens
 **V, JPM, Stablecoins:** [Benzinga – Visa and Samsung Expand Stablecoin Push as Clarity Act Faces Final Senate Test](https://www.benzinga.com/Opinion/26/08/60875449/visa-and-samsung-expand-stablecoin-push-as-clarity-act-faces-final-senate-test) · [Crypto Briefing – Clarity Act stalls as Senate Republicans raise concerns over stablecoin yield](https://cryptobriefing.com/clarity-act-stalls-stablecoin-yield-concerns/) · [TradingView/Zacks – JPMorgan Raises 2026 NII Outlook](https://www.tradingview.com/news/zacks:07fc00087094b:0-jpmorgan-raises-2026-nii-outlook-what-does-it-mean-for-earnings/) · [MarketWise – Yield Curve Steepening 2026: What It Means for Stocks, Banks, and Bonds](https://marketwise.com/investing/investing-yield-curve-steepening-2026-what-it-means-stocks-banks-bonds/)
 
 **CVX und JNJ:** [CNN Markets – CVX Stock Quote Price and Forecast](https://www.cnn.com/markets/stocks/CVX) · [Yahoo Finance – Johnson & Johnson (JNJ)](https://finance.yahoo.com/quote/JNJ/)
+
+---
+
+## 25.08.2026 (Dienstag) – Keine Trades: Der Chip-Rückgang vom Montag ist Positionsabbau vor Nvidia, kein Geschäftsereignis – das Depot schlägt die Benchmark erstmals seit Tagen an einem einzelnen Tag
+
+### Marktlage
+
+**Montag, 24.08.:** S&P 500 **-0,28 % auf 7.652,86**, Nasdaq **-0,76 % auf 25.980,19**, der Dow als einziger Index im Plus (**+0,3 %**). Die Bewegung war fast vollständig ein Halbleiter-Ereignis: **SOXX -2,7 %**, Intel **-5 %**, AMD **-4 %**, TSM **-3 %**, Nvidia selbst **-2,9 %**. Der Grund ist ausdrücklich kein Geschäftsereignis, sondern **Risikoabbau zwei Sitzungen vor den Nvidia-Zahlen**, verstärkt durch einen Wochenendbericht, wonach Nvidia die Preise für einige AI-Server um rund **15 %** anheben will (was Speicherwerte wie Micron und Sandisk mitzog).
+
+Zweiter Treiber: **Bessent hat am Montag „Operation Economic Outcast" gestartet** – ausgeweitete Sekundärsanktionen gegen Iran, rund 60 Personen, Einheiten und Schiffe in der ersten Runde, mit angedrohtem Ausschluss ausländischer Firmen aus dem US-Finanzsystem. Seine eigene Formulierung: „economic D-Day", „die größte Finanzoffensive, die je gegen einen Gegner aufgeboten wurde". **Große chinesische Banken wurden bewusst ausgespart.**
+
+**Öl reagierte gegenläufig zur Rhetorik:** Montag **über -2 %**, heute Dienstag leichte Erholung – **Brent +0,3 % auf 92,4 $, WTI +0,4 % auf 85,4 $**. Der Markt liest die Sanktionen also als *nicht* unmittelbar versorgungswirksam; Öl fließt weiter durch Hormus (Berichte über rund 16 Mio. Barrel in einer einzigen Nacht vergangene Woche).
+
+**Zinsen entspannen sich leicht:** Zehnjährige **-3 Bp auf 4,702 %**, dreißigjährige **-4 Bp auf 5,236 %**. Auslöser war ein CNBC-Bericht, wonach das Finanzministerium sein **1 Bio. $ schweres General Account** einsetzen könnte, um die Anleiherückkäufe zu finanzieren. Das ist die Fortsetzung genau des Musters, das ich am 20./21.08. als Beobachtungspunkt aufgenommen hatte: **Das Finanzministerium deckelt die langen Renditen aktiv, gegen den fundamentalen Druck aus dem heißen Flash-PMI.**
+
+**Heute Dienstag** eröffnen die Futures leicht im Plus (S&P +0,12 %, Nasdaq 100 +0,37 %). Auf dem Kalender: Case-Shiller, Neubauverkäufe, Verbrauchervertrauen. **Der Termin, auf den alles zuläuft, bleibt Nvidia am Mittwoch, 26.08., nach US-Schluss** (Konsens rund **92 Mrd. $** Umsatz gegen eigene Guidance von 91 Mrd. $ ±2 %, Rechenzentrum rund **75 Mrd. $**, etwa +92 % YoY). **Warsh spricht in Jackson Hole am Freitag, 28.08.**
+
+### Depotstand und die eine gute Nachricht
+
+**Depotwert 9.428,49 € gegen Benchmark 10.158,98 €** (Stand 24.08., 15:31 UTC). Seit Start: **Depot -5,72 %, Benchmark +1,59 %, Rückstand 7,30 pp** (relativ -7,2 %).
+
+Der einzige erfreuliche Befund dieses Laufs, und ich will ihn nicht größer machen, als er ist: **Am 24.08. ist das Depot minimal gestiegen (+0,05 % auf 9.428,49 €), während die Benchmark um 0,25 % auf 10.158,98 € gefallen ist.** Der Rückstand hat sich von 7,60 pp auf 7,30 pp verringert. Das ist genau das Verhalten, für das JNJ, CVX, JPM und V im Depot sind: An einem Tag, an dem der Halbleiterkomplex 2,7 % verliert, trägt die andere Hälfte des Depots. Nach drei Wochen, in denen ich diese Gegengewichte gekauft und dann zusehen musste, wie sie den Rückstand nicht schließen, ist das der erste Tag, an dem der Mechanismus sichtbar funktioniert hat.
+
+**Zwei Einschränkungen, damit daraus keine falsche Geschichte wird.** Erstens: 0,3 pp an einem Tag sind Rauschen, kein Trend – bei 7,30 pp Rückstand bräuchte es 24 solcher Tage. Zweitens, und wichtiger, es ist derselbe Fehler wie am 20.08.: **Der Depotwert stammt aus einem Zwischenstand um 15:31 UTC, also 11:31 ET – Mitte der Sitzung, nicht Schluss.** Die Halbleiterschwäche hat sich am Montag über den Tag verstärkt; der echte Schlussstand des Depots dürfte etwas schlechter liegen als 9.428,49 €. Ich notiere den Vergleich deshalb als *wahrscheinlich* leicht besser als die Benchmark, nicht als gesichert.
+
+### Die Positionen im Einzelnen
+
+- **GOOGL (14,9 %, -6,0 %)** – keine neue Firmennachricht. Zur Einordnung der Fundamentalseite, die zuletzt hinter der Capex-Diskussion verschwunden ist: Q2 mit Umsatz **+24 % auf 120 Mrd. $**, **Google Cloud +82 % auf 25 Mrd. $** bei einer um 15 Punkte auf 36 % gestiegenen Cloud-Marge. 59 Kaufempfehlungen, keine Verkaufsempfehlung, mittleres Kursziel **428 $**. Nächste Zahlen erst **27.10.**, Ex-Dividende 0,22 $ am 04.09. Meine Neueinordnung vom 21.08. bleibt stehen: GOOGL ist wegen negativem freiem Cashflow und Anleihefinanzierung der AI-Investitionen **Teil des zinssensitiven Blocks**, nicht dessen Gegengewicht. Halten.
+- **TSM (14,1 %, -11,5 %)** – schwächste Position nach Prozent, am Montag -3 %. Dem steht der Geschäftsverlauf entgegen: **Juli-Umsatz NT$467,58 Mrd., +44,7 % YoY und Rekordmonat**, Jan–Jul **+37,0 %**, angehobene Jahresprognose von **gut über +40 %** in Dollar, Capex auf **60–64 Mrd. $** erhöht, HPC/AI bei **66 %** des Q2-Umsatzes. **Der Kurs fällt, das Geschäft nicht.** Das ist Multiple-Kompression, und genau die habe ich mir mit dem Einstieg im Juli auf einem hohen Niveau eingekauft. Halten.
+- **ASML (13,9 %, -6,7 %)** – keine neue Nachricht seit der TSMC-Investitionsprognose von bis zu 85 Mrd. $ für 2027. Halten.
+- **V (14,4 %, +4,7 %)** – keine relevante Nachricht. Zweitbeste Position, erfüllt ihre Stabilisatorrolle. Das Stablecoin-Thema bleibt beobachtet, ist aber unverändert. Halten.
+- **JNJ (11,2 %, +6,0 %)** – beste Position. Kurs nahe Rekordniveau (Hoch 273,41 $ am 19.08.), Jahresumsatz erstmals auf Kurs über **100 Mrd. $**, angehobene EPS-Prognose. **Heute Ex-Dividende (1,34 $, Zahlung 08.09.)** – der Kursabschlag von rund 0,5 % im morgigen Lauf ist buchhalterisch, keine Verschlechterung. Halten.
+- **CVX (7,5 %, +1,6 %)** – der interessanteste Prüffall heute. Die Sanktionsrunde ist **härter in der Rhetorik, milder in der Wirkung**, als meine Kaufthese unterstellt hat: Chinas Großbanken ausgespart, Öl am Montag über 2 % gefallen. Das ist eine **teilweise Falsifikation** meines Arguments vom 21.08., Wirtschaftsdruck ersetze militärisches Risiko eins zu eins. Er ersetzt es nicht – er wirkt langsamer und unsicherer. Die Position bleibt trotzdem, aber ihre Begründung verschiebt sich vom Geopolitik-Hedge zum **Inflations- und Nominalwachstums-Hedge**, und der ist durch den Flash-PMI (Verkaufspreise nahe Vierjahreshoch) belegt. Brent bei 92 $ ist zudem weiterhin ein Niveau, auf dem Chevron sehr gut verdient. Halten, mit korrigierter These.
+- **VRT (6,6 %, -22,0 %)** – Kurs **261,95 $**, Tagesspanne 257,49–268,20 $. Mein Ausstiegsauslöser bei **236 $** ist **nicht erreicht** (Abstand rund 10 %). Fundamental unverändert stark: Q2-Umsatz **3.274 Mio. $ (+24 %)**, bereinigter operativer Gewinn **+51 %**, **Auftragsbestand mehr als verdoppelt auf über 15 Mrd. $** (12–18 Monate Umsatz), Jahresprognose auf **13,5–14,0 Mrd. $** angehoben, rund 75 % des Umsatzes aus Rechenzentren, 24 Kaufempfehlungen, mittleres Kursziel 338,15 $. Der Q2-Umsatzfehlbetrag war laut CEO Projekt-Timing und Lieferkette, nicht Nachfrage. **Der Verlust von 22 % ist eine Bewertungsfrage, keine Geschäftsfrage** – was die Position aber genau deshalb maximal empfindlich gegenüber morgen Abend macht. Halten bis Nvidia.
+- **JPM (6,3 %, -1,6 %)** – **362,04 $, +0,63 %** am Montag, also fest an einem schwachen Markttag. Die These (steilere Kurve, NII-Guidance ~105,5 Mrd. $) ist unverändert. Halten.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+Ich habe drei Optionen ernsthaft geprüft und alle drei verworfen:
+
+1. **VRT vor den Nvidia-Zahlen reduzieren.** Dafür sprach: höchstes Beta im Depot, -22 %, und das Risiko ist morgen Abend binär. Dagegen sprach das Entscheidende – **das wäre kein Risikomanagement, sondern eine Wette auf ein Ergebnis, das ich nicht kenne.** Der Auftragsbestand von über 15 Mrd. $ deckt 12–18 Monate Umsatz; selbst eine enttäuschende Nvidia-Guidance ändert an bereits gebuchten Aufträgen kurzfristig nichts. Und ich habe den Auslöser bewusst bei 236 $ definiert, nicht bei „kurz vor einem Termin, der mich nervös macht". Auslöser, die man vorzieht, weil man den Ausgang fürchtet, sind keine Auslöser.
+2. **Den Chip-Rückgang zum Nachkauf bei TSM nutzen.** Die Zahlen laden dazu ein (Rekordmonat, +44,7 %, Kurs 11,5 % unter Einstand). Dagegen: Das wäre Aufstockung eines Blocks, den ich vor vier Tagen selbst als **~50 % des Depots und größtes ungedecktes Risiko** identifiziert habe – 24 Stunden vor dem Ereignis, das über seine Richtung entscheidet. Verbilligen in die Konzentration hinein ist der klassische Fehler.
+3. **JPM aufstocken.** Unverändert sinnvoll und unverändert vertagt: Die Cash-Reserve ist ausdrücklich das Gegengewicht zu morgen Abend.
+
+**Keine der acht Positionen hat eine Nachricht, die die Schwelle aus Regel 7 erreicht.** Der Montags-Rückgang bei TSM war Sektor-Positionierung vor einem Termin, ausdrücklich kein Geschäftsereignis – und Sektor-Positionierung ist die Sorte Nachricht, wegen der man ausdrücklich nicht handeln soll. **Die 11,0 % Cash bleiben unangetastet. Halten ist der Normalfall, und heute ist erneut ein Normalfall.**
+
+### Auslöser für die nächsten Tage
+
+1. **Nvidia, Mittwoch 26.08. nach US-Schluss** – bleibt der primäre Test für rund die Hälfte des Depots. Messlatte: Umsatz um **92 Mrd. $**, Rechenzentrum um **75 Mrd. $**. **Gesenkte oder nur bestätigte Rechenzentrums-Guidance ⇒ AI-Block reduzieren, VRT zuerst.** Klarer Beat mit angehobener Guidance ⇒ These bestätigt, dann kann Cash in die Absicherungsseite (JPM), nicht in den Block. Wichtig für die Erwartungshaltung: Die Aktie ist bereits **-2,9 % am Montag** in den Termin hineingelaufen, ein Teil der Enttäuschung ist eingepreist.
+2. **VRT unter ~236 $** ohne Firmennachricht ⇒ reduzieren. Stabilisierung über ~275 $ ⇒ These bestätigt. Unverändert seit 20.08.
+3. **Warsh, Jackson Hole, Freitag 28.08.** – abgestuft, nur ein *expliziter* Anhebungshinweis ist ein eigenständiger Auslöser.
+4. **Neu: Der Sanktions-Ölpreis-Zusammenhang.** Wenn Öl trotz „Operation Economic Outcast" unter **85 $ (WTI)** fällt, ist die geopolitische Hälfte der CVX-These widerlegt und die Position steht nur noch auf dem Inflations-Hedge. Dann wäre sie zu überprüfen – nicht sofort zu verkaufen.
+5. **Weiter beobachten:** Bessents General Account als Finanzierung der Rückkäufe. Wenn das die langen Renditen dauerhaft deckelt, wäre ein Abbau des zinssensitiven Blocks der Fehler.
+
+### Regelcheck
+
+**8 Positionen** (max. 10) · größte Position **GOOGL 14,9 %** (max. 20 %) · **Cash 1.038,20 € = 11,0 %** (min. 5 %). Alle Grenzen eingehalten. Nicht von den Regeln erfasst und weiterhin das Hauptrisiko: der zinssensitive AI-Capex-Klumpen mit **49,5 %** (GOOGL 14,9 + TSM 14,1 + ASML 13,9 + VRT 6,6).
+
+### Ehrliche Einordnung
+
+Zwei Punkte, die gegen mich sprechen. **Erstens** habe ich am 21.08. argumentiert, Bessents Wirtschaftsdruck sei für den Ölpreis „nicht schlechter, nur anders begründet" als eine militärische Eskalation. Der Montag hat das direkt getestet: härteste Sanktionsrunde bisher, **Öl über 2 % gefallen**. Sanktionen mit ausgesparten chinesischen Großbanken sind eben nicht dasselbe wie eine Versorgungsstörung. Meine CVX-These steht damit auf einem Bein weniger als vor vier Tagen; ich lasse die Position, weil das verbleibende Bein – Inflation und heißes Nominalwachstum – das stärkere ist und durch den PMI belegt, nicht weil die erste Begründung noch trägt.
+
+**Zweitens** wiederhole ich beim Depotwert denselben methodischen Fehler wie am 20.08.: Der Wert aus `data.json` ist ein Mittagsstand, kein Schluss. Ich habe das diesmal wenigstens vor der Analyse bemerkt und nicht danach – aber solange der Kurslauf um 15:31 UTC stattfindet, ist jede Tagesaussage über Vorsprung oder Rückstand mit dieser Unschärfe behaftet, und ich sollte sie nicht in die Nachkommastelle hinein interpretieren.
+
+Was **für** die bisherige Linie spricht: Der Rückstand liegt seit dem 07.08. in einer Spanne von etwa -6,3 bis -8,1 pp und hat sich seither weder ausgeweitet noch geschlossen. Die drei Umschichtungen (MU raus, NEE raus, JPM und CVX rein) haben die Aufholjagd nicht geliefert – sie haben aber die Tagesausschläge gedämpft, und der 24.08. ist der erste klare Beleg dafür. **Sechs Wochen Rückstand rechtfertigen keine vierte Umschichtung 24 Stunden vor dem Ereignis, das über die Hälfte des Depots entscheidet.**
+
+**Analyse: Claude Opus 5**
+
+### Quellen
+
+**Markt 24./25.08.:** [Yahoo Finance – Stock Market Today (Aug. 24, 2026): Nasdaq slides on Iran sanctions, U.S.-Canada tariff threats](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-24-134834490.html) · [TheStreet – Stock Market Today (Aug. 24, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-24-2026) · [CNBC – S&P 500 falls to start the week, dragged down by a sell-off in chip stocks](https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html) · [Motley Fool – Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat](https://www.fool.com/coverage/stock-market-today/2026/08/24/stock-market-today-aug-24-nvidia-extends-losses-as-tech-stocks-retreat/)
+
+**Halbleiter:** [Yahoo Finance – Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%](https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html) · [CNBC – TSMC sales surge 45% amid buoyant AI demand](https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html) · [TSMC – July 2026 Revenue Report](https://pr.tsmc.com/english/news/3329)
+
+**Nvidia-Termin:** [ad-hoc-news – Nvidia stock steadies ahead of Aug. 26 earnings as AI growth and $91 billion revenue guide set the bar](https://www.ad-hoc-news.de/boerse/news/corporate-news/nvidia-stock-steadies-ahead-of-aug-26-earnings-as-ai-growth-and-91/69984206) · [Bitget Academy – NVIDIA Earnings August 26: NVDA Stock Price Outlook](https://www.bitget.com/academy/nvidia-earnings-august-26-nvda-stock-price-prediction-news)
+
+**Öl und Iran-Sanktionen:** [CNBC – Oil price today: WTI, Brent, U.S. sanctions, Iran](https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html) · [HDFC Sky – Oil Edges Higher as Markets Weigh Iran Sanctions, Hormuz Risk](https://hdfcsky.com/news/brent-crude-oil-price-today-august-25-2026-crude-ticks-up-to-92-4-per-barrel-as-iran-hit-with-fresh-us-sanctions) · [OilPrice.com – Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks](https://oilprice.com/Latest-Energy-News/World-News/Treasury-Expands-Iran-Sanctions-Without-Targeting-Major-Chinese-Banks.html)
+
+**Zinsen und Jackson Hole:** [CNBC – Treasury yields fall as investors brace for Warsh's Jackson Hole keynote amid bond fears](https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html) · [CNBC – Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out](https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html)
+
+**Positionen:** [JournalArta – GOOGL Stock Analysis (24.08.2026)](https://journalarta.com/en/2026/08/24/googl-stock-analysis-gains-1-22-momentum-weakens/) · [CNN Markets – VRT Stock Quote Price and Forecast](https://www.cnn.com/markets/stocks/VRT) · [Yahoo Finance – Vertiv (VRT): Reviewing Valuation as AI Data Center Backlog, Orders and Liquid Cooling Demand Accelerate](https://finance.yahoo.com/news/vertiv-vrt-reviewing-valuation-ai-160536998.html) · [ad-hoc-news – Johnson & Johnson stock trades near record highs as 2026 revenue and EPS guidance rise](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-trades-near-record-highs-as-2026-revenue-and/69991957)
