@@ -16,8 +16,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 340.65,
-      "valueEur": 1368.88
+      "lastPriceUsd": 346.59,
+      "valueEur": 1401.05
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 427.3,
-      "valueEur": 1392.76
+      "lastPriceUsd": 417.52,
+      "valueEur": 1368.98
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 1400,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1735.01,
-      "valueEur": 1306.62
+      "lastPriceUsd": 1696.16,
+      "valueEur": 1284.97
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 379.66,
-      "valueEur": 1356.3
+      "lastPriceUsd": 381.6,
+      "valueEur": 1371.35
     },
     {
       "symbol": "VRT",
@@ -56,8 +56,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 269.28,
-      "valueEur": 664.07
+      "lastPriceUsd": 257.08,
+      "valueEur": 637.76
     },
     {
       "symbol": "JNJ",
@@ -66,8 +66,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 265.77,
-      "valueEur": 1035.26
+      "lastPriceUsd": 268.04,
+      "valueEur": 1050.32
     },
     {
       "symbol": "JPM",
@@ -76,8 +76,8 @@
       "investedEur": 600,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 354.22,
-      "valueEur": 587.28
+      "lastPriceUsd": 357.62,
+      "valueEur": 596.44
     },
     {
       "symbol": "CVX",
@@ -86,8 +86,8 @@
       "investedEur": 700,
       "entryDate": "2026-08-12",
       "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
-      "lastPriceUsd": 199.77,
-      "valueEur": 704.59
+      "lastPriceUsd": 201.86,
+      "valueEur": 716.2
     }
   ],
   "orders": [],
@@ -451,47 +451,47 @@
     },
     {
       "date": "2026-08-28",
-      "depot": 9453.96,
-      "benchmark": 10256.8,
-      "spx": 7730.99
+      "depot": 9465.27,
+      "benchmark": 10231.29,
+      "spx": 7711.76
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1735.01,
-      "eur": 1488.51
+      "usd": 1696.16,
+      "eur": 1463.85
     },
     "CVX": {
-      "usd": 199.77,
-      "eur": 171.39
+      "usd": 201.86,
+      "eur": 174.21
     },
     "GOOGL": {
-      "usd": 340.65,
-      "eur": 292.25
+      "usd": 346.59,
+      "eur": 299.12
     },
     "JNJ": {
-      "usd": 265.77,
-      "eur": 228.01
+      "usd": 268.04,
+      "eur": 231.33
     },
     "JPM": {
-      "usd": 354.22,
-      "eur": 303.89
+      "usd": 357.62,
+      "eur": 308.64
     },
     "TSM": {
-      "usd": 427.3,
-      "eur": 366.59
+      "usd": 417.52,
+      "eur": 360.33
     },
     "V": {
-      "usd": 379.66,
-      "eur": 325.72
+      "usd": 381.6,
+      "eur": 329.33
     },
     "VRT": {
-      "usd": 269.28,
-      "eur": 231.02
+      "usd": 257.08,
+      "eur": 221.87
     }
   },
   "fx": {
-    "EURUSD": 1.1656
+    "EURUSD": 1.1587
   },
-  "lastUpdate": "2026-08-28 00:10 UTC"
+  "lastUpdate": "2026-08-28 23:47 UTC"
 }
