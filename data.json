@@ -90,7 +90,24 @@
       "valueEur": 729.44
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "shares": 1.5,
+      "reason": "Teilverkauf von rund einem Drittel (1,5 von 4,6839 Stück) der größten Position. Kein Verkauf wegen des Kurses, sondern weil zwei der drei Beine der Kaufthese vom 06.07. ('AI-Führungsposition mit Gemini, eigenen TPUs und Cloud-Wachstum, dazu Bewertungsabschlag') durch belegbare Fakten beschädigt sind. Erstens Personal: Chefwissenschaftler Jeff Dean hat Google nach 27 Jahren verlassen und gründet mit Oriol Vinyals, Quoc Le und Sanjay Ghemawat das Konkurrenzunternehmen Discovery Loop; Demis Hassabis gibt die operative Leitung von DeepMind ab. Dazu kommen die vorherigen Abgänge von Noam Shazeer und John Jumper. Zweitens Produkt und Monetarisierung: Verzögerung des nächsten Gemini-Modells, und laut Berichten vom 31.08. verschiebt sich nennenswerter YouTube-Umsatz aus den neuen AI-Initiativen bis 2029. Drittens Finanzierung: Capex 2026 von 175-185 Mrd. $ bei negativem freiem Cashflow, finanziert unter anderem über eine 25-Mrd.-$-Anleihe von Anfang August - genau das falsche Profil, nachdem Warsh am 28.08. in Jackson Hole eine mögliche Zinsanhebung signalisiert hat und die Septemberwahrscheinlichkeit von 35 % auf rund 58 % gesprungen ist. Portfoliologik: Nvidias Rekordquartal vom 26.08. (Umsatz 96,2 Mrd. $, Rechenzentrum 89 Mrd. $, Q3-Guidance 108 Mrd. $) bestätigt die VERKÄUFER der AI-Infrastruktur (TSM, ASML, VRT) und ist für die KÄUFER, die diese Rechnung schuldenfinanziert bezahlen, das Kostenargument. Der Markt hat genau so getrennt: Nvidia +8,5 % am 27.08., Alphabet zeitgleich rund 15 % unter Hoch, über 690 Mrd. $ Marktwert vernichtet und größter Punktebelaster des S&P 500. Der Teilverkauf senkt zugleich den AI-Capex-Klumpen von 49,6 % auf rund 44,8 %. Bewusst nur ein Drittel, weil das Q2-Geschäft exzellent war (Umsatz +24 %, Cloud +82 %, Cloud-Marge +15 pp) und 59 Kaufempfehlungen bei mittlerem Kursziel 428 $ gegen einen Kurs von 335 $ stehen - die Bewertungsseite der These lebt, die Führungsseite nicht mehr.",
+      "created": "2026-08-31"
+    },
+    {
+      "type": "buy",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "amountEur": 500,
+      "created": "2026-08-31",
+      "reason": "Einlösung einer ausdrücklichen Selbstverpflichtung vom 25.08.: 'Klarer Beat mit angehobener Guidance bei Nvidia ⇒ These bestätigt, dann kann Cash in die Absicherungsseite (JPM), nicht in den Block.' Genau dieser Fall ist eingetreten - Nvidia hat am 26.08. mit 96,2 Mrd. $ Umsatz (Konsens 92,2), 89 Mrd. $ Rechenzentrum (+117 %) und einer Q3-Guidance von 108 Mrd. $ gegen 104,2 Mrd. $ Erwartung deutlich angehoben, und zwar ohne jeden China-Umsatz. Der zweite, unabhängige Auslöser ist ebenfalls scharf geschaltet: Auslöser 5 der Liste vom 25.08. verlangte einen EXPLIZITEN Anhebungshinweis von Warsh; am 28.08. in Jackson Hole hat er genau den geliefert ('work to do', PCE 3,7 % über zwölf Monate und 4,1 % annualisiert über sechs Monate, Arbeitsmarkt bei Vollbeschäftigung). Zweijährige Rendite +12 Bp auf 4,356 %, Septemberwahrscheinlichkeit für eine Anhebung von 35 % auf 57-59 %, Zehnjährige am 31.08. bei 4,76 %. Eine asset-sensitive Großbank mit NII-Guidance von rund 105,5 Mrd. $ ist die direkteste Ausprägung dieses Regimes, und mit 6,3 % war die Position dafür zu klein, um zu wirken. Gegenargument, das ich stehen lasse und weiter beobachte: Die zinssensitive Realwirtschaft kühlt ab (Neubauverkäufe Juli -10,5 %, Verbrauchervertrauen auf Siebenmonatstief), was die Kreditqualitätsseite belastet - deshalb 500 € und nicht mehr. Neues Gewicht rund 11,6 %, Cash bleibt bei rund 10,4 %."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
