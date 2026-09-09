@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 971.25,
+  "cash": 1485.17,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1019.63,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 338.18,
-      "valueEur": 925.74
+      "lastPriceUsd": 330.35,
+      "valueEur": 903.53
     },
     {
       "symbol": "TSM",
@@ -26,18 +26,18 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 440.445,
-      "valueEur": 1438.69
+      "lastPriceUsd": 433.867,
+      "valueEur": 1415.98
     },
     {
       "symbol": "ASML",
       "name": "ASML (ADR)",
-      "shares": 0.8778,
-      "investedEur": 1400,
+      "shares": 0.5328,
+      "investedEur": 849.76,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1767.92,
-      "valueEur": 1334.26
+      "lastPriceUsd": 1734.073,
+      "valueEur": 793.67
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 369.06,
-      "valueEur": 1321.27
+      "lastPriceUsd": 367.675,
+      "valueEur": 1315.18
     },
     {
       "symbol": "VRT",
@@ -56,8 +56,8 @@
       "investedEur": 800,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 293.555,
-      "valueEur": 725.5
+      "lastPriceUsd": 264.445,
+      "valueEur": 652.99
     },
     {
       "symbol": "JNJ",
@@ -66,8 +66,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 270.91,
-      "valueEur": 1057.55
+      "lastPriceUsd": 268.495,
+      "valueEur": 1047.23
     },
     {
       "symbol": "JPM",
@@ -76,8 +76,8 @@
       "investedEur": 1100,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 355.673,
-      "valueEur": 1090.32
+      "lastPriceUsd": 354.785,
+      "valueEur": 1086.66
     },
     {
       "symbol": "CVX",
@@ -86,20 +86,11 @@
       "investedEur": 700,
       "entryDate": "2026-08-12",
       "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
-      "lastPriceUsd": 210.355,
-      "valueEur": 743.52
+      "lastPriceUsd": 213.425,
+      "valueEur": 753.73
     }
   ],
-  "orders": [
-    {
-      "type": "sell",
-      "symbol": "ASML",
-      "name": "ASML (ADR)",
-      "shares": 0.345,
-      "created": "2026-09-07",
-      "reason": "Ausfuehrung der am 03.09.2026 schriftlich fixierten Hormus-Regel (Sperrungs-Bein, PortWatch-Ausloeseweg): Die IMF-PortWatch-Reihe der taeglichen Durchfahrten durch die Strasse von Hormuz liegt an den beiden zuletzt veroeffentlichten Messwerten bei 3 (29.08.) und 6 (30.08.) und damit klar unter der Schwelle von 10; alle 30 Augusttage liegen bei <=10 (Monatsmittel 4,77) gegen einen Vorkrisen-Referenzwert von 63,5 Durchfahrten pro Tag (01.01.-19.02.2026). Anders als am 03.09. konnten die Werte diesmal auf der Primaerquelle selbst nachgelesen werden (portwatch.imf.org, Datendienst Daily_Chokepoints_Data der IMF-ArcGIS-Organisation), womit die in der Regel geforderte Bestaetigung durch eine neutrale Instanz vorliegt. Konsequenz laut Regel: Cash auf mindestens 15 %, finanziert aus dem AI-Capex-Block, nicht aus CVX und nicht aus JNJ. Innerhalb des Blocks faellt die Wahl auf ASML nach dem bereits am 03.09. vorab festgelegten Kriterium 'der naeher am 52-Wochen-Hoch stehende': ASML steht mit 1.704,98 $ rund 2 % unter dem 52-Wochen-Hoch von 1.741 $, TSM mit 427,25 $ rund 11 % unter 479 $. Damit wird die defensive Cash-Quote aus Staerke finanziert und nicht durch Verkauf der gefallenen Titel (VRT, GOOGL). Die Unternehmensthese fuer ASML bleibt unveraendert intakt (Jahresprognose auf 43-45 Mrd. EUR angehoben, Kapazitaetsausbau ~30 % in 2027/28); reduziert wird das Klumpenrisiko, nicht die These."
-    }
-  ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -254,6 +245,17 @@
       "priceUsd": 354.96,
       "amountEur": 500,
       "reason": "Einlösung einer ausdrücklichen Selbstverpflichtung vom 25.08.: 'Klarer Beat mit angehobener Guidance bei Nvidia ⇒ These bestätigt, dann kann Cash in die Absicherungsseite (JPM), nicht in den Block.' Genau dieser Fall ist eingetreten - Nvidia hat am 26.08. mit 96,2 Mrd. $ Umsatz (Konsens 92,2), 89 Mrd. $ Rechenzentrum (+117 %) und einer Q3-Guidance von 108 Mrd. $ gegen 104,2 Mrd. $ Erwartung deutlich angehoben, und zwar ohne jeden China-Umsatz. Der zweite, unabhängige Auslöser ist ebenfalls scharf geschaltet: Auslöser 5 der Liste vom 25.08. verlangte einen EXPLIZITEN Anhebungshinweis von Warsh; am 28.08. in Jackson Hole hat er genau den geliefert ('work to do', PCE 3,7 % über zwölf Monate und 4,1 % annualisiert über sechs Monate, Arbeitsmarkt bei Vollbeschäftigung). Zweijährige Rendite +12 Bp auf 4,356 %, Septemberwahrscheinlichkeit für eine Anhebung von 35 % auf 57-59 %, Zehnjährige am 31.08. bei 4,76 %. Eine asset-sensitive Großbank mit NII-Guidance von rund 105,5 Mrd. $ ist die direkteste Ausprägung dieses Regimes, und mit 6,3 % war die Position dafür zu klein, um zu wirken. Gegenargument, das ich stehen lasse und weiter beobachte: Die zinssensitive Realwirtschaft kühlt ab (Neubauverkäufe Juli -10,5 %, Verbrauchervertrauen auf Siebenmonatstief), was die Kreditqualitätsseite belastet - deshalb 500 € und nicht mehr. Neues Gewicht rund 11,6 %, Cash bleibt bei rund 10,4 %."
+    },
+    {
+      "date": "2026-09-09",
+      "type": "sell",
+      "symbol": "ASML",
+      "name": "ASML (ADR)",
+      "shares": 0.345,
+      "priceUsd": 1734.073,
+      "amountEur": 513.92,
+      "realizedPnlEur": -36.32,
+      "reason": "Ausfuehrung der am 03.09.2026 schriftlich fixierten Hormus-Regel (Sperrungs-Bein, PortWatch-Ausloeseweg): Die IMF-PortWatch-Reihe der taeglichen Durchfahrten durch die Strasse von Hormuz liegt an den beiden zuletzt veroeffentlichten Messwerten bei 3 (29.08.) und 6 (30.08.) und damit klar unter der Schwelle von 10; alle 30 Augusttage liegen bei <=10 (Monatsmittel 4,77) gegen einen Vorkrisen-Referenzwert von 63,5 Durchfahrten pro Tag (01.01.-19.02.2026). Anders als am 03.09. konnten die Werte diesmal auf der Primaerquelle selbst nachgelesen werden (portwatch.imf.org, Datendienst Daily_Chokepoints_Data der IMF-ArcGIS-Organisation), womit die in der Regel geforderte Bestaetigung durch eine neutrale Instanz vorliegt. Konsequenz laut Regel: Cash auf mindestens 15 %, finanziert aus dem AI-Capex-Block, nicht aus CVX und nicht aus JNJ. Innerhalb des Blocks faellt die Wahl auf ASML nach dem bereits am 03.09. vorab festgelegten Kriterium 'der naeher am 52-Wochen-Hoch stehende': ASML steht mit 1.704,98 $ rund 2 % unter dem 52-Wochen-Hoch von 1.741 $, TSM mit 427,25 $ rund 11 % unter 479 $. Damit wird die defensive Cash-Quote aus Staerke finanziert und nicht durch Verkauf der gefallenen Titel (VRT, GOOGL). Die Unternehmensthese fuer ASML bleibt unveraendert intakt (Jahresprognose auf 43-45 Mrd. EUR angehoben, Kapazitaetsausbau ~30 % in 2027/28); reduziert wird das Klumpenrisiko, nicht die These."
     }
   ],
   "history": [
@@ -526,44 +528,50 @@
       "depot": 9608.1,
       "benchmark": 10207.48,
       "spx": 7693.82
+    },
+    {
+      "date": "2026-09-09",
+      "depot": 9454.14,
+      "benchmark": 10136.69,
+      "spx": 7640.46
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1767.92,
-      "eur": 1520.01
+      "usd": 1734.073,
+      "eur": 1489.63
     },
     "CVX": {
-      "usd": 210.355,
-      "eur": 180.86
+      "usd": 213.425,
+      "eur": 183.34
     },
     "GOOGL": {
-      "usd": 338.18,
-      "eur": 290.76
+      "usd": 330.35,
+      "eur": 283.78
     },
     "JNJ": {
-      "usd": 270.91,
-      "eur": 232.92
+      "usd": 268.495,
+      "eur": 230.65
     },
     "JPM": {
-      "usd": 355.673,
-      "eur": 305.8
+      "usd": 354.785,
+      "eur": 304.77
     },
     "TSM": {
-      "usd": 440.445,
-      "eur": 378.68
+      "usd": 433.867,
+      "eur": 372.71
     },
     "V": {
-      "usd": 369.06,
-      "eur": 317.31
+      "usd": 367.675,
+      "eur": 315.84
     },
     "VRT": {
-      "usd": 293.555,
-      "eur": 252.39
+      "usd": 264.445,
+      "eur": 227.17
     }
   },
   "fx": {
-    "EURUSD": 1.1631
+    "EURUSD": 1.1641
   },
-  "lastUpdate": "2026-09-08 18:12 UTC"
+  "lastUpdate": "2026-09-09 18:12 UTC"
 }
