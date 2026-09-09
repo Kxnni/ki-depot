@@ -90,7 +90,16 @@
       "valueEur": 743.52
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "ASML",
+      "name": "ASML (ADR)",
+      "shares": 0.345,
+      "created": "2026-09-07",
+      "reason": "Ausfuehrung der am 03.09.2026 schriftlich fixierten Hormus-Regel (Sperrungs-Bein, PortWatch-Ausloeseweg): Die IMF-PortWatch-Reihe der taeglichen Durchfahrten durch die Strasse von Hormuz liegt an den beiden zuletzt veroeffentlichten Messwerten bei 3 (29.08.) und 6 (30.08.) und damit klar unter der Schwelle von 10; alle 30 Augusttage liegen bei <=10 (Monatsmittel 4,77) gegen einen Vorkrisen-Referenzwert von 63,5 Durchfahrten pro Tag (01.01.-19.02.2026). Anders als am 03.09. konnten die Werte diesmal auf der Primaerquelle selbst nachgelesen werden (portwatch.imf.org, Datendienst Daily_Chokepoints_Data der IMF-ArcGIS-Organisation), womit die in der Regel geforderte Bestaetigung durch eine neutrale Instanz vorliegt. Konsequenz laut Regel: Cash auf mindestens 15 %, finanziert aus dem AI-Capex-Block, nicht aus CVX und nicht aus JNJ. Innerhalb des Blocks faellt die Wahl auf ASML nach dem bereits am 03.09. vorab festgelegten Kriterium 'der naeher am 52-Wochen-Hoch stehende': ASML steht mit 1.704,98 $ rund 2 % unter dem 52-Wochen-Hoch von 1.741 $, TSM mit 427,25 $ rund 11 % unter 479 $. Damit wird die defensive Cash-Quote aus Staerke finanziert und nicht durch Verkauf der gefallenen Titel (VRT, GOOGL). Die Unternehmensthese fuer ASML bleibt unveraendert intakt (Jahresprognose auf 43-45 Mrd. EUR angehoben, Kapazitaetsausbau ~30 % in 2027/28); reduziert wird das Klumpenrisiko, nicht die These."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
