@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 1485.17,
+  "cash": 1781.32,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1019.63,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 340.365,
-      "valueEur": 934.05
+      "lastPriceUsd": 348.5,
+      "valueEur": 960.27
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 432.91,
-      "valueEur": 1417.61
+      "lastPriceUsd": 420.141,
+      "valueEur": 1381.39
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 849.76,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1708.84,
-      "valueEur": 784.75
+      "lastPriceUsd": 1576.21,
+      "valueEur": 726.79
     },
     {
       "symbol": "V",
@@ -46,18 +46,18 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 371.51,
-      "valueEur": 1333.36
+      "lastPriceUsd": 374.1,
+      "valueEur": 1348.12
     },
     {
       "symbol": "VRT",
       "name": "Vertiv Holdings",
-      "shares": 2.8745,
-      "investedEur": 800,
+      "shares": 1.4372,
+      "investedEur": 399.99,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 257.72,
-      "valueEur": 638.52
+      "lastPriceUsd": 238.09,
+      "valueEur": 296.13
     },
     {
       "symbol": "JNJ",
@@ -66,8 +66,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 265.59,
-      "valueEur": 1039.38
+      "lastPriceUsd": 266.87,
+      "valueEur": 1048.63
     },
     {
       "symbol": "JPM",
@@ -76,8 +76,8 @@
       "investedEur": 1100,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 357.015,
-      "valueEur": 1097.17
+      "lastPriceUsd": 349.865,
+      "valueEur": 1079.57
     },
     {
       "symbol": "CVX",
@@ -86,19 +86,11 @@
       "investedEur": 700,
       "entryDate": "2026-08-12",
       "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
-      "lastPriceUsd": 213.62,
-      "valueEur": 756.95
+      "lastPriceUsd": 211.77,
+      "valueEur": 753.45
     }
   ],
-  "orders": [
-    {
-      "type": "sell",
-      "symbol": "VRT",
-      "name": "Vertiv Holdings",
-      "shares": 1.4373,
-      "reason": "Ausfuehrung der am 20.08.2026 gesetzten und seither achtmal unveraendert bestaetigten Reduktionslinie: VRT unter rund 236 USD ohne Firmennachricht => reduzieren. Am 14.09. gerissen (Schluss 11.09. 257,06 USD, am 14.09. Tagesspanne rund 227-239 USD, vorboerslich 235,46 USD). Ausloeser ist ein Sektor-/Sentimentereignis (Amodei-Essay zur Verlangsamung der Frontier-AI-Entwicklung, von Altman und Musk gestuetzt; SOXX -5 %), keine Vertiv-Meldung - genau der Fall, fuer den die Linie gebaut wurde. VRT ist mit Beta 2,08 die zinssensitivste und hoechstbewertete Position im AI-Capex-Block, zwei Tage vor einer zu rund 85 % eingepreisten Fed-Anhebung. Reduziert wird um die Haelfte (1,4373 von 2,8745 Stueck) - die einzige Groesse, die ich je selbst fuer VRT quantifiziert habe (Fall A vom 03.09.: 'Halbierung von VRT'). Erloes geht in Cash, nicht in eine neue These."
-    }
-  ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -264,6 +256,17 @@
       "amountEur": 513.92,
       "realizedPnlEur": -36.32,
       "reason": "Ausfuehrung der am 03.09.2026 schriftlich fixierten Hormus-Regel (Sperrungs-Bein, PortWatch-Ausloeseweg): Die IMF-PortWatch-Reihe der taeglichen Durchfahrten durch die Strasse von Hormuz liegt an den beiden zuletzt veroeffentlichten Messwerten bei 3 (29.08.) und 6 (30.08.) und damit klar unter der Schwelle von 10; alle 30 Augusttage liegen bei <=10 (Monatsmittel 4,77) gegen einen Vorkrisen-Referenzwert von 63,5 Durchfahrten pro Tag (01.01.-19.02.2026). Anders als am 03.09. konnten die Werte diesmal auf der Primaerquelle selbst nachgelesen werden (portwatch.imf.org, Datendienst Daily_Chokepoints_Data der IMF-ArcGIS-Organisation), womit die in der Regel geforderte Bestaetigung durch eine neutrale Instanz vorliegt. Konsequenz laut Regel: Cash auf mindestens 15 %, finanziert aus dem AI-Capex-Block, nicht aus CVX und nicht aus JNJ. Innerhalb des Blocks faellt die Wahl auf ASML nach dem bereits am 03.09. vorab festgelegten Kriterium 'der naeher am 52-Wochen-Hoch stehende': ASML steht mit 1.704,98 $ rund 2 % unter dem 52-Wochen-Hoch von 1.741 $, TSM mit 427,25 $ rund 11 % unter 479 $. Damit wird die defensive Cash-Quote aus Staerke finanziert und nicht durch Verkauf der gefallenen Titel (VRT, GOOGL). Die Unternehmensthese fuer ASML bleibt unveraendert intakt (Jahresprognose auf 43-45 Mrd. EUR angehoben, Kapazitaetsausbau ~30 % in 2027/28); reduziert wird das Klumpenrisiko, nicht die These."
+    },
+    {
+      "date": "2026-09-14",
+      "type": "sell",
+      "symbol": "VRT",
+      "name": "Vertiv Holdings",
+      "shares": 1.4373,
+      "priceUsd": 238.09,
+      "amountEur": 296.15,
+      "realizedPnlEur": -103.86,
+      "reason": "Ausfuehrung der am 20.08.2026 gesetzten und seither achtmal unveraendert bestaetigten Reduktionslinie: VRT unter rund 236 USD ohne Firmennachricht => reduzieren. Am 14.09. gerissen (Schluss 11.09. 257,06 USD, am 14.09. Tagesspanne rund 227-239 USD, vorboerslich 235,46 USD). Ausloeser ist ein Sektor-/Sentimentereignis (Amodei-Essay zur Verlangsamung der Frontier-AI-Entwicklung, von Altman und Musk gestuetzt; SOXX -5 %), keine Vertiv-Meldung - genau der Fall, fuer den die Linie gebaut wurde. VRT ist mit Beta 2,08 die zinssensitivste und hoechstbewertete Position im AI-Capex-Block, zwei Tage vor einer zu rund 85 % eingepreisten Fed-Anhebung. Reduziert wird um die Haelfte (1,4373 von 2,8745 Stueck) - die einzige Groesse, die ich je selbst fuer VRT quantifiziert habe (Fall A vom 03.09.: 'Halbierung von VRT'). Erloes geht in Cash, nicht in eine neue These."
     }
   ],
   "history": [
@@ -554,44 +557,50 @@
       "depot": 9486.96,
       "benchmark": 10179.08,
       "spx": 7672.41
+    },
+    {
+      "date": "2026-09-14",
+      "depot": 9375.67,
+      "benchmark": 10121.33,
+      "spx": 7628.88
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1708.84,
-      "eur": 1472.88
+      "usd": 1576.21,
+      "eur": 1364.09
     },
     "CVX": {
-      "usd": 213.62,
-      "eur": 184.12
+      "usd": 211.77,
+      "eur": 183.27
     },
     "GOOGL": {
-      "usd": 340.365,
-      "eur": 293.37
+      "usd": 348.5,
+      "eur": 301.6
     },
     "JNJ": {
-      "usd": 265.59,
-      "eur": 228.92
+      "usd": 266.87,
+      "eur": 230.96
     },
     "JPM": {
-      "usd": 357.015,
-      "eur": 307.72
+      "usd": 349.865,
+      "eur": 302.78
     },
     "TSM": {
-      "usd": 432.91,
-      "eur": 373.13
+      "usd": 420.141,
+      "eur": 363.6
     },
     "V": {
-      "usd": 371.51,
-      "eur": 320.21
+      "usd": 374.1,
+      "eur": 323.76
     },
     "VRT": {
-      "usd": 257.72,
-      "eur": 222.13
+      "usd": 238.09,
+      "eur": 206.05
     }
   },
   "fx": {
-    "EURUSD": 1.1602
+    "EURUSD": 1.1555
   },
-  "lastUpdate": "2026-09-11 18:02 UTC"
+  "lastUpdate": "2026-09-14 19:41 UTC"
 }
