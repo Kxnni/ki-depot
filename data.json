@@ -90,7 +90,15 @@
       "valueEur": 756.95
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "VRT",
+      "name": "Vertiv Holdings",
+      "shares": 1.4373,
+      "reason": "Ausfuehrung der am 20.08.2026 gesetzten und seither achtmal unveraendert bestaetigten Reduktionslinie: VRT unter rund 236 USD ohne Firmennachricht => reduzieren. Am 14.09. gerissen (Schluss 11.09. 257,06 USD, am 14.09. Tagesspanne rund 227-239 USD, vorboerslich 235,46 USD). Ausloeser ist ein Sektor-/Sentimentereignis (Amodei-Essay zur Verlangsamung der Frontier-AI-Entwicklung, von Altman und Musk gestuetzt; SOXX -5 %), keine Vertiv-Meldung - genau der Fall, fuer den die Linie gebaut wurde. VRT ist mit Beta 2,08 die zinssensitivste und hoechstbewertete Position im AI-Capex-Block, zwei Tage vor einer zu rund 85 % eingepreisten Fed-Anhebung. Reduziert wird um die Haelfte (1,4373 von 2,8745 Stueck) - die einzige Groesse, die ich je selbst fuer VRT quantifiziert habe (Fall A vom 03.09.: 'Halbierung von VRT'). Erloes geht in Cash, nicht in eine neue These."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
