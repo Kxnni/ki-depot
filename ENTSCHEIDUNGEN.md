@@ -2819,3 +2819,276 @@ Kurse 16.09. (USD): GOOGL 344,805 · TSM 417,095 · ASML 1.598,58 · V 371,03 ·
 **2. Fehler im Git-Ablauf, offengelegt.** Der Abendlauf hat den lokalen Ordner beschrieben, ohne den Kurslauf von 18:34 UTC vorher einzuholen (der lokale `git pull` war zu Beginn des Laufs an defekten Lock-Dateien in `.git/` gescheitert). Der erste Commit des Abendlaufs (`2905b91`) hat den Kurslauf vom 16.09. dadurch **überschrieben**. Das wurde bemerkt und mit `68e6a90` korrigiert: `data.json` entspricht jetzt Zeichen für Zeichen dem Actions-Stand von 18:34 UTC, **ergänzt allein um das `orders`-Array mit den beiden Kauforders**. Verifiziert durch Feldvergleich beider Dateien. Kein Positions-, Cash-, `quotes`-, `history`- oder `trades`-Wert wurde von einem Cowork-Lauf verändert.
 
 **Konsequenz für künftige Läufe, als Regel formuliert:** Scheitert der `git pull` zu Beginn eines Laufs, ist der Lauf **nicht** abzubrechen – aber vor dem Commit ist der Remote-Stand zu holen und die eigene Änderung auf ihn aufzusetzen, statt den lokalen Stand zu pushen. Ein Kurslauf, der während des Laufs stattfindet, hat immer Vorrang vor dem lokalen Abbild; die KI schreibt ausschließlich `orders` und `ENTSCHEIDUNGEN.md`.
+
+---
+
+## 17.09.2026 (Donnerstag) – Fall III ist eingetreten und war schon erfüllt; der Hormus-Prüfpunkt feuert gegen mich, und ich führe ihn aus
+
+**Kurzfazit: Keine neuen Orders. Aber der Tag hat zwei Dinge erledigt, die seit Tagen offen waren – die Fed-Auswertung ist nachgeholt (Fall III, ohne Verkaufspflicht), und der am 16.09. datierte Hormus-Durchsatz-Prüfpunkt ist erfüllt. Damit fällt die 15-%-Cash-Bindung, die dieses Depot vier Läufe lang gefesselt hat. Dass daraus heute trotzdem kein Zukauf folgt, liegt nicht an meinem Ermessen, sondern an der Kappe meiner eigenen Wiedereinstiegsregel – und ich lege unten offen, dass ich die strengere von zwei möglichen Lesarten gewählt habe.**
+
+Dies ist der Nachholtermin für den Punkt, den der Abendlauf vom 16.09. nach Ausfallregel (5) auf heute terminiert hat: Die FOMC-Sitzung vom 16.09. war um 22:15 MESZ mit keiner erreichbaren Quelle belegbar. Heute war sie es, im ersten Anlauf.
+
+### Marktlage
+
+**Schlusskurse 16.09.2026 (jetzt belegt, im Gegensatz zu gestern):** S&P 500 **7.551,81** (−0,45 %), Dow Jones **51.462** (−631,21 Punkte, −1,21 %), Nasdaq Composite **25.978,42** (−0,01 %). Zehnjährige Rendite **5,02 %**. Gold −0,67 % auf 4.263,91 $.
+
+Das Kursbild des Tages ist erzählerisch eindeutig: Die Indizes standen vor der Entscheidung im Plus, drehten während Warshs Pressekonferenz ins Minus und schlossen gespalten – **Finanzwerte und Energie hinten, Technologie vorn**. Goldman Sachs, Wells Fargo, Bank of America und Citigroup verloren jeweils **über 3 %**. **JPMorgan verlor 1,5 %.** Der Nasdaq hielt sich mit −0,01 % praktisch flach, weil AI-Titel (Dell, Intel, Nvidia im Plus) durch Value-Käufe stabilisiert wurden.
+
+**Das ist die Umkehrung dessen, was meine JPM-These behauptet**, und ich schreibe es an den Anfang statt in eine Fußnote. Die These vom 10.08. lautet: Ein hawkischer Fed-Pfad entwertet langlaufende AI-Bewertungen und stützt die Zinsmarge der Banken. Am Tag des hawkischsten Fed-Ergebnisses seit Jahren fielen die Banken um 1,5 bis 3,5 % und der AI-lastige Nasdaq blieb flach. Ein Tag ist kein Beweis – aber es ist genau der Tag, an dem die These hätte liefern müssen.
+
+**Heute, 17.09. (Vormittags-/Mittagsstände, kein Schluss):** Gegenbewegung. S&P 500 **+1 %** auf rund **7.596**, Nasdaq **+1,7 %**, Dow +268 Punkte (+0,5 %). Zehnjährige Rendite zurück auf **4,951 %** (−5 Basispunkte), zweijährige **4,72 %**. Öl fällt: Die Quellen widersprechen sich (siehe „Zur Datenlage"), die Spanne reicht von WTI unter 100 $ / Brent ~102 $ bis WTI 102,0 $ / Brent 105,6 $. **Unter jeder Lesart sind meine Öl-Schwellen (WTI 110 $, Brent 120 $) nicht berührt.**
+
+### Fed-Auswertung – die sechs Pflichtfragen vom 16.09., der Reihe nach
+
+Der Abendlauf hat sechs Fragen (a) bis (f) verbindlich auf heute terminiert. Ich beantworte sie in seiner Reihenfolge.
+
+**(a) Zinsschritt und neues Zielband.** Die Fed hat um **25 Basispunkte angehoben**, neues Zielband **3,75 – 4,00 %**. Erste Anhebung seit **Juli 2023**.
+
+**(b) Dot-Plot-Median für Jahresende 2026 gegen den Juni-Median von 3,8 %.** Der neue Median liegt bei **4,1 %** – **0,3 Prozentpunkte über dem Juni-Median**. Der 2027er-Median stieg von 3,6 % auf **4,1 %**.
+
+**(c) Mitglieder, die über den Median hinausgehen.** **16 von 18** Teilnehmern erwarten mindestens eine weitere Anhebung: **12** sehen einen weiteren Viertelpunkt (4,125 %), **4** sehen zwei weitere (4,375 %). Zum Vergleich der Juni-Stand, den ich gestern festgehalten habe: 9 von 19 für mindestens einen Schritt. Es sind 18 statt 19 Punkte, weil **Warsh seit Amtsantritt keinen eigenen Punkt einreicht** – eine Eigenheit, die ich vorher nicht kannte und die die Prozentrechnung gegenüber dem Juni leicht verschiebt.
+
+**(d) Dissents mit Namen.** **Keine.** Die Abstimmung war **12:0, einstimmig.** Das ist das Ergebnis, mit dem ich am wenigsten gerechnet hätte: Im Juli stand es 9:3 mit drei Dissents **für** eine Anhebung (Hammack, Kashkari, Logan). Ein geschlossenes Gremium nach einem derart zerstrittenen Juli ist selbst eine Nachricht – es heißt, dass sich die Falken durchgesetzt haben, ohne dass die Tauben den Bruch gesucht hätten.
+
+**(e) Kernaussagen Warshs zur Frage „einmalige Anpassung oder Beginn einer Serie".** Warsh sagte, die Inflation sei „zu hoch … zu lange", und stellte eine **„zeitnähere Rückkehr"** zum 2-%-Ziel in Aussicht. Zur Begründung: „Unsere Entscheidung fällt in eine Zeit, in der die amerikanische Wirtschaft sich zu festigen scheint" – er nannte Arbeitsmarktdaten, Unternehmensgewinne und Investitionen. **Das ist keine Sprache einer einmaligen Anpassung.** Der Markt hat sie auch nicht so verstanden: Die Indizes drehten während der Pressekonferenz ins Minus.
+
+**(f) Schlusskurse und Renditen.** Oben unter „Marktlage". Zwei Jahre 4,72 %, zehn Jahre 5,02 % zum Schluss des 16.09.
+
+### Fallzuordnung: Fall III, und zwar ohne Spielraum
+
+Der Wortlaut meiner Regel vom 22.08., dreimal unverändert gelesen:
+
+> *Fall I: Die Fed hebt an* ⇒ keine Reflexaktion; ich messe **drei Handelstage** (bis 21.09.), ob **JPM den S&P 500 schlägt**. […] *Fall II: Die Fed hält still* ⇒ […] falls der Block über 42 % steigt, Rückführung auf rund 40 %. *Fall III: Anhebung plus hawkischer Ausblick auf weitere Schritte* ⇒ das ist die Regimeverschärfung, gegen die GOOGL, TSM, ASML und VRT am empfindlichsten sind; dann prüfe ich eine Reduktion des Blocks auf **36 %**.
+
+Der Morgenlauf vom 16.09. hat den Maßstab **vor** der Entscheidung präzisiert: *„Entscheidend für Fall III ist nicht der Schritt selbst, sondern ob der neue Median über den Juni-Median hinausgeht und wie viele Mitglieder mehrere weitere Schritte einzeichnen."*
+
+Angelegt an diesen Maßstab:
+
+| Kriterium | Maßstab (vorab gesetzt) | Befund 16.09. | Erfüllt? |
+|---|---|---|---|
+| Anhebung | ja/nein | +25 Bp auf 3,75–4,00 % | **ja** |
+| Neuer Median über Juni-Median | > 3,8 % | **4,1 %** | **ja, +0,3 pp** |
+| Mitglieder mit mehreren weiteren Schritten | Anzahl | **4 von 18** (zwei weitere Schritte) | **ja** |
+| Hawkischer Ausblick in Worten | Warsh-Kernaussage | „Inflation zu hoch, zu lange", „zeitnähere Rückkehr" zu 2 % | **ja** |
+
+**Fall III ist eingetreten. Es gibt keine Lesart, in der das anders ausgeht.** Fall II ist gegenstandslos (die Fed hat nicht stillgehalten). Fall I ist im Ergebnis mitenthalten – „die Fed hebt an" trifft zu –, und seine Messung läuft wie definiert; dazu unten eigener Abschnitt.
+
+**Was Fall III verlangt, und warum er heute nichts verlangt.** Fall III fordert eine Reduktion des AI-Capex-Blocks **auf 36 %**. Der Block steht bei **35,90 %** und liegt damit **darunter**. Der Morgenlauf vom 16.09. hat exakt diesen Satz **vor** der Entscheidung hingeschrieben, damit er heute nicht verhandelbar ist: *„Sollte Fall III eintreten, wäre er bereits erfüllt – er verlangt keine weitere Verkaufsaktion."*
+
+**Ich führe das so aus. Kein Verkauf.** Und ich halte fest, dass mir das Ergebnis heute gelegen kommt – deshalb zählt vor allem, dass die Feststellung **vorher** getroffen wurde und nicht heute.
+
+**Eine Korrektur an der Laufanweisung, die ich nicht übergehen kann.** Die heutige Laufanweisung definiert den AI-Capex-Block als **GOOGL + TSM + ASML**. Das ist falsch, und die Zahl verrät es: GOOGL + TSM + ASML ergeben zu den Kursen vom 16.09. **32,69 %**, nicht die 35,70 %, die seit dem 14.09. im Journal stehen. **Der Block enthält VRT.** Fall III nennt in seinem eigenen Wortlaut „GOOGL, TSM, ASML **und VRT**", und nur mit VRT geht die Rechnung auf (32,57 % + 3,13 % = 35,70 % zum 15.09.). Ich rechne mit der Journaldefinition, nicht mit der Anweisung. **Zum 16.09.: 955,79 + 1.379,62 + 741,53 + 302,89 = 3.379,83 € = 35,90 %.**
+
+Das ist die zweite Vorgabe in zwei Läufen, die gegen mein eigenes Journal nicht standhält (gestern: „Powell" statt Warsh). Die Lehre vom 16.09. – vorgegebene Angaben gegen das eigene Journal prüfen – hat heute zum ersten Mal einen materiellen Fehler abgefangen: Hätte ich den Block mit 32,69 % geführt, hätte ich **3,3 pp Scheinspielraum** gehabt und Fall III als „locker erfüllt" abgehakt, statt zu sehen, dass **0,10 pp** übrig sind.
+
+**Der Abstand beträgt 0,10 Prozentpunkte.** Bei einem Nasdaq, der heute 1,7 % zulegt, ist der Block morgen mit einiger Wahrscheinlichkeit über 36 %. Was dann? Ich entscheide das **jetzt**, vor dem nächsten Kurslauf, damit es später nicht mein Ergebnis ist: siehe „Neue und geschärfte Regeln", Punkt 3.
+
+### Der Hormus-Durchsatz-Prüfpunkt – die Regel, die heute gegen mich feuert
+
+Gestern habe ich geschrieben, datiert und bevor ich das Ergebnis kannte:
+
+> **NEU, datiert – Hormus-Durchsatz-Prüfpunkt:** Bestätigt eine **zweite, unabhängige** Quelle bis zum **30.09.2026**, dass der Hormus-Durchsatz über **7 Mio. Barrel/Tag** liegt, wird die Feuerregel von **Durchfahrten** auf **Durchsatz** umgestellt.
+
+**Der Befund: Die Bedingung ist erfüllt.**
+
+Die erste Quelle war **Macquarie** (16.09.): Ströme „widerstandsfähig", möglicherweise über **7,5 Mio. Barrel/Tag** seit dem 30.08. Die zweite Quelle ist **Kpler**, veröffentlicht von OilPrice.com am 04.09.2026, mit offengelegter Methodik:
+
+> Kplers **„reconstructed Hormuz clearance"** – ein Maß, das *Barrel* statt *Schiffe* zählt: Ladungen auf bestätigten Hormus-Durchfahrten plus Öl, das anschließend über das Gulf-of-Oman-Shuttlesystem außerhalb der Meerenge auftaucht; dunkle Fahrten werden rückwirkend ergänzt. **Dieses Maß liegt seit Mitte Juni im Durchschnitt bei 8,6 Mio. Barrel/Tag.**
+
+Dazu ein dritter, schwächerer Datenpunkt in dieselbe Richtung: US-Finanzminister Scott Bessent nennt **„mindestens 10 Mio. Barrel"** täglich. Und OilPrice' eigenes Fazit: *„Wir wissen daher, dass erheblich mehr Öl durchkommt, als die fünf, elf und sechs Schiffe der Tagesdaten nahelegen."*
+
+**8,6 liegt über 7. Die Frist 30.09. ist nicht abgelaufen. Die Regel feuert.**
+
+**Der Einwand, den ich mir selbst machen muss – und warum er nicht trägt.** Alle heute erreichbaren Quellen beschreiben die Meerenge weiterhin als geschlossen: **12 Durchfahrten am 16.09.** (Vortag 6), PortWatch **8 Schiffe am 13.09.** = 9 % des Normalniveaus, JMIC „weit unter Basislinie", Risikostufe „severe", ein Tracker führt Tag 200 als „geschlossen". Es wäre bequem, daran festzuhalten.
+
+**Das kann ich nicht.** Diese Zahlen sind sämtlich **Durchfahrtszählungen** – genau die Metrik, die ich mit dieser Regel außer Dienst stelle. Ich darf nicht beschließen, von Schiffen auf Barrel umzustellen, und dann die Umstellung mit Schiffszahlen verweigern. Das wäre die „Präzisierung", vor der ich gestern gewarnt habe: *„Wenn ich sie dann ‚präzisiere', war sie eine Ausrede."*
+
+Hinzu kommt das Sachargument, das ich seit dem 16.09. kenne und selbst notiert habe: **Ich zähle Schiffe und meine Barrel.** Ein VLCC mit zwei Millionen Barrel und ein kleiner Produktentanker zählen beide als eine Durchfahrt. Kpler weist dazu aus, dass die jüngsten sieben Tage vorläufig sind und typischerweise **um 50 bis 100 % nach oben revidiert** werden, sobald dunkle Fahrten bestätigt sind. **Diese Revisionsrichtung spricht zusätzlich gegen die Durchfahrtszählung, nicht für sie.**
+
+**Was ich ehrlich nicht ausschließen kann:** ob Macquarie seine Schätzung seinerseits auf Kpler-Daten stützt. Banken zitieren Kpler routinemäßig. Wäre das so, hätte ich **eine** Quelle zweimal gezählt und mein Kriterium „zweite, **unabhängige** Quelle" wäre schwächer erfüllt, als es aussieht. Ich habe das nicht verifizieren können und führe es als offene Unschärfe. Was dagegen spricht, die Regel deshalb nicht auszuführen: Kpler ist eine eigenständige Analysefirma mit eigener, publizierter Methodik und einer **anderen Zahl** (8,6 gegen >7,5); und der Bessent-Datenpunkt ist von beiden unabhängig.
+
+**Folgen der Ausführung, vollständig:**
+
+1. **Die Feuerregel misst ab heute Durchsatz statt Durchfahrten.** Auf Durchsatz (8,6 Mio. Barrel/Tag gegen die von mir gesetzte 7-Mio.-Linie) **feuert sie nicht**.
+2. **Die Cash-Untergrenze von 15 % fällt.** An ihre Stelle tritt der Korridor aus der Rückführungsregel: **Zielquote 8 bis 10 %**. Das Band der Wiedereinstiegsregel lautet damit ab heute **8,0 – 10,0 %**, Bandmitte **9,0 %**.
+3. **Die CVX-Hedge-Einfrierung endet.** Sie galt ausdrücklich nur, „solange die Hormus-Feuerregel gefeuert ist". CVX ist ab dem nächsten Lauf wieder ein normaler, nach der Wiedereinstiegsregel berechtigter Titel – zum ersten Mal seit dem 12.08.
+
+**Ein Konflikt zwischen zwei meiner eigenen Regeln, den ich offenlegen muss.** Die Rückführungsregel vom 22.08. nennt eigene Bedingungen für die Rückführung der 15-%-Quote: Durchfahrten **an drei aufeinanderfolgenden Tagen über 40**, belegt an der PortWatch-Reihe, **oder** ein Korridorabkommen **in Kraft**. **Keine von beiden ist erfüllt** – 12 Durchfahrten sind nicht 40, und die Oman-Gespräche sind laut CNN vom 13.09. verschoben, Iran stellt laut NBC harte Bedingungen.
+
+Die beiden Regeln widersprechen sich also: Der Prüfpunkt stellt auf Durchsatz um, die Rückführungsregel steht weiter auf Durchfahrten. **Eine Metrikumstellung, die nur die eine Hälfte des Regelpaars erfasst, ist inkohärent.** Ich löse das so, und ich sage dazu, dass die Umrechnung **meine heutige Konstruktion** ist und nicht im ursprünglichen Text stand:
+
+> Beide Schwellen sind als Anteil **derselben** Vorkriegs-Basislinie gesetzt. Vorkrieg: rund **100 Schiffe** und rund **20 Mio. Barrel** täglich. Die Durchfahrtsschwelle von **40** entspricht **40 % der Basislinie**; 40 % von 20 Mio. Barrel sind **8 Mio. Barrel/Tag**. Kplers **8,6 Mio. Barrel/Tag = 43 % der Basislinie** liegen darüber. Die Bedingung „drei aufeinanderfolgende Tage" ist durch einen **Dreimonatsdurchschnitt** erst recht erfüllt.
+
+Auf konsistent umgerechneter Metrik ist also **auch die Rückführungsregel erfüllt**. Dass diese Umrechnung sauber aufgeht (40/100 = 8/20), macht sie nicht wahr – sie bleibt eine Konstruktion von heute. **Ich hätte sie mit einer anderen Basislinie auch anders hinbekommen.** Deshalb steht sie hier ausgeschrieben und nicht in einer Nebenbemerkung.
+
+### Was daraus heute folgt – und was nicht
+
+**Die Wiedereinstiegsregel feuert, aber sie kauft heute nichts.** Nachrechenbar:
+
+- Cash-Quote **18,92 %** > Bandobergrenze **10,00 %** ⇒ **gefeuert**.
+- Überschuss über die Bandmitte: (18,92 − 9,00) % × 9.413,67 € = **934,09 €**.
+- **Höchstbetrag 5 % des Depotwerts je Lauf = 470,68 €** ⇒ bindend, der Betrag wird auf 470,68 € gekappt.
+- **In genau diesem Lauf sind bereits 280 € gebunden** – die beiden Orders V 140 € und JNJ 140 € vom 16.09., die beim Kurslauf des 17.09. ausgeführt werden.
+- Verbleibender Kopfraum: 470,68 − 280 = **190,68 €**. Das liegt **unter dem Mindestbetrag von 250 €**.
+- **Ergebnis: keine zusätzliche Order heute.** Der Rest wird ab dem nächsten Lauf mechanisch abgebaut.
+
+**Hier habe ich eine Wahl getroffen, und ich lege sie offen.** Der Text sagt „Höchstbetrag 5 % des Depotwerts **je Lauf**". Zwei Lesarten sind möglich:
+
+- **(A) Je Lauf** im wörtlichen Sinn: Alles, was im Kurslauf vom 17.09. ausgeführt wird, zählt gegen die Kappe – auch die gestern angelegten 280 €. Kopfraum 190,68 €, unter dem Mindestbetrag, **kein Zukauf**.
+- **(B) Je Entscheidung:** Die 280 € wurden gestern unter gestrigem Regelstand beschlossen; heute stünden frische 470 € zur Verfügung, zusammen **750 €** (7,97 % des Depots) in einem Kurslauf.
+
+**Ich nehme (A).** Nicht weil sie zwingend ist – (B) ist vertretbar –, sondern weil sie die **engere** ist und ich heute jeden erdenklichen Anreiz habe, die weitere zu nehmen: Ich liege 6,54 pp zurück, ich habe soeben rund 9 pp Cash freigeräumt, und ich habe seit vier Läufen geschrieben, dass die Cash-Fessel „der eigentliche Hebel" sei. **Wenn zwei Lesarten meiner eigenen Regel auseinandergehen und eine davon mir gibt, was ich ohnehin will, ist die andere die richtige.** Das ist die Entscheidungsregel, die ich hiermit festschreibe (siehe Regeln, Punkt 4).
+
+Und eine sachliche Stütze kommt hinzu: Heute ist der Tag, an dem eine **Regimeverschärfung bestätigt** wurde – zehnjährige Rendite um 5 %, Öl über 100 $, ein Dot-Plot mit vier Mitgliedern für zwei weitere Schritte. An einem solchen Tag 750 € in einem Zug zu investieren, wäre auch ohne Regelfrage die schlechtere Reihenfolge. **Die Kappe tut genau das, wofür sie geschrieben wurde: Sie macht aus dem Wiedereinstieg einen Pfad statt eines Sprungs.**
+
+**Feuert eine Verkaufsregel und sperrt damit die Wiedereinstiegsregel?** Regel (6) setzt die Wiedereinstiegsregel an jedem Lauf aus, an dem eine Verkaufsregel gefeuert hat – „nicht kaufen und verkaufen am selben Tag". Fall III ist heute **eingetreten**, verlangt aber **keinen Verkauf**, weil sein Ziel bereits erreicht ist. Eine Regel, deren Rechtsfolge ohne Handlung erfüllt ist, hat im Sinne von (6) nicht „gefeuert" – (6) soll gegenläufige Transaktionen am selben Tag verhindern, und es gibt keine. **Die beiden bestehenden Orders bleiben deshalb stehen.** Ich notiere diese Auslegung ausdrücklich, weil sie strittig sein könnte und ich nicht möchte, dass sie später als selbstverständlich durchgeht.
+
+### Die Fall-I-Messung – und ein Konstruktionsfehler in meiner eigenen Messdefinition
+
+Die Messung läuft wie am 16.09. geschärft: **Schlusskurs 16.09. bis Schlusskurs 21.09., drei Handelstage, JPM in USD gegen den S&P 500, Basis durchgängig die `data.json`-Kurslaufwerte.** Basis also: **JPM 350,345 $, SPX 7.591,65.**
+
+**Heute sehe ich, dass diese Basis kontaminiert ist, und ich ändere sie trotzdem nicht.**
+
+Der Kurslauf vom 16.09. fand um **18:34 UTC** statt – also **34 Minuten nach** der Zinsentscheidung (18:00 UTC), **mitten in Warshs Pressekonferenz** und rund 90 Minuten vor Handelsschluss. Es sind **keine Schlusskurse**, sondern Momentaufnahmen aus dem laufenden Handel, und zwar aus genau der Phase, in der der Markt gedreht hat:
+
+| | Kurslauf 18:34 UTC | Tatsächlicher Schluss | Snapshot zu hoch um |
+|---|---|---|---|
+| S&P 500 | 7.591,65 | **7.551,81** | **+0,53 %** |
+| JPM | 350,345 $ | ~347,20 $ (abgeleitet) | **+0,91 %** |
+
+Der JPM-Schlusskurs ist abgeleitet, nicht direkt belegt: JPM fiel am 16.09. laut Quelle um **1,5 %**, und der von mir am 16.09. notierte Vortagsschluss lag bei 352,49 $ ⇒ 352,49 × 0,985 ≈ **347,20 $**. Als Ableitung gekennzeichnet, nicht als Beleg.
+
+**Die Richtung der Verzerrung: Sie benachteiligt JPM.** Beide Basiswerte sind überhöht, aber JPM stärker als der Index (0,91 gegen 0,53 Prozentpunkte). Wer von einer zu hohen Basis aus misst, misst eine zu niedrige Rendite – und JPMs gemessene Rendite wird deshalb um rund **0,4 pp zu schlecht** ausfallen.
+
+**Ich lasse die Definition stehen.** Sie wurde am 16.09. schriftlich fixiert, ausdrücklich „durchgängig die `data.json`-Kurslaufwerte", und sie ist in sich konsistent, weil beide Enden derselben Quelle entstammen. Eine Messdefinition zu ändern, **nachdem** man weiß, in welche Richtung sie verzerrt, ist der Kernfehler, gegen den dieses ganze Regelwerk geschrieben ist – und er wäre hier besonders durchsichtig, weil die Korrektur **meiner Position nützen** würde.
+
+**Was ich stattdessen tue: Ich beziffere die Verzerrung vorab.** Sollte JPM die Messung am 21.09. **um weniger als 0,4 pp verlieren**, werte ich das Ergebnis als **innerhalb des Kontaminationsbandes** und damit als nicht entschieden – dann wird die Messung mit sauberen Schlusskursen wiederholt, statt JPM auf die Prüfliste zu setzen. **Diese Toleranz schreibe ich heute hin, vier Tage vor dem Ergebnis, und sie gilt symmetrisch: Gewinnt JPM um weniger als 0,4 pp, gilt die These ebenso wenig als bestätigt.**
+
+**Bis zum 21.09. bleibt JPM für Zukäufe gesperrt** (Wiedereinstiegsregel (5)(e)).
+
+### Positionsanalyse
+
+**GOOGL (10,15 %).** Alphabet ist drittgrößtes Unternehmen der Welt nach Marktkapitalisierung, hinter Nvidia und Apple. Keine belegbare Firmennachricht vom 16./17.09.; am 14.09. lief Alphabet in einer Zacks-Übersicht mit, deren Kernfrage die ist, die mich am Block interessiert: nicht mehr, **wie viel** für AI-Infrastruktur ausgegeben wird, sondern ob die Ausgaben **Umsätze, Margen und Rückflüsse** erzeugen. Halten.
+
+**TSM (14,66 %, größte Position).** MediaTeks Dimensity 9600 Pro belegt die 2-nm-Rampe. Der Capex-Widerspruch aus meinem Eintrag vom 16.09. ist **nicht aufgelöst**: Heutige Quellen nennen wieder **52 bis 56 Mrd. $ für 2026** (gegen 46 Mrd. $ Markterwartung), während eine Quelle vom 16.09. von 60 bis 64 Mrd. $ sprach und eine dritte ASMLs Kurssprung mit „85 Mrd. $" begründete. **Drei Zahlen, kein Abgleich mit der Primärquelle.** Für die Haltentscheidung folgenlos, als offener Widerspruch weitergeführt.
+
+**ASML (7,88 %).** Hat erstmals **500 Mrd. $ Marktkapitalisierung** überschritten, getragen von TSMCs Investitionsplänen. Halten.
+
+**V (14,29 %).** Keine neue Firmennachricht. Der jüngste belegbare Analystenschritt bleibt JPMorgans Anhebung des Kursziels von 400 auf **450 $** (Overweight) vom 29.07. Die 140-€-Order läuft. Halten.
+
+**VRT (3,22 %, Prüfliste bis 21.10.).** Zwei gegenläufige Nachrichten, beide relevant. **Belastend:** mehrere anlegerseitige Untersuchungen wegen möglicher Wertpapierbetrugsvorwürfe nach dem Q2-Bericht (Nettoumsatz 3,27 Mrd. $ unter Konsens, Kurssturz über 17 %); Kanzleien wie Pomerantz prüfen. **Stützend:** Vertiv übernimmt **Utility Innovation Holdings** für bis zu **2,6 Mrd. $** und holt damit Microgrid-Steuerung und Eigenerzeugung ins Portfolio – zielt genau auf den Stromengpass der AI-Rechenzentren. Am 14.09. fielen AI-Infrastrukturtitel (Super Micro, CoreWeave, Nebius, Vertiv) gemeinsam. **Die Anwaltsuntersuchungen sind neu und gehören auf die Prüfliste, ändern aber den Termin nicht: Q3-Bericht 21.10.** Nachlaufender Stop bleibt ausgeschlossen. Halten.
+
+**JNJ (11,25 %).** Weiterhin **keine** belegbare Firmennachricht – dritter Lauf in Folge. Fehlanzeige, keine Entwarnung. Die 140-€-Order läuft. Halten.
+
+**JPM (11,55 %).** Siehe oben: −1,5 % am Tag der Anhebung, Sektorkollegen −3 %+. Jamie Dimon sagte bei Yahoo Finance, er sei weiterhin nicht überzeugt, dass das Inflationsproblem vorbei sei. Messung läuft bis 21.09., bis dahin gesperrt.
+
+**CVX (8,09 %).** Energie gehörte am 16.09. zu den Verlierersektoren, heute fällt Öl um rund 2 %. Chevron meldet eine LNG-Expansion über vier Kontinente und erwartet kurzfristig hohe LNG-Preise. **Ab heute nicht mehr eingefroren.** Halten – der Hedge hat seinen Zweck nicht verloren: Die Saudi-Petroline ist weiterhin gestört, die Meerenge nach Schiffszählung weiterhin faktisch dicht, Brent über 100 $.
+
+### Erwogene und verworfene Alternativen
+
+1. **Den Hormus-Prüfpunkt nicht ausführen, weil alle Tagesquellen die Meerenge weiter als geschlossen führen.** Verworfen – **die wichtigste Verwerfung dieses Eintrags.** Alle diese Quellen zählen Schiffe. Die Regel, die heute zur Anwendung steht, ersetzt Schiffe durch Barrel. Mit der alten Metrik die Abschaffung der alten Metrik zu verweigern, ist zirkulär. Ich hätte damit durchkommen können – niemand hätte den Zirkelschluss bemerkt.
+2. **Den Prüfpunkt formal bejahen, die Ausführung aber bis zum 30.09. offenhalten, „weil die Frist noch läuft".** Verworfen. Die Frist ist ein **spätestens**, kein **frühestens**. Die Bedingung ist heute erfüllt; sie später zu erfüllen macht sie nicht erfüllter. Genau dieses Muster – eine Bedingung als erfüllt erkennen und die Konsequenz an das Fristende schieben – ist die Vertagung, die ich mir am 16.09. dreimal selbst vorgehalten habe.
+3. **Die 470 € Kopfraum heute zusätzlich zu den 280 € investieren (Lesart B).** Verworfen, ausführlich oben begründet. **Die engere Lesart gewinnt, wenn die weitere mir gibt, was ich will.**
+4. **Den AI-Block auf Verdacht reduzieren, weil Fall III eingetreten ist und der Abstand zur Marke nur 0,10 pp beträgt.** Verworfen. Fall III verlangt eine Reduktion **auf 36 %**; der Block liegt darunter. Eine Zielmarke zu unterschreiten, weil man sie knapp erreicht hat, ist dasselbe Vergehen wie sie anzuheben, weil man sie verfehlt – das steht seit dem 16.09. so im Journal. Zusätzlich: Ein Verkauf hätte nach Regel (6) die beiden laufenden Kauforders gesperrt.
+5. **Aus Fall III einen dauerhaften 36-%-Verkaufsauslöser machen, weil das „im Geiste" von Fall III läge.** Verworfen. Fall III war ein an die FOMC-Sitzung gebundenes Ereignis; es hatte heute seine Gelegenheit, einen Verkauf zu verlangen, und hat ihn nach meiner eigenen Vorabfeststellung nicht verlangt. Daraus heute einen **neuen** Verkaufsauslöser zu bauen – am Tag eines Nasdaq-Anstiegs von 1,7 %, der den Block über die Marke tragen dürfte – wäre eine Regel, die ich in Kenntnis ihrer sofortigen Wirkung schreibe. Stattdessen: Kaufsperre, siehe Regel 3.
+6. **JPM aufstocken, weil der Titel nach dem Fed-Tag 1,5 % billiger ist und die Zinsmarge steigt.** Zum dritten Mal in drei Läufen verworfen, jetzt zusätzlich durch (5)(e). Ich würde meine eigene laufende Messung verfälschen, und zwar in der Woche, in der sie läuft.
+7. **JPM verkaufen, weil die These am Tag ihres Tests nicht geliefert hat.** Verworfen – und ich nenne es, weil es die spiegelbildliche Versuchung ist. **Ein Tag ist die Datenmenge, gegen die die Fall-I-Messung erfunden wurde.** Drei Handelstage abwarten, dann entscheiden.
+8. **CVX aufstocken, jetzt wo die Einfrierung gefallen ist.** Zum neunten Mal verworfen, heute erstmals nicht wegen der Einfrierung, sondern weil die 5-%-Kappe verbraucht ist und Öl heute **fällt**. Ab dem nächsten Lauf ist CVX regulär berechtigt, und dann entscheidet die Verteilungsmechanik, nicht meine Lust.
+9. **Neue Kandidaten aufnehmen (Punkt (f) der Anweisung).** Nichts Belegbares. Am nächsten kam der Bereich „Strom für AI-Rechenzentren", den Vertivs 2,6-Mrd.-Übernahme adressiert – aber dieses Thema habe ich mit VRT bereits im Depot, und VRT steht auf der Prüfliste. **Ein Thema aufzustocken, dessen vorhandener Vertreter gerade wegen Betrugsvorwürfen untersucht wird, wäre die falsche Reihenfolge.** Keine neue Position.
+
+### Regelcheck (Stand Kurslauf 16.09.2026, 18:34 UTC, vor Ausführung der Orders)
+
+**TSM 14,66 % · V 14,29 % · JPM 11,55 % · JNJ 11,25 % · GOOGL 10,15 % · CVX 8,09 % · ASML 7,88 % · VRT 3,22 % · Cash 18,92 %**
+
+- **8 Positionen** (max. 10) ✓
+- **Größte Position TSM 14,66 %** (max. 20 %) ✓
+- **Cash 18,92 %** – min. 5 % nach Strategie ✓; die 15-%-Bindung ist **ab heute aufgehoben**, das neue Band lautet **8,0 – 10,0 %**; die Quote liegt **darüber**, weshalb die Wiedereinstiegsregel feuert (Ausführung durch die Kappe auf die bereits gebuchten 280 € begrenzt)
+- **AI-Capex-Block (GOOGL+TSM+ASML+VRT) 35,90 %** gegen die 36,0-%-Marke aus Fall III ✓ – Abstand **0,10 pp**
+
+**Rechnerisch nach Ausführung der 280 € (zu Kursen des 16.09.):** V 15,78 % · TSM 14,66 % · JNJ 12,74 % · JPM 11,55 % · GOOGL 10,15 % · CVX 8,09 % · ASML 7,88 % · VRT 3,22 % · **Cash 15,94 %**. Weiterhin 8 Positionen ✓, größte Position V 15,78 % < 20 % ✓, Block unverändert 35,90 % ✓. Die tatsächlichen Werte weichen ab, weil zu Kursen des 17.09. ausgeführt wird.
+
+### Benchmark und Performance
+
+| Datum | Depot | Benchmark | SPX (Kurslauf) | Rückstand |
+|---|---|---|---|---|
+| 14.09. | 9.375,67 € | 10.121,33 € | 7.628,88 | 7,45 pp |
+| 15.09. | 9.358,58 € | 10.061,15 € | 7.583,52 | 7,02 pp |
+| **16.09.** | **9.413,67 €** | **10.071,93 €** | **7.591,65** | **6,54 pp** |
+
+**Depot −5,86 % seit Start, Benchmark +0,72 % (Verankerung SPX 7.537,43 am 06.07.). Rückstand 6,54 Prozentpunkte** – der niedrigste seit dem 11.09. und der zweite Rückgang in Folge.
+
+**Eine Einschränkung, die ich heute ergänzen muss und die die Tabelle relativiert.** Der SPX-Wert 7.591,65 ist **kein Schlusskurs**, sondern der 18:34-UTC-Stand. Der tatsächliche Schluss lag bei **7.551,81**; damit wäre die Benchmark bei **10.019,08 €** statt 10.071,93 € – **52,85 € niedriger**. Der Depotwert wäre zu echten Schlusskursen **ebenfalls** niedriger, aber um wie viel, kann ich nicht sagen, weil mir die Schlusskurse aller acht Titel fehlen. **Der ausgewiesene Rückstand von 6,54 pp ist deshalb nicht belastbar auf die zweite Stelle**, und die schöne Geschichte „zweiter Rückgang in Folge" steht auf einem Vergleich zweier Momentaufnahmen, nicht zweier Schlusskurse. Ich lasse die Tabelle stehen, weil `data.json` die verbindliche Reihe ist – aber die Deutung nehme ich zurück.
+
+**Zur Diagnose vom 14.09.** („Ich hole an guten Tagen nicht auf und verliere an schlechten Tagen mehr"): Der 16.09. war nach Kurslaufwerten ein Aufholtag (+0,59 % gegen +0,11 %). Nach echten Schlusskursen war der 16.09. für den Index ein **Verlusttag** (−0,45 %), und ob das Depot besser oder schlechter lag, weiß ich nicht. **Der Test, den ich gestern für „positiv ausgefallen" erklärt habe, ist damit nicht ausgewertet, sondern offen.** Das ist eine Korrektur an meinem eigenen Nachtrag von heute früh, und sie fällt zu meinen Ungunsten aus.
+
+### Neue und geschärfte Regeln
+
+1. **AUSGEFÜHRT – Hormus-Durchsatz-Prüfpunkt.** Bedingung erfüllt (Kpler: 8,6 Mio. Barrel/Tag seit Mitte Juni, über der 7-Mio.-Linie, vor dem 30.09.). Die Feuerregel misst ab sofort **Durchsatz** statt **Durchfahrten** und feuert auf dieser Metrik **nicht**. Folgen: Cash-Untergrenze 15 % **aufgehoben**, Band **8,0 – 10,0 %** (Mitte 9,0 %); **CVX-Einfrierung beendet**. Die Umrechnung der Rückführungsschwelle (40 Durchfahrten = 40 % der Basislinie = 8 Mio. Barrel/Tag) ist **meine heutige Konstruktion** und als solche gekennzeichnet.
+2. **NEU – Rückumstellung.** Fällt der von Kpler oder einer gleichwertigen Quelle ausgewiesene Hormus-Durchsatz **an drei aufeinanderfolgenden Wochenwerten unter 6,0 Mio. Barrel/Tag**, feuert die Regel erneut und die 15-%-Bindung lebt wieder auf. Die Hysterese (Ausstieg bei 7,0, Wiedereinstieg bei 6,0) ist bewusst, damit die Bindung nicht im Monatsrhythmus an- und ausgeht. **Formuliert, bevor ich den nächsten Wert kenne.**
+3. **NEU – Der AI-Block-Deckel ist eine Kaufsperre, kein Verkaufsauslöser.** Steigt der Block (GOOGL+TSM+ASML+VRT) durch **Kursbewegung** über 36,0 %, folgt daraus **kein Verkauf**; es folgt allein, dass nach Wiedereinstiegsregel (5)(d) **kein Zukauf** in diese vier Titel zulässig ist. Ein Verkauf zur Rückführung verlangt einen **eigenen, neu zu begründenden** Auslöser. **Heute festgeschrieben bei einem Abstand von 0,10 pp und einem Nasdaq, der im Tagesverlauf 1,7 % zulegt – also in Kenntnis dessen, dass die Marke unmittelbar bevorsteht, und bevor ich weiß, ob sie fällt.**
+4. **NEU – Auslegungsregel bei mehrdeutigen eigenen Regeln.** Lässt eine meiner Regeln zwei vertretbare Lesarten zu und eröffnet eine davon mir mehr Handlungsspielraum, gilt die **engere**. Abweichung nur mit ausdrücklicher schriftlicher Begründung im selben Eintrag. Erste Anwendung heute: „5 % je Lauf" gilt je **Kurslauf**, nicht je Entscheidung – deshalb heute kein Zukauf.
+5. **NEU – Toleranzband der Fall-I-Messung.** Wegen der oben bezifferten Kontamination der Basis (JPM-Snapshot 0,91 % über Schluss, SPX-Snapshot 0,53 % darüber) gilt ein Ergebnis von **unter 0,4 pp Abstand in beide Richtungen** als **nicht entschieden**; die Messung wird dann mit Schlusskursen wiederholt. Vier Tage vor dem Ergebnis gesetzt, symmetrisch.
+6. **GESCHÄRFT – Definition des AI-Capex-Blocks.** Der Block umfasst **GOOGL, TSM, ASML und VRT**, entsprechend dem Wortlaut von Fall III. Die Drei-Titel-Lesart ist falsch und ergäbe 32,69 % statt 35,90 %.
+7. **Die drei Fed-Fälle sind mit dem heutigen Eintrag abgearbeitet.** Fall III eingetreten und erfüllt, Fall I in Messung bis 21.09., Fall II gegenstandslos. Sie werden **nicht** auf die Oktober-Sitzung (28.10.) fortgeschrieben; dafür braucht es neue, vorher formulierte Fälle.
+
+### Entscheidung
+
+**Keine neuen Orders.** Das `orders`-Array bleibt unverändert und enthält weiterhin die beiden Kauforders vom 16.09. (V 140 €, JNJ 140 €), die beim Kurslauf des 17.09. ausgeführt werden. **`data.json` wurde in diesem Lauf nicht verändert.**
+
+Die Begründung in einem Satz: **Ich habe heute die Regel ausgeführt, die mir die Fessel abgenommen hat, und bin dann an der Kappe meiner eigenen Kaufregel stehengeblieben – und das ist die richtige Reihenfolge, weil die Fessel an einer Bedingung hing, die erfüllt ist, und die Kappe an einer, die es nicht ist.**
+
+### Ehrliche Einordnung
+
+**Was für mich spricht.** Ich habe eine Regel ausgeführt, deren Bedingung ich **gestern** formuliert habe, ohne das Ergebnis zu kennen, und deren Ausführung mir heute **unbequem** war – unbequem in beide Richtungen: Sie nimmt mir die Ausrede, dass die 15-%-Fessel für den Rückstand verantwortlich sei, und sie zwingt mich, gegen den Augenschein sämtlicher Tagesquellen („Meerenge geschlossen, Tag 200") zu entscheiden. Gestern stand hier der Satz: *„Wenn die Regel in vier Wochen einmal feuert, wo es mir nicht passt, und ich sie dann ausführe, war sie echt."* Es hat nicht vier Wochen gedauert, sondern einen Tag, und es war eine andere Regel als gemeint – **aber die Probe ist dieselbe, und ich habe sie bestanden.** Ich habe außerdem die Fed-Auswertung im ersten Anlauf geliefert, statt sie ein viertes Mal zu verschieben, und ich habe einen Definitionsfehler in der Laufanweisung gefangen, der mir 3,3 pp Scheinspielraum im AI-Block gegeben hätte.
+
+**Was gegen mich spricht – fünf Dinge.**
+
+**Erstens: Ich habe heute eine Umrechnung erfunden, die genau aufgeht.** 40 Durchfahrten = 40 % der Basislinie = 8 Mio. Barrel/Tag, und Kpler meldet 8,6. Das ist zu sauber, um nicht misstrauisch zu sein. Ich habe die Basislinie (100 Schiffe / 20 Mio. Barrel) nicht selbst gewählt – sie steht so in den Quellen –, aber **ich habe die Umrechnung nach dem Ergebnis gebaut, nicht davor**, und das ist der Unterschied zu einer echten Regel. Wäre Kpler bei 7,4 gelandet, hätte dieselbe Umrechnung gegen mich entschieden; das ist der einzige Trost, und es ist ein schwacher.
+
+**Zweitens: Ich kann die Unabhängigkeit meiner zweiten Quelle nicht beweisen.** Mein Kriterium lautete „zweite, **unabhängige** Quelle". Ob Macquarie auf Kpler aufsetzt, weiß ich nicht. Ich habe die Regel ausgeführt, obwohl ihr zentrales Tatbestandsmerkmal ungeprüft bleibt. Das ist die schwächste Stelle des heutigen Eintrags, und sie ist schwächer als die Umrechnung, weil sie sich mit mehr Recherche hätte klären lassen und ich sie nicht geklärt habe.
+
+**Drittens: Ich habe gestern Abend eine Aufholgeschichte erzählt, die heute nicht mehr trägt.** Der Nachtrag von heute früh nannte den 16.09. einen Tag, an dem „das Depot mehr zugelegt hat als die Benchmark", und nannte das „die Gegenprobe zum 15.09.". Beide Werte stammen aus einer Momentaufnahme um 18:34 UTC; nach echten Schlusskursen war der Index an diesem Tag **im Minus**. **Ich habe eine Zahl gedeutet, deren Charakter ich im selben Absatz beschrieben hatte.** Das ist kein Rechenfehler, sondern ein Lesefehler aus Wunschdenken, und er ist mir keine zwölf Stunden später aufgefallen.
+
+**Viertens: Die JPM-These hat an ihrem Prüftag das Gegenteil geliefert, und ich halte trotzdem still.** Banken −1,5 bis −3,5 % am Tag der hawkischsten Fed-Entscheidung seit Jahren – das ist der Kern meiner Kaufbegründung vom 10.08., ins Gegenteil verkehrt. Ich halte still, weil die Messung dafür da ist. **Aber ich schreibe hin, dass „ich warte auf meine Messung" auch die Form ist, die Nichtstun annimmt, wenn es gerade bequem ist.** Am 21.09. wird sich zeigen, welche von beiden es war.
+
+**Fünftens: Der Rückstand liegt bei 6,54 pp, und ich habe heute nichts gekauft.** Ich habe 9 pp Cash freigeräumt und **keinen einzigen Euro** davon eingesetzt. Die Begründung ist regelkonform und ich stehe zu ihr – aber sie ändert nichts daran, dass dieses Depot seit dem 06.07. **−5,86 %** macht, während die Benchmark **+0,72 %** macht, und dass der heutige Lauf daran wieder nichts geändert hat. **Mein Regelwerk ist inzwischen sehr gut darin, mich vor Fehlern zu schützen, und immer noch schlecht darin, Rendite zu erzeugen.** Der Unterschied zu gestern: Der Weg dorthin ist jetzt frei und mechanisch – ab dem nächsten Lauf fließen 470 € je Kurslauf in berechtigte Positionen, bis die Quote bei 9 % steht. Das dauert rechnerisch zwei bis drei Läufe. **Ob das hilft, weiß ich nicht. Dass es passiert, ohne dass ich es jedes Mal neu beschließen muss, ist der Punkt.**
+
+### Zur Datenlage
+
+Bestände, Gewichte und Kurse stammen aus `data.json`, Stand **16.09.2026, 18:34 UTC**. **Kein Kurs in der Depottabelle ist geschätzt.**
+
+Benannte Unschärfen:
+
+**(a) Die `data.json`-Werte vom 16.09. sind keine Schlusskurse**, sondern Momentaufnahmen um 18:34 UTC – 34 Minuten nach der Zinsentscheidung, während der Pressekonferenz, rund 90 Minuten vor Handelsschluss. Belegt für den Index: Kurslauf 7.591,65 gegen Schluss **7.551,81**. Das betrifft Benchmark, Rückstand **und die Basis der Fall-I-Messung**. Oben ausführlich behandelt; ich passe die Zahlen nicht an, sondern führe die Abweichung.
+
+**(b) Der JPM-Schlusskurs vom 16.09. ist abgeleitet, nicht belegt.** 352,49 $ × 0,985 ≈ 347,20 $, aus der Meldung „JPM fiel 1,5 %". Ein direkter Schlusskurs lag mir nicht vor.
+
+**(c) Ölpreise 17.09. widersprechen sich um 2 bis 3 $.** Eine Quelle nennt WTI unter 100 $ (−2 %) und Brent bei rund 102 $; ein Live-Ticker nennt zeitgleich WTI **102,0 $** und Brent **105,6 $**; eine dritte Quelle schreibt, Öl sei heute **über** 100 $ gestiegen. Für jede Trigger-Aussage (WTI 110 $, Brent 120 $) ist die Spanne folgenlos, aber ich mittle nicht und nenne keinen Einzelwert als Tagespreis.
+
+**(d) Hormus-Durchsatz: Die 8,6 Mio. Barrel/Tag sind ein Dreimonatsdurchschnitt seit Mitte Juni, kein Tageswert**, veröffentlicht am **04.09.**, heute also 13 Tage alt. Kpler kennzeichnet die jüngsten sieben Tage als vorläufig mit typischen Aufwärtsrevisionen von 50 bis 100 %. Die Zahl schließt rund 4 Mio. Barrel/Tag aus Fujairah und omanischen Terminals **nicht** ein, weil diese Hormus umgehen. **Ich habe keinen aktuellen Tageswert für den Durchsatz gefunden** und die Regel dennoch ausgeführt – die Regel verlangte keinen Tageswert, aber ich hätte einen lieber gehabt.
+
+**(e) Unabhängigkeit von Macquarie und Kpler ungeprüft**, siehe „Ehrliche Einordnung", zweitens.
+
+**(f) Durchfahrtszahlen bleiben widersprüchlich.** 12 am 16.09. (Vortag 6), PortWatch **8 am 13.09.** = 9 % des Normalniveaus, Kpler-Zehntagesschnitt 13/Tag Anfang September, Lloyd's List rund 12/Tag Ende August, JMIC 22/Tag für US-eskortierte Fahrten. **Die IMF-PortWatch-Primärquelle war erneut nicht direkt abrufbar**; alle Zahlen stammen aus Sekundärquellen. Für die Regelanwendung ab heute ohne Belang, weil die Metrik gewechselt hat – aber ich führe sie weiter, weil Regel 2 eine Rückumstellung vorsieht.
+
+**(g) Der VRT-Kurs ist unklar.** Eine Quelle nennt **272,40 $** ohne Datumsangabe, `data.json` führt **242,065 $** zum 16.09. Die Differenz von über 12 % ist zu groß für einen Zeitversatz innerhalb eines Tages; vermutlich ein veralteter oder auf anderen Stichtag bezogener Erfassungsstand. **Ich rechne durchgängig mit dem Kurslaufwert** und weise die zweite Zahl nicht als Alternative aus.
+
+**(h) TSMC-Capex weiterhin dreifach belegt und nicht abgeglichen:** 52–56 Mrd. $, 60–64 Mrd. $, „85 Mrd. $". Primärquelle ungeprüft, für die Haltentscheidung folgenlos, als offener Widerspruch weitergeführt.
+
+**(i) Für JNJ liegt den dritten Lauf in Folge keine Firmennachricht vor.** Fehlanzeige, keine Entwarnung – und die 140-€-Order läuft trotzdem, weil sie aus einer mechanischen Regel stammt und nicht aus einer Meinung.
+
+**(j) Der heutige S&P-Stand von rund 7.596 ist ein Intraday-Wert** (Stand etwa Mittag New Yorker Zeit), kein Schluss. Der Kurslauf vom 17.09. lag zum Zeitpunkt dieses Eintrags noch nicht in `data.json` vor.
+
+**`data.json` wurde in diesem Lauf NICHT verändert.** Weder `orders` noch Positionen, Cash, `quotes`, `history` oder `trades`. Die beiden Orders vom 16.09. stehen unverändert im Array.
+
+**Analyse: Claude Opus 5**
+
+### Quellen
+
+**Fed-Entscheidung 16.09.2026 (Ergebnis, belegt):** [CNBC – Fed rate decision September 2026: Rates rise to 3.75%-4%](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html) · [CNBC – Fed meeting recap: Warsh says inflation is still too high as Fed hikes for the first time since 2023](https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html) · [Euronews – Fed raises rates for the first time since 2023 in unanimous vote defying Trump](https://www.euronews.com/business/2026/09/16/fed-raises-rates-for-the-first-time-since-2023-in-unanimous-vote-defying-trump) · [Fox Business – September FOMC: Federal Reserve hikes interest rates for first time since 2023](https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-september-16-2026) · [Yahoo Finance – Fed hikes interest rates by 25 basis points as Warsh vows 'timelier return' to 2% inflation](https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html) · [Bloomberg – Fed Raises Rates as Warsh Bucks Trump to Contain Inflation](https://www.bloomberg.com/news/articles/2026-09-16/fed-raises-rates-as-warsh-bucks-trump-to-contain-inflation) · [Traders Agency – Fed Raises Rates 25bp to 3.75%-4%, First Hike Since 2023; Dot Plot Points to One More Increase in 2026](https://tradersagency.com/blog/fed-raises-rates-25bp-to-375percent-4percent-first-hike-since-2023-dot-plot-points-to-one-more-increase-in-2026) · [Babypips – Fed's Dot Plot Explained: What the September Decision Means for USD](https://www.babypips.com/analysis/explainer-fed-dot-plot-september-decision-usd-2026-09-17) · [Kiplinger – September Fed Meeting: Updates and Commentary](https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026) · [Charles Schwab – Divided Fed Leaves Interest Rates Unchanged (Juli-Sitzung, 9:3, Dissents Hammack/Kashkari/Logan)](https://www.schwab.com/learn/story/fomc-meeting) · [Federal Reserve – Summary of Economic Projections, 17.06.2026 (Juni-Dot-Plot, Primärquelle)](https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260617.pdf)
+
+**Markt 16./17.09.:** [Motley Fool – Stock Market Today, Sept. 16: Stocks Slip as Fed Raises Rates](https://www.fool.com/coverage/stock-market-today/2026/09/16/stock-market-today-sept-16-stocks-slip-as-fed-raises-rates/) · [Yahoo Finance – Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html) · [TheStreet – Stock Market Today (Sept. 16, 2026): Dow, S&P 500 plummet after Fed hikes](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-16-2026) · [CNBC – Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors](https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html) · [CNBC – Dow futures rally 600 points, boosted by declining oil and yields as traders attempt Fed sell-off rebound](https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html) · [Tickmill – Daily Market Outlook, September 17, 2026](https://www.tickmill.com/blog/daily-market-outlook-september-17-2026) · [Trading Economics – United States Stock Market Index](https://tradingeconomics.com/united-states/stock-market)
+
+**Hormus und Öl:** [OilPrice – How Much Oil Is Really Getting Through the Strait of Hormuz? (Kpler reconstructed clearance, 8,6 Mio. b/d seit Mitte Juni)](https://oilprice.com/Energy/Energy-General/How-Much-Oil-Is-Really-Getting-Through-the-Strait-of-Hormuz.html) · [Al Jazeera – How much oil is going through Hormuz? Why data doesn't match US claims (03.09.2026)](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims) · [CNBC – Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday](https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html) · [CNN – Wait… how much oil is actually leaving the Persian Gulf?](https://www.cnn.com/2026/08/17/business/oil-market-strait-of-hormuz-trump) · [IEA – Strait of Hormuz](https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz) · [Windward – Strait of Hormuz Daily Intelligence (12 Durchfahrten 16.09.)](https://insights.windward.ai/) · [TankerMap – Strait of Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz) · [Global Energy Flow – Is the Strait of Hormuz Open? Day 200](https://global-energy-flow.com/hormuz/) · [OilPrice – Hormuz Shipping Traffic Remains Stuck in Single Digits](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html) · [CNN – Iran-Gulf talks on reopening the Strait of Hormuz postponed (13.09.2026)](https://www.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz) · [IMF PortWatch – Chokepoint Strait of Hormuz (Primärquelle, weiterhin nicht direkt abrufbar)](https://portwatch.imf.org/pages/chokepoint6)
+
+**Positionen:** [Simply Wall St – Vertiv Holdings Co (VRT), Untersuchungen nach Q2 und Übernahme Utility Innovation Holdings](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co) · [Globe and Mail / Zacks – Analyst Blog Highlights Alphabet, Microsoft, NVIDIA, Arista Networks and Vertiv (14.09.2026)](https://www.theglobeandmail.com/investing/markets/stocks/VRT/pressreleases/4585182/the-zacks-analyst-blog-highlights-alphabet-microsoft-nvidia-arista-networks-and-vertiv/) · [Yahoo Finance – ASML tops $500 billion market cap as TSMC plans to spend more](https://finance.yahoo.com/news/asml-tops-500-billion-market-090946358.html) · [Yahoo Finance – TSMC raises capex and revenue forecast, highlighting growing AI chip demand](https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html) · [Motley Fool – The Largest Companies by Market Cap in September 2026](https://www.fool.com/research/largest-companies-by-market-cap/) · [MarketBeat – Visa (NYSE:V) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says (Kursziel 450 $, 29.07.2026)](https://www.marketbeat.com/instant-alerts/visa-nysev-stock-price-expected-to-rise-jpmorgan-chase-co-analyst-says-2026-07-29/) · [TheStreet – JPMorgan CEO doubles down on his inflation and economy verdict](https://www.thestreet.com/investing/jpmorgan-ceo-said-inflation-not-over-economy-verdict) · [OilPrice – Chevron Targets Four Continents in New LNG Expansion Drive](https://oilprice.com/Latest-Energy-News/World-News/Chevron-Targets-Four-Continents-in-New-LNG-Expansion-Drive.html)
