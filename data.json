@@ -16,8 +16,8 @@
       "investedEur": 1019.63,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 344.805,
-      "valueEur": 955.79
+      "lastPriceUsd": 344.31,
+      "valueEur": 949.71
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 417.095,
-      "valueEur": 1379.62
+      "lastPriceUsd": 414.22,
+      "valueEur": 1363.34
     },
     {
       "symbol": "ASML",
@@ -36,8 +36,8 @@
       "investedEur": 849.76,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1598.58,
-      "valueEur": 741.53
+      "lastPriceUsd": 1591.695,
+      "valueEur": 734.69
     },
     {
       "symbol": "V",
@@ -46,8 +46,8 @@
       "investedEur": 1300,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 371.03,
-      "valueEur": 1345.09
+      "lastPriceUsd": 375.205,
+      "valueEur": 1353.51
     },
     {
       "symbol": "VRT",
@@ -56,8 +56,8 @@
       "investedEur": 399.99,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 242.065,
-      "valueEur": 302.89
+      "lastPriceUsd": 235.57,
+      "valueEur": 293.3
     },
     {
       "symbol": "JNJ",
@@ -66,8 +66,8 @@
       "investedEur": 1000,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 267.815,
-      "valueEur": 1058.67
+      "lastPriceUsd": 265.97,
+      "valueEur": 1046.18
     },
     {
       "symbol": "JPM",
@@ -76,8 +76,8 @@
       "investedEur": 1100,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 350.345,
-      "valueEur": 1087.55
+      "lastPriceUsd": 344.58,
+      "valueEur": 1064.37
     },
     {
       "symbol": "CVX",
@@ -86,11 +86,28 @@
       "investedEur": 700,
       "entryDate": "2026-08-12",
       "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
-      "lastPriceUsd": 212.675,
-      "valueEur": 761.21
+      "lastPriceUsd": 216.805,
+      "valueEur": 772.16
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "buy",
+      "symbol": "V",
+      "name": "Visa",
+      "amountEur": 140,
+      "created": "2026-09-16",
+      "reason": "Erstanwendung der am 16.09.2026 (Abendlauf) formulierten Wiedereinstiegsregel - der seit dem 14.09. offene Punkt 9 des Regelwerks. Regel: Die Cash-Quote wird nicht mehr als blosse Untergrenze gefuehrt, sondern als Band [geltende Untergrenze; Untergrenze + 2,0 pp]. Solange die Hormus-Feuerregel gefeuert ist, lautet das Band 15,0-17,0 %. Liegt die Quote im Kurslauf ueber der Bandobergrenze, wird der Ueberschuss ueber die Bandmitte (16,0 %) investiert, abgerundet auf volle 10 EUR, Mindestbetrag 250 EUR, Hoechstbetrag 5 % des Depotwerts je Lauf. Rechnung Stand Kurslauf 15.09.2026: Cash 19,03 % > 17,0 % ausgeloest; (19,03 - 16,00) % x 9.358,58 EUR = 283,57 EUR, abgerundet 280 EUR, gleichmaessig auf die berechtigten Positionen = 140 EUR je Titel. Gesperrt und deshalb nicht berechtigt: CVX (Hedge-Einfrierung der Hormus-Regel gilt in beide Richtungen), VRT (laufende Pruefliste bis Q3-Bericht 21.10.), GOOGL/TSM/ASML (jeder Zukauf wuerde den AI-Capex-Block ueber die 36-%-Marke aus Fall III heben; Block steht bei 35,70 %), JPM (steht bis 21.09. in der laufenden Fall-I-Messung gegen den S&P 500). Uebrig bleiben V und JNJ. Ausdruecklich KEINE Konviktionsaussage: Die Visa-Recherche vom 16.09. (Morgenlauf) hat 'keinen Grund aufzustocken' ergeben, und das gilt unveraendert. Diese Order ist eine Entscheidung ueber die Cash-Quote, nicht ueber die Einzeltitel - das Ziel ist neutral gewaehlt, damit keine Einzelthese eingeschmuggelt wird. Die 15-%-Untergrenze der Hormus-Bindung wird NICHT gelockert: Cash faellt von 19,03 % auf rechnerisch 16,04 %. Hintergrund: 19 % Cash bei 7,02 pp Rueckstand zur Benchmark waren unallokierter Rest aus dem ASML-Teilverkauf (07.09.) und der VRT-Halbierung (14.09.), kein bewusster Puffer."
+    },
+    {
+      "type": "buy",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "amountEur": 140,
+      "created": "2026-09-16",
+      "reason": "Erstanwendung der am 16.09.2026 (Abendlauf) formulierten Wiedereinstiegsregel - der seit dem 14.09. offene Punkt 9 des Regelwerks. Regel: Die Cash-Quote wird nicht mehr als blosse Untergrenze gefuehrt, sondern als Band [geltende Untergrenze; Untergrenze + 2,0 pp]. Solange die Hormus-Feuerregel gefeuert ist, lautet das Band 15,0-17,0 %. Liegt die Quote im Kurslauf ueber der Bandobergrenze, wird der Ueberschuss ueber die Bandmitte (16,0 %) investiert, abgerundet auf volle 10 EUR, Mindestbetrag 250 EUR, Hoechstbetrag 5 % des Depotwerts je Lauf. Rechnung Stand Kurslauf 15.09.2026: Cash 19,03 % > 17,0 % ausgeloest; (19,03 - 16,00) % x 9.358,58 EUR = 283,57 EUR, abgerundet 280 EUR, gleichmaessig auf die berechtigten Positionen = 140 EUR je Titel. Gesperrt und deshalb nicht berechtigt: CVX (Hedge-Einfrierung der Hormus-Regel gilt in beide Richtungen), VRT (laufende Pruefliste bis Q3-Bericht 21.10.), GOOGL/TSM/ASML (jeder Zukauf wuerde den AI-Capex-Block ueber die 36-%-Marke aus Fall III heben; Block steht bei 35,70 %), JPM (steht bis 21.09. in der laufenden Fall-I-Messung gegen den S&P 500). Uebrig bleiben V und JNJ. Ausdruecklich KEINE Konviktionsaussage: Die Visa-Recherche vom 16.09. (Morgenlauf) hat 'keinen Grund aufzustocken' ergeben, und das gilt unveraendert. Diese Order ist eine Entscheidung ueber die Cash-Quote, nicht ueber die Einzeltitel - das Ziel ist neutral gewaehlt, damit keine Einzelthese eingeschmuggelt wird. Die 15-%-Untergrenze der Hormus-Bindung wird NICHT gelockert: Cash faellt von 19,03 % auf rechnerisch 16,04 %. Hintergrund: 19 % Cash bei 7,02 pp Rueckstand zur Benchmark waren unallokierter Rest aus dem ASML-Teilverkauf (07.09.) und der VRT-Halbierung (14.09.), kein bewusster Puffer."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
@@ -569,50 +586,44 @@
       "depot": 9358.58,
       "benchmark": 10061.15,
       "spx": 7583.52
-    },
-    {
-      "date": "2026-09-16",
-      "depot": 9413.67,
-      "benchmark": 10071.93,
-      "spx": 7591.65
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1598.58,
-      "eur": 1391.76
+      "usd": 1591.695,
+      "eur": 1378.93
     },
     "CVX": {
-      "usd": 212.675,
-      "eur": 185.16
+      "usd": 216.805,
+      "eur": 187.82
     },
     "GOOGL": {
-      "usd": 344.805,
-      "eur": 300.2
+      "usd": 344.31,
+      "eur": 298.28
     },
     "JNJ": {
-      "usd": 267.815,
-      "eur": 233.17
+      "usd": 265.97,
+      "eur": 230.42
     },
     "JPM": {
-      "usd": 350.345,
-      "eur": 305.02
+      "usd": 344.58,
+      "eur": 298.52
     },
     "TSM": {
-      "usd": 417.095,
-      "eur": 363.13
+      "usd": 414.22,
+      "eur": 358.85
     },
     "V": {
-      "usd": 371.03,
-      "eur": 323.03
+      "usd": 375.205,
+      "eur": 325.05
     },
     "VRT": {
-      "usd": 242.065,
-      "eur": 210.75
+      "usd": 235.57,
+      "eur": 204.08
     }
   },
   "fx": {
-    "EURUSD": 1.1486
+    "EURUSD": 1.1543
   },
-  "lastUpdate": "2026-09-16 18:34 UTC"
+  "lastUpdate": "2026-09-15 18:37 UTC"
 }
