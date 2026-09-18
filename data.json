@@ -7,7 +7,7 @@
     "started": "2026-07-06",
     "benchmarkStart": 7537.43
   },
-  "cash": 1501.32,
+  "cash": 1051.32,
   "positions": [
     {
       "symbol": "GOOGL",
@@ -16,8 +16,8 @@
       "investedEur": 1019.63,
       "entryDate": "2026-07-06",
       "reason": "AI-Führungsposition (Gemini, eigene TPU-Chips, Cloud-Wachstum) bei Bewertung mit deutlichem Abschlag zum Tech-Sektor – laut Analysten ~22 % unter fairem Wert.",
-      "lastPriceUsd": 345.885,
-      "valueEur": 959.46
+      "lastPriceUsd": 349.9,
+      "valueEur": 970.09
     },
     {
       "symbol": "TSM",
@@ -26,8 +26,8 @@
       "investedEur": 1500,
       "entryDate": "2026-07-06",
       "reason": "Quasi-Monopol in modernster Chipfertigung. Praktisch jeder AI-Chip (Nvidia, AMD, Apple, Google) wird bei TSMC gefertigt – der zentrale Engpass des AI-Booms.",
-      "lastPriceUsd": 429.735,
-      "valueEur": 1422.42
+      "lastPriceUsd": 430.16,
+      "valueEur": 1423.08
     },
     {
       "symbol": "ASML",
@@ -36,18 +36,18 @@
       "investedEur": 849.76,
       "entryDate": "2026-07-06",
       "reason": "Europäischer Monopolist für EUV-Lithographie – ohne ASML keine modernen Chips. Profitiert vom weltweiten Ausbau der Chipfabriken.",
-      "lastPriceUsd": 1625.55,
-      "valueEur": 754.57
+      "lastPriceUsd": 1649.135,
+      "valueEur": 765.12
     },
     {
       "symbol": "V",
       "name": "Visa",
-      "shares": 4.5967,
-      "investedEur": 1440,
+      "shares": 5.0635,
+      "investedEur": 1590,
       "entryDate": "2026-07-06",
       "reason": "Qualitätswert außerhalb des AI-Themas als Stabilisator gegen die überhitzte AI-Spekulation (BofA-Warnung). Strukturelles Wachstum bargeldloser Zahlungen, Analysten bullish.",
-      "lastPriceUsd": 371.37,
-      "valueEur": 1487.26
+      "lastPriceUsd": 369.02,
+      "valueEur": 1627.07
     },
     {
       "symbol": "VRT",
@@ -56,18 +56,18 @@
       "investedEur": 399.99,
       "entryDate": "2026-07-06",
       "reason": "Marktführer bei Flüssigkeitskühlung für AI-Rechenzentren (Analysten: Strong Buy). Kleinste Position wegen sehr hoher Bewertung.",
-      "lastPriceUsd": 242.135,
-      "valueEur": 303.19
+      "lastPriceUsd": 248.43,
+      "valueEur": 310.91
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "shares": 5.1369,
-      "investedEur": 1140,
+      "shares": 5.7725,
+      "investedEur": 1290,
       "entryDate": "2026-07-20",
       "reason": "Umsetzung des am 15./16.07. dokumentierten Diversifikationsplans NACH den JNJ-Zahlen: Q2-Doppel-Beat (EPS 2,90 $ vs. 2,84 $, Umsatz 25,31 Mrd. $, +6,6 % YoY) und angehobene 2026-Guidance (EPS 11,60–11,75 $). Kursdip von ~1,5–3 % wegen MedTech-Schwäche bietet besseren Einstieg. Defensive Healthcare-Beimischung senkt die Halbleiter-Lastigkeit des Depots, Rotation in Defensives läuft.",
-      "lastPriceUsd": 269.375,
-      "valueEur": 1205.57
+      "lastPriceUsd": 271.03,
+      "valueEur": 1362.35
     },
     {
       "symbol": "JPM",
@@ -76,46 +76,21 @@
       "investedEur": 1100,
       "entryDate": "2026-08-10",
       "reason": "Schliesst die strukturelle Luecke des Depots: Finanzwerte sind der Sektor, in den die Rotation laeuft, und der einzige grosse S&P-Block, in dem wir gar nicht vertreten waren. Direkter Gegenpol zum Faktorrisiko, das uns 8,3 pp gekostet hat: Ein hawkischer Fed-Pfad (29.07.: Zinsen gehalten, drei Dissents FUER eine Anhebung) entwertet langlaufende AI-Bewertungen und stuetzt zugleich die Zinsmarge der Banken. Fundament: Rekordquartal Q2 mit 21,2 Mrd. $ Gewinn (hoechster Quartalsgewinn der US-Bankengeschichte), NII-Guidance ~105,5 Mrd. $, BofA-Kursziel 420 $ (~21 % Potenzial). Startgroesse bewusst klein (~6 %), Cash bleibt bei ~6 %.",
-      "lastPriceUsd": 349.81,
-      "valueEur": 1086.64
+      "lastPriceUsd": 347.155,
+      "valueEur": 1077.83
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "shares": 4.1111,
-      "investedEur": 700,
+      "shares": 4.9283,
+      "investedEur": 850,
       "entryDate": "2026-08-12",
       "reason": "Absicherung des groessten ungedeckten Risikos im Depot statt Momentumkauf. Was uns 8 pp gekostet hat, war die Kette Oel/Inflation -> hoehere Renditen -> Multiple-Kompression bei langlaufenden AI-Bewertungen; genau in diesem Zustand verdient Energie. Energie ist mit +32,7 % YTD der staerkste S&P-Sektor und der zweite grosse Block, in dem wir null Gewicht haben. Fundament: Rekord-Q2 mit 12,1 Mrd. $ Nettogewinn (hoechster Quartalsgewinn seit sechs Jahren), bereinigtes EPS 6,06 $ vs. 5,56 $ erwartet, US-Foerderung +20 % auf 2,07 Mio. Barrel/Tag, 16x Forward-KGV und ~4 % Dividendenrendite bei 39 Jahren Dividendensteigerung - der Bewertungsanker, den ein Depot voller 20- bis 40-facher Multiples braucht. Einstieg nicht am Rohstoffhoch: Brent ~83 $ liegt weit unter dem Apriler Jahreshoch von 114,58 $. Bewusst kleine Groesse (~7 %), Rest des NEE-Erloeses bleibt Cash-Puffer vor CPI und PPI.",
-      "lastPriceUsd": 211.139,
-      "valueEur": 756.24
+      "lastPriceUsd": 210.795,
+      "valueEur": 904.62
     }
   ],
-  "orders": [
-    {
-      "type": "buy",
-      "symbol": "V",
-      "name": "Visa",
-      "amountEur": 150,
-      "created": "2026-09-18",
-      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
-    },
-    {
-      "type": "buy",
-      "symbol": "JNJ",
-      "name": "Johnson & Johnson",
-      "amountEur": 150,
-      "created": "2026-09-18",
-      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
-    },
-    {
-      "type": "buy",
-      "symbol": "CVX",
-      "name": "Chevron",
-      "amountEur": 150,
-      "created": "2026-09-18",
-      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
-    }
-  ],
+  "orders": [],
   "trades": [
     {
       "date": "2026-07-06",
@@ -312,6 +287,36 @@
       "priceUsd": 269.375,
       "amountEur": 140,
       "reason": "Erstanwendung der am 16.09.2026 (Abendlauf) formulierten Wiedereinstiegsregel - der seit dem 14.09. offene Punkt 9 des Regelwerks. Regel: Die Cash-Quote wird nicht mehr als blosse Untergrenze gefuehrt, sondern als Band [geltende Untergrenze; Untergrenze + 2,0 pp]. Solange die Hormus-Feuerregel gefeuert ist, lautet das Band 15,0-17,0 %. Liegt die Quote im Kurslauf ueber der Bandobergrenze, wird der Ueberschuss ueber die Bandmitte (16,0 %) investiert, abgerundet auf volle 10 EUR, Mindestbetrag 250 EUR, Hoechstbetrag 5 % des Depotwerts je Lauf. Rechnung Stand Kurslauf 15.09.2026: Cash 19,03 % > 17,0 % ausgeloest; (19,03 - 16,00) % x 9.358,58 EUR = 283,57 EUR, abgerundet 280 EUR, gleichmaessig auf die berechtigten Positionen = 140 EUR je Titel. Gesperrt und deshalb nicht berechtigt: CVX (Hedge-Einfrierung der Hormus-Regel gilt in beide Richtungen), VRT (laufende Pruefliste bis Q3-Bericht 21.10.), GOOGL/TSM/ASML (jeder Zukauf wuerde den AI-Capex-Block ueber die 36-%-Marke aus Fall III heben; Block steht bei 35,70 %), JPM (steht bis 21.09. in der laufenden Fall-I-Messung gegen den S&P 500). Uebrig bleiben V und JNJ. Ausdruecklich KEINE Konviktionsaussage: Die Visa-Recherche vom 16.09. (Morgenlauf) hat 'keinen Grund aufzustocken' ergeben, und das gilt unveraendert. Diese Order ist eine Entscheidung ueber die Cash-Quote, nicht ueber die Einzeltitel - das Ziel ist neutral gewaehlt, damit keine Einzelthese eingeschmuggelt wird. Die 15-%-Untergrenze der Hormus-Bindung wird NICHT gelockert: Cash faellt von 19,03 % auf rechnerisch 16,04 %. Hintergrund: 19 % Cash bei 7,02 pp Rueckstand zur Benchmark waren unallokierter Rest aus dem ASML-Teilverkauf (07.09.) und der VRT-Halbierung (14.09.), kein bewusster Puffer."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "buy",
+      "symbol": "V",
+      "name": "Visa",
+      "shares": 0.4668,
+      "priceUsd": 369.02,
+      "amountEur": 150,
+      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "buy",
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "shares": 0.6356,
+      "priceUsd": 271.03,
+      "amountEur": 150,
+      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
+    },
+    {
+      "date": "2026-09-18",
+      "type": "buy",
+      "symbol": "CVX",
+      "name": "Chevron",
+      "shares": 0.8172,
+      "priceUsd": 210.795,
+      "amountEur": 150,
+      "reason": "Zweite Anwendung der Wiedereinstiegsregel, erstmals unter dem am 17.09.2026 auf 8,0-10,0 % gesenkten Cash-Band (Bandmitte 9,0 %; die 15-%-Hormus-Bindung ist mit dem Durchsatz-Pruefpunkt gefallen). Rechnung Stand Kurslauf 17.09.2026, 18:42 UTC: Depotwert 9.476,67 EUR, Cash 1.501,32 EUR = 15,84 % > Bandobergrenze 10,0 % ==> ausgeloest. Ueberschuss ueber die Bandmitte: (15,8423 - 9,00) % x 9.476,67 EUR = 648,42 EUR; der Hoechstbetrag von 5 % des Depotwerts je Kurslauf = 473,83 EUR ist bindend. Die Abrundung auf volle 10 EUR wird nach der Auslegungsregel vom 17.09. (bei zwei vertretbaren Lesarten gilt die engere) JE TITEL angewandt und nicht auf den Gesamtbetrag: 473,83 / 3 = 157,94 EUR, abgerundet 150 EUR je Titel, zusammen 450 EUR statt 470 EUR. Begruendung: Die Rundung soll ordersaubere Betraege erzeugen, und 470 / 3 = 156,67 EUR waere selbst kein Vielfaches von 10; die engere Lesart investiert 20 EUR weniger. Mindestbetrag 250 EUR erfuellt (450 EUR). Gesperrt und deshalb nicht berechtigt: GOOGL, TSM, ASML und VRT nach (5)(d) - der AI-Capex-Block steht durch reine Kursbewegung bei 36,30 % und damit ueber der 36-%-Marke, was nach der am 17.09. festgeschriebenen Regel 3 allein eine Kaufsperre ausloest und keinen Verkauf; VRT zusaetzlich nach (5)(a), Pruefliste bis zum Q3-Bericht; JPM nach (5)(e), laufende Fall-I-Messung bis 21.09. Berechtigt bleiben V, JNJ und CVX - CVX erstmals seit dem 12.08. wieder, weil die Hedge-Einfrierung mit dem Hormus-Durchsatz-Pruefpunkt am 17.09. endete. Ausdruecklich KEINE Konviktionsaussage zu den drei Titeln: Dies ist eine Entscheidung ueber die Cash-Quote, das Ziel ist mechanisch bestimmt und nicht gewaehlt. Offengelegt: Die Berechtigungsfilter treffen exakt die drei Positionen im Gewinn (V +3,3 %, JNJ +5,8 %, CVX +8,0 %) und sperren alle fuenf im Verlust - das ist eine Nebenwirkung der Sperrgruende, kein gewolltes Momentum-Signal, und es ist der schwaechste Punkt dieser Orders. Cash faellt rechnerisch von 15,84 % auf 11,09 % und liegt damit weiter ueber dem Band; der Abbau setzt sich im naechsten Lauf fort. Keine Verkaufsregel hat in diesem Lauf gefeuert, deshalb greift die Sperre (6) 'nicht kaufen und verkaufen am selben Tag' nicht."
     }
   ],
   "history": [
@@ -626,44 +631,50 @@
       "depot": 9476.67,
       "benchmark": 10128.58,
       "spx": 7634.35
+    },
+    {
+      "date": "2026-09-18",
+      "depot": 9492.39,
+      "benchmark": 10120.62,
+      "spx": 7628.35
     }
   ],
   "quotes": {
     "ASML": {
-      "usd": 1625.55,
-      "eur": 1416.23
+      "usd": 1649.135,
+      "eur": 1436.03
     },
     "CVX": {
-      "usd": 211.139,
-      "eur": 183.95
+      "usd": 210.795,
+      "eur": 183.56
     },
     "GOOGL": {
-      "usd": 345.885,
-      "eur": 301.35
+      "usd": 349.9,
+      "eur": 304.68
     },
     "JNJ": {
-      "usd": 269.375,
-      "eur": 234.69
+      "usd": 271.03,
+      "eur": 236.01
     },
     "JPM": {
-      "usd": 349.81,
-      "eur": 304.77
+      "usd": 347.155,
+      "eur": 302.29
     },
     "TSM": {
-      "usd": 429.735,
-      "eur": 374.4
+      "usd": 430.16,
+      "eur": 374.57
     },
     "V": {
-      "usd": 371.37,
-      "eur": 323.55
+      "usd": 369.02,
+      "eur": 321.33
     },
     "VRT": {
-      "usd": 242.135,
-      "eur": 210.96
+      "usd": 248.43,
+      "eur": 216.33
     }
   },
   "fx": {
-    "EURUSD": 1.1478
+    "EURUSD": 1.1484
   },
-  "lastUpdate": "2026-09-17 18:42 UTC"
+  "lastUpdate": "2026-09-18 17:58 UTC"
 }
