@@ -1,1 +1,5 @@
 .DS_Store
+_neuer_eintrag.tmp
+ENTSCHEIDUNGEN.md.bak
+*.bak
+*.tmp
