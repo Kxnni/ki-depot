@@ -4025,3 +4025,86 @@ Gesucht habe ich gezielt nach Profiteuren des heutigen Regimes (starke Konjunktu
 - [ad-hoc-news – Johnson & Johnson stock gains on Caplyta trial results](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-gains-on-caplyta-trial-results/70166593) · [ad-hoc-news – Chevron stock slips 0.62 percent](https://www.ad-hoc-news.de/boerse/news/corporate-news/chevron-stock-slips-0-62-percent-as-oil-pressure-weighs/70165896) · [Simply Wall St – Vertiv](https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co) · [Yahoo Finance – TSMC vs. ASML](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-vs-asml-semiconductor-085500627.html)
 - [TechCrunch – Google spared from ad-business breakup (02.09.2026)](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/) · [AdExchanger – Google won't have to break up its ad tech business](https://www.adexchanger.com/antitrust/google-wont-have-to-break-up-its-ad-tech-business-judge-brinkema-rules/)
 - [Seeking Alpha – Manufacturing PMI hits 4-year high: 3 top industrial stocks](https://seekingalpha.com/article/4931055-manufacturing-pmi-hits-4-year-high-3-top-industrial-stocks) · [Charles Schwab – Monthly Stock Sector Outlook](https://www.schwab.com/learn/story/stock-sector-outlook)
+
+## 24.09.2026 (Donnerstag) – Keine Trades: Die Renditewelle läuft weiter, der Rückstand schrumpft trotzdem, und der Gipfel liefert (noch) nichts Handelbares
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer. Die Wiedereinstiegsregel feuert zum vierten Mal in Folge, der Überschuss bleibt mit 193,89 € unter dem Mindestbetrag von 250 €. Keine Verkaufsregel ist berührt. Zu keiner der acht Positionen habe ich heute eine firmenspezifische Nachricht gefunden. Der Tag ist die Fortsetzung des gestrigen Makroschubs (Renditen, Öl), und die Depotstruktur hält sich darin bisher besser als der Index.**
+
+### Orderprüfung
+
+Zu Laufbeginn am 23.09. gab es keine offenen Orders. Also war nichts auszuführen, und `trades` steht unverändert bei 22. Der letzte Kurslauf (23.09., 18:44 UTC) ist sauber in die Historie eingetragen.
+
+### Marktlage 24.09. (Intraday, zum Laufzeitpunkt kein Schluss)
+
+- **Indizes (TheStreet, Stand 14:26 EDT):** S&P 500 **−0,51 %**, Nasdaq **−0,78 %**, Dow **−0,32 %**, Russell 2000 **−1,77 %**. Das sind Zwischenstände, kein Schluss. *(Hinweis Orchestrator: Der Lauf startete um 15:52 UTC = 11:52 EDT; die Zeitangabe "14:26 EDT" der Quelle passt nicht zum Laufzeitpunkt – Zeitstempel oder Datum der Quelle ungeprüft, Werte daher nur als unsicherer Zwischenstand werten.)*
+- **Renditen:** 10-jährige Rendite **5,11 %** (höchster Stand seit 2007), 2-jährige **4,90 %** (höchster seit 2023), 30-jährige **5,44 %**. Die Kurve wird von beiden Enden angehoben. Für JPM ist das **kein eindeutiges Signal**, und ich leite daraus weiterhin nichts ab (siehe 23.09.).
+- **Konjunktur:** Laut S&P-Global-PMI wächst die Geschäftstätigkeit so stark wie seit über fünf Jahren nicht mehr, dazu kommen Kapazitätsengpässe. Die Inflationsangst ist der Treiber des Tages.
+- **Öl:** Brent laut TheStreet **+1,5 % auf 104,70 $**, laut Trading Economics später **~107 $ (+4 %)**. WTI laut TheStreet **93,12 $**. Die Quellen haben verschiedene Zeitstempel, deshalb nenne ich beide. Ein Berater des iranischen Revolutionsführers droht, den Konflikt bis in den Indischen Ozean auszuweiten. Hormus bleibt eingeschränkt.
+- **Trump-Xi-Gipfel (Hauptgespräche heute):** Zum Laufzeitpunkt kann ich **kein belegtes Ergebnis** zu Exportkontrollen, Zöllen oder Seltenen Erden nennen. Die erreichbaren Artikel (financefeeds vom 21.09.) enthalten nur Erwartungen; CNN, NBC und CNBC ließen sich nicht abrufen. Das einzige belegte Zitat ist Trumps Aussage zu AI-Leitplanken: „I want to leave it exactly where it is“ (TheStreet). Die Zollausnahmen laufen bis 10.11. **Für TSM/ASML ist nichts Handelbares entstanden.** Ich handle keine Gipfel-Schlagzeilen, auch keine, die morgen kommen, solange sie nur Absichtserklärungen sind.
+- **Nächster Branchentermin:** Micron legt am **30.09.** Zahlen für das vierte Geschäftsquartal vor (Investing.com, 22.09.2026, Jahr geprüft). Das ist ein Stimmungsindikator für AI-Hardware und damit für den AI-Block; ich schreibe es in die Terminliste.
+
+**Datumsprüfung (Regel vom 23.09.):** Ein Treffer zu „ASML und TSMC vergrößern High-NA-Masken" wirkte aktuell. Laut Artikel wurde er am 20.09. veröffentlicht und bezieht sich auf eine Reuters-Meldung vom **08.09.**, außerdem geht es um Ziele für 2030–2033. **Das ist alt und nicht kursrelevant; ich verwerte es nicht.** Der Visa-Artikel bei ad-hoc-news war nicht lesbar, sein Datum ist unbelegt; auch den verwerte ich nicht.
+
+### Positionen (Kurslauf 23.09., EURUSD 1,1388, aus `data.json` nachgerechnet)
+
+| Titel | Wert € | Gewicht | P/L | Neu heute | Urteil |
+|---|---|---|---|---|---|
+| V | 1.607,53 | 16,87 % | +1,10 % | keine belegte Firmennachricht | Halten; (5)(f) sperrt Zukauf |
+| TSM | 1.488,79 | 15,63 % | −0,75 % | Gipfel ohne belegtes Ergebnis | Halten |
+| JNJ | 1.358,65 | 14,26 % | +5,32 % | keine | Halten |
+| JPM | 1.057,44 | 11,10 % | −3,87 % | keine; Kurve steigt an beiden Enden | Halten; Prüfliste bis 13.10. |
+| GOOGL | 948,88 | 9,96 % | −6,94 % | keine | Halten |
+| CVX | 887,42 | 9,31 % | +4,40 % | Brent 104–107 $ stützt die These | Halten |
+| ASML | 811,60 | 8,52 % | −4,49 % | nur alte Meldung (08.09.), siehe oben | Halten |
+| VRT | 315,40 | 3,31 % | −21,15 % | keine | Halten; Prüfliste bis Q3-Bericht |
+
+**Depotwert 9.527,03 € · Cash 1.051,32 € (11,04 %) · Positionen 8.475,71 €.**
+
+Ergebnis des 23.09. im Kurslauf: GOOGL fiel in USD von ~353,2 $ auf 339,39 $ (**−3,9 %**), in EUR nur um **−3,4 %** (982 € → 949 €), weil EURUSD von 1,1446 auf 1,1388 sank und ein schwächerer Euro USD-Werte in EUR aufwertet. Der Wechselkurs hat den Verlust also leicht gedämpft. (Im ersten Entwurf hatte ich die Richtung falsch herum; siehe „Ehrliche Einordnung“.) CVX (+1,3 % in EUR) und V (+0,3 %) stützten. Das Depot fiel am 23.09. um **0,29 %**, der Benchmark um **0,83 %**. Das ist der erste Tag seit Längerem, an dem die Absicherungslogik (CVX, JNJ, Cash) messbar gewirkt hat. **Ein Tag beweist nichts**; ich halte ihn nur fest, weil ich am 22./23.09. die Fehlschläge der Diversifikation ebenso notiert habe.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · **größte Position V 16,87 %** (max. 20 %) ✓ · **Cash 11,04 %** (min. 5 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.564,67 € = 37,42 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: 36,30 → 36,55 → 37,29 → 37,71 → **37,42 %**, erstmals leicht rückläufig, und zwar durch Kursverluste, nicht durch eine Entscheidung.
+- **Finanzsektor V+JPM = 27,97 %** (gestern 27,9 %). Kein Deckel, Tagesordnungspunkt 30.09. unverändert.
+- **Wiedereinstiegsregel:** Cash 11,04 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **193,89 €** < 250 € ⇒ **keine Order** (vierter Lauf in Folge). Berechtigt wären nur JNJ (14,26 %) und CVX (9,31 %); gesperrt sind V und TSM nach (5)(f) (>15 %), GOOGL und ASML nach (5)(d), VRT nach (5)(a)+(d), JPM nach (5)(a).
+- **Gewinner-Kauf-Filter:** Die berechtigten Titel JNJ (+5,32 %) und CVX (+4,40 %) liegen im Gewinn, alle gesperrten außer V im Verlust. **Beobachtung 2 von 3** seit Neuzählung am 22.09. Bei 3/3 (nächster Lauf) steht die Frage nach dem Filter automatisch auf der Tagesordnung des 30.09.; eine Regeländerung heute gibt es nicht.
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht · AI-Deckel kein Verkaufsauslöser · JPM-Prüfliste fällig 13.10. · VRT-Prüfliste fällig mit Q3-Bericht · **CVX-Halbierungskriterium** (tatsächliche Hormus-Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) weit entfernt · **Öl-Trigger nicht berührt** (WTI ~93 $ vs. 110 $; Brent ~105–107 $ vs. 120 $; der Abstand zum Brent-Trigger ist aber von ~18 $ auf ~13–15 $ geschrumpft, das beobachte ich) · Hormus-Rückumstellung: **wieder kein neuer Wochenwert gesucht**; Frist zur Neufassung 01.10. **Keine Verkaufsregel feuert.**
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 22.09. | 9.554,84 | 10.312,53 | −4,45 % | +3,13 % | −7,58 pp |
+| **23.09.** | **9.527,03** | **10.227,36** | **−4,73 %** | **+2,27 %** | **−7,00 pp** |
+
+Der Rückstand schrumpft um 0,58 pp. Einschränkung: Der SPX-Wert im Kurslauf (7.708,80) ist ein Intraday-Stand von 18:44 UTC und kein Schluss. Wie am 22.09. festgelegt, ziehe ich daraus keine Vorzeichenannahme.
+
+### Erwogen und verworfen
+
+1. **193,89 € in JNJ oder CVX.** Verworfen, vierte Ablehnung: unter dem Mindestbetrag. Die Totzone wird am 30.09. als Regelfrage entschieden, nicht per Einzelausnahme.
+2. **CVX aufstocken, weil Brent auf ~107 $ steigt.** Verworfen: Das ist eine Öl-Schlagzeile, und am 21./22.09. habe ich festgelegt, solche nicht zu handeln. Außerdem steht nur der Betrag unter dem Mindestbetrag zur Verfügung.
+3. **AI-Block vor Micron (30.09.) und Gipfel absichern/reduzieren.** Verworfen: Der Block-Deckel ist kein Verkaufsauslöser (17.09.), und ein Verkauf vor einem Termin ist eine Wette, keine These.
+4. **JPM reduzieren wegen steigender kurzer Renditen.** Verworfen: Prüfliste mit festen Kriterien bis 13.10.
+5. **Neuer Kandidat aus Industrie/Infrastruktur.** Heute nicht geprüft. Der Auftrag liegt ausdrücklich beim 30.09., und ohne Umschichtung stünden nur ~194 € zur Verfügung.
+
+### Offene Termine
+
+**25.09.** Gipfelabschluss: nur *unterschriebene* Ergebnisse zu Exportkontrollen zählen (TSM/ASML) · **30.09.** Micron-Zahlen (AI-Hardware-Stimmung), Totzone der Wiedereinstiegsregel, Gewinner-Kauf-Filter (bei 3/3), neutrales Parkziel, Finanzsektor-Konzentration, Kandidatenprüfung Industrie/Infrastruktur · **01.10.** Hormus-Rückumstellung neu fassen, BoJ-Beobachtungspunkt · **06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3, Prüfliste (a)–(d) · **Ende Okt.** Visa Q4, VRT Q3 (Termin weiter unbestätigt) · **10.11.** Ende der US-China-Zollausnahmen.
+
+### Ehrliche Einordnung
+
+- **Fehler beim Schreiben, sofort korrigiert:** Ich hätte den GOOGL-Rückgang fast teilweise dem Wechselkurs zugeschrieben. Die Richtung war falsch (EURUSD fällt ⇒ USD-Werte steigen in EUR). Stehen gelassen und markiert, weil es derselbe Fehlertyp ist wie die Kontaminationsrechnung vom 17.09.: ein Vorzeichen aus dem Bauch statt gerechnet.
+- **Lücke:** Zum zweiten Mal in Folge habe ich keinen Hormus-Wochenwert gesucht. Die Frist 01.10. ist verbindlich; spätestens dann wird gesucht oder die Regel ersatzlos neu gefasst.
+- **Recherchegrenze:** Die großen Live-Ticker (CNN, NBC, CNBC) waren heute nicht abrufbar. Meine Aussagen zum Gipfel stützen sich deshalb auf eine Vorab-Analyse und ein einzelnes Zitat. Ich behaupte deshalb nur: „kein belegtes Ergebnis", nicht „kein Ergebnis".
+- **Nichtstun ist eine Sachentscheidung:** Keine These hat sich geändert, keine Regel feuert, und der Makroschub trifft das Depot bisher schwächer als den Index.
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [TheStreet – Stock Market Today (Sept. 24, 2026): Nasdaq slides as Treasury yields surge, inflation fears rise](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-24-2026) · [Yahoo Finance – dieselbe Meldung](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-24-135147386.html)
+- [Trading Economics – Brent Crude](https://tradingeconomics.com/commodity/brent-crude-oil)
+- [financefeeds – Xi at White House 24 Sep: Tariffs, Chips, Rare Earths (21.09.)](https://financefeeds.com/xi-reaches-the-white-house-on-24-september-as-huang-and-altman-join-state-dinner/) · [CNBC – China's AI chip blitz arms Xi with a message for Trump (nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html) · [Roll Call – AI export controls debate rages as Trump, Xi meet](https://rollcall.com/2026/09/23/ai-export-controls-debate-rages-as-trump-xi-meet/)
+- [Investing.com – Micron earnings outlook ahead of the September 30 report](https://www.investing.com/news/stock-market-news/micron-earnings-outlook-what-to-watch-ahead-of-the-september-30-report-93CH-4911385)
+- [Yahoo Finance – ASML and chip giants like TSMC plot a bigger canvas (alt, Meldung vom 08.09.; nicht verwertet)](https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html)
