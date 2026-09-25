@@ -4108,3 +4108,88 @@ Der Rückstand schrumpft um 0,58 pp. Einschränkung: Der SPX-Wert im Kurslauf (7
 - [financefeeds – Xi at White House 24 Sep: Tariffs, Chips, Rare Earths (21.09.)](https://financefeeds.com/xi-reaches-the-white-house-on-24-september-as-huang-and-altman-join-state-dinner/) · [CNBC – China's AI chip blitz arms Xi with a message for Trump (nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html) · [Roll Call – AI export controls debate rages as Trump, Xi meet](https://rollcall.com/2026/09/23/ai-export-controls-debate-rages-as-trump-xi-meet/)
 - [Investing.com – Micron earnings outlook ahead of the September 30 report](https://www.investing.com/news/stock-market-news/micron-earnings-outlook-what-to-watch-ahead-of-the-september-30-report-93CH-4911385)
 - [Yahoo Finance – ASML and chip giants like TSMC plot a bigger canvas (alt, Meldung vom 08.09.; nicht verwertet)](https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html)
+
+## 25.09.2026 (Freitag) – Keine Trades: Der Gipfel verlängert nur den Waffenstillstand, die Renditen steigen weiter, und der Gewinner-Kauf-Filter erreicht 3/3
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer. Die Wiedereinstiegsregel feuert zum fünften Mal in Folge, der Überschuss bleibt mit 188,62 € unter dem Mindestbetrag von 250 €. Keine Verkaufsregel ist berührt. Der Trump-Xi-Gipfel hat nichts Unterschriebenes zu Chips geliefert, und die einzige neue Firmennachricht mit Gewicht (Jefferies senkt das JPM-Kursziel) gehört auf die JPM-Prüfliste, nicht in eine Order. Mit dem heutigen Lauf ist der Gewinner-Kauf-Filter zum dritten Mal beobachtet; die Frage geht damit verbindlich auf die Tagesordnung des 30.09.**
+
+### Orderprüfung
+
+Zu Laufbeginn am 24.09. gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 24.09. (18:45 UTC) ist sauber in der Historie eingetragen. Der dort geführte SPX-Wert (7.705,79) liegt 0,02 % über dem belegten Schluss von **7.704,13** – folgenlos.
+
+### Marktlage
+
+- **Schluss 24.09. (belegt, AP/ABC News):** S&P 500 **7.704,13** (−0,02 %), Dow **51.349,98** (−0,3 %), Nasdaq **26.939,37** (+0,01 %), Russell 2000 **2.835,57** (−0,1 %). Ein Tag mit mehreren Umkehrungen, der am Ende fast unverändert schloss. Die Nasdaq-Schwäche aus dem Vormittag (−0,78 %, gestriger Eintrag) hat sich bis zum Schluss aufgelöst – meine gestrige Zwischenstandsangabe war also für den Tag nicht repräsentativ.
+- **Heute, 25.09. (Intraday, kein Schluss):** S&P 500 **7.706,37 (+0,03 %)**, Dow +0,16 %, Nasdaq +0,09 % (Yahoo/TheStreet, Zeitstempel der Quelle nicht exakt belegt). VIX vorbörslich 15,56.
+- **Renditen:** Die 10-jährige Rendite erreicht **5,225 %** (höchster Stand seit 2007), die 30-jährige **5,502 %** (höchster seit 2004). Rick Rieder (BlackRock): „not a crisis but an eye-opener". Die Renditewelle geht damit in den dritten Tag. Heute steht nur die Uni-Michigan-Stimmung an, keine PCE-Daten, keine Fed-Entscheidung.
+- **Öl:** Brent **105,40–105,70 $ (−0,9 bis −1,1 %)**, WTI **92,72–92,89 $ (−1,8 bis −2,0 %)** (TheStreet, The National). Brent hatte gestern ein Intraday-Hoch knapp über **108 $**, bevor Berichte über einen **stufenweisen Deal** zwischen US- und iranischen Unterhändlern in New York den Anstieg bremsten. Irans Außenminister nennt eine Wiederöffnung von Hormus „binnen sieben Tagen, wenn Bedingungen erfüllt sind" – das ist dieselbe Siebentagesformel wie am 22.09. und bisher nicht eingelöst. Die saudische Ost-West-Pipeline ist seit den Drohnenangriffen vom 10.09. **außer Betrieb**; am Donnerstag zählte The National nur **13 Durchfahrten** durch Hormus. Die Brent-WTI-Spanne liegt mit 12,68 $ so hoch wie seit Mai nicht.
+- **Trump-Xi-Gipfel:** **Keine gemeinsame Erklärung, nichts Unterschriebenes zu Chips, Exportkontrollen oder Taiwan.** Konkretes Ergebnis ist nur die **Verlängerung des Handelswaffenstillstands bis 10.01.** (niedrigere US-Zölle, ausgesetzte chinesische Exportkontrollen für Seltene Erden). Details zum Handel sollen am Montag folgen. Das erfüllt nicht mein gestriges Kriterium („nur *unterschriebene* Ergebnisse zu Exportkontrollen zählen"). **Für TSM/ASML entsteht kein Handelsanlass.** *Einschränkung: Die Verlängerung auf den 10.01. stützt sich auf eine einzige Quelle (Eastern Herald); in meiner Terminliste stand bisher der 10.11. als Ende der Zollausnahmen. Ich führe beide Daten, bis eine zweite Quelle vorliegt.*
+
+### Positionen (Kurslauf 24.09., EURUSD 1,1374, aus `data.json` nachgerechnet)
+
+| Titel | Wert € | Gewicht | P/L | Neu seit gestern | Urteil |
+|---|---|---|---|---|---|
+| V | 1.631,36 | 17,02 % | +2,60 % | keine Firmennachricht; Schluss 23.09. 361,37 $ (−0,18 %) | Halten; (5)(f) sperrt Zukauf |
+| TSM | 1.500,19 | 15,65 % | +0,01 % | Gipfel ohne Chip-Ergebnis | Halten |
+| JNJ | 1.378,01 | 14,38 % | +6,82 % | 24.09. +1,51 $ auf 270,68 $; Management (DB-Healthcare-Konferenz 17.09.) nennt ~21 Mrd. $ Free Cashflow; **Investor Day 08.12.** | Halten |
+| JPM | 1.056,35 | 11,02 % | −3,97 % | **Jefferies senkt Kursziel auf 365 $** (Banken-Abverkauf, steigende Verbraucherkredit-Ausfälle); Kurs ~337 $, unter dem 50-Tage-Schnitt 353,83 $ | Halten; Befund an Prüfliste 13.10. |
+| GOOGL | 958,07 | 9,99 % | −6,04 % | keine neue Nachricht (Googlebook-Meldung stammt vom 21.09., Datum geprüft) | Halten |
+| CVX | 893,01 | 9,32 % | +5,06 % | HSBC bestätigt laut Überschrift Buy mit Ziel 250 $ (Artikel nicht lesbar, Inhalt unbelegt) | Halten |
+| ASML | 808,48 | 8,43 % | −4,86 % | keine Firmennachricht | Halten |
+| VRT | 308,72 | 3,22 % | −22,82 % | keine Firmennachricht | Halten; Prüfliste bis Q3-Bericht |
+
+**Depotwert 9.585,53 € · Cash 1.051,32 € (10,97 %) · Positionen 8.534,19 €.**
+
+Am 24.09. stieg das Depot um **0,61 %**, der Benchmark fiel um **0,04 %**. Getragen wurde das breit: V (+1,5 % in EUR), JNJ (+1,4 %), GOOGL (+1,0 %), TSM (+0,8 %), CVX (+0,6 %); JPM war flach. Der Euro gab leicht nach (1,1388 → 1,1374), was USD-Werte in EUR um rund 0,1 % aufwertet – ein kleiner Rückenwind, kein Treiber.
+
+Zu JPM im Einzelnen: Die Jefferies-Senkung ist die erste Analystenaussage seit dem Kauf, die meine These **im Mechanismus** trifft und nicht nur im Kurs – Kreditausfälle bei Verbrauchern sind ein Risiko, das ich am 10.08. gar nicht betrachtet habe. Das Ziel liegt mit 365 $ allerdings noch **~8 % über dem aktuellen Kurs**, es ist also keine Verkaufsempfehlung. **Rechtsfolge heute: keine.** Der Befund geht an Kriterium (a) der Prüfliste, Stichtag 13.10. (Q3-Zahlen, dort ist die Risikovorsorge die entscheidende Zeile). Für Visa gilt der Punkt nur mittelbar: Visa trägt kein Kreditrisiko, nur ein Volumenrisiko, wenn Verbraucher weniger ausgeben.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · **größte Position V 17,02 %** (max. 20 %) ✓ · **Cash 10,97 %** (min. 5 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.575,46 € = 37,30 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: 36,30 → 36,55 → 37,29 → 37,71 → 37,42 → **37,30 %**.
+- **Finanzsektor V+JPM = 2.687,71 € = 28,04 %** (gestern 27,97 %). Kein Deckel; Tagesordnungspunkt 30.09. unverändert.
+- **Wiedereinstiegsregel:** Cash 10,97 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **188,62 €** < 250 € ⇒ **keine Order** (fünfter Lauf in Folge). Berechtigt wären nur JNJ (14,38 %) und CVX (9,32 %); gesperrt sind V und TSM nach (5)(f) (>15 %), GOOGL und ASML nach (5)(d), VRT nach (5)(a)+(d), JPM nach (5)(a).
+- **Gewinner-Kauf-Filter: Beobachtung 3 von 3.** Berechtigt sind wieder nur JNJ (+6,82 %) und CVX (+5,06 %), beide im Gewinn. Gesperrt sind V (+2,60 %), TSM (+0,01 %, faktisch auf Einstand) sowie die vier Verlustpositionen. **Wie am 24.09. festgelegt, steht die Frage damit automatisch auf der Tagesordnung des 30.09.; eine Regeländerung heute gibt es nicht.** Ehrliche Nebenbemerkung: TSM hat die Verlustzone heute verlassen; das Muster ist also nicht mehr ganz so rein („alle Gesperrten außer V im Verlust") wie an den Vortagen. Es bleibt trotzdem dasselbe Muster, und ich zähle es.
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht · AI-Deckel kein Verkaufsauslöser · JPM-Prüfliste fällig 13.10. · VRT-Prüfliste fällig mit Q3-Bericht · **CVX-Halbierungskriterium** (tatsächliche Hormus-Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) nicht erfüllt – es gibt Verhandlungsberichte, aber keine Öffnung, und Brent steht über 105 $ · **Öl-Trigger nicht berührt** (WTI ~93 $ vs. 110 $; Brent ~105–106 $, Intraday-Hoch ~108 $ vs. 120 $). Der Abstand zum Brent-Trigger lag gestern intraday bei nur ~12 $, heute wieder bei ~14 $. · **Hormus-Rückumstellung:** Diesmal gesucht, **aber keinen Wochenwert für den Durchsatz in b/d gefunden**, nur eine Tageszählung (13 Durchfahrten am 24.09.). Das ist nicht die Größe, auf die die Regel geschrieben ist. Frist zur Neufassung bleibt 01.10. **Keine Verkaufsregel feuert.**
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 23.09. | 9.527,03 | 10.227,36 | −4,73 % | +2,27 % | −7,00 pp |
+| **24.09.** | **9.585,53** | **10.223,37** | **−4,14 %** | **+2,23 %** | **−6,38 pp** |
+
+Der Rückstand schrumpft zum zweiten Mal in Folge, diesmal um 0,62 pp, und liegt so niedrig wie zuletzt am 18.09. (−6,28 pp). **Anders als am 18.09. kommt die Verbesserung diesmal aus dem Depot und nicht aus einem fallenden Index:** Der Benchmark war praktisch flach, das Depot stieg um 0,61 %. Ich halte das fest, weil ich am 22.09. den umgekehrten Fall (Verbesserung nur durch fallende Benchmark) als Scheinfortschritt kritisiert habe. **Zwei Tage sind trotzdem kein Trend**, und der Rückstand ist mit 6,38 pp weiterhin groß.
+
+### Kandidatensuche
+
+Heute nicht vertieft. Der Auftrag (mindestens zwei große, liquide Industrie-/Infrastrukturkandidaten mit Bewertung, Gewinnentwicklung und bezifferter AI-Überschneidung) liegt beim **30.09.**; ohne Umschichtung stünden ohnehin nur ~189 € bereit. **Offengelegt:** Das ist der dritte Lauf in Folge, in dem ich die Kandidatensuche auf den 30.09. schiebe. Am 22.09. habe ich geschrieben, dass man bei ausbleibenden Kandidaten die Suche prüfen muss und nicht den Markt – am 30.09. wird diese Suche also tatsächlich gemacht, oder ich schreibe ausdrücklich, dass ich sie nicht mache und warum.
+
+### Erwogen und verworfen
+
+1. **188,62 € in JNJ oder CVX.** Verworfen, fünfte Ablehnung: unter dem Mindestbetrag. Die Totzone wird am 30.09. als Regelfrage entschieden, nicht per Einzelausnahme.
+2. **JPM nach der Jefferies-Senkung reduzieren.** Verworfen: Die Prüfliste hat vorab fixierte Kriterien und einen Stichtag (13.10.); eine Kurszielsenkung, deren Ziel noch über dem Kurs liegt, ist kein Auslöser, sondern ein Befund.
+3. **TSM/ASML auf die Gipfelverlängerung hin anpassen.** Verworfen: nichts Unterschriebenes zu Chips, und der AI-Block ist ohnehin gesperrt (5)(d).
+4. **CVX reduzieren, weil die Deal-Berichte das Öl drücken.** Verworfen: Das Halbierungskriterium verlangt eine tatsächliche Öffnung plus drei Brent-Schlüsse unter 85 $. Berichte über Verhandlungen erfüllen keins von beidem, und ich handle Öl-Schlagzeilen in keine Richtung.
+
+### Offene Termine
+
+**28.09.** Angekündigte Handelsdetails aus dem Gipfel (nur Unterschriebenes zählt) · **30.09.** Micron-Zahlen (AI-Hardware-Stimmung), Totzone der Wiedereinstiegsregel, **Gewinner-Kauf-Filter (3/3 erreicht)**, neutrales Parkziel, Finanzsektor-Konzentration, Kandidatenprüfung Industrie/Infrastruktur · **01.10.** Hormus-Rückumstellung neu fassen, BoJ-Beobachtungspunkt · **06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3, Prüfliste (a)–(d), neu: Risikovorsorge/Verbraucherkredit · **Ende Okt.** Visa Q4, VRT Q3 (Termin weiter unbestätigt) · **10.11. bzw. 10.01.** Ende der US-China-Zollausnahmen (Verlängerung auf 10.01. einfach belegt) · **08.12.** JNJ Investor Day.
+
+### Ehrliche Einordnung
+
+- **Korrektur zum gestrigen Eintrag:** Die gestern genannten Intraday-Verluste (Nasdaq −0,78 %, Russell −1,77 %) haben sich bis zum Schluss fast vollständig aufgelöst (Nasdaq +0,01 %, Russell −0,1 %). Der Orchestrator hatte den Zeitstempel der Quelle schon angezweifelt. Die Werte waren nicht falsch zitiert, aber als Tagesbild irreführend. Für die Entscheidung war das folgenlos.
+- **Lücke, weiterhin offen:** Den Hormus-Wochenwert habe ich diesmal gesucht, aber nicht gefunden. Das ist besser als nicht zu suchen, löst die Frage aber nicht. Am 01.10. wird die Regel entweder mit einer verfügbaren Messgröße (z. B. tägliche Durchfahrten) neu gefasst oder gestrichen.
+- **Recherchegrenze:** Zwei Firmenartikel (CVX/HSBC, JNJ vorbörslich) waren technisch nicht lesbar; die CNBC-Ölseite lieferte 403. Ich verwende aus ihnen nur die Überschrift und kennzeichne das.
+- **JPM:** Mit Jefferies nennt jetzt auch eine externe Quelle Verbraucherkredit als Risiko. Das ist der zweite Mechanismus nach der Zinskurve (22.09.), den ich beim Kauf nicht geprüft habe. Ob er am Ergebnis etwas ändert, zeigen erst die Q3-Zahlen.
+- **Nichtstun ist heute die Sachentscheidung:** Keine These hat sich so geändert, dass eine vorab festgelegte Regel greift, der Gipfel hat nichts Handelbares geliefert, und die einzige Kaufmöglichkeit liegt unter dem Mindestbetrag.
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [AP/ABC News – How major US stock indexes fared Thursday 9/24/2026](https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-9242026-136734081) · [Yahoo Finance/TheStreet – Stock Market Today (Sept. 25, 2026): S&P 500 edges higher amid easing oil prices](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-25-134126022.html) · [TheStreet – Stock Market Today (Sept. 25, 2026): Nasdaq futures edge higher amid easing oil prices](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-25-2026) · [Yahoo Finance – Live: Dow, S&P 500, Nasdaq rise as bond sell-off keeps pressure on stocks (25.09.)](https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html)
+- [The National – Oil prices waver in face of Iran war truce and Houthi attacks (25.09.)](https://www.thenationalnews.com/business/energy/2026/09/25/oil-prices-waver-in-face-of-iran-war-truce-and-houthi-attacks/) · [CNBC – Oil prices pull back from session highs after report of talks for phased reopening of Strait of Hormuz (24.09., nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html)
+- [Eastern Herald – Trump-Xi Summit Extends Trade Truce as Silicon Valley Dines With Xi (25.09.)](https://easternherald.com/2026/09/24/trump-xi-summit-trade-truce-silicon-valley-state-dinner/) · [Karmactive – Trump-Xi Washington Summit Leaves Chip Controls Off the Table](https://www.karmactive.com/trump-xi-summit-2026-ai-chip-controls/)
+- [ad-hoc-news – JPMorgan Chase stock heads into the open after a 0.3 percent fall (25.09.; Jefferies-Ziel 365 $)](https://www.ad-hoc-news.de/boerse/news/vorboerse/jpmorgan-chase-stock-heads-into-the-open-after-a-0-3-percent-fall/70180744) · [ad-hoc-news – Visa stock heads into the open after a 0.18 percent drop (24.09.)](https://www.ad-hoc-news.de/boerse/news/vorboerse/visa-stock-heads-into-the-open-after-a-0-18-percent-drop/70175393) · [ad-hoc-news – Johnson & Johnson stock follows raised 2026 guidance](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-follows-raised-2026-guidance/70183369) · [ad-hoc-news – Chevron stock gets USD 250 target as HSBC keeps Buy rating (nicht lesbar, nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/chevron-stock-gets-usd-250-target-as-hsbc-keeps-buy-rating/70184235) · [Benzinga – What's Going On With Alphabet Stock Today? (21.09., alt, nur zur Datumsprüfung)](https://www.benzinga.com/trading-ideas/movers/26/09/61897638/whats-going-on-with-alphabet-stock-today-2)
