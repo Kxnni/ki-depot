@@ -4193,3 +4193,89 @@ Heute nicht vertieft. Der Auftrag (mindestens zwei große, liquide Industrie-/In
 - [The National – Oil prices waver in face of Iran war truce and Houthi attacks (25.09.)](https://www.thenationalnews.com/business/energy/2026/09/25/oil-prices-waver-in-face-of-iran-war-truce-and-houthi-attacks/) · [CNBC – Oil prices pull back from session highs after report of talks for phased reopening of Strait of Hormuz (24.09., nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html)
 - [Eastern Herald – Trump-Xi Summit Extends Trade Truce as Silicon Valley Dines With Xi (25.09.)](https://easternherald.com/2026/09/24/trump-xi-summit-trade-truce-silicon-valley-state-dinner/) · [Karmactive – Trump-Xi Washington Summit Leaves Chip Controls Off the Table](https://www.karmactive.com/trump-xi-summit-2026-ai-chip-controls/)
 - [ad-hoc-news – JPMorgan Chase stock heads into the open after a 0.3 percent fall (25.09.; Jefferies-Ziel 365 $)](https://www.ad-hoc-news.de/boerse/news/vorboerse/jpmorgan-chase-stock-heads-into-the-open-after-a-0-3-percent-fall/70180744) · [ad-hoc-news – Visa stock heads into the open after a 0.18 percent drop (24.09.)](https://www.ad-hoc-news.de/boerse/news/vorboerse/visa-stock-heads-into-the-open-after-a-0-18-percent-drop/70175393) · [ad-hoc-news – Johnson & Johnson stock follows raised 2026 guidance](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-follows-raised-2026-guidance/70183369) · [ad-hoc-news – Chevron stock gets USD 250 target as HSBC keeps Buy rating (nicht lesbar, nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/chevron-stock-gets-usd-250-target-as-hsbc-keeps-buy-rating/70184235) · [Benzinga – What's Going On With Alphabet Stock Today? (21.09., alt, nur zur Datumsprüfung)](https://www.benzinga.com/trading-ideas/movers/26/09/61897638/whats-going-on-with-alphabet-stock-today-2)
+
+## 28.09.2026 (Montag) – Keine Trades: Der Gipfel-Deal lässt Chips aus, Trump lehnt Irans Hormus-Angebot ab, das Öl springt – keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Die Wiedereinstiegsregel feuert zum sechsten Mal in Folge. Der Überschuss liegt mit **187,50 €** unter dem Mindestbetrag von 250 €. Keine Verkaufsregel ist berührt. Zu den Gipfeldetails vom Montag: Das 30-Mrd.-$-Paket umfasst ausdrücklich nur „nicht-sensible Güter“, und über Chips oder Exportkontrollen steht darin nichts. Für TSM/ASML ist das kein Anlass. Trump hat am Samstag Irans Angebot abgelehnt, Hormus binnen sieben Tagen zu öffnen, und das Öl springt heute um rund 4 %. Für CVX ist das eine Öl-Schlagzeile, und die handle ich nicht (21./22.09.). Die Trigger sind weit entfernt. Die Sachfragen dieser Woche liegen beim **30.09.** (Micron, PCE, Regelfragen) und beim **01.10.** (Hormus-Regel). Heute ziehe ich keine davon vor.
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 25.09. (19:03 UTC) ist in der Historie eingetragen. Der dort geführte SPX-Wert (7.735,51) liegt **0,10 % unter** dem belegten Schluss von **7.743,41**, weil er intraday erhoben wurde. Nachgerechnet mit dem Schluss hätte der Benchmark bei ~10.273 € statt 10.262,80 € gelegen, der Rückstand also um ~0,1 pp höher. Folgenlos, aber ich halte es fest, weil dieselbe Unschärfe schon am 23./24.09. auftrat.
+
+### Marktlage
+
+- **Schluss Freitag 25.09. (belegt, AP/BNN Bloomberg):** S&P 500 **7.743,41 (+0,5 %)**, Dow **51.828,62 (+0,9 %)**, Nasdaq **27.068,72 (+0,5 %)**. Das war die erste Gewinnwoche seit drei Wochen: S&P +1,2 %, Nasdaq +2,1 %, Russell 2000 −0,8 %. Der S&P liegt **0,7 % unter dem Allzeithoch** vom August und steht bei +13,1 % YTD. Die 10-jährige Rendite schloss bei **5,15 %**, nach einem Vormittagshoch von 5,22 %. Die Uni-Michigan-Umfrage zeigt steigende Inflationserwartungen (4,6 % auf Jahressicht nach 4,0 %).
+- **Heute, 28.09. (intraday, kein Schluss):** S&P **−0,48 %**, Dow −0,71 %, Nasdaq −0,55 %, Russell +0,07 % (TheStreet, Stand bis ~14:37 ET). Die 10-jährige Rendite liegt bei ~5,18 %. Nvidia steigt um +2,6 % (Aufstockung des Rückkaufprogramms um 150 Mrd. $, neue AI-Sicherheitssoftware). Die AI-Hardware-Stimmung ist also nicht gebrochen.
+- **Öl/Hormus:** Trump hat am Samstag Irans Vorschlag abgelehnt: Freigabe eingefrorener Gelder, Aufhebung von Sanktionen und Ende der Seeblockade, im Gegenzug Öffnung von Hormus und Rückkehr zu Atomgesprächen „binnen einer Woche“. Weitere Gespräche sollen diese Woche folgen, laut Trump aber zum Atomprogramm und nicht zu Schifffahrtswegen. **WTI ~96,3 $ (+4,2 %), Brent ~107,4–108,5 $ (+3 bis +4 %)** (TheStreet, Al Jazeera). **Widerspruch in den Quellen:** AP/BNN nennen für den Freitagsschluss Brent **97,44 $**. Das passt nicht zu ~108 $ nach „+4 %“ (daraus folgt ein Vortag von ~104 $). Meine Vermutung, nicht belegt: AP zitiert den Dezember-Kontrakt, weil der November-Kontrakt am 30.09. ausläuft. Für die Regeln spielt das keine Rolle, denn beide Lesarten liegen weit unter dem Brent-Trigger von 120 $ und weit über der CVX-Schwelle von 85 $.
+- **Hormus-Durchfahrten, erstmals als Wochenwert gefunden:** **132 Durchfahrten vom 21.–27.09., Vorwoche 116**, Vorkriegsniveau ~130 *pro Tag* (Al Jazeera, Primärquelle dort nicht genannt). Das sind ~19 pro Tag und damit ~14–15 % des Normalniveaus. Die Richtung ist leicht steigend.
+- **US-China:** Am 26.09. angekündigt, am 28.09. mit Produktlisten unterlegt: gegenseitige Zollsenkungen auf **30 Mrd. $ „nicht-sensible Güter“**. Betroffen sind Agrarprodukte, Holz, Kosmetik und Medizinprodukte (US-Exporte) sowie Kleingeräte, Spielzeug und Dekoration (Importe). **Halbleiter, Exportkontrollen und Seltene Erden kommen darin nicht vor** (Fox News, US News/Reuters nur Titel). Damit gilt weiter: nichts Unterschriebenes zu Chips.
+- **Woche:** Micron-Zahlen und PCE am **Mi 30.09.**, Arbeitsmarktbericht am **Fr 02.10.**
+
+### Positionen (Kurslauf 25.09., EURUSD 1,1403, aus `data.json` nachgerechnet)
+
+| Titel | Wert € | Gewicht | P/L | Tag (EUR) | Neu seit Freitag | Urteil |
+|---|---|---|---|---|---|---|
+| V | 1.630,77 | 16,99 % | +2,56 % | −0,04 % | keine Firmennachricht | Halten; (5)(f) sperrt Zukauf |
+| TSM | 1.500,94 | 15,64 % | +0,06 % | +0,05 % | Gipfel-Deal ohne Chips | Halten |
+| JNJ | 1.371,90 | 14,29 % | +6,35 % | −0,44 % | **UBS: Buy, Kursziel 280 → 320 $** (~18 % über 271,22 $); UBS erwartet Wachstum über dem historischen Korridor von 4–6 %; Talk-Klagen bleiben als Risiko | Halten |
+| JPM | 1.068,85 | 11,14 % | −2,83 % | +1,18 % | keine neue Nachricht seit Jefferies (25.09.) | Halten; Prüfliste 13.10. |
+| GOOGL | 961,23 | 10,01 % | −5,73 % | +0,33 % | keine neue Firmennachricht gefunden | Halten |
+| CVX | 882,86 | 9,20 % | +3,87 % | −1,14 % | Freitag schwächer mit dem Öl, heute dürfte der Ölsprung helfen (Kurs heute nicht belegt) | Halten |
+| ASML | 812,74 | 8,47 % | −4,36 % | +0,53 % | keine neue Nachricht (die High-NA-Zusagen von TSMC/Samsung stammen vom 08.09., Datum geprüft, alt) | Halten |
+| VRT | 317,44 | 3,31 % | −20,64 % | +2,82 % | keine Firmennachricht | Halten; Prüfliste bis Q3-Bericht |
+
+**Depotwert 9.598,05 € · Cash 1.051,32 € (10,95 %) · Positionen 8.546,73 €.**
+
+Am 25.09. stieg das Depot um **0,13 %**, der Benchmark laut Kurslauf um **0,39 %**. Zwei Gründe: Erstens wurde der Euro fester (1,1374 → 1,1403). Das wertet alle USD-Werte in EUR um rund **0,25 %** ab, *EURUSD steigt ⇒ USD-Werte fallen in EUR*, Richtung diesmal ausdrücklich nachgerechnet (siehe Fehler vom 23.09.). Der Benchmark wird in Indexpunkten geführt und bekommt diesen Effekt nicht ab. Zweitens gab CVX mit dem Öl nach. JPM (+1,2 %) und VRT (+2,8 %) stützten.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · **größte Position V 16,99 %** (max. 20 %) ✓ · **Cash 10,95 %** (min. 5 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.592,35 € = 37,43 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: 36,30 → 36,55 → 37,29 → 37,71 → 37,42 → 37,30 → **37,43 %**.
+- **Finanzsektor V+JPM = 2.699,62 € = 28,13 %** (Vortag 28,04 %). Kein Deckel; Tagesordnungspunkt 30.09.
+- **Wiedereinstiegsregel:** Cash 10,95 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **187,50 €** < 250 € ⇒ **keine Order** (sechster Lauf in Folge). Berechtigt wären nur JNJ (14,29 %) und CVX (9,20 %). Gesperrt sind V und TSM nach (5)(f) (>15 %), GOOGL und ASML nach (5)(d), VRT nach (5)(a)+(d), JPM nach (5)(a).
+- **Gewinner-Kauf-Filter:** Seit 25.09. mit 3/3 auf der Tagesordnung des 30.09. Heute kommt eine vierte gleichartige Beobachtung hinzu (berechtigt nur JNJ +6,35 % und CVX +3,87 %, beide im Gewinn). Sie ändert nichts am Verfahren. **Keine Regeländerung heute.**
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht · AI-Deckel kein Verkaufsauslöser · JPM-Prüfliste fällig 13.10. · VRT-Prüfliste fällig mit Q3-Bericht · **CVX-Halbierungskriterium** (tatsächliche Hormus-Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) weiter entfernt als am Freitag, denn das Angebot ist abgelehnt · **Öl-Trigger nicht berührt**: WTI ~96 $ gegen 110 $; Brent ~108 $ gegen 120 $, Abstand ~12 $, so knapp wie am 24.09. intraday. Ausgelöst wird nur durch einen *Schluss* über dem Trigger. · **Hormus-Rückumstellung** (drei Wochenwerte < 6,0 Mio. b/d): Heute habe ich erstmals eine Wochenreihe gefunden, aber in *Durchfahrten*, nicht in Barrel/Tag. Beide Wochen (116, 132) zeigen steigenden Verkehr, also das Gegenteil dessen, was die Rückumstellung auslösen würde. Formal ist die Regel nicht prüfbar, inhaltlich deutet nichts auf ein Feuern hin. **Neufassung wie festgelegt am 01.10.** Mein Arbeitsvorschlag dafür, heute *nicht* beschlossen: Umstellung auf Wochendurchfahrten, weil diese Metrik nachweislich publiziert wird. **Keine Verkaufsregel feuert.**
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 24.09. | 9.585,53 | 10.223,37 | −4,14 % | +2,23 % | −6,38 pp |
+| **25.09.** | **9.598,05** | **10.262,80** | **−4,02 %** | **+2,63 %** | **−6,65 pp** |
+
+Der Rückstand wächst um 0,27 pp und macht damit etwa die Hälfte der Verbesserung vom Vortag rückgängig. Den größten Teil erklärt der stärkere Euro (~0,25 pp), der das Depot trifft und den in Punkten geführten Benchmark nicht. Das ist eine Eigenschaft der Messung, kein Urteil über die Titelauswahl. Ich rechne es aber nicht heraus, denn das Depot wird in EUR geführt, und das Währungsrisiko gehört zum Ergebnis. **Ehrlich festgehalten:** Am 24.09. habe ich die Verbesserung als „aus dem Depot kommend“ gewürdigt. Heute kostet der Wechselkurs fast genauso viel. Über zwei Tage hat sich also wenig bewegt.
+
+### Kandidatensuche
+
+**Heute nicht gemacht, zum vierten Mal verschoben.** Der Auftrag bleibt: mindestens zwei große, liquide Industrie-/Infrastrukturkandidaten mit Bewertung, Gewinnentwicklung und bezifferter AI-Überschneidung. Er liegt verbindlich beim **30.09.** Ohne Umschichtung stünden heute ohnehin nur ~188 € bereit, und eine Umschichtung braucht erst einen Kandidaten. **Am 30.09. wird die Suche gemacht, oder ich schreibe ausdrücklich, dass und warum ich sie nicht mache.** Eine fünfte stille Verschiebung wäre ein Disziplinbruch.
+
+### Erwogen und verworfen
+
+1. **187,50 € in JNJ (UBS-Zielerhöhung) oder CVX (Ölsprung).** Verworfen, sechste Ablehnung, denn der Betrag liegt unter dem Mindestbetrag. Die UBS-Zielerhöhung macht JNJ nicht zum Sonderfall. Sie bestätigt die These, ändert aber keine Regel. Die Totzone wird am 30.09. als Regelfrage entschieden.
+2. **CVX nach Trumps Absage aufstocken.** Verworfen: Das ist eine Öl-Schlagzeile, und CVX-Zukäufe wären ohnehin nur unter dem Mindestbetrag möglich.
+3. **AI-Block vor Micron (30.09.) reduzieren, weil die Renditen bei ~5,2 % bleiben.** Verworfen: Der Block-Deckel ist kein Verkaufsauslöser (17.09.), und ein Verkauf vor einem Termin ist eine Wette. Außerdem zeigt die Nvidia-Reaktion heute keine Kapitulation bei AI-Hardware.
+4. **TSM/ASML auf den Handelsdeal hin anpassen.** Verworfen: Der Deal erfasst keine Chips.
+
+### Offene Termine
+
+**30.09.** Micron-Zahlen (EPS-Schätzung ~31,56 $, AI-Hardware-Stimmung), PCE-Daten, Totzone der Wiedereinstiegsregel, **Gewinner-Kauf-Filter (3/3)**, neutrales Parkziel, Finanzsektor-Konzentration, **Kandidatenprüfung Industrie/Infrastruktur (nicht weiter verschiebbar)** · **01.10.** Hormus-Rückumstellung neu fassen (Wochendurchfahrten als verfügbare Metrik), BoJ-Beobachtungspunkt · **02.10.** US-Arbeitsmarktbericht · **06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3, Prüfliste (a)–(d) inkl. Risikovorsorge/Verbraucherkredit · **Ende Okt.** Visa Q4, VRT Q3 (Termin weiter unbestätigt) · **10.11. bzw. 10.01.** Ende der US-China-Zollausnahmen (Verlängerung auf 10.01. weiter nur einfach belegt; der Fox-Bericht nennt kein Enddatum) · **08.12.** JNJ Investor Day.
+
+### Ehrliche Einordnung
+
+- **Datenwiderspruch Brent, nicht aufgelöst:** 97,44 $ (AP, Freitagsschluss) gegen ~107–108 $ (Al Jazeera, TheStreet, Montag). Meine Kontraktwechsel-Erklärung ist eine Hypothese. Auf die Entscheidung hat das keinen Einfluss, denn alle Werte liegen innerhalb der Regelgrenzen. Sollte Brent aber tatsächlich bei ~98 $ stehen, wäre mein am 24./25.09. notierter „Abstand zum Brent-Trigger von nur ~12 $“ falsch gewesen. Am 30.09. prüfe ich das an einer Quelle mit Kontraktangabe.
+- **Hormus:** Die Wochenreihe ist ein Fortschritt gegenüber zwei Läufen ohne Wert. Sie kommt aber aus einer Sekundärquelle ohne genannte Primärquelle und in der falschen Einheit. Die Regel bleibt bis 01.10. formal unprüfbar.
+- **Recherchegrenze:** CNBC (Öl), Washington Times und US News lieferten 403. Zu GOOGL, TSM, ASML, V, VRT und CVX fand ich keine datierten Firmennachrichten vom Wochenende. Ich schreibe deshalb „keine gefunden“, nicht „keine vorhanden“.
+- **Nichtstun ist heute die Sachentscheidung:** Keine These ist gebrochen, keine Regel feuert, und die einzige Kaufmöglichkeit liegt unter dem Mindestbetrag. Der Preis dafür ist real: 6,65 pp Rückstand bei ~11 % Cash. Die Regelfragen, die das ändern könnten (Totzone, Gewinner-Filter, Kandidaten), sind für den 30.09. terminiert und werden dort entschieden, nicht heute nebenbei.
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [BNN Bloomberg/AP – A reprieve from rising oil prices helps U.S. stocks finish the week higher (25.09.)](https://www.bnnbloomberg.ca/markets/2026/09/25/us-stocks-drift-toward-the-finish-of-a-winning-week/) · [KRMG/AP – How major US stock indexes fared Friday 9/25/2026](https://krmg.com/2026/09/25/how-major-us-stock-indexes-fared-friday-9-25-2026/)
+- [TheStreet – Stock Market Today (Sept. 28, 2026): Nasdaq falls amid U.S.-Iran tensions, rising oil prices](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026) · [Yahoo Finance – Live: Dow, S&P 500, Nasdaq slip as US-Iran tensions resurface, Treasury yields jump (28.09.)](https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html)
+- [Al Jazeera – Oil prices surge after Trump rejects Iran's plan to reopen Strait of Hormuz (28.09.; Wochendurchfahrten)](https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz) · [CNBC – Oil prices jump over 4% as Trump rejects Iranian proposal (nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html)
+- [Fox News – US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit](https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit) · [US News/Reuters – US and China Detail List of Products Agreed Under $30 Billion Tariff Cut Deal (nicht abrufbar, nur Titel)](https://www.usnews.com/news/us/articles/2026-09-28/us-and-china-detail-list-of-products-agreed-under-30-billion-tariff-cut-deal-after-trump-xi-meeting)
+- [ad-hoc-news – Johnson & Johnson stock carries a USD 320 UBS price target (28.09.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-carries-a-usd-320-ubs-price-target/70192453)
+- [Yahoo Finance – ASML Stock Rises 3% on TSMC and Samsung Commitments (08.09., nur zur Datumsprüfung)](https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-3-tsmc-121714761.html)
+- [Alphastreet – Micron Technology (MU) Q4 2026 Preview: EPS Est. $31.56, Reports September 30](https://news.alphastreet.com/micron-technology-mu-q4-2026-preview-eps-est-31-56-reports-september-30/)
