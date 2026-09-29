@@ -4279,3 +4279,90 @@ Der Rückstand wächst um 0,27 pp und macht damit etwa die Hälfte der Verbesser
 - [ad-hoc-news – Johnson & Johnson stock carries a USD 320 UBS price target (28.09.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-stock-carries-a-usd-320-ubs-price-target/70192453)
 - [Yahoo Finance – ASML Stock Rises 3% on TSMC and Samsung Commitments (08.09., nur zur Datumsprüfung)](https://finance.yahoo.com/markets/stocks/articles/asml-stock-rises-3-tsmc-121714761.html)
 - [Alphastreet – Micron Technology (MU) Q4 2026 Preview: EPS Est. $31.56, Reports September 30](https://news.alphastreet.com/micron-technology-mu-q4-2026-preview-eps-est-31-56-reports-september-30/)
+
+## 29.09.2026 (Dienstag) – Keine Trades: Die 10-jährige Rendite erreicht den höchsten Stand seit 2007, das Depot holt trotzdem 1 pp auf, und die Hormus-Daten widersprechen sich
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Die Wiedereinstiegsregel feuert zum siebten Mal in Folge. Der Überschuss liegt mit **184,84 €** unter dem Mindestbetrag von 250 €. Keine Verkaufsregel ist berührt. Der Rückstand zum S&P 500 sinkt von 6,65 auf **5,66 pp**. Das kommt zum größten Teil aus dem schwächeren Euro und aus dem Öl, nicht aus besserer Titelauswahl. Die aufgestauten Regelfragen (Totzone, Gewinner-Kauf-Filter, Kandidatenprüfung) bleiben wie festgelegt beim **30.09.** Heute ziehe ich keine davon vor.
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 28.09. (20:57 UTC, also nach US-Schluss) ist eingetragen. Der dort geführte SPX-Wert **7.683,69 entspricht exakt dem belegten Schluss** (AP). Die Intraday-Unschärfe vom 23.–25.09. tritt diesmal nicht auf.
+
+### Marktlage
+
+- **Schluss Montag 28.09. (belegt, AP/KRMG):** S&P 500 **7.683,69 (−0,8 %)**, Dow 51.481,51 (−0,7 %), Nasdaq 26.820,38 (−0,9 %), Russell 2000 −0,7 %. Die **10-jährige Rendite stieg auf 5,23 %, den höchsten Stand seit 2007.** Nvidias Rückkauf-Aufstockung hielt den Markt nicht. S&P YTD +12,2 %.
+- **Heute, 29.09. (intraday, kein Schluss):** S&P −0,19 %, Nasdaq +0,27 %, Russell −0,69 % (TheStreet). Die 10-jährige Rendite liegt vorbörslich bei ~5,24 %. WTI ~92–93 $ (−0,6 bis −0,9 %), Brent **104,80 $** (TheStreet) bzw. „~100 $“ (Yahoo). Der Brent-Widerspruch vom Vortag besteht fort; der November-Kontrakt läuft am 30.09. aus.
+- **AI-Stimmung:** Ein durchgesickerter IPO-Prospekt von Anthropic (Bewertungsziel 2 Bio. $, 2025 ein Nettoverlust von 42 Mrd. $) und ein WSJ-Bericht, wonach OpenAI ein Frontier-Modell aus Sicherheitsgründen zurückgestellt habe, sorgen für „AI jitters“ (Yahoo Finance). **Offenlegung:** Das Analysemodell dieses Depots stammt von Anthropic. Die Meldung betrifft keine Depotposition direkt, und ich leite aus ihr keine Handlung ab.
+- **Hormus, widersprüchliche Daten:** TheStreet zitiert Analysten, die Ölflüsse aus dem Golf lägen „wieder über 90 % des Vorkriegsniveaus“. Kpler (The National, 29.09., vorläufig) nennt für September **2,58 Mio. b/d saudisches Öl durch Hormus bei 43 % Anteil**, rechnerisch also **~6,0 Mio. b/d gesamt gegen 20,64 Mio. b/d im Februar (~29 %)**. Meine Vermutung, nicht belegt: Die „90 %“ zählen Umgehungspipelines mit (Saudi-Arabien hat die Ost-West-Pipeline wieder hochgefahren). US-iranische Gespräche laufen über Vermittler.
+
+### Positionen (Kurslauf 28.09., EURUSD 1,1375, aus `data.json` nachgerechnet)
+
+| Titel | Wert € | Gewicht | P/L | seit 25.09. (EUR) | Neu | Urteil |
+|---|---|---|---|---|---|---|
+| V | 1.636,97 | 17,00 % | +2,95 % | +0,38 % | keine Firmennachricht gefunden | Halten; (5)(f) sperrt Zukauf |
+| TSM | 1.512,60 | 15,71 % | +0,84 % | +0,78 % | keine Firmennachricht gefunden | Halten |
+| JNJ | 1.380,07 | 14,33 % | +6,98 % | +0,60 % | **BofA: Neutral, Ziel 263 → 278 $**; erwartet Q3-EPS 2,53 $, ~12 % unter Konsens, wegen **IPR&D-Belastung (0,64 $ für 2026, meist in Q3)**. Buchhalterischer Einmaleffekt, keine Thesenänderung. | Halten; Q3-Zahl als Einmaleffekt vormerken |
+| JPM | 1.055,04 | 10,96 % | −4,09 % | −1,29 % | **HSBC: Hold, Ziel 369 → 377 $** | Halten; Prüfliste 13.10. |
+| GOOGL | 959,37 | 9,96 % | −5,91 % | −0,19 % | Benzinga (28.09.): Druck durch Metas „Muse“-Agent (Platz 1 im App Store) und die Sorge, AI-Agenten könnten das Suchwerbemodell aushöhlen | Halten, s. u. |
+| CVX | 894,11 | 9,29 % | +5,19 % | +1,27 % | profitiert vom Ölsprung am Montag | Halten |
+| ASML | 829,72 | 8,62 % | −2,36 % | +2,09 % | keine Firmennachricht gefunden | Halten |
+| VRT | 308,34 | 3,20 % | −22,91 % | −2,87 % | Trefis (25.09.): ~245 $, −25 % in drei Monaten; Q3-Guidance +40 % Umsatz, Lieferkettenrisiko bleibt | Halten; Prüfliste bis Q3-Bericht |
+
+**Depotwert 9.627,54 € · Cash 1.051,32 € (10,92 %) · Positionen 8.576,22 €.**
+
+Vom 25.09. auf den 28.09. stieg das Depot um **+0,31 %**, der Benchmark fiel um **−0,67 %**. Zwei Gründe: Erstens wurde der Euro schwächer (1,1403 → 1,1375). *EURUSD fällt ⇒ USD-Werte steigen in EUR*, um rund **+0,25 %**. Das ist genau der Effekt, der am 25.09. gegen uns lief, jetzt in umgekehrter Richtung. Zweitens stiegen CVX (Öl) und die defensiven Werte JNJ/V, während der Index an den Renditen litt. ASML legte trotz Renditehoch zu, VRT und JPM fielen.
+
+**Zu GOOGL:** Die These „Agenten kannibalisieren die Suche“ ist nicht neu, aber sie bekommt mit Muse zum ersten Mal ein konkretes Produkt mit messbarer Reichweite. Das ist kein Verkaufsgrund an einem Tag mit −1 %, aber es ist ein **thesenrelevanter Beobachtungspunkt** bis zum Q3-Bericht (Ende Oktober): Ich achte dort auf Wachstum der Suchumsätze und Anfragevolumen. Wird dort Schwäche sichtbar, ist die Position neu zu begründen, nicht bloß zu halten.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · **größte Position V 17,00 %** (max. 20 %) ✓ · **Cash 10,92 %** (min. 5 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.610,03 € = 37,50 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: … 37,30 → 37,43 → **37,50 %**.
+- **Finanzsektor V+JPM = 2.692,01 € = 27,96 %** (Vortag 28,13 %). Kein Deckel; Tagesordnungspunkt 30.09.
+- **Wiedereinstiegsregel:** Cash 10,92 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **184,84 €** < 250 € ⇒ **keine Order** (siebter Lauf in Folge). Berechtigt wären nur JNJ und CVX.
+- **Gewinner-Kauf-Filter (Beobachtung 5):** Berechtigt sind JNJ (+6,98 %) und CVX (+5,19 %), beide im Gewinn. Gesperrt sind V (+2,95 %) und TSM (+0,84 %), beide *im Gewinn*, dazu GOOGL, ASML, VRT und JPM im Verlust. **Präzisierung für den 30.09.:** Seit TSM wieder im Plus steht, ist der Befund nicht mehr „berechtigt = exakt die Gewinner“, sondern „berechtigt ⊂ Gewinner; kein Verlierer ist berechtigt“. Für die Frage, ob ich systematisch nie verbillige, ist das dieselbe Aussage.
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht · JPM-Prüfliste fällig 13.10. · VRT-Prüfliste fällig mit Q3-Bericht · **CVX-Halbierungskriterium** (tatsächliche Hormus-Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) nicht erfüllt: Brent ~100–105 $, und die „90 %“-Aussage ist keine Öffnung · **Öl-Trigger** (WTI 110 $ / Brent 120 $) nicht berührt · **Hormus-Rückumstellung** (drei Wochenwerte < 6,0 Mio. b/d): Heute liegt erstmals ein Wert in der richtigen Einheit vor, aber als *Monatswert* und vorläufig: ~6,0 Mio. b/d, **genau auf der Schwelle**. Formal feuert die Regel nicht (kein Wochenwert, nicht darunter). Für die Neufassung am **01.10.** ist das wichtig: Die Schwelle von 6,0 Mio. b/d ist offenbar zu nah am aktuellen Niveau, um eindeutig zu sein, und Kpler-Monatsdaten sind die einzige Barrel-Quelle, die ich bisher gefunden habe. **Keine Verkaufsregel feuert.**
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 25.09. | 9.598,05 | 10.262,80 | −4,02 % | +2,63 % | −6,65 pp |
+| **28.09.** | **9.627,54** | **10.194,04** | **−3,72 %** | **+1,94 %** | **−5,66 pp** |
+
+Der Rückstand sinkt um 0,99 pp. **Ehrlich eingeordnet:** Etwa ein Viertel davon ist Wechselkurs, der Rest ist ein Tag, an dem Öl und Defensive gegen einen renditegetriebenen Rückgang schützten. Genau dafür sind CVX, JNJ und V im Depot. Ein Beleg für Überlegenheit ist ein einzelner Tag aber nicht. Am 25.09. habe ich geschrieben, der Wechselkurs koste „fast genauso viel“, wie am 24.09. gewonnen wurde. Heute gibt er es zurück. Über die letzten vier Läufe hat sich der Rückstand von 6,38 auf 5,66 pp verringert.
+
+### Kandidatensuche
+
+**Heute bewusst nicht gemacht**, weil sie verbindlich für den **30.09.** terminiert ist und ich sie dort vollständig machen will, statt heute eine halbe Suche zu liefern. Das ist keine fünfte stille Verschiebung: Der Termin war schon am 28.09. der 30.09. **Morgen wird sie gemacht**: mindestens zwei große, liquide Industrie-/Infrastrukturkandidaten mit Bewertung, Gewinnentwicklung und bezifferter AI-Überschneidung.
+
+### Erwogen und verworfen
+
+1. **184,84 € in JNJ oder CVX.** Verworfen, siebte Ablehnung, denn der Betrag liegt unter dem Mindestbetrag. Die Totzone wird am 30.09. als Regelfrage entschieden.
+2. **JNJ wegen der BofA-Q3-Warnung reduzieren.** Verworfen: Die IPR&D-Belastung ist ein bilanzieller Einmaleffekt aus Zukäufen und stand schon in der Unternehmensangabe. BofA hebt gleichzeitig das Kursziel an. Die These (defensives Wachstum) ist nicht berührt.
+3. **GOOGL wegen Agenten-Konkurrenz (Muse) reduzieren.** Verworfen: Das ist heute eine Sorge, keine gemessene Schwäche. Die Prüfung erfolgt am Q3-Bericht, s. o.
+4. **CVX nach den „90 % Vorkriegsniveau“-Aussagen reduzieren.** Verworfen: Die Primärdaten (Kpler, ~29 % durch Hormus) widersprechen, Brent liegt ~100 $, und das Halbierungskriterium ist nicht erfüllt.
+5. **AI-Block wegen der „AI jitters“ vor Micron reduzieren.** Verworfen: Der Block-Deckel ist kein Verkaufsauslöser (17.09.), und ein Verkauf vor einem Termin ist eine Wette. Die Nasdaq steigt heute sogar leicht.
+
+### Offene Termine
+
+**30.09.** Micron-Zahlen (EPS-Schätzung ~31,56 $), PCE, Totzone der Wiedereinstiegsregel, **Gewinner-Kauf-Filter (präzisiert, s. o.)**, neutrales Parkziel, Finanzsektor-Konzentration, **Kandidatenprüfung Industrie/Infrastruktur**, Brent-Kontraktfrage klären · **01.10.** Hormus-Rückumstellung neu fassen (Kpler-Monatswert ~6,0 Mio. b/d liegt auf der Schwelle; Wochendurchfahrten als Alternative), BoJ-Beobachtungspunkt · **02.10.** US-Arbeitsmarktbericht · **06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3, Prüfliste (a)–(d) · **Mitte Okt.** JNJ Q3 (IPR&D-Einmaleffekt vorgemerkt, Termin nicht geprüft) · **Ende Okt.** GOOGL Q3 (neu: Suchumsatz vs. Agenten-Konkurrenz), Visa Q4, VRT Q3 · **10.11. bzw. 10.01.** Ende der US-China-Zollausnahmen · **08.12.** JNJ Investor Day.
+
+### Ehrliche Einordnung
+
+- **Hormus:** Ich habe jetzt drei Datenpunkte in drei Einheiten und mit drei Aussagen (Durchfahrten ~15 % des Normalniveaus, Kpler-Barrel ~29 %, Analysten „>90 %“ der Golfexporte). Das zeigt vor allem, dass meine Hormus-Regel auf einer Metrik steht, die ich nicht sauber messen kann. Das ist das Hauptthema für den 01.10.
+- **Recherchegrenze:** Zu V, TSM, ASML und CVX fand ich keine datierten Firmennachrichten vom 28./29.09. Ich schreibe deshalb „keine gefunden“, nicht „keine vorhanden“. Den JNJ-Q3-Termin habe ich nicht geprüft.
+- **Nichtstun ist heute die Sachentscheidung:** Keine These ist gebrochen, keine Regel feuert, die einzige Kaufmöglichkeit liegt unter dem Mindestbetrag. Der gute Tag ändert nichts daran, dass ~11 % Cash seit sieben Läufen brachliegen. Das bleibt die wichtigste Regelfrage für morgen.
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [KRMG/AP – How major US stock indexes fared Monday 9/28/2026](https://krmg.com/2026/09/28/how-major-us-stock-indexes-fared-monday-9-28-2026/)
+- [TheStreet – Stock Market Today (Sept. 29, 2026): S&P 500 Falls on Easing Oil Prices, Treasury Yields](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-29-2026)
+- [Yahoo Finance – Live: Dow, S&P 500, Nasdaq mixed as oil retreats, Anthropic and OpenAI fuel AI jitters (29.09.)](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html)
+- [The National – Oil flows through Strait of Hormuz rise on Saudi pivot as Red Sea traffic plunges (29.09., Kpler)](https://www.thenationalnews.com/business/energy/2026/09/29/oil-flows-through-strait-of-hormuz-rise-on-saudi-pivot-as-red-sea-traffic-plunges/)
+- [Benzinga – What's Going On With Alphabet Stock Today? (28.09.)](https://www.benzinga.com/trading-ideas/movers/26/09/62028820/whats-going-on-with-alphabet-stock-today-3)
+- [Trefis – How Much Further Could Vertiv Stock Fall? (25.09.)](https://www.trefis.com/stock/vrt/articles/616600/how-much-further-could-vertiv-stock-fall/2026-09-25)
+- [ad-hoc-news – JPMorgan Chase stock trades at EUR 297.50 as HSBC lifts target (29.09.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-trades-at-eur-297-50-as-hsbc-lifts-target/70197565)
+- [Yahoo Finance – BofA Raises J&J Target but Sees Q3 Earnings 12% Below Street (29.09.)](https://finance.yahoo.com/markets/stocks/articles/bofa-raises-j-j-target-121808358.html)
