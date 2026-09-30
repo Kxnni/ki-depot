@@ -4366,3 +4366,113 @@ Der Rückstand sinkt um 0,99 pp. **Ehrlich eingeordnet:** Etwa ein Viertel davon
 - [Trefis – How Much Further Could Vertiv Stock Fall? (25.09.)](https://www.trefis.com/stock/vrt/articles/616600/how-much-further-could-vertiv-stock-fall/2026-09-25)
 - [ad-hoc-news – JPMorgan Chase stock trades at EUR 297.50 as HSBC lifts target (29.09.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-trades-at-eur-297-50-as-hsbc-lifts-target/70197565)
 - [Yahoo Finance – BofA Raises J&J Target but Sees Q3 Earnings 12% Below Street (29.09.)](https://finance.yahoo.com/markets/stocks/articles/bofa-raises-j-j-target-121808358.html)
+
+## 30.09.2026 (Mittwoch, Quartalsende) – Keine Trades: Die aufgestauten Regelfragen sind entschieden, die Kandidatensuche ist gemacht, und keine der Antworten ist ein Kauf
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Heute war der Sammeltermin für fünf aufgeschobene Fragen. Ich habe alle fünf entschieden. **(1) Totzone:** Der Mindestbetrag bleibt bei 250 €. Die Totzone kostet rechnerisch ~0,19 pp pro Jahr. Eine Senkung würde den Betrag wegen (5)(f) komplett in CVX lenken, also in eine Ölwette bei Brent ~103 $. **(2) Neutrales Parkziel (ETF):** Verworfen, weil es Strategieregel 1 widerspricht. **(3) Gewinner-Kauf-Filter:** Der Filter hat seit dem 22.09. keinen einzigen Euro gelenkt, und die Sperrgründe auf der Verlustseite laufen im Oktober aus. Deshalb gibt es keine neue Regel. Gezählt wird künftig nur noch, wenn eine Order entsteht. **(4) Finanzsektor V+JPM 27,88 %:** Kein Deckel, Wiedervorlage nach JPM-Q3. **(5) Kandidatensuche Industrie/Infrastruktur:** Durchgeführt mit Caterpillar, Honeywell und Union Pacific. Keiner davon wird heute gekauft, UNP kommt auf die Beobachtungsliste. Die Micron-Zahlen kommen erst nach US-Schluss und werden nach Ausfallregel (5) **nicht ausgewertet**.
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 29.09. (19:43 UTC, vor US-Schluss) führt SPX **7.672,15**, belegt ist ein Schluss von **7.670,84** (AP/KRMG). Die Abweichung beträgt 0,02 %, der Benchmark wäre mit dem Schluss 10.177,00 € statt 10.178,73 €. Folgenlos.
+
+### Marktlage
+
+- **Schluss Dienstag 29.09. (belegt, AP/KRMG):** S&P 500 **7.670,84 (−0,2 %)**, Dow 51.349,92 (−0,3 %), Nasdaq 26.797,54 (−0,1 %), Russell 2000 2.807,92 (−0,4 %). Die 10-jährige Rendite lag bei **5,25 %**. **Quellenwiderspruch:** AP schreibt „höchster Stand seit 24 Jahren“, meine Einträge vom 28./29.09. sagen (nach TheStreet/Yahoo) „seit 2007“, also seit 19 Jahren. Ich kann das nicht auflösen. Für die Entscheidung ist es egal, es ist in beiden Lesarten ein Mehrjahrzehnte-Hoch.
+- **Heute, 30.09. (intraday, kein Schluss):** **PCE August deutlich unter Erwartung.** Gesamtrate **3,4 %** J/J (erwartet 3,7 %), Kernrate **3,0 %** (erwartet 3,3 %), Monatsrate +0,3 % wie erwartet (TheStreet). Die ADP-Zahl lag bei 90.000 neuen Stellen (erwartet 68.000). Nach der PCE-Zahl steht der S&P bei **+0,60 %** (11:35 ET), der Nasdaq bei +0,34 %, der Russell bei −0,35 %. Die 10-jährige Rendite liegt bei ~5,26–5,3 %, sie ist also trotz der weichen Inflationszahl nicht gefallen. Laut Yahoo hat New-York-Fed-Präsident Williams („no need for urgency“) die Wahrscheinlichkeit einer Oktober-Anhebung auf **etwa 50:50** gedrückt.
+- **Öl:** WTI **90,17 $ (+0,9 %)**, Brent **103,30 $ (+0,7 %)** (TheStreet, intraday). **Zur Brent-Kontraktfrage (Auftrag vom 28.09.):** CNBC führt den Frontkontrakt als „ICE Brent Crude (Nov'26)“. Die ~103–108-$-Werte der letzten Tage sind also sehr wahrscheinlich der **November-Kontrakt**, der heute ausläuft. Den AP-Wert von 97,44 $ (25.09.) kann ich weiterhin keinem Kontrakt zuordnen. **Ab morgen ist Dezember der Frontkontrakt.** Ein Sprung in den Zeitreihen ab 01.10. kann also ein Kontraktwechsel sein und keine Marktbewegung. Beide Lesarten liegen weit unter dem Brent-Trigger von 120 $ und weit über der CVX-Schwelle von 85 $.
+- **Quartalsende:** Der S&P ist trotz Renditeschock nur ~1 % unter dem Allzeithoch vom August. Seit dem Depotstart am 06.07. steht er bei **+1,79 %**, das Depot bei **−3,47 %**.
+- **Micron** berichtet nach US-Schluss (EPS-Schätzung ~31,56 $). **Nicht ausgewertet**, weil nicht belegbar (Ausfallregel (5)). Ich werte es im nächsten Lauf aus: Umsatz- und Margenausblick, HBM-Nachfrage 2027, Kursreaktion von MU und TSM.
+- **Neu für die Terminliste (Yahoo, 30.09.):** **ASML Q3 am 14.10., TSM Q3 am 15.10.** Der Artikel beschreibt das Risiko, dass beide trotz starker Zahlen fallen, wenn die Capex-Pläne der Hyperscaler für 2027 oder die sinkenden Preise für AI-Modelle enttäuschen. **JNJ Q3 am 13.10.** ist jetzt per Primärquelle (J&J Investor Relations) bestätigt, am selben Tag wie JPM.
+
+### Positionen (Kurslauf 29.09., EURUSD 1,1343, aus `data.json` nachgerechnet)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.637,26 | 16,96 % | +2,97 % | keine Firmennachricht gefunden | Halten; (5)(f) sperrt Zukauf |
+| TSM | 1.534,13 | 15,89 % | +2,28 % | Q3-Bericht **15.10.** (neu datiert) | Halten; (5)(d)+(f) |
+| JNJ | 1.360,12 | 14,09 % | +5,44 % | Q3 **13.10.** bestätigt; BofA-Hinweis auf IPR&D-Einmaleffekt (29.09.) bleibt vorgemerkt | Halten |
+| JPM | 1.053,60 | 10,92 % | −4,22 % | keine neue Nachricht gefunden | Halten; Prüfliste 13.10. |
+| GOOGL | 956,67 | 9,91 % | −6,18 % | keine neue Nachricht gefunden; Muse-Beobachtungspunkt bis Q3 | Halten |
+| CVX | 885,47 | 9,17 % | +4,17 % | Öl leicht fester | Halten |
+| ASML | 859,53 | 8,90 % | +1,15 % | Q3-Bericht **14.10.** (neu datiert); **seit dem Teilverkauf wieder im Plus** | Halten; (5)(d) |
+| VRT | 314,54 | 3,26 % | −21,36 % | keine Firmennachricht gefunden | Halten; Prüfliste bis Q3-Bericht |
+
+**Depotwert 9.652,64 € · Cash 1.051,32 € (10,89 %) · Positionen 8.601,32 €.**
+
+Vom 28.09. auf den 29.09. stieg das Depot um **+0,26 %**, der Benchmark fiel um **−0,15 %**. Der Euro wurde schwächer (1,1375 → 1,1343). *EURUSD fällt ⇒ USD-Werte steigen in EUR*, um rund **+0,28 %**. **Ehrlich gerechnet war das Depot in USD also praktisch flach.** Der ganze Tagesvorsprung von 0,41 pp ist Wechselkurs und fallender Index, keine Titelauswahl.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · **größte Position V 16,96 %** (max. 20 %) ✓ · **Cash 10,89 %** (min. 5 %; Band-Untergrenze 8,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.664,87 € = 37,97 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: … 37,43 → 37,50 → **37,97 %**, neuer Höchststand der Reihe, allein durch Kursbewegung.
+- **Finanzsektor V+JPM = 2.690,86 € = 27,88 %.**
+- **Wiedereinstiegsregel:** Cash 10,89 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **182,58 €** < 250 € ⇒ **keine Order** (achter Lauf in Folge). Berechtigt wären nur JNJ und CVX.
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht · JPM-Prüfliste fällig 13.10. · VRT-Prüfliste fällig mit Q3-Bericht · **CVX-Halbierungskriterium** (tatsächliche Hormus-Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) nicht erfüllt · **Öl-Trigger** (WTI 110 $ / Brent 120 $) nicht berührt, WTI ~90 $, Brent ~103 $ · **Hormus-Rückumstellung:** heute kein neuer Wert gesucht, Neufassung wie terminiert **morgen (01.10.)**. **Keine Verkaufsregel feuert.**
+
+### Die fünf Tagesordnungspunkte des 30.09.
+
+**1. Totzone der Wiedereinstiegsregel: Entscheidung, den Mindestbetrag von 250 € NICHT zu senken.**
+
+Seit dem 22.09. heißt es, das sei die wichtigste Regelfrage. Heute habe ich sie zum ersten Mal in Euro durchgerechnet und nicht nur in Prozentpunkten. Das Ergebnis ist unbequem für meine eigene Dramaturgie:
+- **Was die Totzone tatsächlich festhält, sind 182,58 € = 1,89 % des Depots**, nicht „11 % Cash“. Die übrigen ~9 % sind die gewollte Bandmitte. Die Totzone ist nur der Rest zwischen Ist und Bandmitte.
+- **Opportunitätskosten:** 1,89 % Depotanteil bei einer unterstellten Indexrendite von 10 % pro Jahr ergeben **~0,19 pp pro Jahr**, also rund 0,016 pp pro Monat. Der Rückstand von 5,26 pp hat andere Ursachen (am 22.09. belegt: 84 % des Verlusts sind realisierte Verkäufe an den falschen Tagen).
+- **Was eine Senkung auslösen würde:** Bei einem Mindestbetrag von z. B. 150 € entstünde heute eine Order über 180 €. Gleich verteilt wären das 90 € je Titel. **JNJ verträgt nach (5)(f) aber nur noch 87,78 €**, bevor es über 15,0 % käme, und wäre damit gesperrt. **Die ganzen 180 € liefen also in CVX**, von 9,17 % auf ~11 %. Das ist die am 22.09. unter (b) vorhergesagte Falle: Die Senkung lenkt Geld mechanisch in einen einzigen Titel, und zwar in den Öl-Hedge bei Brent ~103 $, ohne jede CVX-These. Am 21./22.09. habe ich festgelegt, dass ich Öl-Schlagzeilen in keine Richtung handle. Eine Regeländerung, deren einzige Wirkung ein Ölkauf ist, wäre genau das, nur über einen Umweg.
+- **Beschluss:** Der Mindestbetrag bleibt bei 250 €. **Die Totzone wird als bewusst akzeptierter Zustand geführt, nicht mehr als offenes Problem.** Die tägliche Ablehnungszählung („x-te Ablehnung“) entfällt. Sie hat seit acht Läufen dieselbe Information geliefert. **Wiedervorlage mit Datum:** im ersten Lauf nach dem **13.10.** (JPM-Q3). Dann endet voraussichtlich die JPM-Prüfliste nach (5)(a), und die Menge der berechtigten Titel ändert sich. Das ist ein sachlicher Grund, die Rechnung zu wiederholen, und kein Kalendertermin. Die Frage kommt außerdem sofort zurück, wenn der Cash-Anteil über 12,0 % steigt.
+
+**2. Neutrales Parkziel (Index-ETF): verworfen.** Wie am 22.09. vorgemerkt, beschränkt Strategieregel 1 das Universum auf *liquide Aktien* aus USA und Europa, und ein ETF ist keine Aktie. `STRATEGIE.md` ist das Regeldokument des Depot-Eigentümers, und ich ändere es nicht, um mir eine bequeme Lösung zu verschaffen. Eine Ersatzlösung wie „anteilig in alle Positionen“ scheitert am AI-Deckel (5)(d) und an (5)(f), denn sie würde vier bzw. sechs Titel ausschließen. Damit bleibt die Spannung aus dem 16.09. („kein Grund, Visa aufzustocken“ gegen einen mechanischen Visa-Kauf) **ungelöst, aber seit (5)(f) folgenlos**, weil Visa gesperrt ist.
+
+**3. Gewinner-Kauf-Filter (zweites 3/3 seit 25.09.): keine neue Regel, Zählweise geändert.**
+- Die Überprüfung vom 22.09. hat (5)(f) ergeben. **Seitdem hat die Wiedereinstiegsregel keine einzige Order erzeugt.** Der Filter hat also acht Läufe lang *keinen Euro* gelenkt. Beobachtungen 4 und 5 beschreiben eine Eigenschaft, die ohne Order keine Wirkung hat.
+- Die Sperren auf der Verlustseite sind **alle befristet oder zustandsabhängig**: JPM (5)(a) bis 13.10., VRT (5)(a) bis zum Q3-Bericht, GOOGL/ASML/VRT (5)(d) solange der AI-Block über 36 % liegt. Keiner dieser Gründe ist konstruktiv an Verluste gekoppelt. Das war schon am 22.09. das Ergebnis und hat sich nicht geändert. **Außerdem ist die Reinheit des Musters gebrochen**: TSM (+2,28 %) und ASML (+1,15 %) stehen heute im Gewinn und sind trotzdem gesperrt. Gesperrt sind also nicht die Verlierer, sondern der AI-Block und die Prüflisten.
+- **Beschluss:** Keine Regeländerung. **Gezählt wird ab heute nur noch eine Anwendung, die eine Order erzeugt.** Eine Beobachtung ohne Geldfluss misst nichts. Zähler: 0 von 3.
+
+**4. Finanzsektor-Konzentration V+JPM = 27,88 %: kein Deckel.** Beide Titel sind für Zukäufe ohnehin gesperrt, V nach (5)(f) und JPM nach (5)(a). Die Konzentration kann also nur durch Kursbewegung wachsen. Das Risiko ist real (22.09.: Visa fiel ohne Firmennachricht mit den Finanzwerten), aber die Mechanismen unterscheiden sich: Die Jefferies-Sorge um Verbraucherkredite trifft JPM direkt, Visa nur über Volumen. **Wiedervorlage im ersten Lauf nach dem 13.10.**, zusammen mit dem Ergebnis der JPM-Prüfliste. Fällt JPM dort durch, löst sich die Frage von selbst.
+
+**5. Kandidatensuche Industrie/Infrastruktur: durchgeführt, kein Kauf.** Auftrag: mindestens zwei große, liquide Kandidaten mit Bewertung, Gewinnentwicklung und bezifferter AI-Überschneidung.
+
+| Kandidat | Kurs | Bewertung | Gewinnentwicklung | AI-Überschneidung | Urteil |
+|---|---|---|---|---|---|
+| **Caterpillar (CAT)** | ~817 $ (24.09.) | Fwd-KGV **29,7**, Div. 0,75 % | Q1: Umsatz +22 %, Power & Energy **9,4 Mrd. $ (+23 %)**, Auftragsbestand >50 Mrd. $; Zölle belasten 2026 mit ~2,6 Mrd. $ | **hoch**: Der Wachstumstreiber sind Stromaggregate und Turbinen für Rechenzentren. Die Aktie liegt 2026 bei ~+36 %. | **Verworfen.** Faktisch wäre das ein fünfter AI-Capex-Titel zum Wachstumsmultiple, bei 37,97 % Block. Genau diese Diversifikation soll die Suche liefern, und CAT liefert sie nicht. |
+| **Honeywell (HON)** | ~211 $ (24.09.) | Fwd-KGV **24,8**, Div. 2,1 % | Nach der Abspaltung der Luftfahrtsparte (Juni 2026) ein reiner Automatisierungswert. Belastbare Pro-forma-Zahlen des Restkonzerns habe ich nicht gefunden. | mittel (Gebäude-/Rechenzentrumsautomatisierung, nicht beziffert) | **Verworfen für jetzt.** Ich kaufe keinen Titel, dessen Gewinnbasis ich nach einer Aufspaltung nicht beziffern kann. |
+| **Union Pacific (UNP)** | ~274 $ (28.09.) | eigene Überschlagsrechnung (Q2-EPS ×4 ≈ 13,6 $): **~20x**, *nicht aus einer Quelle* | Q2: Umsatz 6,9 Mrd. $ (+12 %), bereinigtes EPS **3,41 $ (+13 %)**, Operating Ratio 59,2 %; Jahresausblick auf „hohes einstelliges“ EPS-Wachstum angehoben | **gering** (Inlandsfracht, Preissetzung über Inflation) | **Beobachtungsliste.** Das ist der einzige Kandidat, der das Diversifikationsziel wirklich erfüllt. Dagegen spricht die **laufende Übernahme von Norfolk Southern**: Die STB-Entscheidung kommt frühestens im 2. Quartal 2027, der Abschluss im 2. Halbjahr 2027. Die Aktie ist damit für die gesamte Haltedauer eine Wette auf ein Regulierungsverfahren und auf die Finanzierung eines Großdeals bei 10-jährigen Renditen von 5,25 %. |
+
+**Warum heute trotzdem kein Kauf, auch nicht von UNP:** Über der Band-Untergrenze von 8,0 % stehen **279,11 €** frei, das sind 2,9 % des Depots. Eine Einstiegsposition mit Sinn (≥ 5 %, ~480 €) müsste aus einem Verkauf finanziert werden. Einen Verkaufskandidaten habe ich vor den Prüflisten am 13.10. nicht, denn jeder Verkauf vor einem Berichtstermin ist eine Wette (29.09.). **Beschluss:** Wiedervorlage von UNP nach dessen Q3-Bericht (voraussichtlich um den 22.10., **Termin nicht geprüft**) **und** nach den Prüflisten vom 13.10. Dann steht fest, ob JPM Kapital freigibt. **Ehrliche Einordnung:** Die Suche wurde viermal verschoben und hat jetzt einen Beobachtungskandidaten ergeben, aber keinen Kauf. Das ist ein legitimes Ergebnis. Es heißt aber auch, dass der Rückstand von 5,26 pp bis Mitte Oktober allein von den bestehenden Positionen aufgeholt werden muss.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 28.09. | 9.627,54 | 10.194,04 | −3,72 % | +1,94 % | −5,66 pp |
+| **29.09.** | **9.652,64** | **10.178,73** | **−3,47 %** | **+1,79 %** | **−5,26 pp** |
+
+Der Rückstand ist der kleinste seit dem 17.09. Über fünf Läufe ging er von 7,58 pp (22.09.) auf 5,26 pp zurück. **Ehrlich eingeordnet:** Ein großer Teil davon ist der schwächere Euro (1,14 → 1,134) und ein Index, der unter dem Renditeschock nachgab, während CVX, JNJ und V hielten. Das ist die Schutzfunktion, für die diese Titel gekauft wurden. Es ist kein Beleg für Überlegenheit. Dreht der Euro oder fällt die Rendite (die heutige PCE-Zahl zeigt in diese Richtung), kann sich das schnell umkehren. Genau dann holen allerdings die AI-Titel auf.
+
+### Erwogen und verworfen
+
+1. **Mindestbetrag auf 150 € senken und 180 € investieren.** Verworfen, siehe Punkt 1: Das Geld liefe vollständig in CVX.
+2. **UNP mit den freien 279 € als Kleinstposition eröffnen.** Verworfen: 2,9 % ist keine Positionsgröße, sondern eine Absichtserklärung. Die Fusionsrisiken sind nicht geprüft. Ein zehnter Titel, der den Rückstand nicht bewegen kann, macht das Depot nur unübersichtlicher.
+3. **AI-Block vor Micron (heute Abend) und vor ASML/TSM (14./15.10.) reduzieren.** Verworfen: Der Block-Deckel ist kein Verkaufsauslöser (17.09.), und ein Verkauf vor Terminen ist eine Wette. Die weiche PCE-Zahl spricht, wenn überhaupt, eher für langlaufende Bewertungen.
+4. **CVX reduzieren, weil die PCE-Zahl die Inflationssorge dämpft.** Verworfen: Das Halbierungskriterium ist ölbezogen und nicht erfüllt, Brent liegt bei ~103 $.
+
+### Offene Termine
+
+**30.09. abends** Micron-Zahlen ⇒ Auswertung im nächsten Lauf · **01.10.** Hormus-Rückumstellung neu fassen (Kpler-Monatswert ~6,0 Mio. b/d liegt auf der Schwelle; Wochendurchfahrten als Alternative), BoJ-Beobachtungspunkt, **Brent-Frontkontrakt jetzt Dezember** · **02.10.** US-Arbeitsmarktbericht · **06.10.** JPM-Ex-Dividende · **13.10.** **JPM Q3** (Prüfliste (a)–(d) inkl. Risikovorsorge) und **JNJ Q3** (bestätigt; IPR&D-Einmaleffekt vorgemerkt) · **erster Lauf nach 13.10.** Wiedervorlage Totzone, Finanzsektor-Konzentration, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 · **~22.10.** UNP Q3 (nicht geprüft) ⇒ Wiedervorlage UNP · **Ende Okt.** GOOGL Q3 (Suchumsatz vs. Agenten-Konkurrenz), Visa Q4, VRT Q3 · **10.11. bzw. 10.01.** Ende der US-China-Zollausnahmen · **08.12.** JNJ Investor Day.
+
+### Ehrliche Einordnung
+
+- **Eigene Dramaturgie korrigiert:** Ich habe die Totzone acht Läufe lang als „wichtigste Regelfrage“ geführt. In Euro gerechnet geht es um 183 € und ~0,19 pp pro Jahr. Die Frage war richtig gestellt, ihre Gewichtung war übertrieben. Die Prozentangaben („11 % Cash liegen brach“) haben das Problem größer wirken lassen, als es ist, denn ~9 % davon sind die gewollte Bandmitte. Ob diese Bandmitte selbst zu hoch ist, habe ich heute **nicht** entschieden. Das ist eine Strategiefrage (Cash als Puffer bei 5,25 % Rendite und einer 50:50-Chance auf eine Fed-Anhebung), und ich stelle sie nicht an einem Tag, an dem ich sie nur stelle, um irgendwo Geld unterzubringen.
+- **Kandidatensuche mit Lücken:** Für UNP habe ich die Bewertung selbst überschlagen und keine Quelle gefunden. Für HON fehlen Pro-forma-Zahlen, der UNP-Q3-Termin ist ungeprüft. Europäische Industriewerte (Siemens, Schneider) habe ich nicht geprüft, weil sie in den USA nur außerbörslich als ADR handeln und die Liquiditätsanforderung aus Regel 1 fraglich ist. Das ist eine Einschränkung und kein Urteil über die Unternehmen.
+- **Recherchegrenze:** CNBC (PCE, Öl) und WTOP lieferten 403 bzw. eine robots-Sperre. Zu V, TSM, ASML, VRT, JPM, CVX und GOOGL fand ich keine datierten Firmennachrichten vom 29./30.09. Ich schreibe deshalb „keine gefunden“, nicht „keine vorhanden“.
+- **Nichtstun ist heute die Sachentscheidung, und diesmal eine begründete statt einer vertagten:** Alle fünf Fragen haben eine Antwort, und keine davon verlangt einen Trade. Die nächsten echten Entscheidungspunkte sind datiert (13.–15.10.) und hängen an Zahlen, nicht an Stimmung.
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [KRMG/AP – How major US stock indexes fared Tuesday 9/29/2026](https://krmg.com/2026/09/29/how-major-us-stock-indexes-fared-tuesday-9-29-2026/)
+- [TheStreet – Stock Market Today (Sept. 30, 2026): S&P 500 futures rise as PCE inflation comes in below expectations](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026) · [Yahoo Finance – Stock market today: Dow, S&P 500, Nasdaq futures edge lower ahead of PCE inflation data (30.09.)](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html) · [CNBC – Fed's preferred gauge showed core inflation at 3.0% in August (nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html)
+- [CNBC – ICE Brent Crude (Nov'26) Quote (Kontraktbezeichnung)](https://www.cnbc.com/quotes/@LCO.1) · [CNBC – Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports (29.09., nicht abrufbar, nur Titel)](https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html)
+- [Yahoo Finance – ASML, TSM Earnings Could Expose a New Risk for the AI Trade (30.09.; Termine 14./15.10.)](https://finance.yahoo.com/technology/ai/articles/asml-tsm-earnings-could-expose-120540020.html)
+- [Johnson & Johnson IR – Conference Call on Third-Quarter Results (13.10.)](https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-to-Host-Investor-Conference-Call-on-Third-Quarter-Results/default.aspx)
+- [Motley Fool – Caterpillar vs. Honeywell International: Which Industrials Stock Is a Better Buy in 2026? (24.09.)](https://www.fool.com/coverage/better-buy/2026/09/24/caterpillar-vs-honeywell-international-which-industrials-stock-is-a-better-buy-in-2026/) · [TIKR – Caterpillar Stock Is Up 36% in 2026 (31.07.)](https://www.tikr.com/blog/caterpillar-stock-is-up-36-in-2026-heres-what-data-center-demand-means-for-the-next-two-years) · [Honeywell – Aerospace completes spin-off (Juni 2026)](https://www.honeywell.com/us/en/news/press-releases/2026/06/honeywell-aerospace-completes-spin-off-from-honeywell-technologies-and-begins-trading-on-nasdaq)
+- [Union Pacific – Second Quarter 2026 Results](https://www.up.com/press-releases/financial/2q26-earnings-results-260723) · [ad-hoc-news – Union Pacific stock at USD 273.75 on September 28, 2026](https://www.ad-hoc-news.de/boerse/news/nachboerse/union-pacific-stock-at-usd-273-75-on-september-28-2026/70194642) · [ad-hoc-news – Norfolk Southern stock faces a longer merger review timeline](https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-faces-a-longer-merger-review-timeline/70204406) · [WOWT – New timeline set for Union Pacific-Norfolk Southern merger proceedings (19.08.)](https://www.wowt.com/2026/08/19/new-timeline-set-union-pacific-norfolk-southern-merger-proceedings/)
