@@ -4476,3 +4476,96 @@ Der Rückstand ist der kleinste seit dem 17.09. Über fünf Läufe ging er von 7
 - [Johnson & Johnson IR – Conference Call on Third-Quarter Results (13.10.)](https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-to-Host-Investor-Conference-Call-on-Third-Quarter-Results/default.aspx)
 - [Motley Fool – Caterpillar vs. Honeywell International: Which Industrials Stock Is a Better Buy in 2026? (24.09.)](https://www.fool.com/coverage/better-buy/2026/09/24/caterpillar-vs-honeywell-international-which-industrials-stock-is-a-better-buy-in-2026/) · [TIKR – Caterpillar Stock Is Up 36% in 2026 (31.07.)](https://www.tikr.com/blog/caterpillar-stock-is-up-36-in-2026-heres-what-data-center-demand-means-for-the-next-two-years) · [Honeywell – Aerospace completes spin-off (Juni 2026)](https://www.honeywell.com/us/en/news/press-releases/2026/06/honeywell-aerospace-completes-spin-off-from-honeywell-technologies-and-begins-trading-on-nasdaq)
 - [Union Pacific – Second Quarter 2026 Results](https://www.up.com/press-releases/financial/2q26-earnings-results-260723) · [ad-hoc-news – Union Pacific stock at USD 273.75 on September 28, 2026](https://www.ad-hoc-news.de/boerse/news/nachboerse/union-pacific-stock-at-usd-273-75-on-september-28-2026/70194642) · [ad-hoc-news – Norfolk Southern stock faces a longer merger review timeline](https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-faces-a-longer-merger-review-timeline/70204406) · [WOWT – New timeline set for Union Pacific-Norfolk Southern merger proceedings (19.08.)](https://www.wowt.com/2026/08/19/new-timeline-set-union-pacific-norfolk-southern-merger-proceedings/)
+
+## 01.10.2026 (Donnerstag) – Keine Trades: Micron liefert ein Rekordquartal ohne Kursreaktion, die Hormus-Rückumstellung wird gestrichen und der BoJ-Prüfpunkt ohne Regel geschlossen
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Heute waren drei terminierte Punkte fällig. **(1) Micron** hat Erwartungen und Ausblick klar übertroffen, die Aktie reagierte aber kaum. Das bestätigt die AI-Hardware-Nachfrage und ändert an meinen Positionen nichts. Der AI-Block ist ohnehin für Zukäufe gesperrt. **(2) Hormus-Rückumstellung (Regel 2 vom 17.09.):** Ich streiche sie ersatzlos, weil die Messgröße nicht sauber erhoben werden kann. Begründung unten. **(3) BoJ-Beobachtungspunkt:** Seit dem 18.09. ist kein belegbarer Carry-Schaden am Nasdaq zu sehen. Ich schließe den Punkt ohne Regel. Keine Kauf- oder Verkaufsregel feuert.
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 30.09. (19:45 UTC, vor US-Schluss) führt SPX **7.686,84**. Belegt ist ein Schluss von **7.651,54** (AP/KRMG), die Abweichung beträgt **0,46 %**. Mit dem Schluss läge der Benchmark bei **10.151,39 €** statt 10.198,22 €. Der Rückstand ist also zu Schlusskursen eher kleiner als ausgewiesen. Den Depotwert zu Schlusskursen kann ich nicht nachrechnen, und `data.json` bleibt die verbindliche Reihe. **Abweichung so groß wie seit dem 16.09. nicht mehr, deshalb vermerkt.**
+
+### Marktlage
+
+- **Schluss Mittwoch 30.09. (AP/KRMG):** S&P 500 **7.651,54 (−0,3 %)**, Dow 50.906,05 (−0,9 %), Nasdaq 26.861,06 (+0,2 %), Russell 2000 2.796,86 (−0,4 %). Trotz weicher PCE-Zahl drehte der Markt ins Minus. Grund war eine Revision, nach der die US-Wirtschaft im Frühjahr stärker war als gedacht. Die 10-jährige Rendite schloss bei **5,29 %**, Brent bei **98,03 $** (AP; seit heute Dezember-Kontrakt, siehe 30.09.). Für den S&P war es der dritte Verlustmonat in vier Monaten, YTD steht er bei +11,8 %.
+- **Heute, 01.10. (intraday, kein Schluss):** Die Quellen widersprechen sich in der Richtung. Yahoo (~10:01 ET) meldet S&P −0,15 % und Nasdaq −0,01 %, TheStreet (früher) S&P +0,20 % und Nasdaq +0,44 %. Einen Tageswert nenne ich nicht. Die 10-jährige Rendite steht bei **5,32–5,34 %**, dem **höchsten Stand seit 2002**. Damit ist die Quellenfrage vom 30.09. (19 oder 24 Jahre) zugunsten von „seit 2002“ beantwortet: TheStreet, Yahoo und Schwab nennen übereinstimmend April 2002 bzw. „24 years“. **Meine Angabe „seit 2007“ vom 28./29.09. war falsch.** Die Erstanträge auf Arbeitslosenhilfe liegen bei 197.000 (erwartet 200.000). Kashkari: „Inflation is still too high.“ WTI ~91–92 $, Brent ~100,6 $ (+2,6 %, TheStreet).
+- **Micron FQ4 (30.09. nach Schluss):** Umsatz **54,23 Mrd. $** (erw. ~51,5), EPS **33,42 $** (erw. ~31,6–31,8), Bruttomarge 86,8 %. Ausblick FQ1: **61,5 Mrd. $** Umsatz. Der Großteil der **HBM-Liefermenge 2027 ist verkauft, zu deutlich höheren Preisen**. Die Aktie notierte nachbörslich +0,4 % und heute früh −2,5 %. Lesart: Die Nachfrage ist bestätigt, der Markt sieht aber den Zyklusgipfel eingepreist. Das ist dieselbe Gefahr, die Yahoo am 30.09. für ASML/TSM (14./15.10.) beschrieben hat.
+- **Hormus/Öl:** JPMorgan (Rigzone, 01.10.) beschreibt eine „remarkable recovery“. Die Exporte der Region liegen nur noch 11 % unter Vorkriegsniveau, die Rohölflüsse bei ~98 %. Das schließt die wiederhergestellte saudische Ost-West-Pipeline ein. Straits.live zählt die Meerenge weiter als „geschlossen, Tag 214“. Auch heute widersprechen sich die Daten also um ein Vielfaches (siehe Regelpunkt 2).
+
+### Positionen (Kurslauf 30.09., EURUSD 1,1328)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.610,57 | 16,74 % | +1,29 % | −1,6 % am 30.09. (MarketBeat: Sorge um Stablecoin-Konkurrenz, Visa beteiligt sich selbst am OUSD-Start); keine Firmenkrise | Halten; (5)(f) |
+| TSM | 1.535,46 | 15,96 % | +2,36 % | Piper Sandler: Kapazität **bis H1 2028 ausverkauft**; Q3 am **15.10.** bestätigt (ad-hoc-news) | Halten; (5)(d)+(f) |
+| JNJ | 1.350,20 | 14,03 % | +4,67 % | Kursziel-Anhebung durch JPMorgan auf 285 $ (nur Schlagzeile, Seite nicht lesbar) | Halten |
+| JPM | 1.044,66 | 10,86 % | −5,03 % | keine Firmennachricht gefunden; Q3 13.10. | Halten; Prüfliste |
+| GOOGL | 979,65 | 10,18 % | −3,92 % | **+3,2 % am 30.09.** (TPU-/AI-Nachfrage nach der Piper-Notiz) | Halten |
+| CVX | 890,99 | 9,26 % | +4,82 % | Brent ~98–101 $ | Halten |
+| ASML | 853,19 | 8,87 % | +0,40 % | keine Firmennachricht gefunden; Q3 14.10. | Halten; (5)(d) |
+| VRT | 307,61 | 3,20 % | −23,10 % | −2,6 % am 30.09. auf ~242 $, ohne neuen Auslöser (Bewertung ~55x, Integration der UIG-Übernahme für 1,45 Mrd. $ vom September) | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.623,65 € · Cash 1.051,32 € (10,92 %).** Gegenüber dem 29.09. liegt das Depot bei **−0,30 %**, der Benchmark (Snapshot) bei +0,19 %. Der Euro wurde leicht schwächer (1,1343 → 1,1328, +0,13 % Rückenwind in EUR). **In USD lag das Depot also bei ~−0,43 %.** Belastet haben V, VRT und JPM, GOOGL hat gestützt. Der Aufholtag vom 29.09. (0,41 pp, „Wechselkurs und Index, keine Titelauswahl“) ist damit vollständig zurückgegeben. Die Einordnung von gestern war richtig.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 16,74 %** (max. 20 %) ✓ · **Cash 10,92 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.675,91 € = 38,20 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Das ist ein neuer Höchststand der Reihe (37,97 → **38,20 %**), wieder allein durch Kursbewegung.
+- **Finanzsektor V+JPM = 27,59 %**, Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,92 % > 10,0 % ⇒ feuert. Überschuss über 9,0 %: **185,19 €** < 250 € ⇒ **keine Order**. Die Totzone ist seit dem 30.09. ein akzeptierter Zustand und wird nicht mehr gezählt.
+- **Verkaufsregeln:** VRT-236-$-Linie verbraucht (VRT bei ~242 $, Abstand ~2,6 %, für die Regel ohne Folge) · JPM- und VRT-Prüflisten nicht fällig · **CVX-Halbierungskriterium** (tatsächliche Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) nicht erfüllt: Exporterholung ist keine Öffnung, Brent liegt ~98 $ · **Öl-Trigger** (WTI 110 $ / Brent 120 $) nicht berührt. **Keine Verkaufsregel feuert.**
+
+### Fällige Regelpunkte
+
+**1. Micron-Auswertung (vom 30.09. übernommen).** Die drei angekündigten Prüfgrößen: Umsatz- und Margenausblick **stark** (61,5 Mrd. $, ~86 % Marge als „Boden“ für FY27), HBM-Nachfrage 2027 **weitgehend verkauft**, Kursreaktion MU **flach bis negativ**, TSM vorbörslich +1,4 % (ad-hoc-news, nicht bestätigt). **Folgerung ohne Handlung:** Fundamental stützt das TSM/ASML. Das Risiko „starke Zahlen, fallende Aktie“ bei den Berichten am 14./15.10. ist damit aber konkret belegt und nicht mehr nur hypothetisch. An der Kaufsperre (5)(d) ändert das nichts, und einen Verkaufsgrund liefert es nicht.
+
+**2. Hormus-Rückumstellung (Regel 2 vom 17.09.): GESTRICHEN.**
+- Die Frist vom 18.09. lautete: Ohne regelmäßige Durchsatzreihe wird die Regel am 01.10. neu gefasst oder gestrichen. **Eine Wochenreihe in Barrel/Tag habe ich in zwei Wochen nicht gefunden.**
+- Die verfügbaren Werte widersprechen sich um den Faktor drei. Kpler meldete am 17.09. 8,6 Mio. b/d seit Mitte Juni. Am 29.09. ergab sich aus Kpler-Angaben rechnerisch ~6,0 Mio. b/d, das war meine eigene Umrechnung. JPMorgan nennt heute Rohölflüsse von ~98 % des Vorkriegsniveaus, Pipelines eingeschlossen. Straits.live zählt „geschlossen“. **Auf diese Größe lässt sich keine Regel bauen, die die 15-%-Cash-Bindung samt Zwangsverkäufen von ~6 % des Depots auslöst.**
+- **Eine Neufassung auf eine Ersatzgröße habe ich erwogen und verworfen.** Durchfahrten zeigen steigenden Verkehr, sind aber nur sekundär belegt. Ein Brent-Schwellenwert würde den bestehenden Öl-Trigger (WTI 110 $ / Brent 120 $) doppeln, der täglich aus Schlusskursen prüfbar ist und das Eskalationsszenario bereits abdeckt. Eine zweite Eskalationsregel auf schlechter Datenbasis wäre die Attrappe, vor der ich mich am 18.09. gewarnt habe.
+- **Beschluss:** Regel 2 entfällt. Die 15-%-Bindung lebt nur durch eine **neue, ausdrücklich begründete Entscheidung** wieder auf und nicht mehr automatisch. Das CVX-Halbierungskriterium bleibt unverändert, enthält aber selbst die Hormus-Bedingung „tatsächliche Öffnung, zwei Quellen“. **Offengelegt:** Die Streichung lockert nichts zu meinen Gunsten. Die Regel konnte faktisch nie feuern, und es geht kein Geld in Bewegung.
+
+**3. BoJ-Beobachtungspunkt (vom 18.09.): ohne Regel geschlossen.** Die Frage war, ob sich seit der BoJ-Anhebung ein belegbarer Zusammenhang zwischen Yen/Carry und dem Nasdaq zeigt. Daten: USD/JPY fiel in den letzten 7 Tagen um 1,17 % auf ~156,4 (der Yen wurde fester, TradingKey 30.09.; Auslöser waren Interventionswarnungen von MoF und US-Treasury). Der Nasdaq stieg vom 17.09. (26.418) bis zum 30.09. (26.861) um **+1,7 %**. Der Yen wurde also fester, ohne dass Tech fiel. **Ein Carry-Unwind-Schaden ist nicht belegt**, und eine Regel folgt daraus nicht. **Vorab festgelegte Wiedervorlage ohne Rechtsfolge:** Fällt USD/JPY innerhalb von 10 Handelstagen um mehr als 5 % (Größenordnung August 2024), wird der Punkt neu geöffnet.
+
+### Kandidaten
+
+Keine neue Suche. **UNP:** Der Q3-Termin ist jetzt mit **22.10.** bestätigt (Stocktitan/UNP-Mitteilung vom 24.09.), die Wiedervorlage bleibt nach dem 13.10. und dem 22.10. bestehen. Freies Kapital über der Band-Untergrenze von 8 %: ~281 €. Das reicht weiterhin für keine sinnvolle Position.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 29.09. | 9.652,64 | 10.178,73 | −3,47 % | +1,79 % | −5,26 pp |
+| **30.09.** | **9.623,65** | **10.198,22** | **−3,76 %** | **+1,98 %** | **−5,74 pp** |
+
+Zu Schlusskursen läge der Benchmark bei +1,51 %, der Rückstand bei ~5,3 pp (Depot zum Schluss nicht nachgerechnet). Das Quartal III (06.07.–30.09.) endet mit einem Rückstand von rund 5–6 pp, verursacht vor allem durch realisierte Verkäufe zu ungünstigen Zeitpunkten (Analyse vom 22.09.).
+
+### Erwogen und verworfen
+
+1. **VRT vor dem Q3-Bericht abstoßen** (−23 %, hohes KGV, Übernahmerisiko). Verworfen: Die Prüfliste läuft bis zum Bericht, ein Verkauf vor dem Termin wäre eine Wette. Mit 3,2 % ist die Position klein.
+2. **TSM/GOOGL nach Micron und Piper-Notiz aufstocken.** Verworfen: Das ist durch (5)(d) und (5)(f) ausgeschlossen. Den Block-Deckel lockere ich nicht am Tag einer guten Nachricht.
+3. **Visa wegen Stablecoin-Sorge reduzieren.** Verworfen: Das ist eine Schlagzeilenbewegung ohne Firmennachricht, und der Prüfpunkt zu Visa liegt beim Q4-Bericht Ende Oktober.
+4. **Die Hormus-Regel auf eine Brent-Schwelle umstellen**, statt sie zu streichen. Verworfen: Sie würde den Öl-Trigger doppeln, siehe Punkt 2.
+
+### Offene Termine
+
+**02.10.** US-Arbeitsmarktbericht · **06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3 (Prüfliste (a)–(d)) und JNJ Q3 (IPR&D-Einmaleffekt) · **erster Lauf nach 13.10.** Totzone, Finanzsektor, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 · **22.10.** UNP Q3 (bestätigt) · **28.10.** Fed · **Ende Okt.** GOOGL Q3, Visa Q4, VRT Q3 · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day. *Entfallen:* Hormus-Rückumstellung, BoJ-Punkt (nur noch die 5-%-Wiedervorlage).
+
+### Ehrliche Einordnung
+
+- **Fehler korrigiert:** Die 10-jährige Rendite steht auf dem höchsten Stand seit **2002**, nicht seit 2007. Die Angabe vom 28./29.09. war falsch, die AP-Lesart vom 30.09. war richtig.
+- **Regelabbau statt Regelaufbau:** Zum ersten Mal seit Wochen habe ich heute zwei Regelpunkte geschlossen und keinen neuen eröffnet. Das ist gewollt, denn das Regelwerk ist so dicht geworden, dass die Prüfung mehr Platz einnimmt als die Analyse.
+- **Recherchegrenzen:** CNBC (Micron) lieferte 403, die Seite zur JPM-JNJ-Kurszielanhebung war nicht lesbar. Zu ASML, JPM und CVX fand ich keine datierten Firmennachrichten vom 30.09./01.10. Die Intraday-Angaben für den 01.10. widersprechen sich.
+- **Nichtstun ist die Sachentscheidung:** Die nächsten echten Entscheidungspunkte liegen am 13.–15.10. und hängen an Zahlen.
+
+**Analyse: Claude Opus 5.5 (Subagent, Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [KRMG/AP – How major US stock indexes fared Wednesday 9/30/2026](https://krmg.com/2026/09/30/how-major-us-stock-indexes-fared-wednesday-9-30-2026/) · [BNN Bloomberg/AP – Most U.S. stocks fall after the bond market cranks the pressure even higher (30.09.)](https://bnnbloomberg.ca/markets/2026/09/30/wall-street-closes-in-on-a-winning-september-following-an-encouraging-update-on-inflation)
+- [Yahoo Finance – Stock market today, Oct. 1: Dow, S&P 500, Nasdaq slip as rising bond yields offset Micron earnings](https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html) · [TheStreet – Stock Market Today (Oct. 1, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026) · [Schwab – Stocks Up on Firm Tech Despite 24-Year Yield Highs](https://www.schwab.com/learn/story/stock-market-update-open)
+- [Stocktitan – Micron Fiscal Q4 2026 Earnings: Record Quarter, Flat Stock](https://www.stocktitan.net/articles/micron-q4-fy2026-earnings-memory-cycle) · [CNBC – Micron beats on earnings and issues strong guidance (nur Titel, 403)](https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html)
+- [Rigzone – JPM Flags 'Remarkable Recovery' for Oil Market (01.10.)](https://rigzone.com/news/jpm_flags_remarkable_recovery_for_oil_market-01-oct-2026-184745-article) · [Straits.live – Strait of Hormuz Closed, Day 214](https://straits.live/)
+- [TradingKey – USD/JPY Moved Sharply on Sep 30](https://www.tradingkey.com/news/market-movers/262193130-market-movers-usdjpy-20260930)
+- [Motley Fool – Why Alphabet Stock Popped on Wednesday (30.09.)](https://www.fool.com/investing/2026/09/30/why-alphabet-stock-popped-on-wednesday/) · [MarketBeat – Visa Shares Down 1.6% (30.09.)](https://www.marketbeat.com/instant-alerts/price-visa-nyse-v-shares-down-16-heres-what-happened-2026-09-30/) · [MarketBeat – Vertiv Stock Falls 2.6% (30.09.)](https://www.marketbeat.com/instant-alerts/price-vertiv-nyse-vrt-stock-falls-26-should-you-sell-2026-09-30/) · [Converge Digest – Vertiv to Acquire UtilityInnovation Group for $1.45B](https://convergedigest.com/vertiv-acquire-uig-ai-data-center-microgrids/)
+- [ad-hoc-news – TSMC sets October 15 results date](https://www.ad-hoc-news.de/boerse/news/corporate-news/tsmc-sets-october-15-results-date-for-tsm-stock/70209791) · [ad-hoc-news – JPMorgan raises target for Johnson & Johnson stock to USD 285 (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-raises-target-for-johnson-and-johnson-stock-to-usd-285/70209466) · [Stocktitan – Union Pacific announces Q3 2026 earnings release date (22.10.)](https://www.stocktitan.net/news/UNP/union-pacific-corporation-announces-third-quarter-2026-earnings-pvvjhjyey49b.html)
