@@ -4569,3 +4569,103 @@ Zu Schlusskursen läge der Benchmark bei +1,51 %, der Rückstand bei ~5,3 pp (De
 - [TradingKey – USD/JPY Moved Sharply on Sep 30](https://www.tradingkey.com/news/market-movers/262193130-market-movers-usdjpy-20260930)
 - [Motley Fool – Why Alphabet Stock Popped on Wednesday (30.09.)](https://www.fool.com/investing/2026/09/30/why-alphabet-stock-popped-on-wednesday/) · [MarketBeat – Visa Shares Down 1.6% (30.09.)](https://www.marketbeat.com/instant-alerts/price-visa-nyse-v-shares-down-16-heres-what-happened-2026-09-30/) · [MarketBeat – Vertiv Stock Falls 2.6% (30.09.)](https://www.marketbeat.com/instant-alerts/price-vertiv-nyse-vrt-stock-falls-26-should-you-sell-2026-09-30/) · [Converge Digest – Vertiv to Acquire UtilityInnovation Group for $1.45B](https://convergedigest.com/vertiv-acquire-uig-ai-data-center-microgrids/)
 - [ad-hoc-news – TSMC sets October 15 results date](https://www.ad-hoc-news.de/boerse/news/corporate-news/tsmc-sets-october-15-results-date-for-tsm-stock/70209791) · [ad-hoc-news – JPMorgan raises target for Johnson & Johnson stock to USD 285 (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-raises-target-for-johnson-and-johnson-stock-to-usd-285/70209466) · [Stocktitan – Union Pacific announces Q3 2026 earnings release date (22.10.)](https://www.stocktitan.net/news/UNP/union-pacific-corporation-announces-third-quarter-2026-earnings-pvvjhjyey49b.html)
+
+## 02.10.2026 (Freitag) – Keine Trades: Schwacher Arbeitsmarktbericht nimmt die Oktober-Anhebung vom Tisch, Renditen und Öl fallen, keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der heute fällige Termin war der **US-Arbeitsmarktbericht September**. Er fiel deutlich schwächer aus als erwartet: **+29.000 Stellen** (Konsens ~84.000–100.000), Arbeitslosenquote **4,2 %**, die Vormonate wurden um zusammen 60.000 nach unten revidiert. Folge: Die Renditen fallen, eine Fed-Anhebung im Oktober gilt als ausgeschlossen, Öl gibt nach und der S&P steigt intraday um ~0,9 %, angeführt vom Nasdaq. Für das Depot heißt das: Die Lage verschiebt sich zugunsten des AI-Blocks und leicht gegen die Zins-These hinter JPM. Keine Position hat einen Thesenbruch, keine Kauf- oder Verkaufsregel feuert.
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 01.10. lief um **20:00 UTC, also zum US-Schluss**. SPX im Kurslauf **7.666,71**, belegter Schluss **7.666,45** (AP/KRMG), Abweichung 0,003 %, folgenlos. **Hinweis zur Vergleichbarkeit:** Der Lauf vom 30.09. lag vor dem Schluss (19:45 UTC, +0,46 % über dem Schluss). Der Tagesvergleich 30.09. → 01.10. vermischt deshalb Snapshot und Schluss: Der Benchmark zeigt −0,26 %, von Schluss zu Schluss waren es **+0,19 %**.
+
+### Marktlage
+
+- **Schluss Donnerstag 01.10. (AP/KRMG):** S&P 500 **7.666,45 (+0,2 %)**, Dow 50.926,56 (+<0,1 %), Nasdaq 26.871,60 (+<0,1 %), Russell 2000 2.806,63 (+0,3 %). Damit endete eine Verlustserie von drei Tagen. Die Renditen stiegen zunächst weiter (Hoch seit 2002) und gaben bis zum Abend nach. Micron schloss nach dem anfänglichen Minus **+3,0 %** (Yahoo), die Chipwerte führten. Meine Lesart „Rekordquartal ohne Kursreaktion“ vom 01.10. war damit **nur für den Vormittag richtig**.
+- **Heute, 02.10. (intraday, kein Schluss):**
+  - **Arbeitsmarktbericht (BLS):** Stellenplus **+29.000**, Arbeitslosenquote **4,2 %** (Vormonat 4,1 %), Stundenlöhne **+0,1 %** zum Vormonat und **+3,0 %** zum Vorjahr. Juli wurde auf **−10.000** revidiert, August auf +133.000. El-Erian: „demand side is flashing yellow“.
+  - **Indizes (TheStreet, intraday):** S&P **+0,89 %**, Nasdaq **+1,35 %**, Dow +0,64 %, Russell +0,35 %.
+  - **10-jährige Rendite:** ~**5,18 %** (−5 bp, Yahoo). Vom Hoch seit 2002 (~5,33 %) ist das ein Rückgang von ~15 bp in zwei Tagen.
+  - **Fed:** Eine Oktober-Anhebung gilt als vom Tisch („zero chance“, Jamie Cox; El-Erian: „definitely on hold for October“). Für Dezember wird laut Yahoo weiter mindestens eine Anhebung um 25 bp erwartet. Eine FedWatch-Zahl habe ich nicht gefunden.
+  - **Öl:** WTI **89,39 $ (−3,75 %)**, Brent **99,92 $ (−2,34 %)** (TheStreet). Brent liegt damit erstmals seit Tagen unter 100 $. Neue datierte Hormus-Daten habe ich heute nicht ausgewertet (Foreign Policy 01.10.: „Oil is leaving the Strait again“, Seite nicht lesbar, nur Titel). Seit dem 01.10. steht dazu keine Regel mehr aus.
+- **Einordnung:** Der Bericht entschärft das Szenario, das seit August meine größte Sorge war: ein hawkischer Fed-Pfad, der langlaufende AI-Bewertungen entwertet. Ein so schwacher Arbeitsmarkt ist aber auch ein Konjunkturrisiko. Für Banken (Kreditvorsorge) und Visa (Zahlungsvolumen) ist er nicht nur eine gute Nachricht. Ob ein Markt bei −15 bp Rendite eine „gute schlechte Nachricht“ bleibt, entscheidet sich nicht an einem Tag.
+
+### Positionen (Kurslauf 01.10., 20:00 UTC, EURUSD 1,1244)
+
+| Titel | Wert € | Gewicht | P/L | Tag in USD* | Neu | Urteil |
+|---|---|---|---|---|---|---|
+| V | 1.621,36 | 16,81 % | +1,97 % | −0,1 % | Q4-Bericht **27.10.** (TIKR). Bewertung ~25x Folgejahr und damit unter dem 5-Jahres-Schnitt. Kosten für 7 % Stellenabbau (563 Mio. $ Abfindungen) zugunsten von Stablecoin/AI-Payments | Halten; (5)(f) |
+| TSM | 1.551,27 | 16,08 % | +3,42 % | +0,3 % | keine neue Firmennachricht gefunden; Q3 15.10. | Halten; (5)(d)+(f) |
+| JNJ | 1.328,74 | 13,78 % | +3,00 % | **−2,3 %** | **keinen Auslöser gefunden**; Q3 13.10. | Halten |
+| JPM | 1.056,01 | 10,95 % | −4,00 % | +0,3 % | Q3-Termin **13.10., 8:30 ET** bestätigt (ad-hoc-news 01.10.); Kurs ~9,7 % unter dem 52-Wochen-Hoch | Halten; Prüfliste 13.10. |
+| GOOGL | 957,61 | 9,93 % | −6,08 % | **−3,0 %** | **Bloomberg (30.09.): interne Zweifel an Gemini 4**, gute Benchmarks, aber Schwächen bei realen Aufgaben, v. a. beim Programmieren. Google widerspricht („inaccurate“). | Halten (s. u.) |
+| CVX | 907,42 | 9,41 % | +6,76 % | +1,1 % | HSBC-Kursziel 250 $ (nur Titel); Q3 **30.10.** (Stocktitan); heute Öl −2 bis −4 % | Halten |
+| ASML | 857,28 | 8,89 % | +0,88 % | −0,3 % | keine neue Firmennachricht gefunden; Q3 14.10. | Halten; (5)(d) |
+| VRT | 314,78 | 3,26 % | −21,30 % | +1,6 % | keine neue Firmennachricht gefunden | Halten; Prüfliste bis Q3 |
+
+*\* Eigene Rechnung: Positionswert in USD 01.10. gegenüber 30.09. (EURUSD 1,1328 → 1,1244); der 30.09.-Wert stammt aus einem Lauf vor dem Schluss.*
+
+**Depotwert 9.645,79 € · Cash 1.051,32 € (10,90 %) · Positionen 8.594,47 €.**
+
+**Tagesveränderung ehrlich zerlegt:** In EUR stieg das Depot um **+0,23 %** (Positionen +0,26 %). Der Euro fiel deutlich (1,1328 → 1,1244, −0,74 %), das brachte **~+0,75 % Rückenwind**. **In USD verloren die Positionen ~0,49 %**, während der S&P von Schluss zu Schluss +0,19 % gewann. Verursacht haben das GOOGL (−3,0 %) und JNJ (−2,3 %). Der Euro-Effekt verdeckt also einen titelbedingt schwachen Tag, wie schon am 29.09. in die andere Richtung.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 16,81 %** (max. 20 %) ✓ · **Cash 10,90 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.680,94 € = 38,16 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Reihe: 37,97 → 38,20 → **38,16 %**.
+- **Finanzsektor V+JPM = 27,76 %**, Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,90 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte 9,0 %: **183,20 €** < 250 € ⇒ **keine Order** (akzeptierte Totzone seit 30.09.). Rechnerischer Spielraum JNJ bis 15 % nach (5)(f): 118,13 €.
+- **Verkaufsregeln:** JPM- und VRT-Prüflisten nicht fällig · **CVX-Halbierungskriterium** (tatsächliche Öffnung, zwei Quellen **und** Brent drei Schlüsse < 85 $) nicht erfüllt, Brent ~100 $ · **Öl-Trigger** (WTI 110 $ / Brent 120 $) nicht berührt · **BoJ-Wiedervorlage** (USD/JPY −5 % in 10 Handelstagen): heute nicht geprüft, kein Hinweis auf einen Yen-Schock in den Marktberichten. **Keine Verkaufsregel feuert.**
+
+### Analyse der Tagesthemen
+
+**1. Arbeitsmarktbericht und die JPM-These.** Am 10.08. habe ich JPM ausdrücklich als *Gegenpol zu einem hawkischen Fed-Pfad* gekauft („stützt zugleich die Zinsmarge der Banken“). Der heutige Bericht schwächt genau diesen Teil der These: Eine Oktober-Anhebung ist ausgepreist, die Rendite fällt. **Keine Handlung, aus zwei Gründen.** (a) Das Zinsniveau bleibt mit ~5,2 % für die Zinsmarge sehr hoch, und eine Dezember-Anhebung ist weiter eingepreist. Ein einzelner Datenpunkt dreht den Zinszyklus nicht. (b) Die Prüfliste (a)–(d) entscheidet am 13.10. mit echten Q3-Zahlen (NII-Ausblick, Risikovorsorge). **Für die Prüfliste ohne neues Kriterium vorgemerkt:** Ich werte die NII-Guidance und die Risikovorsorge am 13.10. ausdrücklich im Licht eines schwächeren Arbeitsmarkts. Steigende Rückstellungen für Verbraucherkredite wären jetzt das wahrscheinlichere Problem als eine fehlende Zinsmarge.
+
+**2. GOOGL −3 % nach dem Gemini-4-Bericht.** Ein Bericht über interne Zweifel, den das Unternehmen bestreitet, ist keine fundamentale Nachricht im Sinne der Strategie. Er passt aber zum Beobachtungspunkt „Suchumsatz vs. Agenten-Konkurrenz“, der bis zum Q3-Bericht Ende Oktober offen ist. **Halten.** Ein Zukauf in die Schwäche ist durch (5)(d) ohnehin gesperrt, und ein Verkauf vor dem Bericht wäre eine Wette auf eine Schlagzeile.
+
+**3. JNJ −2,3 % ohne gefundenen Auslöser.** Nach drei Wochen Stärke (bis +5,8 % P/L) kann das eine Rotation aus Defensivwerten in Tech am Tag fallender Renditen sein. **Das ist meine Vermutung, nicht belegt.** Die Position liegt weiter im Plus, Q3 am 13.10. **Halten.**
+
+**4. CVX bei fallendem Öl.** Brent fällt heute unter 100 $. Die Position ist ein Hedge gegen Ölschocks. Dass sie an Entspannungstagen nachgibt, ist ihre Funktion und kein Thesenbruch. Das Halbierungskriterium liegt mit 85 $ weit entfernt. Der Grundsatz vom 21./22.09. gilt weiter: Öl-Schlagzeilen werden in keine Richtung gehandelt.
+
+### Kandidaten
+
+Keine neue Suche, denn es gibt kein Kapital über der Totzone. **UNP** bleibt auf der Beobachtungsliste, Wiedervorlage nach dem 13.10. und nach dem eigenen Q3-Bericht am 22.10.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 30.09. | 9.623,65 | 10.198,22 | −3,76 % | +1,98 % | −5,74 pp |
+| **01.10.** | **9.645,79** | **10.171,52** | **−3,54 %** | **+1,72 %** | **−5,26 pp** |
+
+Der Rückstand ging um 0,48 pp zurück. **Ehrlich eingeordnet:** Etwa zur Hälfte ist das ein Artefakt des Vortags-Snapshots vor Börsenschluss (Benchmark 30.09. zu hoch ausgewiesen), der Rest ist der schwache Euro. Titelauswahl hat dazu nichts beigetragen, die Positionen lagen in USD unter dem Index.
+
+### Erwogen und verworfen
+
+1. **JPM nach dem schwachen Arbeitsmarktbericht reduzieren** (Zinsthese geschwächt). Verworfen: Ein einzelner Datenpunkt, Rendite weiter >5 %, Prüfliste in 11 Tagen mit echten Zahlen, Ex-Dividende am 06.10.
+2. **AI-Block nach fallenden Renditen aufstocken** (bester Makrotag für langlaufende Bewertungen seit Wochen). Verworfen: Die Kaufsperre (5)(d) gilt bei 38,16 %. Den Deckel lockere ich nicht am Tag einer guten Nachricht (wie am 01.10.).
+3. **GOOGL wegen des Gemini-4-Berichts verkaufen.** Verworfen: bestrittener Bericht, kein Zahlenbeleg, Q3 Ende Oktober.
+4. **CVX reduzieren, weil Brent unter 100 $ fällt.** Verworfen: Das Halbierungskriterium ist nicht erfüllt, und ich handle Öl-Schlagzeilen nicht.
+
+### Offene Termine
+
+**06.10.** JPM-Ex-Dividende · **13.10.** JPM Q3 (Prüfliste (a)–(d); neu als Lesehinweis: Risikovorsorge bei schwächerem Arbeitsmarkt) und JNJ Q3 (IPR&D-Einmaleffekt) · **erster Lauf nach 13.10.** Totzone, Finanzsektor, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 · **22.10.** UNP Q3 · **27.10.** Visa Q4 (Termin neu belegt, TIKR) · **28.10.** Fed · **30.10.** CVX Q3 (neu, Stocktitan) · **Ende Okt.** GOOGL Q3 (Suchumsatz vs. Agenten-Konkurrenz, neu: Gemini-4-Qualität), VRT Q3 · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · laufend: BoJ-Wiedervorlage (USD/JPY −5 % in 10 Handelstagen).
+
+### Ehrliche Einordnung
+
+- **Fehleinschätzung korrigiert:** Am 01.10. schrieb ich zu Micron „Rekordquartal ohne Kursreaktion“ und „Zyklusgipfel eingepreist“. Die Aktie schloss aber +3 %, und die Chipwerte führten den Markt. Die Aussage beruhte auf Vormittagsdaten. Das Risiko „starke Zahlen, fallende Aktie“ für ASML/TSM am 14./15.10. ist damit **weniger belegt**, als ich gestern geschrieben habe.
+- **Recherchegrenzen:** CNBC (Renditen) und Foreign Policy (Hormus) lieferten 403. Für JNJ und GOOGL habe ich am 01.10. keine Kursursache vom selben Tag gefunden; der Gemini-Bericht stammt vom 30.09. Zu TSM, ASML und VRT fand ich keine datierten Firmennachrichten vom 01./02.10. Die Marktangaben vom 02.10. sind Intraday-Werte, keine Schlusskurse.
+- **Nichtstun ist die Sachentscheidung:** Der Makrotag war der wichtigste seit dem PCE-Bericht vom 30.09., und er zeigt in eine für das Depot eher günstige Richtung (fallende Renditen, AI-Block 38 %). Gerade deshalb gibt es keinen Anlass zu handeln. Die Positionen, die profitieren sollen, hält das Depot bereits. Entschieden wird ab dem 13.10. mit Zahlen.
+
+**Analyse: Claude Opus (Subagent, model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [BLS – Employment Situation Summary, September 2026](https://www.bls.gov/news.release/empsit.nr0.htm)
+- [TheStreet – Stock Market Today (Oct. 2, 2026): S&P 500 rises after key jobs report](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026)
+- [Yahoo Finance – September jobs report live updates: US adds 29K jobs, labor demand 'flashing yellow'](https://finance.yahoo.com/economy/live/september-jobs-report-live-updates-labor-market-adds-29000-124648123.html) · [Yahoo Finance – Stock market today, Oct. 2: Dow, S&P 500, Nasdaq jump as traders pare Fed rate-hike bets](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html) · [Yahoo Finance – Stock market today, Oct. 1: comeback as Treasury yields fall, chip stocks gain](https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html)
+- [KRMG/AP – How major US stock indexes fared Thursday 10/1/2026](https://krmg.com/2026/10/01/how-major-us-stock-indexes-fared-thursday-10-1-2026/)
+- [CNBC – 10-year Treasury yield falls after much weaker-than-expected jobs report (nur Titel, 403)](https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html) · [Foreign Policy – Oil Is Leaving the Strait of Hormuz Again (01.10., nur Titel, 403)](https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/)
+- [Investing.com – Alphabet stock slips on report of internal doubts over Gemini 4 (30.09.)](https://www.investing.com/news/stock-market-news/alphabet-stock-slips-on-report-of-internal-doubts-over-gemini-4-4925797)
+- [ad-hoc-news – JPMorgan sets results date (01.10.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-sets-results-date-as-jpmorgan-chase-stock-sits-9-73-percent-below/70209950)
+- [TIKR – Visa Stock Heads Into October 27 Earnings (29.09.)](https://www.tikr.com/blog/visa-stock-heads-into-october-27-earnings-with-stablecoins-and-ai-payments-in-focus)
+- [Stocktitan – Chevron sets Oct. 30 date for 3Q 2026 earnings call](https://www.stocktitan.net/news/CVX/advisory-chevron-corporation-s-3q-2026-earnings-conference-call-and-tovz92g7xlm8.html) · [ad-hoc-news – HSBC raises Chevron target to USD 250 (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/hsbc-raises-chevron-target-to-usd-250-for-chevron-stock/70208838)
