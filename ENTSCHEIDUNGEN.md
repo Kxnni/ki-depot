@@ -4669,3 +4669,90 @@ Der Rückstand ging um 0,48 pp zurück. **Ehrlich eingeordnet:** Etwa zur Hälft
 - [ad-hoc-news – JPMorgan sets results date (01.10.)](https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-sets-results-date-as-jpmorgan-chase-stock-sits-9-73-percent-below/70209950)
 - [TIKR – Visa Stock Heads Into October 27 Earnings (29.09.)](https://www.tikr.com/blog/visa-stock-heads-into-october-27-earnings-with-stablecoins-and-ai-payments-in-focus)
 - [Stocktitan – Chevron sets Oct. 30 date for 3Q 2026 earnings call](https://www.stocktitan.net/news/CVX/advisory-chevron-corporation-s-3q-2026-earnings-conference-call-and-tovz92g7xlm8.html) · [ad-hoc-news – HSBC raises Chevron target to USD 250 (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/hsbc-raises-chevron-target-to-usd-250-for-chevron-stock/70208838)
+
+## 05.10.2026 (Montag) – Keine Trades: Der Markt hält das Rekordniveau, die Renditen steigen wieder, TSMC verhandelt über Terafab, und keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der Arbeitsmarkt-Rückenwind vom Freitag hielt bis zum Schluss (S&P +0,7 %). Heute steigen die Renditen nach einem starken ISM-Dienstleistungsindex aber wieder. Firmenseitig gibt es eine relevante Meldung: Musk bestätigt Gespräche mit **TSMC über eine Beteiligung am Terafab-Projekt in Texas**. Er nennt sie selbst „just discussions“. Für keine der acht Positionen gibt es einen Thesenbruch. Die Entscheidungspunkte bleiben der 13.–15.10. (JPM, JNJ, ASML, TSM).
+
+### Orderprüfung
+
+Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 02.10. (19:41 UTC, also vor dem US-Schluss) führt SPX **7.725,93**, der belegte Schluss lautet **7.722,72** (AP/KRMG). Die Abweichung von 0,04 % ist folgenlos. Mit dem Schluss läge der Benchmark bei 10.245,83 € statt 10.250,09 €.
+
+### Marktlage
+
+- **Schluss Freitag 02.10. (AP/KRMG):** S&P 500 **7.722,72 (+0,7 %)**, Dow 51.176,96 (+0,5 %), Nasdaq 27.190,86 (+1,2 %), Russell 2000 2.832,90 (+0,9 %). Die Indizes schlossen nahe dem Rekord, weil der schwache Arbeitsmarktbericht (+29.000) die Inflations- und Anhebungssorgen dämpfte.
+- **Heute, 05.10. (intraday, kein Schluss):** Yahoo meldet um 10:15 ET S&P **+0,38 %** (7.752), Nasdaq **+0,71 %**, Dow −0,24 %. TheStreet meldet gegen Mittag S&P +0,18 %, Nasdaq +0,73 % und einen **Rekord beim Nasdaq-100**. Der **ISM-Dienstleistungsindex** liegt bei **55,9** (Vormonat 55,4), der Preisindex bei **74,0** (72,6). Das ist neuer Kostendruck und der Grund für steigende Renditen. **10-jährige Rendite: 5,25 % (TheStreet) bzw. 5,32 % (+4 bp, Yahoo).** Die Quellen widersprechen sich, die Richtung „wieder aufwärts“ ist aber eindeutig. Damit ist der Rückgang vom Freitag (~5,18 %) schon zum Teil wieder aufgezehrt. Öl: WTI ~90,5 $ (−0,5 %), Brent ~**102,9 $** (+0,6 %, TheStreet). Brent steht also wieder über 100 $. Laut dem Aramco-CEO sind die globalen Lagerbestände „scarily thin“, solange Hormus nicht vollständig offen ist. Am Mittwoch folgen die Fed-Protokolle.
+- **Einordnung:** Die Lesart vom 02.10. („Szenario hawkischer Fed entschärft“) gilt nur eingeschränkt. Der Arbeitsmarkt ist schwach, der Dienstleistungspreisdruck aber nicht. Der Zinsmarkt bleibt das bestimmende Risiko für den AI-Block, der heute trotzdem führt.
+
+### Positionen (Kurslauf 02.10., 19:41 UTC, EURUSD 1,1261)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.622,24 | 16,69 % | +2,03 % | RBC bestätigt Buy mit Kursziel 466 $. Ausbau des Stablecoin-Geschäfts (ad-hoc-news, nur Titel). Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 1.599,94 | 16,46 % | +6,66 % | **Terafab-Gespräche** mit Musk/SpaceX über eine neue Fab in Texas, Struktur offen (TSMC als Betreiber mit Abnahmezusagen oder nur als Technologiepartner). TrendForce-Vorschau: JPMorgan erwartet Q3 am oberen Rand der Prognose (45,8 Mrd. $, Bruttomarge 66,8 %), Preiserhöhungen 2027 von 5–10 % bei fortschrittlichen Fertigungsknoten. Intel heute −3,3 % auf diese Meldung. | Halten; (5)(d)+(f) |
+| JNJ | 1.309,41 | 13,47 % | +1,50 % | Studiendaten zu ICOTYDE und IMAAVY (ad-hoc-news, nur Titel). Q3 am 13.10. | Halten |
+| JPM | 1.051,41 | 10,82 % | −4,42 % | Ex-Dividende **06.10.** (Dividende steigt auf 1,65 $). Yahoo-Vorschau (28.09.): Fokus auf Handel/IB auf Q2-Niveau, KGV 14,4 über dem 5-Jahres-Schnitt von 12,5 | Halten; Prüfliste 13.10. |
+| GOOGL | 969,76 | 9,98 % | −4,89 % | Ein Kanzlei-Aufruf zu einer möglichen Sammelklage, der Inhalt war nicht lesbar. Solche Aufrufe sind Routine und kein belegter Vorwurf. Daneben Motley Fool bullish. | Halten |
+| CVX | 906,14 | 9,32 % | +6,60 % | Brent wieder ~103 $. Q3 am 30.10. | Halten |
+| ASML | 884,89 | 9,11 % | +4,13 % | Keine datierte Firmennachricht gefunden. Q3 am 14.10. | Halten; (5)(d) |
+| VRT | 322,93 | 3,32 % | −19,27 % | Schluss 02.10. **252,18 $**. MarketBeat meldete am 02.10. +2,5 %, Trefis schreibt „Bargain or Warning?“ | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.718,04 € · Cash 1.051,32 € (10,82 %) · Positionen 8.666,72 €.** Gegenüber dem 01.10. liegt das Depot bei **+0,75 %**, der Benchmark (Snapshot) bei **+0,77 %**. Der Euro wurde fester (1,1244 → 1,1261, −0,15 % Gegenwind). **In USD liegt das Depot also bei ~+0,9 %, etwa gleichauf mit dem Index** (Schluss zu Schluss +0,74 %). TSM, ASML und VRT führten. Es war ein neutraler Tag und kein Aufholtag.
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 16,69 %** (max. 20 %) ✓ · **Cash 10,82 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.777,52 € = 38,87 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Die Reihe steigt allein durch Kursbewegung weiter: 38,20 → 38,16 → **38,87 %**, ein neuer Höchststand.
+- **Finanzsektor V+JPM = 27,51 %**, Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,82 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte von 9,0 %: **176,70 €** < 250 € ⇒ **keine Order** (akzeptierte Totzone).
+- **Verkaufsregeln:** Die JPM- und VRT-Prüflisten sind nicht fällig. Das **CVX-Halbierungskriterium** ist nicht erfüllt (Brent ~103 $, keine Öffnung). Der **Öl-Trigger** (WTI 110 $ / Brent 120 $) ist nicht berührt. **BoJ-Wiedervorlage:** kein Hinweis auf einen Yen-Schock in den Marktberichten, nicht separat geprüft. **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. TSMC/Terafab.** Für die These („zentraler Engpass der AI-Fertigung“) ist das eher eine Bestätigung als ein Risiko: Selbst Musks eigenes Fab-Projekt sucht TSMC. Das Risiko liegt in Kapitalbindung und US-Margen, falls TSMC Eigentümer und Betreiber würde. Das bleibt offen, bis es konkrete Zahlen gibt. **Kein Handlungsgrund**, denn Musk spricht selbst von Vorgesprächen. Wichtiger ist der 15.10.: Die Erwartungen (oberer Rand der Prognose, Preiserhöhungen) sind hoch. Das Muster „starke Zahlen, schwache Aktie“ halte ich nach der Micron-Korrektur vom 02.10. für möglich, aber nicht für belegt.
+
+**2. AI-Block 38,87 %.** Der Block wächst seit dem 29.09. Tag für Tag ohne eigenes Zutun. Die Regel (5)(d) ist bewusst nur eine Kaufsperre und kein Verkaufsauslöser. Ein Teilverkauf eine Woche vor ASML/TSM-Zahlen wäre eine Ergebniswette, die ich mir am 01.10. ausdrücklich nicht erlaubt habe. **Vorgemerkt ohne neue Regel:** Ich beobachte, ob der Block bis zum ersten Lauf nach dem 15.10. die 40 % erreicht. Gegebenenfalls ist dann die Frage nach einem Verkaufsdeckel neu zu stellen (mit Zahlen, nicht vorher).
+
+**3. JPM vor Ex-Dividende und Q3.** Die Renditen steigen wieder (ISM-Preise). Das schwächt die Zweifel vom 02.10. an der Zins-These eher ab. Die Prüfliste (a)–(d) gilt unverändert am 13.10., mit Blick auf die Risikovorsorge bei schwächerem Arbeitsmarkt. **Technischer Hinweis:** Ob `scripts/update.py` Dividenden bucht, habe ich nicht geprüft. Vermutlich wird der Kursabschlag vom 06.10. (~0,5 %) ohne Gutschrift abgebildet. Das ist eine kleine systematische Verzerrung gegenüber dem Preisindex S&P 500 (ebenfalls ohne Dividenden), also annähernd neutral.
+
+### Kandidaten
+
+Keine neue Suche, denn es gibt kein Kapital über der Totzone. Heute aufgefallen ist **PTC (+34–36 %)**, ein Übernahmeziel von Schneider Electric. Für uns ist das nicht investierbar, weil das Übernahmeangebot den Kurs bestimmt und keine Fundamentaldaten. **UNP** bleibt Wiedervorlage nach dem 13.10. und dem 22.10.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 01.10. | 9.645,79 | 10.171,52 | −3,54 % | +1,72 % | −5,26 pp |
+| **02.10.** | **9.718,04** | **10.250,09** | **−2,82 %** | **+2,50 %** | **−5,32 pp** |
+
+Zu Schlusskursen läge der Benchmark bei +2,46 %, der Rückstand bei ~5,3 pp. **Grobe Schätzung für heute:** Beim Intraday-Stand von S&P +0,2 bis +0,4 % läge der Benchmark bei ~10.265–10.285 €. Das Depot dürfte durch den AI-Block mit Nasdaq +0,7 % ähnlich oder leicht besser laufen. Das ist nicht titelweise nachgerechnet, verbindlich ist der Kurslauf.
+
+### Erwogen und verworfen
+
+1. **AI-Block vor den Zahlen am 14./15.10. auf 36 % zurückführen.** Verworfen: (5)(d) ist eine Kaufsperre und kein Verkaufsauslöser. Ein Verkauf vor den Zahlen wäre eine Wette, Wiedervorlage s. Analyse Punkt 2.
+2. **TSM auf die Terafab-Meldung aufstocken.** Verworfen: Das ist durch (5)(d)+(f) gesperrt, und es gibt nur Vorgespräche.
+3. **Cash-Überschuss (176,70 €) trotz Totzone in JNJ oder CVX investieren.** Verworfen: Die 250-€-Mindestgröße gilt, und die Totzone ist eine akzeptierte Regelentscheidung vom 30.09.
+4. **GOOGL wegen des Sammelklage-Aufrufs reduzieren.** Verworfen: Es handelt sich um einen Routine-Aufruf einer Kanzlei ohne belegten Vorwurf. Q3 kommt Ende Oktober.
+
+### Offene Termine
+
+**06.10.** JPM-Ex-Dividende · **07.10.** Fed-Protokolle · **13.10.** JPM Q3 (Prüfliste (a)–(d), Risikovorsorge) und JNJ Q3 (IPR&D-Einmaleffekt) · **erster Lauf nach 13.10.** Totzone, Finanzsektor, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 (neu: Terafab-Stand, Preiserhöhungen 2027) · **erster Lauf nach 15.10.** AI-Block-Stand (Wiedervorlage bei ≥ 40 %, ohne Rechtsfolge) · **22.10.** UNP Q3 · **27.10.** Visa Q4 · **28.10.** Fed · **30.10.** CVX Q3 · **Ende Okt.** GOOGL Q3, VRT Q3 · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · laufend: BoJ-Wiedervorlage.
+
+### Ehrliche Einordnung
+
+- **Die Lesart vom 02.10. ist relativiert:** Fallende Renditen nach dem Arbeitsmarktbericht hielten nur einen Handelstag. Heute steigen sie mit dem ISM-Preisindex wieder.
+- **Recherchegrenzen:** Für ASML, CVX und JPM habe ich keine datierten Firmennachrichten vom 05.10. gefunden. Der Inhalt des GOOGL-Kanzleiaufrufs war nicht lesbar. Visa- und JNJ-Meldungen kenne ich nur als Titel. Die Renditeangaben widersprechen sich (5,25 % vs. 5,32 %). Alle Werte vom 05.10. sind Intraday-Werte.
+- **Nichtstun ist die Sachentscheidung:** Es gibt neue Nachrichten, aber keine, die eine These bricht oder eine Regel auslöst. Die nächsten echten Entscheidungen fallen in acht bis zehn Tagen mit Quartalszahlen.
+
+**Analyse: Claude Opus (Subagent, model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [KRMG/AP – How major US stock indexes fared Friday 10/2/2026](https://krmg.com/2026/10/02/how-major-us-stock-indexes-fared-friday-10-2-2026/)
+- [TheStreet – Stock Market Today (Oct. 5, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-05-2026) · [Yahoo Finance – Stock market today, Oct. 5: Dow, S&P 500, Nasdaq rise as investors shrug off bond market caution](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html)
+- [TrendForce – TSMC Earnings Preview: Terafab Talks, Price Hikes and A14-Intel Race (05.10.)](https://www.trendforce.com/news/2026/10/05/news-tsmc-earnings-preview-terafab-talks-price-hikes-and-a14-intel-race-lead-five-key-themes/) · [Digitimes – Musk confirms talks with TSMC over his Texas chip factory project (03.10.)](https://www.digitimes.com/news/a20261003VL200/tsmc-texas-elon-musk-spacex-investment.html)
+- [Yahoo Finance – JPMorgan Stock Sits 6% Below Its High… What Q3 Earnings Must Prove (28.09.)](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stock-sits-6-below-062740229.html)
+- [ad-hoc-news – RBC keeps Buy rating and USD 466 target for Visa stock (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/rbc-keeps-buy-rating-and-usd-466-target-for-visa-stock/70232985) · [ad-hoc-news – Johnson & Johnson reports ICOTYDE data (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-reports-icotyde-data-johnson-and-johnson-stock/70219700)
+- [Financialcontent/BusinessWire – Kanzlei-Aufruf zu Alphabet (Inhalt nicht lesbar)](https://financialcontent.com/article/bizwire-2026-10-5-law-offices-of-frank-r-cruz-encourages-alphabet-inc-googl-shareholders-to-inquire-about-securities-fraud-class-action) · [Motley Fool – Prediction: Alphabet's Profit Growth Carries It to $5 Trillion Before 2028](https://fool.com/investing/2026/10/05/prediction-alphabet-s-profit-growth-carries-it-to-usd5-trillion-before-2028)
+- [MarketBeat – Vertiv Shares Climb 2.5% (02.10.)](https://www.marketbeat.com/instant-alerts/price-vertiv-nyse-vrt-shares-climb-25-time-to-buy-2026-10-02/) · [Trefis – Is Vertiv Stock's Fall A Bargain Or A Warning? (02.10.)](https://www.trefis.com/stock/vrt/articles/617415/is-vertiv-stocks-fall-a-bargain-or-a-warning/2026-10-02)
