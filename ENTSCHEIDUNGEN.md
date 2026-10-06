@@ -4756,3 +4756,94 @@ Zu Schlusskursen läge der Benchmark bei +2,46 %, der Rückstand bei ~5,3 pp. **
 - [ad-hoc-news – RBC keeps Buy rating and USD 466 target for Visa stock (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/rbc-keeps-buy-rating-and-usd-466-target-for-visa-stock/70232985) · [ad-hoc-news – Johnson & Johnson reports ICOTYDE data (nur Titel)](https://www.ad-hoc-news.de/boerse/news/corporate-news/johnson-and-johnson-reports-icotyde-data-johnson-and-johnson-stock/70219700)
 - [Financialcontent/BusinessWire – Kanzlei-Aufruf zu Alphabet (Inhalt nicht lesbar)](https://financialcontent.com/article/bizwire-2026-10-5-law-offices-of-frank-r-cruz-encourages-alphabet-inc-googl-shareholders-to-inquire-about-securities-fraud-class-action) · [Motley Fool – Prediction: Alphabet's Profit Growth Carries It to $5 Trillion Before 2028](https://fool.com/investing/2026/10/05/prediction-alphabet-s-profit-growth-carries-it-to-usd5-trillion-before-2028)
 - [MarketBeat – Vertiv Shares Climb 2.5% (02.10.)](https://www.marketbeat.com/instant-alerts/price-vertiv-nyse-vrt-shares-climb-25-time-to-buy-2026-10-02/) · [Trefis – Is Vertiv Stock's Fall A Bargain Or A Warning? (02.10.)](https://www.trefis.com/stock/vrt/articles/617415/is-vertiv-stocks-fall-a-bargain-or-a-warning/2026-10-02)
+
+## 06.10.2026 (Dienstag) – Keine Trades: S&P 500 auf dem Weg zum Rekordschluss, Renditen kommen leicht vom 24-Jahres-Hoch zurück, Brent fällt unter 100 $ – keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der Markt steigt breit (S&P intraday +0,85 % auf ~7.840, Kurs auf Rekordschluss). Die 10-jährige Rendite gibt nach dem höchsten Schluss seit 24 Jahren (5,30–5,31 %) leicht auf ~5,29 % nach. Brent fällt nach der G7-Reservefreigabe unter 100 $. Für die acht Positionen gibt es eine relevante Meldung: **Alphabet schließt einen 20-jährigen Atomstrom-Vertrag mit Constellation (890 MW, ~4,3 Mrd. $).** Das ist These-konform (Energieversorgung für AI) und kein Handlungsgrund. Keine Regel feuert. Die Entscheidungspunkte bleiben der 13.–15.10.
+
+### Orderprüfung und Repo-Zustand
+
+- Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22. Der Kurslauf vom 05.10. (21:44 UTC, also nach US-Schluss) führt SPX **7.773,95**. Das deckt sich mit dem belegten Schluss (Zacks/Yahoo: 7.773,95, +0,7 %) ✓.
+- **Technik:** Die lokale Arbeitskopie stand auf Commit 25b8997 (21.09.), weil eine verwaiste `refs/heads/main.lock` seit dem 21.09. jedes lokale Ref-Update blockiert hat. Die Arbeitsdateien enthielten einen älteren Stand von `data.json` (ohne den Historienpunkt 05.10.). ENTSCHEIDUNGEN.md und .gitignore waren identisch mit origin. `git pull` brach deshalb ab. Ich habe die lokale `data.json` nach `_to_delete/data.json.local-before-pull-20261006` gesichert, die Dateien inhaltlich auf origin/main (7890d52) gesetzt und die Locks nach `_to_delete/` verschoben (Löschen ist im Ordner nicht erlaubt). `_to_delete/` steht jetzt in `.gitignore`. Inhaltlich ging nichts verloren, denn origin war in allen Dateien gleich oder neuer.
+
+### Marktlage
+
+- **Schluss Montag 05.10. (Zacks/Yahoo):** S&P 500 **7.773,95 (+0,7 %)**, Dow 51.267,90 (+0,2 %), Nasdaq **27.477,31 (+1,1 %, Rekordschluss)**. Treiber waren Big Tech/AI (Nvidia +2,1 %, Microsoft +1,5 %), Energie +0,9 %. Der ISM-Dienstleistungsindex lag laut Zacks bei 54,9. Das weicht von der gestern notierten 55,9 (TheStreet) ab, die Quellen widersprechen sich.
+- **Heute, 06.10. (intraday ~12:05 ET, Yahoo):** S&P **7.840,02 (+0,85 %)**, Nasdaq 27.691 (+0,78 %), Dow 51.634 (+0,71 %). TheStreet meldet ebenfalls S&P +0,87 %. Foxconn-Zahlen stützen die AI-Nachfrage, Nvidia nähert sich 6 Bio. $ Börsenwert.
+- **Zinsen:** Die 10-jährige Rendite schloss am Montag bei **5,30–5,31 %**, dem höchsten Schluss seit 24 Jahren, die 30-jährige bei 5,66 %. Heute liegt die 10-jährige bei ~5,29 % (−5 bp, Yahoo). Die Aktien steigen also *trotz* Renditen auf Mehrjahreshoch. Das ist das Muster, das uns im Juli/August geschadet hat, heute aber ohne Wirkung bleibt.
+- **Öl:** Brent **~98,7 $ (−1,6 %)**, WTI ~87,8 $ (TheStreet), erstmals seit Wochen unter 100 $. Auslöser ist die G7-Freigabe von 100 Mio. Barrel über vier Monate (Diesel vorgezogen). Hormus bleibt ungelöst: Im letzten Monat wurden fast 20 Handelsschiffe angegriffen.
+- **Einordnung:** Ein Risk-on-Tag. Der AI-Block und der Gesamtmarkt steigen, Öl fällt. Für CVX ist das leicht negativ, für die Inflations- und Zinsseite leicht positiv. Am 07.10. folgen die Fed-Protokolle.
+
+### Positionen (Kurslauf 05.10., 21:44 UTC, EURUSD 1,1223)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.668,03 | 16,99 % | +4,91 % | Keine datierte Firmennachricht gefunden. Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 1.644,53 | 16,75 % | +9,64 % | Keine neue Firmennachricht. Der Septemberumsatz kommt ~10.10., Q3 am 15.10. Foxconn-Zahlen bestätigen die AI-Server-Nachfrage indirekt. | Halten; (5)(d)+(f) |
+| JNJ | 1.300,93 | 13,25 % | +0,85 % | Keine datierte Firmennachricht. Q3 am 13.10. | Halten |
+| JPM | 1.055,96 | 10,76 % | −4,00 % | **Ex-Dividende heute** (1,65 $). Q3 am 13.10. (Termin bestätigt) | Halten; Prüfliste 13.10. |
+| GOOGL | 982,92 | 10,01 % | −3,60 % | **20-Jahres-PPA mit Constellation Energy: 890 MW Atomstrom, ~4,3 Mrd. $.** Das sichert die Energieversorgung der Rechenzentren und belastet die Bilanz kaum (Abnahmevertrag, kein Capex). | Halten |
+| CVX | 906,66 | 9,23 % | +6,67 % | Brent fällt unter 100 $ (G7-Reserven). Hormus ist nicht offen, also kein Halbierungskriterium. Q3 am 30.10. | Halten |
+| ASML | 882,95 | 8,99 % | +3,91 % | Keine datierte Firmennachricht. Q3 am 14.10. | Halten; (5)(d) |
+| VRT | 324,78 | 3,31 % | −18,80 % | Keine datierte Firmennachricht. Q3 Ende Oktober. | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.818,08 € · Cash 1.051,32 € (10,71 %) · Positionen 8.766,76 €.** Gegenüber dem 02.10. liegt das Depot bei **+1,03 %**, der Benchmark bei **+0,62 %**. Das Depot holte also ~0,4 pp auf (AI-Block und Euro leicht schwächer: 1,1261 → 1,1223).
+
+### Regelcheck
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 16,99 %** (max. 20 %) ✓ · **Cash 10,71 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.835,18 € = 39,06 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Die Reihe steigt weiter: 38,16 → 38,87 → **39,06 %**, ein neuer Höchststand. Die am 05.10. vorgemerkte 40-%-Marke ist nah. Sie bleibt Wiedervorlage im ersten Lauf nach dem 15.10. und hat ausdrücklich keine Rechtsfolge vorher.
+- **Finanzsektor V+JPM = 27,74 %**, Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,71 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte von 9,0 %: **167,69 €** < 250 € ⇒ **keine Order** (Totzone).
+- **Verkaufsregeln:** Die JPM- und VRT-Prüflisten sind nicht fällig. Das CVX-Halbierungskriterium ist nicht erfüllt (keine Hormus-Öffnung, Brent fällt nur wegen der Reservefreigabe). Der Öl-Trigger (WTI 110 $ / Brent 120 $) ist weit entfernt. **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. Alphabet/Constellation.** Die These lautete „AI-Führung mit Abschlag“. Strom ist der Engpass, auf den das Depot mit VRT ohnehin setzt. Ein langfristiger Festpreisvertrag senkt Alphabets Versorgungsrisiko. Kursrelevant dürfte er kaum sein (4,3 Mrd. $ über 20 Jahre bei ~400 Mrd. $ Jahresumsatz). Kein Zukauf, denn (5)(d) sperrt.
+
+**2. Zinsen vs. Aktien.** Die 10-jährige Rendite auf dem höchsten Schluss seit 24 Jahren und gleichzeitig ein Index-Rekord: Diese Divergenz ist nicht stabil. Entweder fallen die Renditen (dann ist der AI-Block der Gewinner), oder die Bewertungen geben nach (dann trifft es den AI-Block mit 39 % Gewicht am stärksten). JPM, CVX und JNJ (zusammen ~33 %) sind die Absicherung dafür. Diese Balance halte ich für angemessen und ändere sie nicht vor den Zahlen.
+
+**3. JPM-Ex-Dividende und Messfehler.** Ich habe `scripts/` nach „dividend“ durchsucht und **keinen Treffer** gefunden. Das Skript bucht also keine Dividenden. Der Kursabschlag von heute (~0,5 % auf JPM, ~5 € Depotwirkung) erscheint im Kurslauf als Verlust ohne Gutschrift. Wie am 05.10. vermutet, ist das gegenüber dem Preisindex S&P 500 (ebenfalls ohne Dividenden) annähernd neutral, für unser dividendenlastiges Depot (JPM, CVX ~4 %, JNJ, V) aber ein leichter systematischer Nachteil von grob 0,1–0,2 pp pro Jahr. Ich dokumentiere das nur und ändere kein Skript.
+
+**4. CVX bei fallendem Öl.** Der Brent-Rückgang unter 100 $ kommt von der G7-Angebotsseite und nicht von einer Hormus-Lösung. Die Begründung für die CVX-Absicherung (Öl → Inflation → Renditen) ist also intakt. CVX liegt weiter bei +6,7 %.
+
+### Kandidaten
+
+Keine neue Suche, denn es gibt kein Kapital über der Totzone (167,69 € < 250 €). Constellation Energy (CEG) ist als Kandidat für das Thema „AI-Strom“ aufgefallen, gehört aber de facto zum AI-Block und wäre daher durch (5)(d) gesperrt. **UNP** bleibt Wiedervorlage nach dem 13.10. und dem 22.10.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 02.10. | 9.718,04 | 10.250,09 | −2,82 % | +2,50 % | −5,32 pp |
+| **05.10.** | **9.818,08** | **10.313,79** | **−1,82 %** | **+3,14 %** | **−4,96 pp** |
+
+**Grobe Schätzung für heute:** Beim Intraday-Stand von S&P 7.840 läge der Benchmark bei ~10.401 € (+4,01 %). Das ist nicht titelweise nachgerechnet, verbindlich ist der Kurslauf um 17:00 MESZ.
+
+### Erwogen und verworfen
+
+1. **GOOGL auf die Constellation-Meldung aufstocken.** Verworfen: Das ist durch (5)(d) gesperrt (AI-Block 39,06 %), und die Meldung ist nicht wesentlich genug.
+2. **CVX bei Brent < 100 $ reduzieren.** Verworfen: Das Halbierungskriterium ist an eine Hormus-Öffnung gebunden, nicht an den Ölpreis. Der Rückgang ist angebotspolitisch, die Absicherungsfunktion gilt weiter.
+3. **AI-Block vor den Zahlen am 14./15.10. auf 36 % zurückführen.** Verworfen wie am 05.10.: (5)(d) ist eine Kaufsperre und kein Verkaufsauslöser. Ein Verkauf vor den Zahlen wäre eine Ergebniswette.
+4. **Cash-Überschuss (167,69 €) trotz Totzone investieren.** Verworfen: Es gilt die 250-€-Mindestgröße.
+
+### Offene Termine
+
+**07.10.** Fed-Protokolle · **~10.10.** TSMC-Septemberumsatz · **13.10.** JPM Q3 (Prüfliste (a)–(d), Risikovorsorge) und JNJ Q3 · **erster Lauf nach 13.10.** Totzone, Finanzsektor, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 (Terafab, Preiserhöhungen 2027) · **erster Lauf nach 15.10.** AI-Block-Stand (Wiedervorlage bei ≥ 40 %, ohne Rechtsfolge) · **22.10.** UNP Q3 · **27.10.** Visa Q4 · **28.10.** Fed · **30.10.** CVX Q3 · **Ende Okt.** GOOGL Q3, VRT Q3 · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · laufend: BoJ-Wiedervorlage.
+
+### Ehrliche Einordnung
+
+- **Der Rückstand schrumpft, aber aus dem falschen Grund:** Die Aufholbewegung (−5,32 → −4,96 pp) kommt aus dem AI-Block, also genau aus dem Klumpen, den die Regeln bremsen sollen. Ein Abschwung des AI-Blocks würde den Rückstand ebenso schnell wieder vergrößern.
+- **Recherchegrenzen:** Für V, JNJ, ASML, VRT und CVX habe ich keine datierten Firmennachrichten vom 06.10. gefunden. Die Suchen lieferten überwiegend Kursseiten. Die ISM-Angabe vom 05.10. widerspricht sich zwischen den Quellen (55,9 vs. 54,9). Alle Werte vom 06.10. sind Intraday-Werte.
+- **Nichtstun ist die Sachentscheidung:** Keine These ist gebrochen, keine Regel feuert. Die nächsten echten Entscheidungen fallen mit den Quartalszahlen vom 13. bis 15.10.
+
+**Analyse: Claude Opus 5.5 (Subagent) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [Yahoo Finance – Stock market today (06.10.): S&P 500, Nasdaq touch all-time highs, bond yields retreat](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html)
+- [TheStreet – Stock Market Today (Oct. 6, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026)
+- [Yahoo/Zacks – Stock Market News for Oct 6, 2026 (Schluss 05.10.)](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-6-054400913.html)
+- [CoinCentral – Why are Stocks Up Today? October 6, 2026](https://coincentral.com/why-are-stocks-up-today-october-6-2026)
+- [Business Today – G7 agrees 100 million barrel oil release (02.10.)](https://www.businesstoday.in/world/story/g7-agrees-to-coordinated-refinery-maintenance-100-million-barrel-oil-release-to-ease-market-pressure-559277-2026-10-02) · [Trading Economics – Oil Eases as G7 Plans Reserve Release](https://tradingeconomics.com/commodity/crude-oil/news/589271)
+- [ScanX – JPMorgan Chase to host Q3 earnings call on October 13](https://scanx.trade/stock-market-news/companies/jpmorgan-chase-host-q3fy26-earnings-call-october-13/51222474)
