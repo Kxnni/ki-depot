@@ -4847,3 +4847,94 @@ Keine neue Suche, denn es gibt kein Kapital über der Totzone (167,69 € < 250 
 - [CoinCentral – Why are Stocks Up Today? October 6, 2026](https://coincentral.com/why-are-stocks-up-today-october-6-2026)
 - [Business Today – G7 agrees 100 million barrel oil release (02.10.)](https://www.businesstoday.in/world/story/g7-agrees-to-coordinated-refinery-maintenance-100-million-barrel-oil-release-to-ease-market-pressure-559277-2026-10-02) · [Trading Economics – Oil Eases as G7 Plans Reserve Release](https://tradingeconomics.com/commodity/crude-oil/news/589271)
 - [ScanX – JPMorgan Chase to host Q3 earnings call on October 13](https://scanx.trade/stock-market-news/companies/jpmorgan-chase-host-q3fy26-earnings-call-october-13/51222474)
+
+## 07.10.2026 (Mittwoch) – Keine Trades: Rücksetzer nach dem Rekord, 10-jährige Rendite kurz auf 5,35 % (höchster Stand seit 2002), Fed-Protokolle signalisieren eine weitere Anhebung bis Jahresende, Chevron ordnet Midstream mit Hess Midstream neu – keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der Markt gibt nach dem Rekordschluss vom 06.10. nach (S&P intraday −0,2 bis −0,6 %). Auslöser sind die 10-jährige Rendite, die morgens mit **5,35 %** den höchsten Stand seit 2002 erreichte, und ein Ölpreis, der wieder über 100 $ (Brent) steigt. Die **Fed-Protokolle** zur September-Sitzung (einstimmige Anhebung) zeigen, dass die Mehrheit eine **weitere Anhebung bis Jahresende** erwartet, ohne zu sagen, ob am 28.10. oder am 09.12. (Markt: ~20 % für Oktober). Unter den Positionen gibt es eine wesentliche Firmennachricht: **Chevron (06.10., 8-K)** restrukturiert die Bakken-Midstream-Verträge mit Hess Midstream. Das ist nach meiner Bewertung bilanzverbessernd und kein Thesenbruch.
+
+### Orderprüfung und Repo-Zustand
+
+- Zu Laufbeginn gab es keine offenen Orders, `trades` steht unverändert bei 22.
+- **Auffälligkeit Kurslauf:** `data.json` steht weiter auf dem Kurslauf vom **05.10. (21:44 UTC)**. Weder lokal noch in `origin/main` (Stand des lokalen Refs) gibt es einen Commit „Depot-Update 2026-10-06“ oder „…-10-07“, die Historie endet am 05.10. Entweder lief die GitHub Action am 06./07.10. nicht, oder ihr Commit ist noch nicht im lokalen Clone. Das ist für die heutige Entscheidung unerheblich (keine Orders), sollte aber vom Nutzer im Actions-Tab geprüft werden. Wenn der Kurslauf ausfällt, würden auch Orders nicht ausgeführt.
+- In `.git/refs/heads/` liegt neben `main` eine Datei `main.lock.stale5`. Sie blockiert vermutlich nicht (kein exakter `main.lock`-Name), ich habe sie aber gemäß Auftrag nicht angefasst (keine git-Befehle, kein Löschen).
+
+### Marktlage
+
+- **Schluss Dienstag 06.10.:** **Rekordschluss** des S&P 500, auch der Nasdaq auf Allzeithoch (TheStreet/Yahoo). Eine exakte Schlusszahl habe ich nicht belegt gefunden; ~1,5 h vor Schluss lag der S&P bei 7.825 (+0,66 %).
+- **Heute, 07.10. (intraday):** S&P zur Eröffnung −0,42 %, um 13:20 ET −0,23 % (TheStreet). Yahoo zeigt einen Stand von 7.773 (−0,59 %), Dow −0,95 %, Nasdaq −0,75 %. Small Caps sind schwächer (Russell 2000 −1,4 %). Comfort Systems (−5,9 %) und Entegris (−2,6 %) gehören zu den Verlierern, AI-Infrastruktur und Halbleiterzulieferer also leicht unter Druck.
+- **Zinsen:** Die 10-jährige Rendite stieg morgens auf **5,35 %** (höchster Stand seit 2002) und lag nachmittags bei ~5,29–5,31 %. Die 30-jährige erreichte 5,72 % und kam auf 5,67 % zurück. Die Erholung vom 06.10. (−5 bp) ist damit wie die vom 02.10. nach einem Tag vorbei.
+- **Öl:** Brent ~102 $ (+1,4 %), WTI ~90,1 $ (+0,8 %). Gründe sind die Spannungen im Nahen Osten und ein möglicher Hurrikan im Golf von Mexiko. Der Rückgang unter 100 $ vom 06.10. hielt ebenfalls nur einen Tag.
+- **Fed-Protokolle (14:00 ET):** Die September-Anhebung war einstimmig. Die Mehrheit sieht eine weitere Anhebung bis Jahresende, nennt aber keinen Zeitpunkt. Laut Reuters war man sich über die *Begründung* uneins. Den Marktverlauf nach der Veröffentlichung konnte ich nicht belegen (CNBC 403).
+- **Einordnung:** Ein Gegenbewegungstag mit dem Muster „Renditen hoch, Öl hoch, Aktien runter“. Das ist genau das Szenario, gegen das CVX/JPM/JNJ im Depot als Absicherung stehen.
+
+### Positionen (letzter verfügbarer Kurslauf 05.10., 21:44 UTC, EURUSD 1,1223 – kein neuer Lauf seither)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.668,03 | 16,99 % | +4,91 % | Keine datierte Firmennachricht gefunden. Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 1.644,53 | 16,75 % | +9,64 % | Keine neue Firmennachricht. Der Septemberumsatz kommt ~10.10., Q3 am 15.10. | Halten; (5)(d)+(f) |
+| JNJ | 1.300,93 | 13,25 % | +0,85 % | Keine datierte Firmennachricht. Healthcare gehört heute zu den stärkeren Sektoren (Gilead +2,7 %, Amgen +2,6 %). Q3 am 13.10. | Halten |
+| JPM | 1.055,96 | 10,76 % | −4,00 % | Nur eine Schlagzeile zu JPMs Einschätzung des Abverkaufs (Inhalt nicht lesbar). Q3 am 13.10. | Halten; Prüfliste 13.10. |
+| GOOGL | 982,92 | 10,01 % | −3,60 % | Keine neue Firmennachricht seit dem Constellation-PPA (06.10.). | Halten |
+| CVX | 906,66 | 9,23 % | +6,67 % | **8-K vom 06.10.:** Die Bakken-Midstream-Verträge mit Hess Midstream werden verlängert und verbessert. Chevron gibt dafür die HESM-Anteile, die GP-Position und DJ-Basin-Midstream-Assets ab und erhält **200 Mio. $ in bar**. Die **Midstream-Stückkosten in Bakken sinken um ~50 %**, HESM wird inklusive **~3,7 Mrd. $ Schulden entkonsolidiert**, und die ROCE steigt um **+0,5 pp**. Dafür fällt ein **einmaliger Verlust nach Steuern von ~3–4 Mrd. $** an (Sonderposten, Closing bis Jahresende). Brent steigt wieder über 100 $. | Halten |
+| ASML | 882,95 | 8,99 % | +3,91 % | Keine datierte Firmennachricht. Q3 am 14.10. | Halten; (5)(d) |
+| VRT | 324,78 | 3,31 % | −18,80 % | Keine datierte Firmennachricht. Der Peer Comfort Systems fällt heute um 5,9 %, der Grund ist mir nicht bekannt. Q3 Ende Oktober. | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.818,08 € · Cash 1.051,32 € (10,71 %) · Positionen 8.766,76 €** (Stand Kurslauf 05.10., unverändert, weil seither kein Kurslauf erfolgte).
+
+### Regelcheck (auf Basis des Kurslaufs vom 05.10.)
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 16,99 %** (max. 20 %) ✓ · **Cash 10,71 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 39,06 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Die 40-%-Wiedervorlage bleibt beim ersten Lauf nach dem 15.10. Der heutige Rücksetzer dürfte den Block eher leicht senken.
+- **Finanzsektor V+JPM = 27,74 %**, Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,71 % > 10,0 % ⇒ feuert. Überschuss über der Bandmitte von 9,0 %: **167,69 €** < 250 € ⇒ **keine Order** (Totzone).
+- **Verkaufsregeln:** Die JPM- und VRT-Prüflisten sind nicht fällig. Das CVX-Halbierungskriterium (Hormus-Öffnung) ist nicht erfüllt. Der Öl-Trigger (WTI 110 $ / Brent 120 $) ist nicht erreicht (WTI ~90 $, Brent ~102 $). **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. Chevron/Hess Midstream: Thesenbruch oder Bilanzpflege?** Die CVX-These im Depot ist eine Absicherung (Öl → Inflation → Renditen) und eine Qualitätsbilanz. Der Deal entkonsolidiert ~3,7 Mrd. $ Schulden, halbiert die Transportkosten in Bakken und erhöht die Kapitalrendite. Der Verlust von 3–4 Mrd. $ ist buchhalterisch (Abgang von Beteiligungen unter Buchwert), nicht zahlungswirksam. Er wird das GAAP-Ergebnis des Quartals mit dem Closing (voraussichtlich Q4) belasten und kann Schlagzeilen erzeugen („Milliardenverlust“). Er ändert aber weder die Ölpreisabsicherung noch die Dividendenfähigkeit. Ich bewerte die Nachricht als leicht positiv bis neutral. Ich halte ohne Aufstockung, weil CVX nicht über die Totzone kommt und es keinen zusätzlichen Konviktionsgrund gibt.
+
+**2. Renditen 5,35 % und die Fed.** Die Protokolle bestätigen, was der Markt schon fürchtete: Die Fed ist im Anhebungsmodus, und das Ende ist offen. Für den AI-Block (39 %) ist das der Hauptgegenwind, für JPM (Zinsmarge) eher Rückenwind, solange die Kreditqualität hält. Die Prüfliste zum 13.10. (Risikovorsorge) ist dafür der richtige Ort. Die Divergenz vom 06.10. (Index-Rekord bei Renditen auf 24-Jahres-Hoch) hat sich heute erstmals leicht zugunsten der Renditen aufgelöst. Ein Tag ist allerdings kein Trend, und vor den Zahlen vom 13.–15.10. ändere ich die Balance nicht.
+
+**3. Keine Zahlen heute, keine Ergebniswetten.** Die nächsten sechs Handelstage bringen den TSMC-Septemberumsatz (~10.10.), JPM/JNJ (13.10.), ASML (14.10.) und TSM (15.10.). Fünf von acht Positionen berichten innerhalb einer Woche. Umschichten vor diesen Terminen wäre Raten, nicht Analyse.
+
+### Kandidaten
+
+Keine neue Suche, denn es gibt kein Kapital über der Totzone (167,69 € < 250 €). **UNP** bleibt Wiedervorlage nach dem 13.10. und dem 22.10. **CEG** bleibt als AI-Strom-Titel notiert, ist aber wegen (5)(d) gesperrt.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 02.10. | 9.718,04 | 10.250,09 | −2,82 % | +2,50 % | −5,32 pp |
+| **05.10.** (letzter Kurslauf) | **9.818,08** | **10.313,79** | **−1,82 %** | **+3,14 %** | **−4,96 pp** |
+
+**Grobe Schätzung für heute:** Bei einem S&P von ~7.770–7.800 intraday läge der Benchmark bei ~10.310–10.350 € (+3,1 bis +3,5 %). Das ist nicht titelweise nachgerechnet, verbindlich ist der nächste Kurslauf.
+
+### Erwogen und verworfen
+
+1. **CVX nach der Hess-Midstream-Meldung reduzieren** (wegen des Verlusts von 3–4 Mrd. $). Verworfen: Der Verlust ist nicht zahlungswirksam, Schulden und Kosten sinken, und die Absicherungsfunktion ist bei Brent > 100 $ wieder aktueller.
+2. **AI-Block nach dem Renditeanstieg auf 5,35 % vor den Zahlen reduzieren.** Verworfen: (5)(d) ist eine Kaufsperre und kein Verkaufsauslöser. Ein Verkauf zwei bis sechs Handelstage vor TSM/ASML/GOOGL-Zahlen wäre eine Ergebniswette.
+3. **JPM nach den hawkischen Fed-Protokollen aufstocken.** Verworfen: Die Totzone gilt (167,69 € < 250 €), der Finanzsektor liegt schon bei 27,7 %, und die Q3-Prüfliste kommt in sechs Tagen.
+4. **Cash-Überschuss trotz Totzone investieren.** Verworfen: Es gilt die 250-€-Mindestgröße.
+
+### Offene Termine
+
+**~10.10.** TSMC-Septemberumsatz · **13.10.** JPM Q3 (Prüfliste (a)–(d), Risikovorsorge) und JNJ Q3 · **erster Lauf nach 13.10.** Totzone, Finanzsektor, UNP-Kapitalfrage · **14.10.** ASML Q3 · **15.10.** TSM Q3 (Terafab, Preiserhöhungen 2027) · **erster Lauf nach 15.10.** AI-Block-Stand (Wiedervorlage bei ≥ 40 %, ohne Rechtsfolge) · **22.10.** UNP Q3 · **27.10.** Visa Q4 · **28.10.** Fed (laut Protokollen Anhebung möglich, Markt ~20 %) · **30.10.** CVX Q3 (erste Einordnung des Hess-Midstream-Deals) · **Ende Okt.** GOOGL Q3, VRT Q3 · **09.12.** Fed · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · laufend: BoJ-Wiedervorlage · **neu:** Prüfen, warum die Kursläufe vom 06./07.10. fehlen.
+
+### Ehrliche Einordnung
+
+- **Die Lesart vom 06.10. ist erneut relativiert:** Wie am 02.10. hielt die Renditeentlastung nur einen Tag, ebenso der Ölpreis unter 100 $. Meine Einschätzung „die Divergenz ist nicht stabil“ war richtig, die Richtung ist aber noch offen.
+- **Datenlage:** Der Regelcheck beruht auf dem Kurslauf vom 05.10., weil seither keiner im Repo ankam. Die tatsächlichen Gewichte am 07.10. weichen leicht ab, vermutlich nicht genug, um eine Regel zu kippen (der nächste Schwellenwert wäre AI-Block 40 %, und der hat keine Rechtsfolge).
+- **Recherchegrenzen:** Für V, TSM, ASML, GOOGL, JNJ und VRT habe ich keine datierten Firmennachrichten vom 07.10. gefunden. JPMs Selloff-Kommentar kenne ich nur als Schlagzeile. Den Inhalt der Fed-Protokolle kenne ich nur aus Schlagzeilen (CNBC/Bloomberg/Reuters), die Marktreaktion danach habe ich nicht verifiziert. Die exakte Schlusszahl vom 06.10. fehlt. Alle Werte vom 07.10. sind Intraday-Werte.
+- **Nichtstun ist die Sachentscheidung:** Keine These ist gebrochen, keine Regel feuert. Die Entscheidungswoche ist der 13.–15.10.
+
+**Analyse: Claude Opus Subagent (model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [TheStreet – Stock Market Today (Oct. 7, 2026): Market faces pullback after S&P 500, Nasdaq records](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-07-2026)
+- [Yahoo Finance – Stock Market Today (Oct. 7, 2026)](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-7-133458375.html) · [Yahoo Finance – Stock Market Today (Oct. 6, 2026)](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-6-134418932.html)
+- [TheStreet – Stock Market Today (Oct. 6, 2026): S&P 500 sets new record](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026)
+- [CNBC – Fed officials see another hike coming, but no sign as to when, minutes show (nur Titel)](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) · [Bloomberg – Fed Minutes Show Officials All Backed September Interest Rate Hike (nur Titel)](https://www.bloomberg.com/news/articles/2026-10-07/fed-minutes-show-hawkish-unity-behind-september-rate-hike) · [Reuters/Investing.com – Fed policymakers divided over rate-hike logic (nur Titel)](https://www.investing.com/news/economy-news/fed-policymakers-divided-over-ratehike-logic-in-september-minutes-show-4937320)
+- [SEC – Chevron 8-K Exhibit 99.1 (06.10.2026): Hess Midstream / Bakken](https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000192/cvxoct2026ex991.htm)
