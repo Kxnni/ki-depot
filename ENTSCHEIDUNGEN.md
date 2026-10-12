@@ -4938,3 +4938,100 @@ Keine neue Suche, denn es gibt kein Kapital über der Totzone (167,69 € < 250 
 - [TheStreet – Stock Market Today (Oct. 6, 2026): S&P 500 sets new record](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026)
 - [CNBC – Fed officials see another hike coming, but no sign as to when, minutes show (nur Titel)](https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html) · [Bloomberg – Fed Minutes Show Officials All Backed September Interest Rate Hike (nur Titel)](https://www.bloomberg.com/news/articles/2026-10-07/fed-minutes-show-hawkish-unity-behind-september-rate-hike) · [Reuters/Investing.com – Fed policymakers divided over rate-hike logic (nur Titel)](https://www.investing.com/news/economy-news/fed-policymakers-divided-over-ratehike-logic-in-september-minutes-show-4937320)
 - [SEC – Chevron 8-K Exhibit 99.1 (06.10.2026): Hess Midstream / Bakken](https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000192/cvxoct2026ex991.htm)
+
+## 12.10.2026 (Montag) – Keine Trades: OpenAI-Umsatzschreck drückt die Chips am 08.10., Erholung am Freitag, TSMC meldet Rekord-Septemberumsatz (+54,6 %), Brent steigt auf ~107 $ – vor JPM/JNJ (13.10.), CPI/ASML (14.10.) und TSM (15.10.) feuert keine Regel
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Seit dem letzten Eintrag (07.10.) sind die Kursläufe vom 07., 08. und 09.10. angekommen. Der S&P 500 schloss die Woche mit **7.811,5 (+0,6 % am Freitag, +1,2 % auf Wochensicht)** knapp unter dem Rekord. Dazwischen lag am **08.10. ein AI-/Chip-Abverkauf** (Nasdaq −1,25 %, SOX −3,4 %). Auslöser war ein FT-Bericht, nach dem OpenAIs annualisierter Umsatz Ende September bei „knapp 50 Mrd. $“ lag, rund 20 Mrd. $ unter einer Vormonatsangabe. Laut FT liegt die Lücke an einer anderen Zählweise, nicht an verlorenen Umsätzen. Für unsere Positionen zählt vor allem: **TSMC meldet für September 511,86 Mrd. NT$ (+54,6 % J/J, −0,6 % M/M) und ein Rekordquartal**, die Aktie fiel trotzdem mit dem Sektor. Heute (Columbus Day, Anleihemarkt geschlossen) ist der S&P flach, Energie führt (**Chevron +1,9 %**, Brent **~107 $**), Halbleiter sind wieder schwächer (Micron −4,2 %).
+
+### Orderprüfung und Repo-Zustand
+
+- Zu Laufbeginn keine offenen Orders, `trades` unverändert bei 22. Letzter Kurslauf: **09.10.2026, 19:56 UTC**, EURUSD 1,1203.
+- **Nachtrag zum Hinweis vom 07.10.:** Die Kursläufe vom 07., 08. und 09.10. sind jetzt in `data.json` (Stand origin/main d717590). In der Historie **fehlt weiterhin der 06.10.** (Sprung 05.10. → 07.10.). Für die Performance ist das unerheblich, weil jeder Lauf Depot und Benchmark neu berechnet. Für den 08. und 09.10. gibt es **keine KI-Einträge**, dieser Eintrag deckt die Lücke ab.
+
+### Marktlage
+
+- **Do 08.10.:** S&P 500 −0,47 % auf 7.765,36, Nasdaq −1,25 %, Dow +0,10 %. Technologie −2,1 % (schwächster Sektor), Energie +2,3 %, Basiskonsumgüter +2,0 %. 10-jährige Rendite ~5,23 %, WTI +3,2 % auf ~91 $. Grund für den Tech-Abverkauf war der OpenAI-Bericht (FT): SOX −3,4 %, Nvidia ~−3 %, Broadcom −4,35 %.
+- **Fr 09.10.:** S&P 500 **7.811,51 (+0,59 %)**, Dow 51.655 (+0,83 %), Nasdaq 27.366 (+0,64 %). Wochenbilanz S&P +1,2 %, Nasdaq +0,6 %, Russell 2000 −0,9 %. Treiber: Trump erklärt, die USA würden **Iran nicht vor den Midterms (03.11.) angreifen**, Tech erholt sich. Belastend: 10-jährige Rendite **5,26 %**, WTI 91,85 $, **Brent 104,72 $**, Uni-Michigan-Stimmung 46,3 (Vormonat 48,1). **Hurrikan Isaias** legte ~63 % der Ölförderung im Golf von Mexiko still. **Chevron hat fünf von neun Golf-Anlagen heruntergefahren**, eine Mengenangabe gibt es nicht. Delta verfehlt die Erwartungen und senkt den Ausblick wegen der Treibstoffkosten.
+- **Heute, Mo 12.10. (vormittags ET):** S&P ~flach nahe Rekord, Dow +0,2 %, Nasdaq −0,1 %. Tech bremst (Micron −4,2 %, AMD −1,8 %, Gründe nicht belegt), Energie führt (CVX +1,9 %, XOM +1,8 %). **Brent +2,1 % auf 106,95 $**, obwohl Trump einen Diesel-Deal mit Russland ankündigte. Der Anleihemarkt ist geschlossen.
+- **Einordnung:** Das Muster der Woche lautet: Renditen hoch (5,2–5,35 %), Öl hoch, AI-Sentiment fragil, Rest des Marktes robust. Für das Depot heißt das: Die Absicherungsseite (CVX, JNJ, V) trägt, der AI-Block (TSM, ASML) verliert.
+
+### Positionen (Kurslauf 09.10., 19:56 UTC, EURUSD 1,1203)
+
+| Titel | Wert € | Gewicht | P/L | Δ seit Lauf 05.10. | Neu | Urteil |
+|---|---|---|---|---|---|---|
+| V | 1.747,48 | 17,78 % | +9,91 % | +4,8 % | Keine datierte Firmennachricht gefunden. Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 1.533,26 | 15,60 % | +2,22 % | −6,8 % | **Septemberumsatz 511,86 Mrd. NT$, +54,6 % J/J, −0,6 % M/M; Jan.–Sep. +41,1 %; Q3 ein Rekordquartal.** Kursrückgang trotzdem, wegen des OpenAI-Sentiments. Q3 am 15.10. | Halten; (5)(d)+(f) |
+| JNJ | 1.344,94 | 13,69 % | +4,26 % | +3,4 % | Keine neue Firmennachricht. Healthcare am 09.10. +1,6 % (XLV). Q3 morgen, 13.10. | Halten |
+| JPM | 1.060,55 | 10,79 % | −3,59 % | +0,4 % | Q3 morgen. Konsens (CMC): EPS ~5,90 $ (+16 %), Umsatz ~51,3 Mrd. $, NII ~26,9 Mrd. $ (+12 %), Handel −18 %. Erwartete Kursbewegung ±3,3 %. | Halten; Prüfliste 13.10. |
+| GOOGL | 999,47 | 10,17 % | −1,98 % | +1,7 % | Keine datierte neue Firmennachricht gefunden. Q3 Ende Okt. | Halten |
+| CVX | 931,27 | 9,48 % | +9,56 % | +2,7 % | **Isaias:** Fünf Golf-Anlagen heruntergefahren, Volumen nicht beziffert, Effekt fällt in **Q4**. Raffinerie Pascagoula lief am Freitag. Dazu Vorstandswechsel ab 01.01.2027 (CFO Bonner wird Spartenpräsidentin, Gustavson neuer CFO, Wirth bleibt CEO). Heute +1,9 % mit Brent. | Halten |
+| ASML | 846,83 | 8,62 % | −0,35 % | −4,1 % | Keine datierte Firmennachricht. Q3 am 14.10. (ASML meldet seit 2026 keine Quartals-Orders mehr). | Halten; (5)(d) |
+| VRT | 311,15 | 3,17 % | −22,21 % | −4,2 % | Keine datierte Firmennachricht gefunden. Q3 Ende Okt. | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.826,27 € · Cash 1.051,32 € (10,70 %) · Positionen 8.774,95 €.**
+
+### Regelcheck (Kurslauf 09.10.)
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 17,78 %** (max. 20 %) ✓ · **Cash 10,70 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 37,56 %** (07.10.: 39,06 %, gesunken durch Kursrückgang) > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Die 40-%-Wiedervorlage ist nicht berührt.
+- **(5)(f):** V (17,78 %) und TSM (15,60 %) liegen über 15 % ⇒ für Wiedereinstiegskäufe gesperrt.
+- **Finanzsektor V+JPM = 28,58 %** (07.10.: 27,74 %), Wiedervorlage nach dem 13.10.
+- **Wiedereinstiegsregel:** 10,70 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte 9,0 %: (10,6991 − 9,00) % × 9.826,27 € = **166,96 €** < 250 € ⇒ **keine Order** (Totzone). Berechtigt wären ohnehin nur JNJ, JPM und CVX.
+- **Verkaufsregeln:** Die JPM-Prüfliste ist morgen fällig, die VRT-Prüfliste mit dem Q3-Bericht. Das CVX-Halbierungskriterium (Hormus-Öffnung) ist nicht erfüllt: Trumps Aussage „kein Angriff vor den Midterms“ ist keine Öffnung, und Brent steigt. Der Öl-Trigger (WTI 110 $ / Brent 120 $) ist nicht erreicht (Brent ~107 $, WTI ~92 $), Abstand zu Brent 120 $ ~12 %. **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. OpenAI-Schreck und TSMC-Rekord: Ändert das die AI-These?** Nein. Der FT-Bericht betrifft die *Kundenseite* (Monetarisierung bei OpenAI), nicht die *Lieferseite*. Die Lieferseite hat am selben Tag mit harten Zahlen geantwortet: TSMC +54,6 % J/J im September, Rekordquartal. Der Kursrückgang von TSM (−6,8 % seit dem 05.10.) ist eine Sentiment-Bewegung des ganzen Sektors. Gerade deshalb ist er aber ein Hinweis auf das Risiko, das ich seit August beschreibe: Die AI-Infrastruktur-Titel hängen an der Finanzierungsfähigkeit ihrer Kunden, und jede Meldung, die diese in Frage stellt, trifft den ganzen Block gleichzeitig. Der Block ist durch Kursrückgang von 39,1 % auf 37,6 % gesunken. Die Kaufsperre bleibt, ein Verkaufsgrund ist es nicht. Am 15.10. entscheidet TSMCs Q4-Ausblick (Bruttomarge, Capex 2027, Preiserhöhungen), nicht die Schlagzeile vom 08.10.
+
+**2. Öl, Hurrikan und Chevron.** Brent bei ~107 $ und der Hurrikan stützen CVX kurzfristig, aber für die Q4-Produktion ist der Hurrikan ein Mengennachteil. Netto ist die Absicherungsfunktion (Öl ↑ → Inflation ↑ → Renditen ↑ → AI-Bewertungen ↓) genau so aufgegangen wie geplant: CVX +2,7 % seit dem 05.10., TSM −6,8 %. Ich halte ohne Aufstockung. Die Totzone verhindert ohnehin einen mechanischen Kauf, und einen eigenen Konviktionskauf in eine Ölrally nach +10 % Positionsgewinn halte ich nicht für begründet.
+
+**3. Die Entscheidungswoche beginnt morgen.** Fünf von acht Positionen (JPM, JNJ, ASML, TSM, dazu indirekt V über die Bankenzahlen) bekommen in drei Tagen Zahlen, dazu kommt am **14.10. der US-CPI** (Konsens Gesamtrate 3,6 % J/J, Kernrate 2,5 %). Ein heißer CPI würde die Fed-Anhebung am 28.10. wahrscheinlicher machen (Markt bisher ~20 %): gut für JPMs Zinsmarge, schlecht für den AI-Block. Heute umzuschichten wäre eine Wette auf diese Termine, kein Urteil über neue Fakten.
+
+**Vorab festgelegte Lesart für JPM morgen (Prüfliste (a)–(d) unverändert):** Entscheidend sind die **NII-Guidance 2026** (zuletzt ~105,5 Mrd. $) und die **Risikovorsorge**, insbesondere für Verbraucherkredite, vor dem Hintergrund des schwachen Arbeitsmarktberichts vom 02.10. und einer Verbraucherstimmung von 46,3. Ein reiner EPS-Beat aus dem Investmentbanking ersetzt keine stabile Kreditqualität.
+
+### Kandidaten
+
+Keine neue Suche, weil kein Kapital über der Totzone liegt (166,96 € < 250 €). **UNP** bleibt Wiedervorlage nach dem 13.10. und dem 22.10. **CEG** bleibt notiert, ist aber nach (5)(d) gesperrt.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 05.10. | 9.818,08 | 10.313,79 | −1,82 % | +3,14 % | −4,96 pp |
+| 07.10. | 9.792,24 | 10.350,70 | −2,08 % | +3,51 % | −5,58 pp |
+| 08.10. | 9.739,37 | 10.302,40 | −2,61 % | +3,02 % | −5,63 pp |
+| **09.10.** | **9.826,27** | **10.364,14** | **−1,74 %** | **+3,64 %** | **−5,38 pp** |
+
+Der Rückstand ist seit dem 05.10. um 0,4 pp gewachsen. Grund ist der AI-Abverkauf am 08.10. bei TSM/ASML/VRT. Die Absicherungsseite hat ihn nur teilweise ausgeglichen.
+
+### Erwogen und verworfen
+
+1. **TSM nach dem Rekord-Septemberumsatz und −6,8 % aufstocken („Fundament stärker, Kurs schwächer“).** Verworfen: Die Position ist nach (5)(d)+(f) gesperrt, die Totzone gilt, und drei Tage vor dem Q3-Bericht wäre es eine Ergebniswette.
+2. **AI-Block nach dem OpenAI-Bericht vorsorglich reduzieren.** Verworfen: Es gibt keine Firmennachricht und keine Regel, die FT-Lücke ist laut Bericht ein Zählweise-Effekt, und ein Verkauf vor den Zahlen wäre wieder ein Verkauf am falschen Tag. Das war mein Muster im September (84 % des Verlusts sind realisiert).
+3. **CVX wegen Hurrikan-Ausfällen reduzieren.** Verworfen: Die Ausfälle sind temporär und der Effekt fällt in Q4. Der Ölpreis, also der eigentliche Absicherungsfaktor, steigt.
+4. **Cash-Überschuss in JNJ/JPM/CVX trotz Totzone investieren.** Verworfen: Es gilt die 250-€-Mindestgröße.
+
+### Offene Termine
+
+**13.10.** JPM Q3 (Prüfliste (a)–(d): NII-Guidance, Risikovorsorge Verbraucherkredite) und JNJ Q3 · **14.10.** US-CPI (Konsens 3,6 % / Kern 2,5 %) und ASML Q3 · **15.10.** TSM Q3 (Q4-Ausblick, Bruttomarge, Terafab, Preiserhöhungen 2027) · **erster Lauf nach 13.10.** Totzone, Finanzsektor (aktuell 28,6 %), UNP-Kapitalfrage · **erster Lauf nach 15.10.** AI-Block-Stand (Wiedervorlage bei ≥ 40 %, ohne Rechtsfolge; aktuell 37,6 %) · **22.10.** UNP Q3 · **27.10.** Visa Q4 · **28.10.** Fed · **30.10.** CVX Q3 (Hess-Midstream-Einordnung; Hurrikan erst in Q4) · **Ende Okt.** GOOGL Q3, VRT Q3 · **03.11.** US-Midterms (Iran-Aussage Trumps) · **09.12.** Fed · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · laufend: BoJ-Wiedervorlage · **technisch:** Kurslauf vom 06.10. fehlt in der Historie.
+
+### Ehrliche Einordnung
+
+- **Die AI-Konzentration hat erneut gekostet:** Am 07.10. schrieb ich, der Rücksetzer dürfte den AI-Block „eher leicht senken“. Das ist eingetreten, aber über einen Chip-Abverkauf, der den Rückstand von −4,96 pp auf zeitweise −5,63 pp vergrößert hat. Das Depot ist weiter eine Wette auf das AI-Sentiment plus Absicherung. In steigenden Indexwochen mit fragiler Tech-Stimmung führt das strukturell zu Rückstand.
+- **Lücke in der Dokumentation:** Für den 08. und 09.10. gibt es keine KI-Einträge. Es hätte allerdings keine Regel gefeuert: Die Gewichte vom 08.10. lagen in denselben Bändern, und der Totzonenbetrag war kleiner als 250 €. Das prüfe ich nicht titelweise nach, sondern schließe es aus den Lauf-Werten.
+- **Recherchegrenzen:** Für V, GOOGL, ASML, VRT und JNJ habe ich keine datierten Firmennachrichten vom 08.–12.10. gefunden, eine echte Lücke kann ich nicht ausschließen. Den OpenAI-Bericht kenne ich nur aus Sekundärquellen (Euronews nach FT), nicht aus dem FT-Original. Den Grund für Microns −4,2 % heute habe ich nicht belegen können. Die Freitags-Schlusskurse für Öl stammen von Yahoo/Zacks, die Werte von heute sind Intraday-Werte von ~10 Uhr ET (AP/ABC7). Eine ASML-Q3-Konsensschätzung für 2026 habe ich nicht gefunden, die gefundene Vorschau stammte von 2025 und wurde verworfen.
+- **Nichtstun ist die Sachentscheidung:** Keine These ist gebrochen und keine Regel feuert. Die Fakten, die eine Umschichtung begründen könnten, kommen in den nächsten 72 Stunden.
+
+**Analyse: Claude Opus Subagent (model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [TheStreet – Stock Market Today (Oct. 9, 2026): Dow, S&P 500 end week higher as market rallies into earnings season](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026)
+- [Yahoo Finance/Zacks – Stock Market News for Oct 12, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-12-122800912.html)
+- [ABC7/AP – US stocks hover near their latest record in mixed trading (12.10.2026)](https://abc7.com/post/us-stocks-hover-latest-record-mixed-trading-wall-street-dow-jones-rose-nasdaq-composite-slipped/19932185/)
+- [Tapeboard – Market Pulse 2026-10-08](https://tapeboard.com/blog/market-pulse-2026-10-08)
+- [Euronews – What happened to OpenAI's $20bn revenue scare (09.10.2026)](https://euronews.com/2026/10/09/what-happened-to-openais-20bn-revenue-scare-rattles-ai-trade)
+- [TSMC – September 2026 Revenue Report](https://pr.tsmc.com/english/news/3343)
+- [roic.ai – Chevron shuts in five Gulf facilities as Hurricane Isaias barrels toward coast (09.10.2026)](https://www.roic.ai/news/chevron-shuts-in-five-gulf-facilities-as-hurricane-isaias-barrels-toward-coast-10-09-2026) · [OE Digital – US Gulf Oil Production Cut by 63% as Hurricane Nears](https://www.oedigital.com/news/543582-us-gulf-oil-production-cut-by-63-as-hurricane-nears)
+- [CMC Markets – The Week Ahead: US CPI, eurozone CPI, JPMorgan earnings](https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-us-cpi-eurozone-cpi-jpmorgan-earnings)
+- [investinglive – US stocks open but bond market shut for Columbus Day](https://investinglive.com/stock-market-update/us-stocks-open-but-bond-market-shut-for-columbus-day-what-traders-need-to-know/)
