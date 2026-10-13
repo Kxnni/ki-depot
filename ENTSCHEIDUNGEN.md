@@ -5035,3 +5035,111 @@ Der Rückstand ist seit dem 05.10. um 0,4 pp gewachsen. Grund ist der AI-Abverka
 - [roic.ai – Chevron shuts in five Gulf facilities as Hurricane Isaias barrels toward coast (09.10.2026)](https://www.roic.ai/news/chevron-shuts-in-five-gulf-facilities-as-hurricane-isaias-barrels-toward-coast-10-09-2026) · [OE Digital – US Gulf Oil Production Cut by 63% as Hurricane Nears](https://www.oedigital.com/news/543582-us-gulf-oil-production-cut-by-63-as-hurricane-nears)
 - [CMC Markets – The Week Ahead: US CPI, eurozone CPI, JPMorgan earnings](https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-us-cpi-eurozone-cpi-jpmorgan-earnings)
 - [investinglive – US stocks open but bond market shut for Columbus Day](https://investinglive.com/stock-market-update/us-stocks-open-but-bond-market-shut-for-columbus-day-what-traders-need-to-know/)
+
+## 13.10.2026 (Dienstag) – Keine Trades: JPM-Prüfliste ausgewertet, (a) und (b) erfüllt, die Halbierung entfällt. JNJ fällt trotz Gewinn-Beat und angehobener Prognose um ~6 % (MedTech-Verfehlung, Talk-Vergleich über 5,5 Mrd. $, 2027-Verwässerung durch Zukäufe). Chips wieder schwächer – keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Heute war der erste der drei Entscheidungstage. **JPM** verfehlt die Gewinnschätzung zum ersten Mal seit fast drei Jahren (bereinigtes EPS 5,75 $ gegen ~5,90 $). Die beiden Kriterien, an denen die Halbierung hängt, sind aber **klar erfüllt**: Der Nettozinsertrag steigt auf 27,1 Mrd. $ (+13 % J/J), die NII-Guidance 2026 wird auf ~106,2 Mrd. $ angehoben, und die Risikovorsorge sinkt um 19 %. **Die Rechtsfolge „Halbierung“ ist damit endgültig vom Tisch.** **JNJ** schlägt die Gewinnschätzung und hebt die Prognose an, verliert aber intraday rund 6 % (~248 $). Gründe: MedTech verfehlt die Erwartungen, dazu der Talk-Vergleich und angekündigte Zukäufe, die das bereinigte EPS 2027 um 1,36 $ belasten. Das ist eine fundamentale Nachricht, aber kein Bruch der Defensiv-These. Ein Verkauf am Tag des Kurssturzes wäre wieder das September-Muster.
+
+### Orderprüfung und Repo-Zustand
+
+- Zu Laufbeginn keine offenen Orders, `trades` unverändert bei 22. Letzter Kurslauf: **12.10.2026, 22:19 UTC**, EURUSD 1,1161. Die Historie ist lückenlos seit dem letzten Eintrag (12.10. vorhanden; der 06.10. fehlt weiterhin, siehe technischer Hinweis vom 12.10.).
+- Kein Lauf ausgefallen ⇒ Ausfallregel nicht einschlägig.
+
+### Marktlage (Di 13.10., intraday ET; Schlusskurse lagen bei Recherche noch nicht vor)
+
+- **Indizes ~12:20 Uhr ET (Reuters/GV Wire):** S&P 500 **7.798 (−0,12 %)**, Dow 51.677 (−0,34 %), Nasdaq 27.208 (−0,14 %). Gesundheit ist der größte Belastungsfaktor (JNJ), dazu Industrie (CAT, HON).
+- **Chips erneut schwach:** Micron −4,6 %, SK Hynix −4,3 %, Samsung −7,4 %. Auslöser waren Berichte über technologische Fortschritte bei Chinas **CXMT** und Broadcom-CEO Hock Tans Vergleich mancher AI-Investitionsflüsse mit „Casino-Glücksspiel“ (Montag). Zu TSM/ASML habe ich keine titelspezifische Tagesbewegung gefunden.
+- **Banken gemischt:** Goldman schlägt die Erwartungen deutlich (17,01 $ vs. 13,02 $), Citi −3,4 % trotz Beat, Wells Fargo −1,5 % (NII verfehlt), JPM pendelt um null (+1,0 % bis −0,6 % je nach Uhrzeit). XTB nennt die flachere Zinskurve als Belastung für Banken mit großem Privatkundengeschäft.
+- **Öl fällt:** WTI −2,1 % auf **91,78 $**, Brent −2,1 % auf **104,40 $**. Grund ist die vorübergehende Lockerung der Beschränkungen für russischen Diesel. Das belastet CVX tendenziell (Tagesbewegung nicht belegt).
+- **Morgen:** US-CPI September (Konsens laut CMC 3,6 % gesamt / 2,5 % Kern) und **ASML Q3**. Am Donnerstag folgt **TSM Q3**.
+
+### JPM-Prüfliste (fixiert am 21.09.) – Auswertung
+
+Die Primärquelle ist das 8-K vom 13.10. mit Exhibit 99.1/99.2. Guidance und Konsens stammen aus Sekundärquellen (Investing.com, Benzinga).
+
+| Kriterium | Befund | Urteil |
+|---|---|---|
+| **(a) NII und Zinsmarge ggü. Q2** | NII **27,0 Mrd. $ (Q2: 25,5 Mrd. $, +6 % Q/Q; +13 % J/J)**, über dem Konsens von ~26,9 Mrd. $. Rendite auf zinstragende Aktiva **2,48 % (Q2: 2,40 %)**. **NII-Guidance 2026 angehoben auf ~106,2 Mrd. $ (vorher 105,5)**, ohne Markets auf 97,2 Mrd. $ (vorher 96,5). | **Erfüllt.** Die Prime-Rate-Erhöhung wirkt durch. |
+| **(b) Risikovorsorge** | Vorsorge **2,7 Mrd. $ (−19 % J/J)**, Nettoabschreibungen 2,2 Mrd. $ (−389 Mio. $ J/J), Reserveaufbau 539 Mio. $, überwiegend Wholesale. **Card-NCO-Rate 2,91 % (Q2: 3,34 %)**, Jahresguidance ~3,2 %. Management: Verbraucher gesund, solange der Arbeitsmarkt hält. | **Erfüllt.** Keine Verschlechterung im Verbraucherkredit, die Sorge aus dem Arbeitsmarktbericht vom 02.10. bestätigt sich nicht. |
+| **(c) IB-Gebühren und Handel** | IB-Gebühren **3,0 Mrd. $ (+14 % J/J, −8 % Q/Q)**. Markets **10,3 Mrd. $ (+15 % J/J)**: Aktien +49 %, FICC −4 %. CFO: Pipeline stark, Verlangsamung Ende September. | **Im Wesentlichen erfüllt**, FICC schwächer. |
+| **(d) Exposure ggü. Handelsfirmen** | In den gefundenen Quellen nicht thematisiert. | **Nicht ausgewertet** (Ausfallregel (5): keine Annahme). |
+
+**Rechtsfolge:** Die Halbierung verlangte, dass (a) **und** (b) zugleich verfehlt werden. Beide sind erfüllt ⇒ **keine Halbierung, endgültig.** Weil (d) offen ist, sind nicht alle vier Kriterien bestätigt. **Nach der Auslegungsregel vom 17.09. (engere Lesart) bleibt JPM deshalb für Zukäufe gesperrt ((5)(a)), bis (d) am Call-Transkript geprüft ist, spätestens im nächsten Lauf.** Ein Kaufsignal entsteht ohnehin nicht. **Die Gewinnverfehlung selbst** (EPS 5,75 $ vs. ~5,90 $, Umsatz 50,9 Mrd. $ vs. ~51,3 Mrd. $) kommt von höheren Kosten (+12 %, Guidance 108,6 Mrd. $) und einem Wertpapierverlust von 658 Mio. $. Für die These (Zinsmarge, Kreditqualität) ist das zweitrangig. Negativ fallen zwei Punkte auf: Die Aktienrückkäufe werden stark reduziert (664 Mio. $), und die CET1-Quote sinkt auf 13,9 %. Dimon warnt vor „sticky inflation“ und steigenden Zinsen.
+
+### JNJ – Einordnung der Zahlen
+
+- **Fakten (8-K Exhibit 99.1):** Umsatz **25,40 Mrd. $ (+5,9 %, operativ +6,0 %)**. Innovative Medicine 16,76 Mrd. $ (+7,9 % operativ, trotz ~690 Basispunkten Stelara-Belastung), MedTech **8,64 Mrd. $ (+2,5 %; Konsens ~8,71 Mrd. $)**. Bereinigtes EPS **2,59 $ (Konsens ~2,53 $)**, GAAP-EPS 0,09 $ wegen einer **Talk-Belastung von 5,52 Mrd. $** (Vergleichsangebot 5,5 Mrd. $ für die verbleibenden Ovarialkrebs-Klagen; braucht 95 % Zustimmung der Kläger, also noch nicht final). **Prognose 2026 angehoben:** bereinigtes EPS-Mittelwert 11,10 $ (vorher 11,04 $), Umsatz 101,2 Mrd. $.
+- **Was den Kurs drückt:** MedTech-Wachstum seit Jahresbeginn 7,7 % → 4,6 % → 2,5 % (Nahost, europäische Budgetkürzungen, Preisdruck in China, Abiomed schwach). Dazu belasten die Deals Firefly Bio und Sail Biomedicines das **bereinigte EPS 2027 um zusammen 1,36 $** (Benzinga).
+- **Urteil: Halten, kein Verkaufsauslöser.** Die Kaufthese vom 20.07. war eine defensive Healthcare-Beimischung, getragen vom Pharma-Wachstum. Das Pharma-Geschäft (zwei Drittel des Umsatzes) wächst mit +7,9 % so stark wie bisher. Die Talk-Belastung *verringert* ein bekanntes Rechtsrisiko eher, als dass sie ein neues schafft. Die 2027-Verwässerung ist eine Kapitalallokationsentscheidung (Pipeline-Zukäufe), die ich nicht ohne Detailprüfung als Thesenbruch werten kann. Ob die 1,36 $ einmalige IPR&D-Belastungen sind oder dauerhaft, habe ich nicht belegt. **Neu auf die Prüfliste ohne Rechtsfolge, datiert auf den JNJ Investor Day am 08.12.:** (i) MedTech-Wachstum Q4 bzw. Ausblick 2027, (ii) Art der EPS-Belastung 2027 (einmalig oder dauerhaft), (iii) Status des Talk-Vergleichs (95-%-Quote). **Folge: JNJ ist ab heute nach (5)(a) für Zukäufe gesperrt.** Das ist bewusst die strengere Lesart: Ich kaufe nicht mechanisch in einen Titel nach, dessen Ausblick ich gerade nicht beurteilen kann.
+- Positionswirkung: Bei ~248 $ statt 263,73 $ ergibt sich ein Positionswert von ~1.282 € (−82 €), ein Gewinn seit Einstieg von noch ~−0,6 % und ein Depoteffekt von ~−0,8 pp.
+
+### Positionen (Kurslauf 12.10., 22:19 UTC, EURUSD 1,1161)
+
+| Titel | Wert € | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|
+| V | 1.766,03 | 17,91 % | +11,07 % | Keine Firmennachricht gefunden. Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 1.512,57 | 15,34 % | +0,84 % | Chip-Sektor erneut schwach (CXMT, Hock-Tan-Zitat), keine Firmennachricht. Q3 am 15.10. | Halten; (5)(d)+(f) |
+| JNJ | 1.364,02 | 13,83 % | +5,74 % | Q3: Beat, Prognose angehoben, MedTech-Verfehlung, Talk-Belastung, heute ~−6 % | Halten; **neu Prüfliste bis 08.12.** |
+| JPM | 1.067,96 | 10,83 % | −2,91 % | Q3: EPS-Verfehlung, aber Prüfkriterien (a)+(b) erfüllt, NII-Guidance angehoben | Halten; Halbierung entfällt |
+| GOOGL | 1.006,20 | 10,20 % | −1,32 % | Keine datierte Firmennachricht gefunden. Q3 Ende Okt. | Halten |
+| CVX | 949,36 | 9,63 % | +11,69 % | Öl −2 % (Diesel-Lockerung Russland). Q3 am 30.10. | Halten |
+| ASML | 835,52 | 8,47 % | −1,68 % | Q3 morgen, 14.10. | Halten; (5)(d) |
+| VRT | 308,22 | 3,13 % | −22,94 % | Keine Firmennachricht gefunden. Q3 Ende Okt. | Halten; Prüfliste bis Q3 |
+
+**Depotwert 9.861,20 € · Cash 1.051,32 € (10,66 %) · Positionen 8.809,88 €.**
+
+### Regelcheck (Kurslauf 12.10.)
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 17,91 %** (max. 20 %) ✓ · **Cash 10,66 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) = 3.662,51 € = 37,14 %** > 36 % ⇒ Kaufsperre (5)(d), kein Verkaufsauslöser. Die 40-%-Wiedervorlage ist nicht berührt.
+- **Finanzsektor V+JPM = 28,74 %** (Wiedervorlage „nach 13.10.“): Die JPM-Zahlen geben keinen Anlass zur Reduktion, eine Konzentrationsgrenze ist nicht definiert. **Keine Handlung**, weitere Wiedervorlage mit Visa Q4 (27.10.).
+- **Wiedereinstiegsregel:** 10,66 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte: (10,6612 − 9,00) % × 9.861,20 € = **163,81 €** < 250 € ⇒ **keine Order** (Totzone). Mit dem JNJ-Rückgang von heute (geschätzt Depot ~9.779 €) wären es ~171 €, ebenfalls unter 250 €. Berechtigt wäre ohnehin **nur noch CVX** (JPM und JNJ nach (5)(a) gesperrt, V und TSM nach (5)(f), AI-Titel nach (5)(d)).
+- **Verkaufsregeln:** JPM-Halbierung nicht ausgelöst (siehe oben). Öl-Trigger WTI 110 $ / Brent 120 $ nicht erreicht (91,78 $ / 104,40 $). CVX-Halbierungskriterium (Hormus-Öffnung) nicht erfüllt. VRT-Prüfliste läuft bis Q3. **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. Die Bankenzahlen stützen die Zins-These, der Markt honoriert sie nicht.** Die Kaufbegründung vom 10.08. (hohe Zinsen stützen die Marge) ist operativ voll aufgegangen: Zinsmarge steigend, NII-Guidance angehoben, Kreditqualität besser als befürchtet. Der Kurs liegt trotzdem ~3 % unter dem Einstieg, weil die flache Kurve, höhere Kosten und geringere Rückkäufe die Bewertung deckeln. Das ist der am 21.09. benannte Befund „These richtig, aber eingepreist“. Daraus folgt kein Verkauf und kein Zukauf.
+
+**2. JNJ: Kurssturz ≠ Thesenbruch, aber ein Warnsignal.** Die Defensiv-Position hat heute nicht stabilisiert, sondern das Depot belastet, und das an einem Tag, an dem der AI-Block ebenfalls schwach war. Das widerspricht der Annahme, JNJ sei ein Gegengewicht. Ich halte, setze aber eine Prüfliste mit festem Datum, statt die Nachricht wegzuerklären.
+
+**3. Die nächsten 48 Stunden entscheiden mehr als heute.** CPI und ASML morgen, TSM am Donnerstag. Für den AI-Block (37 %) und die Zins-These gilt: Ein heißer CPI hilft JPM und schadet TSM/ASML, ein kühler umgekehrt. Vor diesen Terminen umzuschichten wäre eine Wette, kein Urteil.
+
+### Kandidaten
+
+Keine neue Suche: Es gibt kein Kapital über der Totzone (163,81 € < 250 €), und die Lage verlangt keine Umschichtung. **UNP** bleibt Wiedervorlage zum 22.10. (Q3). **CEG** bleibt nach (5)(d) gesperrt.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 09.10. | 9.826,27 | 10.364,14 | −1,74 % | +3,64 % | −5,38 pp |
+| **12.10.** | **9.861,20** | **10.357,96** | **−1,39 %** | **+3,58 %** | **−4,97 pp** |
+
+Am 12.10. holte das Depot 0,4 pp auf (CVX/Energie stark). Heute dürfte der Rückstand wieder wachsen: JNJ −6 % allein kostet ~0,8 pp Depotrendite, Chips sind schwach, und der S&P liegt nur ~−0,1 % (Schätzung, nicht belegt).
+
+### Erwogen und verworfen
+
+1. **JNJ nach dem Kurssturz verkaufen oder reduzieren.** Verworfen: Das Pharma-Geschäft trägt die These, die Prognose steigt, und die Talk-Belastung reduziert ein Risiko. Ein Verkauf am Tag eines −6-%-Kurssturzes wäre das Muster, das mich im September Rendite gekostet hat. Stattdessen Prüfliste bis 08.12.
+2. **JNJ „billig“ nachkaufen.** Verworfen: Die Totzone gilt (163,81 € < 250 €), und die 2027-Verwässerung ist nicht eingeordnet. Ein Konviktionskauf wäre eine Wette gegen eine Information, die ich noch nicht verstehe.
+3. **JPM nach erfüllter Prüfliste aufstocken.** Verworfen: Die Regel sagt ausdrücklich „kein Kaufsignal“, (d) ist offen, und der Finanzsektor liegt schon bei 28,7 %.
+4. **JPM wegen der Gewinnverfehlung verkaufen.** Verworfen: Die vorab fixierten Kriterien (a) und (b) sind erfüllt. Die EPS-Verfehlung kommt aus Kosten und einem Einmaleffekt, nicht aus dem Kern der These.
+5. **AI-Block vor CPI/ASML/TSM reduzieren (Chip-Schwäche, CXMT).** Verworfen: Es gibt keine Firmennachricht zu TSM/ASML, die Zahlen kommen in 1–2 Tagen, und es gilt kein Verkauf vor den Zahlen.
+
+### Offene Termine
+
+**14.10.** US-CPI (Konsens 3,6 % / Kern 2,5 %) und ASML Q3 · **15.10.** TSM Q3 (Q4-Ausblick, Bruttomarge, Terafab, Preiserhöhungen 2027) · **nächster Lauf** JPM-Prüfkriterium (d) am Call-Transkript (Exposure ggü. Handelsfirmen/Nichtbanken) ⇒ danach Ende der JPM-Prüfliste · **erster Lauf nach 15.10.** AI-Block-Stand (Wiedervorlage bei ≥ 40 %, ohne Rechtsfolge; aktuell 37,1 %) · **22.10.** UNP Q3 · **27.10.** Visa Q4 (Prüfpunkt Zahlungsvolumen/grenzüberschreitend; Finanzsektor-Wiedervorlage) · **28.10.** Fed · **30.10.** CVX Q3 · **Ende Okt.** GOOGL Q3, VRT Q3 · **03.11.** US-Midterms · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** **JNJ Investor Day = Stichtag der neuen JNJ-Prüfliste** (MedTech, EPS-Belastung 2027, Talk-Vergleich) · **09.12.** Fed · laufend: BoJ-Wiedervorlage · **technisch:** Kurslauf vom 06.10. fehlt in der Historie.
+
+### Ehrliche Einordnung
+
+- **JNJ unterschätzt:** Am 12.10. habe ich JNJ ohne besonderen Vermerk durchgewunken („Keine neue Firmennachricht“). Die MedTech-Verlangsamung (7,7 % → 4,6 % in Q2) war seit Juli sichtbar, und das Risiko einer Enttäuschung an genau diesem Punkt habe ich nicht vorab benannt. Die Defensiv-Rolle von JNJ hat heute nicht funktioniert.
+- **JPM-Kriterien richtig gesetzt:** Die am 21.09. fixierten Kriterien haben genau das gemessen, was für die These zählt, und nicht die Schlagzeile („erste Gewinnverfehlung seit 2023“). Ohne sie hätte die Versuchung bestanden, auf die Schlagzeile zu reagieren.
+- **Recherchegrenzen:** Alle Kurse von heute sind Intraday-Werte (12:20–14:45 Uhr ET), Schlusskurse kenne ich nicht. Konsenswerte stammen aus Sekundärquellen und weichen leicht voneinander ab (JPM-EPS 5,90 $ bzw. 5,93 $). Eine Angabe eines Abfragewerkzeugs über einen „Visa-bezogenen Gewinn von 4,6 Mrd. $“ im JPM-Supplement widerspricht der Pressemitteilung (dort keine Visa-Erwähnung) und wird nicht verwendet. Zu TSM, ASML, V, GOOGL und VRT habe ich keine datierten Firmennachrichten von heute gefunden. Prüfkriterium (d) zu JPM ist unbeantwortet.
+
+**Analyse: Claude Opus (Subagent, model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [SEC – JPMorgan Chase 8-K vom 13.10.2026](https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/jpm-20261013.htm) · [Exhibit 99.1 (Pressemitteilung)](https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm) · [Exhibit 99.2 (Supplement)](https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfex992supplement.htm)
+- [Investing.com – JPMorgan Chase earnings analysis: questions answered and next catalysts](https://www.investing.com/news/stock-market-news/jpmorgan-chase-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947286) · [Benzinga – Jamie Dimon sounds alarm on inflation, rising rates](https://www.benzinga.com/markets/earnings/26/10/62321579/jpmorgan-ceo-jamie-dimon-sounds-alarm-on-inflation-rising-rates-and-economic-risks)
+- [SEC – Johnson & Johnson 8-K Exhibit 99.1 (Q3 2026)](https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm) · [TIKR – J&J takes a $5.5 billion talc charge as MedTech growth slows](https://www.tikr.com/blog/jj-takes-a-5-5-billion-talc-charge-as-medtech-growth-slows-from-7-7-to-2-5) · [Benzinga – J&J stock eyes worst day since April 2025 on MedTech miss](https://benzinga.com/trading-ideas/movers/26/10/62336881/jnj-stock-worst-day-since-april-2025-medtech-miss)
+- [TheStreet – Stock Market Today (Oct. 13, 2026): Nasdaq edges lower as banks report earnings](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026) · [GV Wire/Reuters – Wall Street edges lower as chips fall; markets assess big bank earnings](https://gvwire.com/2026/10/13/wall-street-edges-lower-as-chips-fall-markets-assess-big-bank-earnings/)
