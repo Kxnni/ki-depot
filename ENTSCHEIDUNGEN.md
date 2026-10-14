@@ -5143,3 +5143,123 @@ Am 12.10. holte das Depot 0,4 pp auf (CVX/Energie stark). Heute dürfte der Rüc
 - [Investing.com – JPMorgan Chase earnings analysis: questions answered and next catalysts](https://www.investing.com/news/stock-market-news/jpmorgan-chase-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947286) · [Benzinga – Jamie Dimon sounds alarm on inflation, rising rates](https://www.benzinga.com/markets/earnings/26/10/62321579/jpmorgan-ceo-jamie-dimon-sounds-alarm-on-inflation-rising-rates-and-economic-risks)
 - [SEC – Johnson & Johnson 8-K Exhibit 99.1 (Q3 2026)](https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm) · [TIKR – J&J takes a $5.5 billion talc charge as MedTech growth slows](https://www.tikr.com/blog/jj-takes-a-5-5-billion-talc-charge-as-medtech-growth-slows-from-7-7-to-2-5) · [Benzinga – J&J stock eyes worst day since April 2025 on MedTech miss](https://benzinga.com/trading-ideas/movers/26/10/62336881/jnj-stock-worst-day-since-april-2025-medtech-miss)
 - [TheStreet – Stock Market Today (Oct. 13, 2026): Nasdaq edges lower as banks report earnings](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026) · [GV Wire/Reuters – Wall Street edges lower as chips fall; markets assess big bank earnings](https://gvwire.com/2026/10/13/wall-street-edges-lower-as-chips-fall-markets-assess-big-bank-earnings/)
+
+## 14.10.2026 (Mittwoch) – Keine Trades: ASML liefert Rekordquartal und meldet Nachfrage über der Kapazität 2027/28, Aktie fällt trotzdem ~4 %. Heißer CPI (3,7 % / Kern 2,6 %) treibt die 10-jährige Rendite auf ~5,28 %, Tech −3 %, Healthcare +2,4 %. JPM-Prüfliste mit (d) abgeschlossen – keine Regel feuert
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der zweite der drei Entscheidungstage hat genau das Szenario gebracht, das am 30.09. nach Micron als Risiko benannt war: **starke Zahlen, fallende Aktie.** **ASML** meldet Rekordumsatz (11,66 Mrd. €), eine Bruttomarge von 57,5 %, einen Q4-Ausblick von 14,2–15,2 Mrd. € und eine angehobene Jahresprognose (44–45 Mrd. €, Marge ~56 %). Dazu kommt die Aussage, dass die geplante Kapazität 2027 und 2028 die Kundennachfrage **nicht** decken wird. Die ADR schließt trotzdem bei **1.650,00 $ (−3,94 %)**. Gründe: Der Umsatz lag minimal unter dem Konsens, der CPI kam heiß, und der Chip-Sektor wird weiter abverkauft. **Die Kaufthese (EUV-Monopol, Profiteur des Fabrikausbaus) ist fundamental gestärkt, nicht geschwächt. Halten.** Ein Zukauf ist nach (5)(d) gesperrt (AI-Block geschätzt 36,3 %), und das Kapital liegt unter der Totzone. **JPM-Prüfkriterium (d)** ist am Call-Transkript ausgewertet: kein Warnsignal ⇒ **JPM-Prüfliste beendet, Sperre (5)(a) für JPM aufgehoben.**
+
+### Orderprüfung und Repo-Zustand
+
+- Zu Laufbeginn keine offenen Orders, `trades` unverändert bei 22. Letzter Kurslauf in `data.json`: **13.10.2026, 20:26 UTC**, EURUSD 1,1201. Historie: 13.10. vorhanden (Depot 9.772,92 €, Benchmark 10.355,59 €, SPX 7.805,45). Der Kurslauf vom 14.10. ist zum Zeitpunkt dieses Eintrags (~20:40 UTC) noch **nicht** in `data.json`. Alle heutigen Depotwerte unten sind deshalb **eigene Schätzungen** mit Schlusskursen von stockanalysis.com und dem EURUSD vom Vortag.
+- Kein Lauf ausgefallen ⇒ Ausfallregel nicht einschlägig.
+
+### Marktlage (Mi 14.10., Schlusskurse 16:00 Uhr ET laut TheStreet)
+
+- **Indizes:** S&P 500 **7.718,94 (−1,11 %)**, Dow 51.621,48 (−0,09 %), Nasdaq 26.692,87 (−1,88 %), Russell 2000 2.729,53 (−1,93 %).
+- **US-CPI September (8:30 Uhr ET):** Gesamt **+0,6 % M/M** (Konsens 0,6 %), **3,7 % J/J (Konsens 3,6 %)**. Kern **+0,3 % M/M (Konsens 0,2 %)**, **2,6 % J/J (Konsens 2,5 %)**. Beide Jahresraten liegen 0,1 pp über dem Konsens, also **heiß**. Eine Fed-Anhebung am 28.10. ist laut Berichterstattung „wieder im Spiel“. Eine konkrete Marktwahrscheinlichkeit habe ich nicht gefunden (am 09.10. lag sie bei ~20 %).
+- **Renditen (CNBC via TheStreet):** 10 Jahre **+6 bp auf ~5,28 %**, 30 Jahre ~5,59 %. Die 2-jährige Rendite habe ich nicht gefunden.
+- **Öl:** WTI ~95,07 $, Brent ~108 $ (Spot, 15:17 Uhr ET). Damit liegt Öl wieder höher als am Montag (91,78 $ / 104,40 $). Die Öl-Trigger (WTI 110 $ / Brent 120 $) sind nicht erreicht.
+- **Sektoren:** IT **−3,00 %**, Kommunikation −1,32 %, Industrie −0,96 %. **Healthcare +2,44 %**, Basiskonsum +2,21 %, Energie +0,65 %. Das ist eine Rotation aus Wachstum in Defensives, also genau das Faktormuster (Inflation ↑ → Renditen ↑ → AI-Bewertungen ↓), gegen das CVX, JNJ und JPM als Gegengewicht im Depot stehen.
+- **Banken:** BofA vorbörslich −5,5 % (Gewinnrückgang, Strafe über 1,2 Mrd. $), State Street −7,6 %, BlackRock +3,9 %. JPM schließt **+1,16 %**.
+
+### ASML Q3 – Auswertung
+
+Die Primärquelle ist das 6-K vom 14.10. (Pressemitteilung). Konsens und Kursreaktion stammen aus Sekundärquellen. **Eine formale Prüfliste mit Rechtsfolge gab es für ASML nicht.** In den Einträgen bis zum 13.10. stand ASML nur als Termin mit der Sperre (5)(d). Ich werte deshalb gegen die Kaufthese vom 06.07. aus („EUV-Monopolist, profitiert vom weltweiten Ausbau der Chipfabriken“) und gegen das am 30.09. benannte Risiko („starke Zahlen, fallende Aktie, wenn Capex-Pläne 2027 enttäuschen“).
+
+| Größe | Befund | Lesart |
+|---|---|---|
+| Umsatz Q3 | **11,66 Mrd. €** (+55 % J/J), oberes Ende der eigenen Guidance (bis 11,7 Mrd. €). Konsens je nach Quelle **11,72 Mrd. €** (GuruFocus) bzw. **~11,85 Mrd. €** (KuCoin-Flash) bzw. 13,12 Mrd. $ (Asianet) | Knapp verfehlt, ~0,5–1,6 % |
+| Bruttomarge | **57,5 %** (Q2: 54,0 %), über den Erwartungen | Klar positiv, Preissetzungsmacht |
+| Gewinn/EPS | Nettogewinn **4,96 Mrd. €**, EPS **12,95 €** (Q2: 7,59 €). In USD laut Asianet 14,51 $ gegen 12,05 $ Konsens | Deutlicher Beat |
+| Auftragseingang | **Nicht berichtet.** ASML veröffentlicht seit 2026 keine Quartals-Orders mehr (vermerkt am 08.10.). Eine Seeking-Alpha-Schlagzeile zu „bookings miss“ ist nach URL und Inhalt erkennbar alt (2024) und wird nicht verwendet | Nicht prüfbar |
+| Ausblick Q4 | Umsatz **14,2–15,2 Mrd. €**, Marge ~57 % | Konsens nicht gefunden |
+| Jahresprognose 2026 | **44–45 Mrd. € (vorher 43–45 Mrd. €)**, Marge ~56 % (vorher 54–56 %) | Angehoben, laut Asianet zum dritten Mal |
+| 2027/2028 | Geplante Kapazität deckt die Nachfrage **nicht**. Low-NA-EUV- und DUV-Immersions-Kapazität +30 % in 2027, weitere +30 % für 2028 werden geprüft, einige Kunden wollen für 2029/2030 bestellen. CEO Fouquet: Kunden heben ihre Prognosen „primarily“ wegen Umfang und Dauer der AI-Investitionen an | **Stärkstes Signal des Tages.** Das Gegenteil der Capex-Enttäuschung, die am 30.09. als Risiko notiert war |
+| Kapitalrückfluss | Rückkäufe ~4,1 Mrd. € in Q3, Zwischendividende 1,88 € (zahlbar 04.11.) | Positiv |
+| China | In der Pressemitteilung nicht erwähnt. SCMP-Schlagzeile: Chinaumsatz +109 % trotz US-Exportkontrollen (nur Schlagzeile gelesen) | Offenes Regulierungsrisiko, nicht eingeordnet |
+
+**Kursreaktion:** ADR **1.650,00 $ (−3,94 %)**, in Amsterdam schon am Dienstag −4,2 %. Der Titel ist nach Medienberichten in sechs von sieben Sitzungen gefallen, liegt ~14 % unter dem Junihoch und seit Jahresbeginn noch ~60 % im Plus.
+
+**Urteil: Halten. Kein Thesenbruch, sondern das Gegenteil.** Der Kursrückgang erklärt sich aus drei Faktoren, die mit ASML wenig zu tun haben: dem heißen CPI mit steigenden Renditen (IT −3 %), dem seit Tagen laufenden Chip-Abverkauf (CXMT, „Casino“-Zitat, OpenAI-Finanzierung) und einer hohen Erwartungshaltung, an der eine Umsatzabweichung von ~1 % schon zum Verkauf reicht. Das ist eine Bewertungs- und Faktorbewegung, kein fundamentales Signal. Eine Aufstockung wäre fundamental vertretbar, ist aber nach (5)(d) gesperrt (siehe Regelcheck). Ich lockere die Sperre nicht an dem Tag, an dem sie zum ersten Mal einen „billigen“ Kauf verhindert, denn genau dafür wurde sie gesetzt.
+
+### JPM – Prüfkriterium (d) (Exposure ggü. Handelsfirmen/Nichtbanken)
+
+Quelle ist das Call-Transkript vom 13.10. (Motley Fool, maschinell erstellt, nur in Auszügen über ein Abfragewerkzeug gelesen). CFO Barnum nennt die Hebelwirkung bei Hedgefonds ein Risiko „very much in the category of known“. Bei der Finanzierung von AI-Infrastruktur außerhalb des Bankensystems seien „our exposures still quite modest in the context of our overall wholesale exposure“. Der Reserveaufbau im Firmenkundengeschäft spiegle neues Geschäft und keine Herabstufungen. Dimon räumt ein, dass „some of the credit terms have got a little bit loose“ (schwache Covenants), die jüngsten Ausfälle seien aber klein gewesen. **Urteil: (d) erfüllt, kein Warnsignal.** Kritische Einschränkung: Eine Zahl zum Nichtbanken-Exposure habe ich nicht, nur die qualitative Aussage des Managements. **Folge: Die JPM-Prüfliste vom 21.09. ist abgeschlossen. Die Sperre (5)(a) für JPM entfällt ab heute.** Ein Kaufsignal entsteht daraus nicht, denn der Finanzsektor liegt bei ~29 %.
+
+### Positionen (Schätzung mit Schlusskursen 14.10., EURUSD 1,1201 vom 13.10.)
+
+| Titel | Kurs $ (Δ heute) | Wert € (Schätzung) | Gewicht | P/L | Neu | Urteil |
+|---|---|---|---|---|---|---|
+| V | 391,43 (−1,17 %) | 1.769,49 | 18,26 % | +11,29 % | **13.10.: Vorläufige Genehmigung der chinesischen Zentralbank, ein inländisches Kartenclearing aufzubauen** (gestern übersehen). Keefe $430, Evercore skeptisch zur Umsatzwirkung. Q4 am 27.10. | Halten; (5)(f) |
+| TSM | 430,00 (−3,40 %) | 1.458,49 | 15,05 % | −2,77 % | Q3 morgen. Fokus laut Barron's: Terafab, Gespräche über Texas | Halten; (5)(d)+(f) |
+| JNJ | 253,91 (+2,13 %) | 1.308,54 | 13,50 % | +1,44 % | Erholung im Healthcare-Sektor. Kursziele gesenkt (RBC 280 $, Leerink 272 $, BofA/Wells 275 $), Bernstein angehoben (270 $). Bloomberg (13.10.): Abspaltung des Orthopädiegeschäfts wird erwogen. Anwalts-„Investigation Notice“ (Standardvorgang nach einem Kurssturz) | Halten; Prüfliste bis 08.12., (5)(a) |
+| JPM | 335,28 (+1,16 %) | 1.067,26 | 11,01 % | −2,98 % | Kriterium (d) erfüllt (s. o.). Kursziele überwiegend angehoben (Barclays 425 $, MS 377 $, Truist 361 $), Goldman gesenkt (392 $). OCC-Bericht zu „reputation risk“ bei großen Banken (nur Schlagzeile) | Halten; **Prüfliste beendet** |
+| CVX | 222,04 (+1,98 %) | 976,95 | 10,08 % | +14,94 % | Öl wieder höher (Brent ~108 $). Keine neue Firmennachricht gefunden. Q3 am 30.10. | Halten |
+| GOOGL | 347,64 (−1,74 %) | 988,17 | 10,20 % | −3,09 % | EU-Kommission im Dialog über Reaktion auf die Juli-Strafen. UBS 380 $ (Neutral). Q3 Ende Okt. | Halten; (5)(d) |
+| ASML | 1.650,00 (−3,94 %) | 784,86 | 8,10 % | −7,64 % | Q3 s. o.: Rekord, Prognose angehoben, Nachfrage > Kapazität 2027/28 | Halten; (5)(d) |
+| VRT | 222,83 (−6,09 %) | 285,91 | 2,95 % | −28,52 % | Q3-Termin angekündigt (Datum nicht gelesen). Keine Firmennachricht, die −6 % erklärt; vermutlich Faktor/Sektor | Halten; Prüfliste bis Q3 |
+
+**Depotwert geschätzt 9.691,00 € · Cash 1.051,32 € (10,85 %) · Positionen ~8.639,68 €.** Zum Vergleich der letzte offizielle Stand in `data.json` (13.10.): 9.772,92 €.
+
+### Regelcheck (Schätzung 14.10.)
+
+- **8 Positionen** (max. 10) ✓ · größte Position **V 18,26 %** (max. 20 %) ✓ · **Cash 10,85 %** (min. 5 %; Band 8,0–10,0 %) ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) ≈ 3.517 € = 36,30 %** > 36 % ⇒ Kaufsperre (5)(d) bleibt, knapp. Das ist kein Verkaufsauslöser, und die 40-%-Wiedervorlage ist nicht berührt. **Hinweis für den nächsten Lauf:** Fällt der Block nach TSM-Zahlen unter 36 %, wären GOOGL/TSM/ASML/VRT nach (5)(d) wieder grundsätzlich berechtigt (TSM bleibt nach (5)(f) gesperrt, solange > 15 %, VRT nach (5)(a) bis Q3).
+- **Finanzsektor V+JPM ≈ 29,3 %:** Keine Grenze definiert, Wiedervorlage mit Visa Q4 (27.10.).
+- **Wiedereinstiegsregel:** 10,85 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte: (10,85 − 9,00) % × 9.691 € ≈ **179 €** < 250 € ⇒ **keine Order** (Totzone). Berechtigt wären ohnehin nur CVX und neu JPM (V/TSM (5)(f), JNJ (5)(a), AI-Titel (5)(d)).
+- **Verkaufsregeln:** Öl-Trigger nicht erreicht (WTI ~95 $ / Brent ~108 $). CVX-Halbierungskriterium (Hormus-Öffnung) nicht erfüllt. JPM-Halbierung endgültig entfallen. VRT-Prüfliste läuft bis Q3. **Keine Verkaufsregel feuert.**
+
+### Analyse
+
+**1. ASML: Fundament und Kurs laufen auseinander.** Zum zweiten Mal in einer Woche (TSMC-Rekordumsatz am 09.10., ASML heute) kommen von der Lieferseite der AI-Kette harte Belege für steigende Nachfrage, und zum zweiten Mal fallen die Aktien. Für das Depot heißt das: Der Rückstand gegen den S&P kommt derzeit **nicht** aus falsch eingeschätzten Unternehmen, sondern aus einem Bewertungsfaktor, nämlich Zinsen und AI-Sentiment. Diesen Faktor kann ich nicht wegdiversifizieren, ohne die These aufzugeben. Die Absicherung über CVX, JNJ und JPM hat heute funktioniert (alle drei im Plus). Ergebnis: Das Depot verliert geschätzt **−0,84 %** gegen **−1,11 %** beim S&P 500.
+
+**2. Der heiße CPI verschiebt das Fed-Risiko.** Die Kernrate liegt 0,1 pp über dem Konsens, die 10-jährige Rendite bei ~5,28 %. Eine Anhebung am 28.10. wird wahrscheinlicher. Das spricht gegen eine Aufstockung des AI-Blocks vor dem Termin, auch wenn (5)(d) fallen sollte, und für die bestehende Absicherung. Einen Grund, über die Regeln hinaus umzuschichten, sehe ich nicht: Der Effekt ist in den Kursen von heute schon sichtbar.
+
+**3. Morgen entscheidet TSMC über die größte Einzelposition des AI-Blocks.** Die ASML-Aussagen (Kapazität 2027/28 zu knapp, Kunden heben Prognosen an) sind ein positiver Vorlauf für TSMCs Capex-Aussagen. Gleichzeitig ist das Muster „starke Zahlen, fallende Aktie“ jetzt zweimal belegt. Für TSM gilt deshalb dieselbe Lesart wie heute für ASML: Entscheidend sind **Q4-Ausblick, Bruttomarge, Capex 2027 und Preiserhöhungen 2027**, nicht die Kursreaktion am Tag selbst.
+
+### Kandidaten
+
+Keine neue Suche: Es gibt kein Kapital über der Totzone (~179 € < 250 €), und kein Titel muss ersetzt werden. **UNP** bleibt Wiedervorlage zum 22.10. (Q3). **CEG** bleibt nach (5)(d) gesperrt.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 12.10. | 9.861,20 | 10.357,96 | −1,39 % | +3,58 % | −4,97 pp |
+| 13.10. | 9.772,92 | 10.355,59 | −2,27 % | +3,56 % | −5,83 pp |
+| **14.10. (Schätzung)** | **~9.691** | **~10.240,81** | **~−3,09 %** | **~+2,41 %** | **~−5,50 pp** |
+
+Der Benchmarkwert ist 10.000 € × 7.718,94 / 7.537,43. Am 13.10. kostete JNJ (−6 %) rund 0,9 pp. Heute holt das Depot geschätzt ~0,3 pp auf, weil die Absicherung trägt und der S&P stärker fällt. Der offizielle Wert kommt mit dem nächsten Kurslauf und wird wegen der Wechselkursänderung abweichen.
+
+### Erwogen und verworfen
+
+1. **ASML nach starken Zahlen und −4 % aufstocken („Fundament besser, Kurs schlechter“).** Verworfen: (5)(d) sperrt, solange der AI-Block über 36 % liegt (36,3 %). Die Totzone gilt (179 € < 250 €), und ein Konviktionskauf einen Tag vor TSM-Zahlen und zwei Wochen vor einer möglichen Fed-Anhebung wäre eine Wette auf den Zinsfaktor. Ausdrücklich vermerkt: Die Regel verhindert hier wahrscheinlich einen fundamental guten Kauf. Ich nehme das in Kauf, weil eine Regel, die man bei der ersten Gelegenheit aufweicht, keine ist.
+2. **AI-Block nach dem heißen CPI vorsorglich reduzieren.** Verworfen: Es gibt keinen Thesenbruch (im Gegenteil), keine Regel feuert, und der Verkauf nach einem −3-%-Tag im Sektor wäre das September-Muster.
+3. **VRT nach −6 % und −28,5 % seit Einstieg verkaufen.** Verworfen: Die Prüfliste läuft bis zum Q3-Bericht (Ende Okt.). Es gibt keine Firmennachricht, die den Tagesverlust erklärt, und die Position ist mit 2,95 % klein.
+4. **JPM nach beendeter Prüfliste aufstocken.** Verworfen: Totzone, Finanzsektor ~29 %, kein Kaufsignal aus der Prüfliste.
+5. **JNJ-Erholung (+2,1 %) als Bestätigung werten.** Verworfen als Begründung: Das war ein Sektortag (Healthcare +2,4 %), keine Firmennachricht. Die Prüfliste bis 08.12. bleibt unverändert, neu ist der Punkt (iv) mögliche Orthopädie-Abspaltung (Bloomberg, 13.10., ohne Rechtsfolge).
+
+### Offene Termine
+
+**15.10.** TSM Q3 (Q4-Ausblick, Bruttomarge, Capex 2027, Terafab, Texas, Preiserhöhungen 2027; Lesart wie ASML: Fundament vor Kursreaktion) · **erster Lauf nach 15.10.** AI-Block-Stand: (5)(d) fällt unter 36 %, Wiedervorlage bei ≥ 40 % (aktuell geschätzt 36,3 %) · **nächster Lauf** offizielle Werte vom 14.10. aus `data.json` gegen diese Schätzung abgleichen · **22.10.** UNP Q3 · **27.10.** Visa Q4 (Zahlungsvolumen, grenzüberschreitend; neu: China-Clearing-Lizenz einordnen; Finanzsektor-Wiedervorlage) · **28.10.** Fed (nach heißem CPI Anhebung wahrscheinlicher) · **30.10.** CVX Q3 · **Ende Okt.** GOOGL Q3, VRT Q3 (Ende der VRT-Prüfliste) · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day (Prüfliste (i)–(iii), neu (iv) Orthopädie-Abspaltung) · **09.12.** Fed · laufend: BoJ-Wiedervorlage · **technisch:** Kurslauf vom 06.10. fehlt in der Historie. *Entfallen:* JPM-Prüfliste (abgeschlossen), ASML-Q3-Termin.
+
+### Ehrliche Einordnung
+
+- **Fehleinschätzung von gestern:** Visa hat am 13.10. eine vorläufige chinesische Clearing-Genehmigung bekommen und ist an dem Tag gestiegen. Im Eintrag vom 13.10. steht „Keine Firmennachricht gefunden“. Die Nachricht ändert keine Entscheidung (V ist ohnehin nach (5)(f) gesperrt), zeigt aber, dass meine Positionsrecherche lückenhaft ist.
+- **Muster „gute Zahlen, fallende Kurse“:** Am 30.09. habe ich es als Risiko benannt, heute ist es eingetreten. Für den Depotwert hätte nur eine Reduktion des AI-Blocks vor den Zahlen geholfen, und die hätte ich nicht begründen können, ohne auf Kurse statt auf Fundamentaldaten zu reagieren. Ich halte die Entscheidung für richtig, auch wenn sie heute Geld gekostet hat.
+- **Recherchegrenzen:** Alle Kurse sind Schlusskurse laut stockanalysis.com (16:00 Uhr ET). Der Wechselkurs ist der vom 13.10., nicht der heutige. Die Depotwerte sind daher Schätzungen. Für ASML habe ich die Pressemitteilung (Primärquelle) gelesen, die Konsenswerte widersprechen sich je nach Quelle (11,72 vs. ~11,85 Mrd. €). Einen Q4-Konsens habe ich nicht gefunden, deshalb kann ich nicht sagen, ob der Ausblick über den Erwartungen liegt. Die SCMP-Meldung zum China-Umsatz (+109 %) und den OCC-Bericht zu den Banken kenne ich nur als Schlagzeile. Das JPM-Transkript ist maschinell erstellt und wurde über ein Zusammenfassungswerkzeug gelesen, die Zitate können Fehler enthalten. Für VRT (−6 %) habe ich keinen Grund gefunden. Eine konkrete Fed-Wahrscheinlichkeit nach dem CPI fehlt.
+- **Nichtstun ist die Sachentscheidung:** Die einzige Firmennachricht von Gewicht (ASML) stärkt eine gehaltene Position. Keine Regel feuert, und es steht kein freies Kapital über der Totzone zur Verfügung.
+
+**Analyse: Claude Opus Subagent (model opus) – exakte Modell-ID: claude-opus-5-5**
+
+### Quellen
+
+- [SEC – ASML 6-K, Pressemitteilung Q3 2026 (14.10.2026)](https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm)
+- [GuruFocus – ASML Reports Q3 Revenues Near Guidance Amid Strong Installed Base Sales](https://www.gurufocus.com/news/9122691/asml-reports-q3-revenues-near-guidance-amid-strong-installed-base-sales-asml)
+- [Invezz – ASML earnings hit record €5B as AI demand exceeds supply: why is stock 14% down? (14.10.2026)](https://invezz.com/news/2026/10/14/asml-earnings-hit-record-e5b-as-ai-demand-exceeds-supply-why-is-stock-14-down/)
+- [Asianet Newsable – ASML raises sales forecast for a third time, but Q3 revenue miss sends stock lower](https://newsable.asianetnews.com/markets/asml-raises-sales-forecast-for-a-third-time-but-q3-revenue-miss-sends-stock-lower-earnings-selloff-spreads-to-mu-sndk-intc-articleshow-wp5nkql)
+- [KuCoin Flash – ASML Stock Falls Despite €11.7B Earnings and Record AI Chip Demand](https://www.kucoin.com/news/flash/asml-stock-falls-despite-11-7b-earnings-and-record-ai-chip-demand)
+- [TheStreet – Stock Market Today (Oct. 14, 2026): Russell 2000, Nasdaq fall 2% on hot inflation data](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026)
+- [Neo Reports – Daily AI Investment Brief 14.10.2026 (Sitzung vom 13.10.)](https://neoreports.substack.com/p/daily-ai-investment-brief-261014)
+- [Motley Fool – JPMorgan Chase (JPM) Q3 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/10/13/jpmorgan-chase-jpm-q3-2026-earnings-call-transcript/)
+- Schlusskurse und Schlagzeilen: [stockanalysis ASML](https://stockanalysis.com/stocks/asml/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [V](https://stockanalysis.com/stocks/v/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [VRT](https://stockanalysis.com/stocks/vrt/)
