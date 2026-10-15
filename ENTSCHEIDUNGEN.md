@@ -5263,3 +5263,106 @@ Der Benchmarkwert ist 10.000 € × 7.718,94 / 7.537,43. Am 13.10. kostete JNJ (
 - [Neo Reports – Daily AI Investment Brief 14.10.2026 (Sitzung vom 13.10.)](https://neoreports.substack.com/p/daily-ai-investment-brief-261014)
 - [Motley Fool – JPMorgan Chase (JPM) Q3 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/10/13/jpmorgan-chase-jpm-q3-2026-earnings-call-transcript/)
 - Schlusskurse und Schlagzeilen: [stockanalysis ASML](https://stockanalysis.com/stocks/asml/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [V](https://stockanalysis.com/stocks/v/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+## 15.10.2026 (Donnerstag) – Keine Trades: TSMC liefert das sechste Rekordquartal und einen starken Q4-Ausblick, die Aktie fällt trotzdem, und die Sperren (5)(d)/(f) fallen knapp – aber die Totzone und der Fed-Termin halten mich draußen
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Der dritte der drei Entscheidungstage (JPM/JNJ → ASML → TSM) zeigt zum dritten Mal dasselbe Muster: **Fundament stärker, Kurs schwächer.** Laut Intraday-Schätzung (ca. 11:00–11:15 ET) rutschen der AI-Block (35,8 %) und TSM (14,7 %) unter ihre Sperrgrenzen. Freies Kapital über der Totzone gibt es aber nicht (≈179 € < 250 €), und ein Konviktionskauf zwei Wochen vor einer Fed-Sitzung mit ~50 % Anhebungswahrscheinlichkeit wäre eine Zinswette.
+
+### Marktlage (Intraday, Stand ~11:00 ET)
+
+- **S&P 500 ca. −0,5 %, Nasdaq −1,2 bis −1,6 %, Dow +0,4 %. Equal-Weight (RSP) +0,5 %, Median-Aktie im S&P +1,2 %, 355 von 499 Titeln im Plus.** Das ist ein **konzentrierter AI-Abverkauf und keine breite Liquidation**: NVDA −3,3 %, AMD −5,6 %, AVGO −2,9 %, CoreWeave −8,6 %. Basiskonsum (+2,4 %) und Healthcare führen, Energie liegt geschlossen im Minus.
+- Asien in der Nacht: Kospi −8 %, Samsung −9 %, SK Hynix −11 %, Nikkei −5 %, Taiex −3 %.
+- **Makro:** PPI im September +1,3 % m/m, +6,3 % J/J (höchster Wert seit 2022), Einzelhandel +0,8 %. Nach dem heißen CPI von gestern sieht der Markt die Fed-Anhebung am 28.10. als **„Münzwurf“** (Capital.com, keine eigene FedWatch-Zahl). 10-jährige Rendite laut einer Quelle (ts2.tech) bei ~5,09 % nach 5,32 %. **Diese Zahl ist nicht verifiziert und wirkt bei einem heißen PPI unplausibel. Ich verwende sie nicht.**
+- **Öl/Geopolitik:** WTI ~95 $, Brent ~104–105 $ (−1,3 %). Am „Strait“ wurden zwei Schiffe nach Beschuss versenkt. Iran meldet verstärkte Angriffe als Antwort auf die US-Blockade seiner Häfen, CNN berichtet über US-Angriffsplanungen. Gold 4.171 $.
+
+### TSMC Q3 2026 (Primärquelle: 6-K bei der SEC)
+
+- Umsatz **46,72 Mrd. $** (NT$ 1.494 Mrd.), Bruttomarge **66,4 %** (Q2: 67,7 %), operative Marge 58,7 %, **EPS 4,60 $ je ADR**. Nettogewinn NT$ 763,1 Mrd. (+69 % J/J) gegenüber einem LSEG-Konsens von NT$ 746,3 Mrd. ⇒ **Beat, sechstes Rekordquartal in Folge**.
+- **Q4-Ausblick: 52,3–54,3 Mrd. $** (Mitte ≈ +14 % q/q), Bruttomarge 65–67 %, operative Marge 56,5–58,5 %. Umsatzwachstum 2026 jetzt **„rund 44 %“** (zuvor „über 40 %“). Capex 2026 unverändert 60–64 Mrd. $, Capex 2026–28 „deutlich höher“ als in den drei Jahren davor. HPC-Anteil 68 %, 3nm+2nm machen 41 % des Waferumsatzes aus. Laut Management ist die Nachfrage „extremely robust“, das Angebot bleibt hinter den Kundenwünschen zurück.
+- **Negativ:** Margenrückgang q/q. Der CFO beziffert die Verwässerung durch Auslandsfabs auf ~2 % in diesem Jahr und später auf 3–4 %. C.C. Wei klingt für 2027 vorsichtiger: konservativere Planung wegen höherer Komponentenkosten bei preissensiblen Konsumkunden.
+- **Kurs:** ADR intraday −2,4 % bis −5,2 % je nach Uhrzeit (zuletzt 419,72 $, gestern 430,00 $).
+- **Urteil anhand der am 14.10. festgelegten Lesart (Fundament vor Kursreaktion):** Q4-Ausblick ✓ deutlich stark · Bruttomarge ✓ innerhalb der Spanne, leicht rückläufig · Capex ✓ steigt · Preiserhöhungen 2027 ✗ nicht gefunden · Terafab/Texas ✗ nicht gefunden. **These bestätigt, kein Thesenbruch. Halten.** Die 2027-Vorsicht notiere ich als ersten weichen Gegenpunkt seit Monaten. Sie betrifft nach meinem Lesestand das Konsumgeschäft, nicht HPC/AI.
+
+### Weitere Positionen – Nachrichten
+
+- **V +1,7 %:** BMO hebt das Kursziel auf 425 $. Visa Direct bringt Stablecoin-Zahlungen in den kommerziellen Betrieb. China-Clearing (13.10.) wird von Analysten positiv gewertet. Q4 am 27.10.
+- **JNJ +1,9 %:** Zweiter Erholungstag, Healthcare-Sektor stark. Der CFO „leaning“ zur Abspaltung des Orthopädiegeschäfts, damit wird Prüfpunkt (iv) konkreter. Kursziele überwiegend leicht gesenkt (MS 292 $, RBC 280 $). **Korrektur der Q3-Daten aus früheren Einträgen nicht nötig, aber Quellenhinweis:** stockanalysis nennt bereinigtes EPS 2,59 $ und eine FY26-Guidance von 11,05–11,15 $ (nach Abspaltungs-/Sondereffekten), nicht die 11,60–11,75 $ aus dem Kaufgrund im Juli. Ich habe nicht geprüft, ob das eine Basisänderung ist (z. B. Ortho-Bereinigung) oder eine echte Senkung. **→ Prüfpunkt für den nächsten Lauf.**
+- **JPM −0,3 %:** Citi senkt das Kursziel auf 350 $ (Neutral), Phillip auf 370 $. Bank-CEOs halten AI-Infrastrukturkredite für riskant, sehen aber keine Verlangsamung. Laut stockanalysis lag Q3 beim EPS **unter** dem Konsens (5,57 $ vs. 5,90 $). **Das widerspricht teilweise dem Bild „Rekord/Prüfliste erfüllt“ vom 13.10.** Die Prüfliste bezog sich auf NII-Guidance und Risikovorsorge, nicht auf das EPS. Ich halte das fest, ohne die Entscheidung zu ändern.
+- **CVX −0,5 %:** Morgan Stanley hebt das Kursziel auf 226 $. Brent etwas leichter. Keine Firmennachricht. Q3 am 30.10.
+- **GOOGL +0,8 %:** JPMorgan hebt das Kursziel auf 425 $. Gemini 4 „Argon“ ist für Entwickler gestartet, „Universal Cart“ in den USA. GOOGL hält sich im AI-Abverkauf, das passt zur Rolle als AI-Anwender mit Werbeerlösen. **Q3-Termin laut stockanalysis 28.10.**
+- **ASML −0,9 %:** BofA senkt das Kursziel auf 2.858 $ (Buy), JPM auf 2.350 $ (OW). Das sind Feinjustierungen nach Q3, keine Abstufungen.
+- **VRT −5,7 % (210,20 $), der zweite Tag in Folge mit ~−6 %:** Mizuho senkt das Kursziel auf 280 $ (Outperform). Q3 ist **jetzt fest auf den 28.10. terminiert.** Es gibt keine Firmennachricht, die den Rückgang erklärt, es ist Beta im AI-Abverkauf (CoreWeave −8,6 %). Die Position steht bei −32,6 % seit Einstieg und hat nur 2,8 % Gewicht.
+
+### Positionen (Intraday-Schätzung ~11:00–11:15 ET, EURUSD 1,1201 aus `data.json` vom 13.10.)
+
+| Titel | Kurs $ | Wert € | Gewicht | P/L | Urteil |
+|---|---|---|---|---|---|
+| V | 397,93 | 1.798,87 | 18,57 % | +13,14 % | Halten; (5)(f) |
+| TSM | 419,72 | 1.423,62 | 14,70 % | −5,09 % | Halten; These bestätigt |
+| JNJ | 258,84 | 1.333,95 | 13,77 % | +3,41 % | Halten; Prüfliste bis 08.12. (+ EPS-Basis klären) |
+| JPM | 334,41 | 1.064,49 | 10,99 % | −3,23 % | Halten |
+| GOOGL | 350,30 | 995,73 | 10,28 % | −2,34 % | Halten |
+| CVX | 220,98 | 972,28 | 10,04 % | +14,39 % | Halten |
+| ASML | 1.635,00 | 777,72 | 8,03 % | −8,48 % | Halten |
+| VRT | 210,20 | 269,71 | 2,78 % | −32,57 % | Halten; Prüfliste bis Q3 (28.10.) |
+
+**Depotwert geschätzt 9.687,71 € · Cash 1.051,32 € (10,85 %).** Letzter offizieller Stand in `data.json`: 9.772,92 € (13.10.).
+
+### Regelcheck (Schätzung)
+
+- **8 Positionen** ✓ · größte V **18,57 %** < 20 % ✓ · **Cash 10,85 %** ≥ 5 % ✓
+- **AI-Block (GOOGL+TSM+ASML+VRT) ≈ 35,79 % < 36 %** ⇒ Kaufsperre (5)(d) wäre **knapp aufgehoben**. Der Wert ist eine Intraday-Schätzung und liegt nur 0,2 pp unter der Grenze. Maßgeblich ist der offizielle Kurslauf.
+- **TSM 14,70 % < 15 %** ⇒ (5)(f) wäre für TSM aufgehoben. V bleibt nach (5)(f) gesperrt (18,6 %).
+- **Wiedereinstiegsregel:** 10,85 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,85 − 9,00) % × 9.687,71 € ≈ **179 €** < 250 € ⇒ **keine Order (Totzone).**
+- **Verkaufsregeln:** Keine feuert (Öl-Trigger nicht erreicht, keine Hormus-Öffnung für CVX, VRT-Prüfliste bis 28.10.).
+
+### Analyse
+
+**1. Drei Entscheidungstage, dreimal dasselbe Muster.** JNJ (−6 % trotz Guidance-Anhebung), ASML (−4 % trotz Rekord und angehobener Prognose) und jetzt TSM (−2 bis −5 % trotz Beat und starkem Ausblick). Gemessen an den Firmenzahlen war die Positionsauswahl richtig, der Rückstand kommt aus dem Faktor (Zinsen, AI-Sentiment). Heute hilft die Diversifikation: V, JNJ und GOOGL sind im Plus, der Depotverlust (geschätzt ~−0,0 % gegenüber der Schätzung von gestern, 9.691 → 9.688 €) ist kleiner als beim S&P (~−0,5 %).
+
+**2. Warum ich die gefallenen Sperren nicht sofort nutze.** (a) Die Grenzunterschreitung ist eine Intraday-Schätzung mit 0,2 pp Abstand und kann bis zum Schluss wieder kippen. (b) Es gibt kein freies Kapital über der Totzone. Ein Kauf müsste aus einem Verkauf finanziert werden, und dafür gibt es keinen Grund. (c) Der Fed-Termin am 28.10. gilt als Münzwurf zwischen Halten und Anhebung, und am selben Tag berichten GOOGL und VRT. Ein AI-Zukauf davor wäre genau die Zinswette, die ich am 14.10. ausgeschlossen habe. **Eine Aufstockung des AI-Blocks erwäge ich erst nach dem 28.10. und nur, wenn der offizielle Kurslauf den Block unter 36 % zeigt und die Totzone überschritten ist.**
+
+**3. Die Absicherung arbeitet.** Defensive und Energie (JNJ, V, CVX) stehen bei ~43 % des Depots. Am heutigen Tag mit „AI runter, Breite rauf“ ist genau diese Struktur die richtige.
+
+### Kandidaten
+
+Keine neue Suche (kein Kapital über der Totzone). **UNP** Wiedervorlage 22.10. (Q3). **CEG** wäre mit dem AI-Block unter 36 % nicht mehr nach (5)(d) gesperrt, aber dafür fehlt das Kapital. Notiz: Basiskonsum (Walmart +3,8 %) führt heute, ein Thema für die Kandidatensuche nach Q3, falls ein Positionsplatz frei wird.
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 13.10. (offiziell) | 9.772,92 | 10.355,59 | −2,27 % | +3,56 % | −5,83 pp |
+| 14.10. (Schätzung) | ~9.691 | ~10.240,81 | ~−3,09 % | ~+2,41 % | ~−5,50 pp |
+| **15.10. (Intraday-Schätzung)** | **~9.688** | **~10.190** | **~−3,12 %** | **~+1,90 %** | **~−5,0 pp** |
+
+Benchmark-Schätzung: S&P 7.718,94 × 0,995 ≈ 7.680 ⇒ 10.000 € × 7.680 / 7.537,43.
+
+### Erwogen und verworfen
+
+1. **TSM nach den Zahlen aufstocken (Sperren knapp gefallen).** Verworfen: Totzone (179 € < 250 €), Intraday-Grenzwert nicht offiziell, Fed-Münzwurf am 28.10.
+2. **VRT nach dem zweiten −6-%-Tag verkaufen.** Verworfen: Keine Firmennachricht, die Prüfliste endet mit Q3 am 28.10. (nur 9 Tage), Gewicht 2,8 %. Ein Verkauf jetzt wäre das September-Muster (Verkauf im Sektor-Tief).
+3. **AI-Block vor Fed/Q3-Häufung am 28.10. reduzieren.** Verworfen: Drei von drei Firmenberichten haben die These bestätigt. Keine Regel feuert.
+4. **Gewinne bei CVX (+14 %) oder V (+13 %) mitnehmen.** Verworfen: Kein Auslöser, beide Absicherungsfunktionen sind intakt, V liegt unter 20 %.
+
+### Offene Termine
+
+**nächster Lauf:** offizielle Werte vom 14./15.10. gegen diese Schätzungen abgleichen. AI-Block < 36 % und TSM < 15 % offiziell bestätigen. JNJ-Guidance-Basis (11,05–11,15 $ vs. 11,60–11,75 $) klären · **22.10.** UNP Q3 · **27.10.** Visa Q4 · **28.10.** Fed **und** GOOGL Q3 **und** VRT Q3 (Ende der VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day (Prüfliste (i)–(iv)) · **09.12.** Fed · **technisch:** Kurslauf 06.10. fehlt in der Historie. **Neu: Der Kurslauf vom 14.10. fehlt ebenfalls** (`lastUpdate` 13.10., kein Commit „Depot-Update 2026-10-14“). *Entfallen:* TSM-Q3-Termin.
+
+### Ehrliche Einordnung
+
+- **Terminfehler korrigiert:** Am 14.10. habe ich VRT Q3 und GOOGL Q3 als „Ende Okt.“ geführt. Beide berichten am **28.10.**, am selben Tag wie die Fed-Entscheidung. Damit wird der 28.10. der wichtigste Einzeltag für das Depot, und das war bisher nicht so dokumentiert.
+- **Mögliche Lücken in früheren Einträgen:** Das JPM-Q3-EPS lag laut stockanalysis **unter** dem Konsens, und die JNJ-FY26-Guidance steht dort auf einer anderen Basis als im Kaufgrund. Beides habe ich in den Einträgen vom 13./14.10. nicht so dargestellt. Ob das ein Fehler der damaligen Recherche oder ein Unterschied in der Bereinigung ist, kann ich heute nicht entscheiden. Es ändert keine Entscheidung, gehört aber in die Prüfliste.
+- **Recherchegrenzen:** Alle Kurse sind Intraday-Werte (10:00–11:17 ET) von stockanalysis.com, der Wechselkurs ist der vom 13.10. (der Dollarindex fiel heute ~0,4 %, die Euro-Werte sind daher eher etwas zu hoch). Die TSM-Kursreaktion schwankt je nach Quelle und Uhrzeit zwischen −2,4 % und −5,2 %. Die Renditezahl 5,09 % halte ich für unzuverlässig. Eine Fed-Wahrscheinlichkeit gibt es nur als „Münzwurf“-Zitat. Zu TSMC-Preiserhöhungen 2027 und Terafab/Texas habe ich nichts gefunden.
+- **Nichtstun ist die Sachentscheidung:** Alle Firmennachrichten stärken gehaltene Positionen oder sind neutral. Keine Regel verlangt einen Trade, und das einzige Argument für einen Kauf (Sperren knapp gefallen) scheitert an der Totzone und am Termin.
+
+**Analyse: Claude Opus 5 (Subagent) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [SEC – TSMC 6-K, Q3 2026 Management Report mit Guidance](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm)
+- [Yahoo Finance – TSMC Profit Jumps 69% to a Record. Why Is the Stock Still Falling?](https://finance.yahoo.com/markets/stocks/articles/tsmc-profit-jumps-69-record-122354016.html)
+- [Yahoo Finance – TSMC Posts a Sixth Straight Record Quarter … Fuller Picture](https://finance.yahoo.com/markets/stocks/articles/tsmc-posts-sixth-straight-record-091406917.html)
+- [TheStreet – Stock Market Today (Oct. 15, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026)
+- [ts2.tech – S&P 500 Slips 0.5% Despite 71% Positive Breadth as AI Shares Sink](https://ts2.tech/en/sp-500-slips-0-5-despite-71-positive-breadth-as-ai-shares-sink/)
+- Kurse und Schlagzeilen: [stockanalysis TSM](https://stockanalysis.com/stocks/tsm/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [V](https://stockanalysis.com/stocks/v/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/)
