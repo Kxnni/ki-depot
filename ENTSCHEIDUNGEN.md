@@ -5366,3 +5366,113 @@ Benchmark-Schätzung: S&P 7.718,94 × 0,995 ≈ 7.680 ⇒ 10.000 € × 7.680 / 
 - [TheStreet – Stock Market Today (Oct. 15, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026)
 - [ts2.tech – S&P 500 Slips 0.5% Despite 71% Positive Breadth as AI Shares Sink](https://ts2.tech/en/sp-500-slips-0-5-despite-71-positive-breadth-as-ai-shares-sink/)
 - Kurse und Schlagzeilen: [stockanalysis TSM](https://stockanalysis.com/stocks/tsm/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [V](https://stockanalysis.com/stocks/v/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/)
+
+## 18.10.2026 (Sonntag, Wochenrückblick bis Fr 16.10.) – Keine Trades: AI-Abverkauf kostet den Nasdaq 4,5 % in der Woche, S&P −2,0 %, Dow +0,7 %. Brent schließt bei ~109,5 $. Fed-Anhebung im Oktober laut FedWatch nur noch 17 %. Visa auf Rekordhoch, und die Absicherung trägt – keine Regel feuert
+
+*Hinweis zum Lauf: Dieser Eintrag war für Freitag, 16.10., geplant und wurde erst am Sonntag, 18.10., erstellt. Er deckt die Handelswoche bis zum Freitagsschluss 16.10. ab. Grundlage sind die Kurse in `data.json` (Kurslauf 16.10., 18:32 UTC ≈ 14:32 ET, also kein Schlusskurs) und die Schlusskurse vom 16.10. aus der Recherche. Orders aus diesem Eintrag würden erst beim nächsten GitHub-Actions-Lauf am Montag, 19.10., ausgeführt. Es gibt keine.*
+
+**Kurzfazit: Keine Trades, `orders` bleibt leer.** Das Depot hat in einer Woche mit −4,5 % beim Nasdaq und −2 % beim S&P **weniger verloren als der Index** (offiziell: Depot −1,93 % vom 09.10. bis 16.10., Benchmark −2,09 %. Zu Schlusskursen gerechnet ~−1,80 % gegen ~−1,95 %). Den Unterschied machen die Absicherungen V, JNJ, JPM und CVX. Laut offiziellem Kurslauf liegt der AI-Block jetzt bei **35,40 % < 36 %**, die Kaufsperre (5)(d) ist damit **offiziell aufgehoben**. TSM liegt bei **14,47 % < 15 %**, (5)(f) ist für TSM aufgehoben. Gekauft wird trotzdem nicht. Der Überschuss über die Cash-Bandmitte beträgt nur ~184 € (Totzone 250 €), und vor dem 28.10. (Fed + GOOGL Q3 + VRT Q3) bleibt der am 14./15.10. festgelegte Verzicht auf AI-Zukäufe bestehen.
+
+### Marktlage – Woche 12.–16.10.2026
+
+- **Wochenbilanz:** S&P 500 **−1,95 %** (Schluss Fr 7.659,44, Tag −1,09 %), Nasdaq **−4,48 %** (26.140,03, Tag −2,14 %, beendet eine Serie von vier Gewinnwochen), Dow **+0,67 %** (52.002,41), Russell 2000 −3,05 %. VIX +34,7 % auf 19,99.
+- **Freitag:** Tech-Sektor über −3 %, Energie +2,5 %. CoreWeave −12 % (der zweite große Einbruch in drei Tagen), Halbleiter-ETF SOXX −4 % nach −8 % bis Donnerstag, Speicher-ETF −5,5 %. Meta knapp −4 %, NVDA −1,5 %, Apple als einziger Mag-7-Wert im Plus. Die Erzählung lautet „AI-Blase“: Schuldenfinanzierte Rechenzentren könnten die Cashflows großer Konzerne belasten, Alphabet wird dabei ausdrücklich als Beispiel genannt.
+- **Rotation:** Visa, Coca-Cola und Mastercard laut Barron's auf Rekordhoch, das Geld fließt aus Chips in Qualitätstitel. Im Dow treiben UnitedHealth (+5,8 %) und Home Depot (+6,5 %), Caterpillar (−8,7 %) bremst.
+- **Makro:** CPI September 3,7 % J/J (Kern 2,6 %), PPI heiß, Einzelhandel +0,4 % (das ist der Wert der Wochenübersicht, am 15.10. hatte ich +0,8 % notiert, nicht abgeglichen). **10-jährige Rendite** nach dem CPI am Mittwoch bis **5,33 %**, Freitag ~**5,09–5,10 %**. **FedWatch: Anhebung am 28.10. 17 % (Vortag 28 %), Anhebung im Dezember 89 %.**
+- **Öl:** Brent testete am Freitag 110 $ und schloss bei ~109,55 $ (+3,5 %), WTI 101,35 $ (+3,4 %, Schlussnotiz in anderer Quelle ~99 $). Die IEA beschleunigt Notreserven-Freigaben, die USA erwägen Lockerungen für Teile der „Schattenflotte“. Die Hormus-Lage bleibt der Treiber.
+
+### Ausblick Woche 19.–23.10.
+
+- **Fed-Blackout 17.–29.10.**, keine Fed-Reden. FOMC am 27./28.10.
+- **Makro:** Nur die Flash-PMIs am 23.10. sind nennenswert.
+- **Earnings mit Bezug zum Depot:** **Di 20.10.** NFLX, GE, RTX, GM, COF (Kartenzahlungen, Read-across zu V) · **Mi 21.10. TXN und LRCX** (Halbleiter-Equipment, Read-across zu ASML/TSM), **SAP, META, TSLA, IBM** (META-Capex = AI-Nachfrage), ABT/DHR/TMO (Healthcare-Read-across zu JNJ) · **Do 22.10. UNP** (Kandidat, Wiedervorlage), PG, HON, VLO (Raffineriemargen, Read-across zu CVX) · **Fr 23.10. AXP** (Read-across zu V), SLB.
+- Am wichtigsten ist **META am 21.10.**: Hält Meta die Capex-Pläne nach dem AI-Abverkauf, entspannt das die „Blasen“-Erzählung für TSM/ASML/VRT. Kürzt Meta, ist der 28.10. für VRT/GOOGL vorbelastet.
+
+### Positionen (offizieller Kurslauf 16.10. 14:32 ET, EURUSD 1,1232, Schlusskurs in Klammern)
+
+| Titel | Kurs $ (Schluss) | Wert € | Gewicht | P/L | Urteil |
+|---|---|---|---|---|---|
+| V | 400,47 (402,61) | 1.805,34 | 18,73 % | +13,54 % | Halten; (5)(f) gesperrt |
+| TSM | 412,37 (412,61) | 1.394,83 | 14,47 % | −7,01 % | Halten; These bestätigt |
+| JNJ | 255,34 (255,56) | 1.312,28 | 13,62 % | +1,73 % | Halten; Guidance-Frage geklärt (s. u.) |
+| JPM | 338,07 (339,72) | 1.073,17 | 11,14 % | −2,44 % | Halten |
+| CVX | 224,09 (224,99) | 983,25 | 10,20 % | +15,68 % | Halten |
+| GOOGL | 340,17 (340,59) | 964,27 | 10,01 % | −5,43 % | Halten; Q3 am 28.10. |
+| ASML | 1.656,14 (1.641,52) | 785,60 | 8,15 % | −7,55 % | Halten |
+| VRT | 208,16 (206,42) | 266,35 | 2,76 % | −33,41 % | Halten; Prüfliste bis Q3 (28.10.) |
+
+**Depotwert offiziell 9.636,41 € · Cash 1.051,32 € (10,91 %).** Zu Schlusskursen ≈ 9.649 €.
+
+**Einzelanalyse:**
+
+- **V (+0,7 % am Freitag, Rekordhoch in der Woche):** Gewinner der Rotation. BMO erhöht das Kursziel auf 425 $, Baird auf 430 $, KBW 430 $. China-Clearing-Vorbereitung genehmigt, Stablecoin-Prefunding für Visa Direct gestartet. Q4 am **27.10.** nachbörslich. Mit 18,7 % nahe am 20-%-Deckel. Steigt V durch Kursgewinne über 20 %, greift die Strategie-Obergrenze. Dann muss **nach dem Kurslauf** getrimmt werden, und zwar regelgebunden, nicht aus Meinung. Aktuell fehlen dafür ~6,8 % Kursplus.
+- **TSM (−2,3 % Fr., Woche deutlich negativ trotz Rekordquartal):** Barclays erhöht das Kursziel auf 670 $, Freedom Broker auf 560 $. Zum Fundament seit dem 15.10. nichts Neues. Der Kurs folgt dem Halbleiter-Faktor (SOXX). **Halten.**
+- **JNJ (+0,9 %):** Wells Fargo erhöht das Kursziel auf 287 $, MS 292 $ („generally in-line“). **Prüfpunkt vom 15.10. geklärt:** Die FY26-Guidance (bereinigtes EPS) wurde mit Q3 von **10,96–11,11 $ auf 11,05–11,15 $ angehoben**, Q3-EPS 2,59 $ gegenüber 2,52 $ Konsens (Beat). Die **11,60–11,75 $ im Kaufgrund vom 20.07.** passen zu keiner der beiden Reihen. Wahrscheinlich war das ein Recherchefehler im Juli (andere Basis oder falsche Quelle), **keine Prognosesenkung**. Die These ist davon nicht berührt. Neu: Eine Kanzlei wirbt für eine „Fraud Investigation“. Das ist typisches Anwaltsmarketing nach einem Kursrückgang und ohne konkreten Vorwurf kein Auslöser. **Halten.** Prüfliste (i)–(iv) bis 08.12. unverändert.
+- **JPM (+1,25 %):** Zum Q3-EPS-Verfehlen (5,57 $ gegenüber 5,90 $, erster FICC-Rückgang seit über zwei Jahren) gibt es inzwischen breitere Bestätigung. Die Kursziele gehen auseinander (GS 392 $, Barclays 425 $, Citi 350 $, Baird 312 $). Der OCC-Bericht zu „Debanking“ nennt JPM, das ist ein Reputationsthema ohne quantifizierten Schaden. Die Prüfliste vom 13.10. (NII, Risikovorsorge) war erfüllt, und ich eröffne keinen neuen Auslöser nach einem Plus-Tag. **Halten.**
+- **CVX (+2,6 %):** Profitiert vom Ölanstieg (Brent ~109,5 $). MS erhöht das Kursziel auf 226 $, der Kurs steht bereits dort. Q3 am **30.10.** Keine Verkaufsregel feuert (Öl-Trigger nicht erreicht, keine Hormus-Öffnung). **Halten**, die Absicherungsfunktion arbeitet genau wie gedacht.
+- **GOOGL (−2,5 %):** Viele Produktnews (Universal Cart, Waymo Toronto 2028, Geely-Integration, Quanten-Meldung), aber im Abverkauf wird Alphabet ausdrücklich als Beispiel für das Risiko „Rechenzentrums-Schulden belasten den Cashflow“ genannt. Das ist eine Erzählung, keine Firmennachricht. Eine Sammelklage-Frist am 01.12. ist bekannt und alt. Q3 am **28.10.** **Halten.**
+- **ASML (−1,0 %):** Citi erhöht das Kursziel auf 2.300 €. Berichte über ein eigenes Hybrid-Bonding-Produkt (Besi fällt) und Kundeninteresse an Bestellungen für 2029/30 bestätigen die „ausverkauft bis 2028“-These. **Halten.**
+- **VRT (−3,9 % Fr., Schluss 206,42 $):** Der dritte schwache Tag in Folge, MS senkt das Kursziel auf 330 $ (OW), Mizuho auf 280 $. **Weiterhin keine Firmennachricht**, das ist Beta zu CoreWeave und dem AI-Rechenzentrumskomplex. Die Prüfliste endet mit Q3 am **28.10.** Ein Verkauf jetzt wiederholte das September-Muster (Verkauf im Sektortief ohne Auslöser). Gewicht 2,8 %, das Depotrisiko ist klein. **Halten.**
+
+### Regelcheck (offizieller Kurslauf 16.10.)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,73 %** ✓ (< 20 %) · **Cash 10,91 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) 35,40 % < 36 %** ⇒ (5)(d) **offiziell aufgehoben** (am 15.10. nur als Intraday-Schätzung).
+- **TSM 14,47 % < 15 %** ⇒ (5)(f) für TSM aufgehoben. V bleibt nach (5)(f) gesperrt.
+- **Wiedereinstiegsregel:** Cash 10,91 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,91 − 9,00) % × 9.636,41 € ≈ **184 €** < 250 € ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert.
+
+### Analyse
+
+**1. Die Woche bestätigt die Depotstruktur, nicht die Einzeltitel-Thesen.** Mit ~35 % AI-Block hat das Depot in einer Woche mit Nasdaq −4,5 % etwa im Gleichschritt mit dem S&P verloren, in beiden Messarten um ~0,15 pp weniger. Die vier Absicherungen (V, JNJ, JPM, CVX ≈ 53,7 % des Depots) waren am Freitag alle im Plus. So hatte ich die Struktur im August gebaut. Der Gesamtrückstand gegenüber dem Benchmark (−5,1 pp) entstand vor allem im Juli/August und im September (VRT, MU, NEE). Wieder aufgeholt wird er bisher nicht.
+
+**2. Warum ich die aufgehobene AI-Sperre nicht nutze.** (a) Es gibt kein freies Kapital über der Totzone. Ein Kauf müsste aus einem Verkauf einer Absicherung kommen, und das wäre genau in der Woche, in der diese sich bewährt haben, falsch. (b) META (21.10.) und Fed/GOOGL/VRT (28.10.) liefern binnen zehn Tagen die eigentliche Information über die AI-Capex-These. Ein Zukauf vorher wäre eine Wette auf diese Termine. (c) Der Fed-Pfad hat sich entschärft (Oktober-Anhebung 17 % statt Münzwurf), der Dezember (89 %) bleibt aber fast sicher. Das spricht nicht für einen langen Duration-Kauf. **Plan bleibt:** Nach dem 28.10. neu bewerten, und zwar nur, wenn der offizielle Kurslauf den Block unter 36 % zeigt und die Totzone überschritten ist.
+
+**3. Neue Klumpenbeobachtung: V nähert sich 20 %.** Die Rotation in Qualität hebt V von Woche zu Woche. Am 27.10. berichtet Visa. Ein guter Bericht könnte die 20 % überschreiten. Die Trimmregel ist die Strategieobergrenze. **Ich lege heute vorab fest:** Zeigt ein offizieller Kurslauf V über 20,0 %, wird im nächsten Lauf genau auf ~18 % getrimmt, und der Erlös geht ins Cash. Für die Wiederanlage gilt dann die Wiedereinstiegsregel. Das ist kein neuer Auslöser, sondern die Umsetzung von Strategie-Regel 2.
+
+### Kandidaten
+
+Keine neue Suche, das Kapital über der Totzone fehlt. **UNP** Wiedervorlage nach Q3 am **22.10.** **CEG** ist nach (5)(d) nicht mehr gesperrt, aber ohne Kapital nicht umsetzbar. Basiskonsum (KO, PG am 22.10.) bleibt auf der Notiz für eine Rotation nach Q3, falls ein Platz frei wird (z. B. nach der VRT-Prüfliste).
+
+### Benchmark
+
+| Datum | Depot € | Benchmark € | Depot | Benchmark | Rückstand |
+|---|---|---|---|---|---|
+| 09.10. (offiziell) | 9.826,27 | 10.364,14 | −1,74 % | +3,64 % | −5,38 pp |
+| 13.10. (offiziell) | 9.772,92 | 10.355,59 | −2,27 % | +3,56 % | −5,83 pp |
+| 15.10. (offiziell) | 9.654,92 | 10.251,11 | −3,45 % | +2,51 % | −5,96 pp |
+| **16.10. (offiziell, Lauf 14:32 ET)** | **9.636,41** | **10.147,13** | **−3,64 %** | **+1,47 %** | **−5,11 pp** |
+| 16.10. (Schlusskurse, eigene Rechnung) | ~9.649 | ~10.161,87 | ~−3,51 % | ~+1,62 % | ~−5,13 pp |
+
+Benchmark-Schlussrechnung: 10.000 € × 7.659,44 / 7.537,43. Der Kurslauf in `data.json` verwendete 7.648,33 (Intraday).
+
+### Erwogen und verworfen
+
+1. **TSM oder ASML aufstocken, weil die Sperren (5)(d)/(f) jetzt offiziell gefallen sind.** Verworfen: Totzone (184 € < 250 €), META am 21.10. und der Bündeltermin am 28.10. liegen noch vor uns.
+2. **VRT nach −33 % verkaufen.** Verworfen: keine Firmennachricht, Prüfliste endet am 28.10., Gewicht 2,8 %.
+3. **V vor den Zahlen am 27.10. leicht trimmen (18,7 %).** Verworfen: Die 20-%-Grenze ist nicht erreicht. Eine vorweggenommene Trimmung wäre Meinung, keine Regel. Stattdessen ist die Trimmregel oben vorab festgelegt.
+4. **CVX-Gewinne (+15,7 %) bei Brent ~110 $ mitnehmen.** Verworfen: kein Auslöser, die Absicherung gegen eine Hormus-Eskalation ist aktiver denn je, Q3 am 30.10.
+5. **JPM wegen EPS-Verfehlen und OCC-Bericht reduzieren.** Verworfen: Die Prüfliste ist abgeschlossen. Einen neuen Auslöser ohne Kursanlass zu erfinden widerspräche dem Regelwerk.
+
+### Offene Termine
+
+**21.10.** META, TXN, LRCX, SAP (AI-Capex-Read-across) · **22.10.** UNP Q3 (Kandidat) · **23.10.** Flash-PMIs, AXP · **27.10.** Visa Q4 (20-%-Grenze beachten) · **28.10.** Fed **+** GOOGL Q3 **+** VRT Q3 (Ende VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **10.11./10.01.** US-China-Zollausnahmen · **08.12.** JNJ Investor Day · **09.12.** Fed · **technisch:** In der Historie fehlen weiterhin die Kursläufe vom 06.10. und 14.10. Der Lauf vom 16.10. lief um 18:32 UTC, also vor Börsenschluss. Die Historie zeigt für den 16.10. damit Intraday-Werte. *Erledigt:* JNJ-Guidance-Basis.
+
+### Ehrliche Einordnung
+
+- **Fehleinschätzung 15.10. (Rendite):** Die 10-jährige Rendite von ~5,09 % hatte ich als „unplausibel“ verworfen. Sie war richtig: Höchststand 5,33 % nach dem CPI am Mittwoch, dann Rückgang auf ~5,09–5,10 %. Meine Plausibilitätsprüfung war hier zu streng.
+- **Fehleinschätzung 15.10. (Fed):** Ich habe die Oktober-Anhebung als „Münzwurf“ (~50 %) geführt und mich dabei auf ein Zitat von Capital.com gestützt. FedWatch zeigte am 15.10. **28 %**, am 16.10. **17 %**. Die Zahl war deutlich zu hoch. Das ändert die Entscheidung von damals nicht (kein Kapital über der Totzone), aber die Begründung „Zinswette vor einem Münzwurf“ war übertrieben.
+- **Schätzfehler 15.10.:** Geschätzt waren ~9.688 € Depot und ~10.190 € Benchmark. Offiziell waren es 9.654,92 € und 10.251,11 €. Den Depotwert habe ich um ~33 € überschätzt (Wechselkurs vom 13.10.), den Index um ~0,6 % unterschätzt. Der Rückstand war mit −5,96 pp größer als die geschätzten ~−5,0 pp.
+- **Recherchefehler Juli (JNJ):** Die Guidance-Zahl 11,60–11,75 $ im JNJ-Kaufgrund lässt sich nicht bestätigen. Belegt ist eine Reihe von 10,96–11,11 $ (vor Q3) und 11,05–11,15 $ (nach Q3). Der Kaufgrund in `data.json` enthält damit eine wahrscheinlich falsche Zahl. Ich ändere die Historie nicht, sondern dokumentiere es hier.
+- **Recherchegrenzen:** Kurse und Schlagzeilen stammen von stockanalysis.com, Marktdaten von Yahoo Finance/Investopedia, TheStreet und einer automatisierten Wochenübersicht (stockmarketwatch, eigene Inkonsistenzen vermerkt). Für den Wechselkurs habe ich den Wert in `data.json` übernommen, ohne ihn zu prüfen. Die Angaben zum WTI-Schluss weichen je nach Quelle ab (99 $ bzw. 101,35 $).
+
+**Analyse: Claude Opus (Subagent, model opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [Yahoo Finance – Markets News, Oct. 16, 2026: Nasdaq, S&P 500 End Lower, Post Weekly Losses](https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html)
+- [TheStreet – Stock Market Today (Oct. 16, 2026): AI 'bubble' worries mount](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026)
+- [stockmarketwatch – Dow Jones This Week: October 12–16, 2026 — Weekly Review & Week Ahead](https://stockmarketwatch.com/indices/dowjones/reports/week-of-october-12-2026)
+- [earnings-watcher – Earnings implied moves: week of Oct 19–23, 2026](https://earnings-watcher.com/wiki/earnings-implied-moves-2026-10-19)
+- [goldesel.de – Johnson & Johnson: Gewinnprognose steigt, MedTech und Rechtskosten belasten](https://goldesel.de/aktien/news/johnson-johnson-aktie-gewinnprognose-steigt-doch-medtech-und-rechtskosten-drucken)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
