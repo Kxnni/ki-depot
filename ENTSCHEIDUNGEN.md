@@ -5476,3 +5476,52 @@ Benchmark-Schlussrechnung: 10.000 € × 7.659,44 / 7.537,43. Der Kurslauf in `d
 - [earnings-watcher – Earnings implied moves: week of Oct 19–23, 2026](https://earnings-watcher.com/wiki/earnings-implied-moves-2026-10-19)
 - [goldesel.de – Johnson & Johnson: Gewinnprognose steigt, MedTech und Rechtskosten belasten](https://goldesel.de/aktien/news/johnson-johnson-aktie-gewinnprognose-steigt-doch-medtech-und-rechtskosten-drucken)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+
+---
+
+## 19.10.2026 (Montag) – KI-Bewertung
+
+### Marktlage
+
+- **Erholung bei AI-Werten nach der Verlustwoche:** Vorbörslich S&P-500-Futures ca. +0,4–0,5 %, Nasdaq-100 ca. +1,0–1,3 %, Dow leicht im Minus. Gekauft werden die Verlierer der Vorwoche (Nvidia, CoreWeave, Broadcom, Micron). Rückblick auf die Vorwoche: Nasdaq −4,5 %, S&P −2 %, Dow leicht im Plus.
+- **Öl fällt:** WTI −2,1 % auf ~96,9 $. Auslöser: Die USA setzen einige Sanktionen auf russische Ölexporte aus und wollen die Wirkung 60 Tage lang prüfen (Rubio). Die Hormus-Risiken bleiben bestehen (Minentreffer eines Tankers gemeldet, höhere Versicherungskosten).
+- **Zinsen/Fed:** 10-jährige US-Anleihe ~5,07–5,08 % (leicht rückläufig), 2-jährige ~4,72 %. FedWatch sieht für Oktober eine Anhebung mit **~15 %** (16.10.: 17 %).
+- **Woche der Zahlen:** META und TSLA (21.10.), außerdem NFLX, GM, LRCX, IBM, PG.
+
+### Depot (Datenstand: offizieller Kurslauf 16.10., ein Lauf vom 19.10. fehlt in `data.json` noch)
+
+**Depotwert 9.636,41 €** (−3,64 %) gegenüber Benchmark **10.147,13 €** (+1,47 %), Rückstand **−5,11 pp**. Cash 1.051,32 € (10,91 %). Keine offenen Orders.
+
+**Einzelanalyse:** Für **keine** der acht Positionen habe ich heute eine neue Firmennachricht gefunden. Die Bewertung vom 16.10. bleibt daher gültig.
+
+- **AI-Block (GOOGL, TSM, ASML, VRT, ~35,4 %):** Die Erholung heute ist Beta, keine neue Information. Sie spricht weder für Zukäufe noch für Verkäufe. Die eigentlichen Datenpunkte zur AI-Capex-These kommen mit META/LRCX (21.10.) und GOOGL/VRT (28.10.). Die VRT-Prüfliste endet am 28.10. **Halten.**
+- **CVX:** Der Ölrückgang wegen der Russland-Ausnahme nimmt einen Teil des Rückenwinds der Vorwoche zurück. Das ist **keine** Hormus-Öffnung und kein Erreichen des Öl-Triggers. Die Absicherungsthese (Eskalationsrisiko am Golf) ist unverändert, und die 60-Tage-Ausnahme ist befristet. Q3 am 30.10. **Halten.** Ich beobachte, ob der Ausnahme weitere Lockerungen folgen.
+- **V (18,73 %):** An einem Tag mit AI-Rotation zurück in Tech wird V eher nicht über 20 % steigen. Die vorab festgelegte Trimmregel (offizieller Lauf > 20 % ⇒ auf ~18 % trimmen) bleibt bestehen. Q4 am 27.10. **Halten.**
+- **JPM, JNJ:** Nichts Neues. **Halten.**
+
+### Regelcheck
+
+8 Positionen ✓ · größte Position V 18,73 % ✓ (< 20 %) · Cash 10,91 % ✓ (≥ 5 %). Wiedereinstiegsregel: Überschuss über die Bandmitte ≈ 184 € < 250 € ⇒ Totzone. **Keine Verkaufsregel feuert.**
+
+### Entscheidung: keine Trades
+
+Begründung: (1) Es gibt keine fundamentale Nachricht zu einer Position. (2) Das freie Kapital liegt in der Totzone. (3) Einen Tag nach einem Rücksetzer und zwei Tage vor META in AI-Werte zu gehen, wäre eine Wette auf Termine, keine Analyse. (4) Den Ölrückgang als Anlass zu nehmen, CVX zu verkaufen, wäre ein Verkauf der Absicherung wegen einer befristeten politischen Maßnahme. Der Plan vom 16.10. gilt weiter: nach dem 28.10. neu bewerten.
+
+### Ehrliche Einordnung
+
+- Der Rückstand von −5,1 pp gegenüber dem S&P ist real und wird durch Abwarten nicht kleiner. Ich halte das trotzdem für richtig, weil es für Umschichtungen ohne Nachricht keine Begründung gibt. Dass ein Depot mit einer Halbleiter-Lastigkeit und Fehlgriffen (VRT −33 %, MU/NEE im Sommer) gegen den Index zurückliegt, ist das Ergebnis früherer Entscheidungen, nicht der heutigen.
+- **Recherchegrenzen heute:** Die Marktzahlen sind **vorbörslich** (Benzinga, Reuters via Sunday Guardian), Schlusskurse vom 19.10. lagen mir nicht vor. Zu den Einzeltiteln lieferten die Suchen nur ältere oder irrelevante Treffer. „Keine Nachricht gefunden“ heißt nicht sicher „keine Nachricht“.
+- **Technisch:** In `data.json` steht als `lastUpdate` noch der 16.10. 18:32 UTC. Der Kurslauf vom 19.10. fehlt also (oder ist noch nicht gepusht). Zusammen mit den Lücken vom 06.10. und 14.10. wird der GitHub-Actions-Lauf damit zunehmend unzuverlässig, das sollte geprüft werden.
+
+### Offene Termine
+
+**21.10.** META, TSLA, LRCX, TXN, SAP · **22.10.** UNP (Kandidat), PG · **23.10.** Flash-PMIs · **27.10.** Visa Q4 (20-%-Grenze) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **08.12.** JNJ Investor Day
+
+**Analyse: Claude Opus 5.5 (Modell-ID: claude-opus-5-5)**
+
+### Quellen
+
+- [Benzinga – Stock Market Today: Dow Futures Drop, S&P 500, Nasdaq 100 Rise …](https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus)
+- [Sunday Guardian (Reuters) – US Stock Market Today: … AI Stocks Rebound, Oil Prices Fall](https://sundayguardianlive.com/business/us-stock-market-today-dow-futures-rise-003-while-sp-500-gains-047-and-nasdaq-100-jumps-099-as-ai-stocks-rebound-oil-prices-fall-check-what-investors-should-know-308576/)
+- [Yahoo Finance – Stock Market News for Oct 19, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-19-071100481.html)
