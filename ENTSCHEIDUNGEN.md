@@ -5610,3 +5610,91 @@ Keine neue Suche, kein Kapital über der Totzone. **UNP** Q3 am **22.10.** (Wied
 - [Yahoo Finance – Markets News, Oct. 20, 2026: Dow Closes Up 500 Points; S&P 500 Rises, Nasdaq Ticks Lower; Oil Prices Pull Back](https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html)
 - [Capp Notes – Closing Look, Tuesday, October 20, 2026](https://cappnotes.substack.com/p/closing-look-tuesday-october-20-2026)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+
+---
+
+## 21.10.2026 (Mittwoch) – Keine Trades: Tech-Erholung verpufft im Vormittagshandel, Super Micro (+13 %) hebt VRT um ~4,5 %, GOOGL −2,3 % nach UK-Cloud-Ausfall und Sammelklage, JNJ −1,7 % nach Abstufung (Erste Group). META/TSLA/LRCX/TXN/SAP erst nach Börsenschluss, keine Regel feuert
+
+### Marktlage (Stand Vormittag 21.10., ca. 11:15 ET)
+
+- **Indizes:** Der Handel eröffnete fester (Dow +0,30 %, S&P +0,31 %, Nasdaq +0,67 %), angeführt von SpaceX (+10 % nach dem ersten Gewinnquartal seit dem Börsengang, AI-Umsatz 7,6 Mrd. $ von 14,6 Mrd. $) und Super Micro (+13 % nach angehobener Umsatzprognose). Die Gewinne schmolzen bald: S&P **~7.716 (+0,05 %)**, Dow ~52.424 (−0,14 %), Nasdaq +0,46 %, Russell 2000 +0,32 %.
+- **Sektoren:** Industrie, Technologie und Energie vorn. Kommunikation schwächster Sektor (Netflix −3 bis −4 % nach schwachem Q4-Ausblick und gesenkter Werbeumsatz-Prognose 2026). Healthcare und Basiskonsum geben nach dem Rekord von gestern ab.
+- **Zinsen:** 10-jährige ~**5,08–5,11 %**, 30-jährige ~5,40 %.
+- **Öl:** Brent ~109–110 $, WTI ~98–99 $, nahe am Fünfmonatshoch. Laut Berichten will der Iran erst verhandeln, wenn sieben Forderungen erfüllt sind, darunter das Ende der US-Hafenblockade. Die Gespräche stocken, damit ist die Vermittlungshoffnung von gestern vorerst vom Tisch.
+- **Sonstiges:** Musk meldet Sonderausschüsse bei SpaceX und Tesla zu einer möglichen Fusion. Anthropic könnte schon am Freitag den S-1-Antrag öffentlich einreichen. Berkshire B auf Rekordhoch. Gold ~4.150 $, VIX ~17,4.
+- **Heute nach Börsenschluss:** META, TSLA, LRCX, TXN, IBM, SAP. Diese Zahlen lagen bei Redaktionsschluss noch **nicht** vor.
+
+### Depot (offizieller Stand: Kurslauf 20.10.; heutiger Lauf steht noch aus)
+
+**Offiziell (data.json):** Depotwert **9.700,18 €** (−3,00 %) gegenüber Benchmark **10.231,79 €** (+2,32 %), Rückstand **−5,32 pp**. Cash 1.051,32 €. Keine offenen Orders.
+
+**Intraday-Schätzung (Kurse ~11:15 ET, EURUSD 1,1242 aus data.json):** Depot ~**9.702 €** (−2,98 %), Benchmark ~10.237 € (S&P 7.716), Rückstand ~−5,4 pp.
+
+| Position | Kurs ~11:15 ET | Tag | Wert € | Gewicht |
+|---|---|---|---|---|
+| V | 408,73 $ | +0,5 % | 1.841 | **18,98 %** |
+| TSM | 427,00 $ | +0,5 % | 1.443 | 14,87 % |
+| JNJ | 255,03 $ | −1,7 % | 1.310 | 13,50 % |
+| JPM | 333,56 $ | −0,5 % | 1.058 | 10,90 % |
+| CVX | 226,50 $ | +0,4 % | 993 | 10,23 % |
+| GOOGL | 332,61 $ | −2,3 % | 942 | 9,71 % |
+| ASML | 1.671,26 $ | +2,5 % | 792 | 8,16 % |
+| VRT | 212,72 $ | +4,5 % | 272 | 2,80 % |
+| Cash | | | 1.051 | 10,84 % |
+
+### Einzelanalyse
+
+- **V (18,98 %, intraday):** Nähert sich der 20-%-Grenze weiter an, ist aber noch klar darunter. Neu: drei Funktionen für Firmenzahlungen (Commercial Cards, virtuelle Kartensicherheit, Agentic Commerce) und eine Logo-Überarbeitung. Beides ist Produktpflege. Die vorab festgelegte Trimmregel (offizieller Lauf > 20 % ⇒ auf ~18 % trimmen) bleibt die einzige Handlungsgrundlage. Q4 am **27.10.** **Halten.**
+- **TSM (14,87 %):** +0,5 %, keine Firmennachricht (nur Meinungsartikel). **Halten.**
+- **JNJ (13,50 %):** −1,7 %. Erste Group stuft auf Hold ab (Bewertung zu hoch). Dazu Gewinnmitnahmen im Healthcare-Sektor nach dem Rekord von gestern, und Abbott senkt die Umsatzprognose. Eine einzelne Abstufung einer kleineren Bank ist keine fundamentale Änderung. Die Prüfliste bis zum Investor Day am **08.12.** gilt. **Halten.**
+- **JPM (10,90 %):** −0,5 %. CNBC: GS, MS und JPM erzielen fast 80 % der Aktienhandelserträge der fünf größten Banken. Das stützt die These. **Halten.**
+- **CVX (10,23 %):** +0,4 %. Das Stocken der Iran-Gespräche entkräftet das Risiko von gestern (Vermittlungsberichte) wieder. Keine Hormus-Öffnung, kein Öl-Trigger. Q3 am **30.10.** **Halten.**
+- **GOOGL (9,71 %):** **−2,3 %** auf 332,61 $, schwächste Position heute. Gründe laut TipRanks: Folgen des Google-Cloud-Ausfalls in UK (Bankdienste betroffen) und eine eingereichte Sammelklage (Frist 01.12.). Investrade nennt zusätzlich „schwächere Kommentare zu Werbetrends“. Das bezieht sich vermutlich auf die gesenkte Werbeprognose von Netflix, eine konkrete Alphabet-Quelle dafür habe ich nicht gefunden. Gegengewicht: Laut Reuters/CNBC werden OpenAI-Frontier-Modelle und Codex über Google Cloud verfügbar. Das ist ein klar positiver Datenpunkt für das Cloud-Geschäft. Die Sammelklage ist ein typischer Folgeprozess nach Kursrückgängen, inhaltlich habe ich sie nicht geprüft. Die entscheidende Information kommt mit Q3 am **28.10.** **Halten**, keine Reaktion auf einen Tag Rauschen eine Woche vor den Zahlen.
+- **ASML (8,16 %):** +2,5 %, Erholung im Chipsektor. Keine Firmennachricht außer Rückkaufmeldungen. **Halten.**
+- **VRT (2,80 %):** **+4,5 %** auf 212,72 $ (Tageshoch 220 $), getragen von Super Micro (+13 %) und dem positiven Read-across für AI-Server. Eigene Meldung: Konzept auf Nvidia-DSX-Basis für einen Standort in Norwegen. Der Anstieg ist wie der Rückgang am 16.10. Beta und bestätigt, dass ein Verkauf im Tief falsch gewesen wäre. Die Prüfliste endet mit Q3 am **28.10.** **Halten.**
+
+### Regelcheck (Intraday-Schätzung)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,98 %** ✓ (< 20 %) · **Cash 10,84 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) ~35,6 %** < 36 % ⇒ (5)(d) bleibt aufgehoben, Wiedervorlage bei ≥ 40 % nicht berührt.
+- **Wiedereinstiegsregel:** Cash 10,84 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,84 − 9,00) % × ~9.702 € ≈ **178 €** < 250 € ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert (Öl-Trigger nicht erreicht, keine Hormus-Öffnung, VRT-Prüfliste bis 28.10., V unter 20 %).
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Zu keiner Position gibt es eine fundamentale Nachricht. Die größte Tagesbewegung im Depot (GOOGL −2,3 %) beruht auf einem Betriebsausfall und einer Sammelklage, also auf Rauschen sieben Tage vor den Quartalszahlen, und wird teilweise durch die OpenAI-Cloud-Meldung ausgeglichen.
+2. Das freie Kapital liegt in der Totzone (178 €).
+3. Die AI-Capex-Signale von META und LRCX kommen erst heute Abend, und vor dem Bündeltermin am 28.10. (Fed + GOOGL + VRT) bleibt der seit dem 14./15.10. dokumentierte Verzicht auf AI-Zukäufe bestehen.
+4. Die V-Trimmregel ist vorab festgelegt. Mit ~19,0 % rückt sie näher. Feuert sie beim offiziellen Lauf (> 20 %), wird getrimmt, auch vor den Zahlen am 27.10.
+
+### Kandidaten
+
+Keine neue Suche (kein Kapital über der Totzone, kein Platz frei vor dem 28.10.). **UNP** Q3 morgen (**22.10.**), Wiedervorlage. Basiskonsum (PG 22.10., KO) bleibt notiert. Neu notiert, aber **nicht** kaufbar: SpaceX (SPCX) ist kein Kandidat. Nach +10 % am Zahlentag und mit bis zu 1,3 Mrd. Aktien, deren Haltefrist am Donnerstag ausläuft, ist es eine Momentum-Wette, keine Engpass-These mit Bewertungsanker.
+
+### Erwogen und verworfen
+
+1. **GOOGL nach −2,3 % aufstocken (Cloud-These durch OpenAI gestärkt).** Verworfen: Totzone, Bündeltermin 28.10. Ein Kauf eine Woche vor den Zahlen wäre eine Wette auf den Termin.
+2. **VRT in die Stärke (+4,5 %) verkaufen.** Verworfen: wie gestern. Die Prüfliste endet am 28.10. mit den Zahlen, eine Bewegung von einem Tag ist kein Kriterium.
+3. **V vorsorglich vor den Zahlen trimmen, weil die 20 % näher rücken.** Verworfen: Die Regel lautet „offizieller Lauf > 20 %“. Eine Regel vorzuziehen, weil sie bald greifen könnte, wäre dasselbe Aufweichen, das ich am 14.10. bei ASML ausdrücklich abgelehnt habe.
+
+### Ehrliche Einordnung
+
+- **Rückstand ~−5,3 bis −5,4 pp**, praktisch unverändert seit dem 16.10. Das Depot läuft im Moment etwa im Gleichschritt mit dem Index, holt aber nichts auf. Nach der Logik des Regelwerks ist das richtig, solange es keine Nachrichten gibt. Ehrlich gesagt heißt es aber auch: Den Rückstand aus Juli bis September (VRT, MU, NEE) holt dieses Depot nur über Einzeltitel-Ergebnisse auf, und die kommen ab dem 27.10.
+- **Recherchegrenzen:** Alle Kurse sind **Intraday** (stockanalysis.com, ~10:48–11:16 ET), nicht Schlusskurse. Die Marktdaten stammen von Investrade (Mid-Morning Look), Yahoo Finance (Liveblog, Benzinga-Vorschau) und Stocktwits. Der Grund für den GOOGL-Rückgang ist nicht eindeutig: Zwei Quellen nennen verschiedene Gründe, und für „schwächere Werbetrends“ fehlt mir eine Primärquelle. Den Wechselkurs habe ich aus `data.json` übernommen (1,1242).
+- **Technisch:** Dieser Lauf fand vor dem GitHub-Actions-Kurslauf vom 21.10. statt. Die offiziellen Werte in `data.json` stammen deshalb vom 20.10. (18:50 UTC).
+
+### Offene Termine
+
+**21.10. (nachbörslich)** META, TSLA, LRCX, TXN, IBM, SAP · **22.10.** UNP (Kandidat), PG, Haltefrist-Ende SpaceX · **23.10.** Flash-PMIs, AXP · **27.10.** Visa Q4 (20-%-Grenze) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5.5 (Modell-ID laut System-Kontext: claude-opus-5-5)**
+
+### Quellen
+
+- [Investrade – Mid-Morning Look: October 21, 2026](https://investrade.com/mid-morning-look-october-21-2026/)
+- [Yahoo Finance – Stock market today: Dow, S&P 500, Nasdaq rise as tech gains, SpaceX stock surges](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html)
+- [Yahoo Finance (Benzinga) – Stock Market: Will S&P 500 Open Up or Down Today?](https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-071724170.html)
+- [Stocktwits – Nasdaq, S&P 500 futures climb after SpaceX's blowout quarter](https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ)
+- [Sunday Guardian – US Stock Market Today LIVE (Open 21.10.)](https://sundayguardianlive.com/business/us-stock-market-today-live-dow-jones-rises-030-sp-500-gains-031-and-nasdaq-jumps-067-at-open-as-spacex-and-super-micro-boost-ai-stocks-check-latest-wall-street-updates-309660/)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
