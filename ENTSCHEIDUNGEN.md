@@ -5525,3 +5525,88 @@ Begründung: (1) Es gibt keine fundamentale Nachricht zu einer Position. (2) Das
 - [Benzinga – Stock Market Today: Dow Futures Drop, S&P 500, Nasdaq 100 Rise …](https://www.benzinga.com/markets/equities/26/10/62431980/stock-market-today-dow-jones-sp-500-futures-rise-as-scott-bessent-links-september-inflation-to-energy-shock-rcat-eslt-stld-in-focus)
 - [Sunday Guardian (Reuters) – US Stock Market Today: … AI Stocks Rebound, Oil Prices Fall](https://sundayguardianlive.com/business/us-stock-market-today-dow-futures-rise-003-while-sp-500-gains-047-and-nasdaq-100-jumps-099-as-ai-stocks-rebound-oil-prices-fall-check-what-investors-should-know-308576/)
 - [Yahoo Finance – Stock Market News for Oct 19, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-19-071100481.html)
+
+
+---
+
+## 20.10.2026 (Dienstag) – Keine Trades: Rotation in Healthcare und Finanzwerte hebt JNJ (+2,2 %) und JPM, Tech als einziger Sektor im Minus. Keine Firmennachricht zu einer Position, Totzone hält, Plan „nach dem 28.10. neu bewerten“ gilt
+
+### Marktlage (Schluss 20.10.)
+
+- **Indizes:** S&P 500 **+0,28 % auf 7.712,57**, Dow +1,02 % (52.495,88, über 500 Punkte), Russell 2000 +1,65 %, Nasdaq −0,02 %, Halbleiterindex SOX −0,29 %.
+- **Sektoren:** Healthcare (**+2,37 %**), Immobilien, Versorger und Financials (+1,20 %) vorn. **Technologie als einziger Sektor im Minus** (−0,28 %). Das ist die gleiche Rotation weg von AI/Chips, die wir seit Mitte Oktober sehen.
+- **Zinsen:** 10-jährige **5,12 %** (−3 bp), 2-jährige 4,79 % (+2 bp). Die Kurve flacht ab, nachdem die schwebenden Hausverkäufe im September **−7,3 %** fielen (weit schlechter als erwartet).
+- **Öl:** WTI (Dez.) ~98,3 $, Brent ~108,8 $. Öl gab nach Berichten nach, dass Vermittler die USA und den Iran an den Verhandlungstisch bringen wollen. Davor lagen acht Gewinntage in Folge (WTI +20 %). Die Tankerangriffe in der Straße von Hormus halten das Risiko hoch.
+- **Fed (27./28.10.):** FedWatch sieht eine Anhebung bei **14,9 %**, Kalshi ein Halten bei 87 %.
+- **Earnings:** GM −6,8 %, GE Aerospace −3,5 %, 3M +5,8 %, Northrop +4,6 %. **Nachbörslich:** Super Micro +12,7 % (AI-Server-Read-across positiv für VRT), Netflix −5,7 %, Intuitive Surgical −7,1 %, Capital One +4,5 %.
+
+### Depot (offizieller Kurslauf 20.10., 18:50 UTC = 14:50 ET, also wieder intraday)
+
+**Depotwert 9.700,18 €** (−3,00 %) gegenüber Benchmark **10.231,79 €** (+2,32 %), Rückstand **−5,32 pp**. Cash 1.051,32 € (10,84 %). Keine offenen Orders.
+
+Nachrechnung mit den Schlusskursen (EURUSD 1,1242 aus `data.json`): Depot ~9.700,50 €, Benchmark 10.000 € × 7.712,57 / 7.537,43 = 10.232,36 €. Der Lauf lag also fast genau auf den Schlusswerten.
+
+| Position | Schluss 20.10. | Tag | Wert € | Gewicht |
+|---|---|---|---|---|
+| V | 406,57 $ | +0,9 % | 1.831 | **18,88 %** |
+| TSM | 425,08 $ | +1,2 % | 1.437 | 14,81 % |
+| JNJ | 259,36 $ | +2,2 % | 1.332 | 13,73 % |
+| JPM | 335,26 $ | +0,5 % | 1.063 | 10,96 % |
+| CVX | 225,71 $ | +0,6 % | 989 | 10,20 % |
+| GOOGL | 340,28 $ | −1,1 % | 964 | 9,93 % |
+| ASML | 1.630,84 $ | −1,0 % | 773 | 7,97 % |
+| VRT | 203,56 $ | −1,2 % | 260 | 2,68 % |
+| Cash | | | 1.051 | 10,84 % |
+
+### Einzelanalyse
+
+- **V (18,88 %):** Rekordnähe hält an, BMO hebt das Kursziel auf 425 $. Neue Meldungen sind Produktnachrichten (Pilot für AI-Agent-Zahlungen mit BILL/Billtrust, Kentucky Derby), die die These stützen, aber keinen Handlungsbedarf erzeugen. Die vorab festgelegte Trimmregel (offizieller Lauf > 20 % ⇒ auf ~18 % trimmen) bleibt aktiv. Q4 am **27.10.** **Halten.**
+- **TSM (14,81 %):** +1,2 %, nachbörslich weiter +1,5 %. Meldungen zu 3-nm-Fertigung in Kumamoto und dazu, dass Samsung für Nvidias nächsten HBM-Basis-Die zu TSMC geht. Das bestätigt die Engpass-These, ist aber keine neue Bewertungsinformation nach dem Q3-Bericht vom 15.10. **Halten.**
+- **JNJ (13,73 %):** Der Gewinner des Tages (+2,2 %) im stärksten Sektor. Neue Daten zu TREMFYA (3 Jahre Morbus Crohn) und der Shockwave-Launch sind Pipelinepflege. Die Kurserholung nach dem −6 % am Q3-Tag (14.10.) läuft. **Halten.**
+- **JPM (10,96 %):** +0,5 %. Nachrichten: 7-Mrd.-$-Anleihe, 5-Mrd.-$-Initiative für Sicherheit/Lieferketten. Nichts Fundamentales. Capital One nachbörslich +4,5 % ist ein freundliches Signal für Konsumkredite. **Halten.**
+- **CVX (10,20 %):** +0,6 % trotz Ölrückgang. Iran-Gespräche wären das Szenario, in dem die Absicherung an Wert verliert. Es handelt sich aber nur um Berichte über Vermittlungsversuche, nicht um eine Hormus-Öffnung. Q3 am **30.10.** **Halten.**
+- **GOOGL (9,93 %):** −1,1 % mit dem Tech-Sektor. BMO erhöht das Ziel auf 480 $, KeyBanc senkt auf 410 $. TorchTPU (Open Source) und die Waymo-Expansion (20.000 Fahrzeuge) stützen die These. Der Google-Cloud-Ausfall in London ist ein Reputations-, kein Bewertungsthema. Q3 am **28.10.** **Halten.**
+- **ASML (7,97 %):** −1,0 %, nachbörslich +2,2 %. Keine Firmennachricht. **Halten.**
+- **VRT (2,68 %):** −1,2 % auf 203,56 $. Roth senkt das Ziel auf 335 $ (Buy), damit schon die dritte Zielsenkung bei unverändert positiven Ratings. Nachbörslich **+5,1 %** auf ~214 $, offenbar im Sog von Super Micro (+12,7 %). Das ist wieder Beta, diesmal in die positive Richtung, und genau der Grund, warum ich am 16.10. nicht im Sektortief verkauft habe. Die Prüfliste endet mit Q3 am **28.10.** **Halten.**
+
+### Regelcheck (Schlusskurse 20.10.)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,88 %** ✓ (< 20 %) · **Cash 10,84 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) 35,39 %** < 36 % ⇒ (5)(d) bleibt aufgehoben.
+- **Wiedereinstiegsregel:** Cash 10,84 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,84 − 9,00) % × 9.700,50 € ≈ **178 €** < 250 € ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert.
+
+### Entscheidung: keine Trades
+
+1. Zu keiner Position gibt es eine fundamentale Nachricht. Der Tag war Sektorrotation (Healthcare/Financials rauf, Tech runter), und davon profitiert das Depot durch seine Struktur: Zwischen den offiziellen Läufen vom 19.10. und 20.10. stieg das Depot um **+0,30 %** (9.670,72 → 9.700,18 €), der Benchmark um +0,28 % (10.203,38 → 10.231,79 €), also etwa im Gleichschritt.
+2. Das freie Kapital liegt in der Totzone (178 €).
+3. Die entscheidenden Datenpunkte kommen in den nächsten acht Tagen: META heute Abend (21.10.) als AI-Capex-Read-across, Visa am 27.10., Fed + GOOGL + VRT am 28.10., CVX am 30.10. Jetzt umzuschichten hieße, auf diese Termine zu wetten.
+4. Der Plan vom 16.10. gilt: nach dem 28.10. neu bewerten. Die V-Trimmregel ist vorab festgelegt.
+
+### Kandidaten
+
+Keine neue Suche, kein Kapital über der Totzone. **UNP** Q3 am **22.10.** (Wiedervorlage). Basiskonsum (PG am 22.10., KO) bleibt notiert, falls nach der VRT-Prüfliste ein Platz frei wird. Healthcare-Stärke heute ist kein Grund für einen zweiten Healthcare-Titel: Mit JNJ (13,7 %) sind wir dort bereits angemessen vertreten, und **Intuitive Surgical** (nachbörslich −7 %) zeigt, dass der Sektor keine Einbahnstraße ist.
+
+### Erwogen und verworfen
+
+1. **VRT nach der nachbörslichen Erholung (+5 %) verkaufen, „solange es noch geht“.** Verworfen: Die Prüfliste endet mit den Zahlen am 28.10. Ein Verkauf wegen eines einzelnen positiven Tages wäre ebenso Beta-Trading wie ein Verkauf im Tief.
+2. **CVX wegen möglicher US-Iran-Gespräche reduzieren.** Verworfen: Es gibt nur Berichte über Vermittlungsversuche. Gleichzeitig laufen Tankerangriffe weiter. Die Absicherung verkauft man nicht auf ein Gerücht hin.
+3. **JNJ nach +2,2 % teilweise realisieren.** Verworfen: 13,7 % Gewicht, keine Regel betroffen, Investor Day am 08.12.
+
+### Ehrliche Einordnung
+
+- **Rückstand −5,32 pp** gegenüber dem S&P, leicht größer als am 16.10. (−5,11 pp), weil die Lücke vom 19.10. (AI-Erholung, an der wir nur mit ~35 % teilnehmen) nicht wieder aufgeholt ist. Der Rückstand stammt weiterhin aus Juli bis September (VRT, MU, NEE) und wird nicht durch Untätigkeit größer, aber auch nicht kleiner.
+- **Technisch:** Der Lauf vom 20.10. lief um 18:50 UTC, also **vor** Börsenschluss (20:00 UTC). Die Historie zeigt damit Intraday-Werte. Diesmal lagen sie nur ~0,3 € neben den Schlusswerten, das ist Zufall. Der Lauf vom 19.10. ist nachträglich in der Historie erschienen (die Lücke vom 19.10. ist damit erledigt; 06.10. und 14.10. fehlen weiterhin). Die Hilfsdatei `_neuer_eintrag.tmp` vom 22.09. liegt noch im Repo und kann gelöscht werden.
+- **Recherchegrenzen:** Kurse und Schlagzeilen von stockanalysis.com (Datumsangaben teils aus relativen Zeitstempeln geschätzt), Marktdaten von Yahoo Finance und Capp Notes. Den Bloomberg-Liveblog vom 21.10. konnte ich nicht abrufen. Daten zu META, TXN, LRCX und SAP (21.10.) lagen noch nicht vor. Den Wechselkurs habe ich aus `data.json` übernommen.
+
+### Offene Termine
+
+**21.10.** META, TSLA, LRCX, TXN, SAP · **22.10.** UNP (Kandidat), PG · **23.10.** Flash-PMIs, AXP · **27.10.** Visa Q4 (20-%-Grenze) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5 (Subagent, model=opus) – exakte Modell-ID laut System-Prompt: claude-opus-5-5**
+
+### Quellen
+
+- [Yahoo Finance – Markets News, Oct. 20, 2026: Dow Closes Up 500 Points; S&P 500 Rises, Nasdaq Ticks Lower; Oil Prices Pull Back](https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html)
+- [Capp Notes – Closing Look, Tuesday, October 20, 2026](https://cappnotes.substack.com/p/closing-look-tuesday-october-20-2026)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
