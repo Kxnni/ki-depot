@@ -5698,3 +5698,90 @@ Keine neue Suche (kein Kapital über der Totzone, kein Platz frei vor dem 28.10.
 - [Stocktwits – Nasdaq, S&P 500 futures climb after SpaceX's blowout quarter](https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-futures-climb-after-space-x-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/cZxtFA9RBHZ)
 - [Sunday Guardian – US Stock Market Today LIVE (Open 21.10.)](https://sundayguardianlive.com/business/us-stock-market-today-live-dow-jones-rises-030-sp-500-gains-031-and-nasdaq-jumps-067-at-open-as-spacex-and-super-micro-boost-ai-stocks-check-latest-wall-street-updates-309660/)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+
+---
+
+## 23.10.2026 (Freitag) – Keine Trades: Chip-Ausverkauf am Donnerstag (SOX −6,7 %, Sorge um AI-Finanzierung nach Meta/Nvidia-Aussagen), heute Öl-Schock (Brent ~115 $ nach Berichten über neue US/Israel-Angriffspläne gegen Iran). CVX +1,8 % trägt als Absicherung, Brent-Bein der CVX-Obergrenze (120 $) nicht erreicht, Totzone hält
+
+### Marktlage (Stand Vormittag 23.10., ca. 10:20–11:15 ET)
+
+- **Donnerstag 22.10.:** Nasdaq ~−2,6 %, S&P ~−1,2 %, **Philadelphia Semiconductor Index −6,7 %**. Auslöser: Zweifel an der Finanzierung des AI-Capex (Meta-Kommentar zum Kapitalbedarf für AI-Projekte, Jensen Huang: Neocloud-Nachfrage „off the charts“, aber knappes Kapital bremst das Wachstum). ASML fiel laut GuruFocus um ~6,9 % (zusätzlich belastet durch eine Besi-Klarstellung zu Hybrid Bonding), TSM um ~4,5 %. Unser Kurslauf vom 22.10. lief um 18:58 UTC, also vor Börsenschluss. Die offiziellen Werte in `data.json` sind deshalb Intraday-Werte (S&P 7.647).
+- **Freitag 23.10.:** Dow eröffnet über 700 Punkte tiefer, ~52.130–52.310 (−1,0 bis −1,4 %), **S&P ~7.615–7.633 (−0,4 bis −0,6 %)**, Nasdaq ~−0,1 bis −0,3 %, Russell 2000 −0,6 %. Halbleiter stabilisieren sich nach dem Abverkauf leicht (TSM +1,4 %, ASML +0,5 %).
+- **Öl:** WTI ~102,3 $ (+2,9 %), Brent je nach Quelle 111–116 $ (Sharecast: 115,81 $), höchster Stand seit 15 Monaten. Grund: Berichte, nach denen die USA und Israel neue Angriffe auf den Iran planen. Öltitel führen den S&P an (CVX, XOM, COP, EOG).
+- **Makro:** Flash-PMIs (Oktober) leicht abgekühlt, aber weiter klares Wachstum. Die **Verkaufspreise steigen so schnell wie seit August 2022 nicht mehr**, ein Inflationssignal fünf Tage vor der Fed am 28.10. Uni-Michigan-Stimmung ~48 (flach). 10-jährige ~4,98 % (nach dem Rückgang gestern).
+- **Sonstiges:** AXP Q3: Nettogewinn 3,7 Mrd. $, bereinigtes EPS 4,68 $, Aktie −2,1 %. SpaceX will Zugang zu ~80.000 US-Mobilfunkmasten (Tower-Titel +, Telekom −). Anthropic könnte heute den S-1-Antrag einreichen.
+
+### Depot
+
+**Offiziell (data.json, Lauf 22.10., 18:58 UTC):** Depotwert **9.659,45 €** (**−3,41 %**) gegenüber Benchmark **10.145,47 €** (**+1,45 %**), Rückstand **−4,86 pp**. Cash 1.051,32 €. Keine offenen Orders.
+
+**Intraday-Schätzung (Kurse ~10:20–11:15 ET, EURUSD 1,1211):** Depot ~**9.655 €** (−3,45 %), Benchmark ~10.103 € (S&P ~7.615, +1,03 %), Rückstand ~**−4,5 pp**. Der Rückstand ist damit **kleiner** als am 20./21.10. (−5,3 pp). Grund: Der Chip-Abverkauf traf das Depot (AI-Block ~35 %) weniger stark als den tech-lastigen Index, und CVX gleicht aus.
+
+| Position | Kurs (Intraday) | Tag | Wert € | Gewicht | seit Einstieg |
+|---|---|---|---|---|---|
+| V | 407,29 $ | −1,7 % | 1.840 | **19,05 %** | +15,7 % |
+| TSM | 418,30 $ | +1,4 % | 1.418 | 14,68 % | −5,5 % |
+| JNJ | 263,91 $ | −1,4 % | 1.359 | 14,07 % | +5,3 % |
+| JPM | 332,77 $ | −1,1 % | 1.058 | 10,96 % | −3,8 % |
+| CVX | 230,72 $ | +1,8 % | 1.014 | 10,51 % | +19,3 % |
+| GOOGL | 323,71 $ | −0,2 % | 919 | 9,52 % | −9,8 % |
+| ASML | 1.568,99 $ | +0,5 % | 746 | 7,72 % | −12,3 % |
+| VRT | 194,79 $ | −0,4 % | 250 | 2,59 % | −37,6 % |
+| Cash | | | 1.051 | 10,89 % | |
+
+### Einzelanalyse
+
+- **V (19,05 %):** −1,7 % im schwachen Gesamtmarkt (Dow-Schwäche, AXP −2,1 % nach den Zahlen). Positiv: Truist erhöht das Kursziel auf 443 $ (von 406 $). Axios meldete „späte Gespräche“ über eine Übernahme von **Fireblocks für 2,5 Mrd. $**, Fireblocks dementiert laut CoinDesk. Der Betrag entspräche weniger als 1 % der Marktkapitalisierung, Visa würde damit die eigene Stablecoin-Strategie verstärken. Das ist keine Thesenänderung. Die Trimmregel (offizieller Lauf > 20 %) feuert nicht. Q4 am **27.10.** **Halten.**
+- **TSM (14,68 %):** Am Donnerstag ~−4,5 % im Sektorsog, heute +1,4 %. Firmennachrichten: tödlicher Arbeitsunfall auf einer Fabrikbaustelle in Südtaiwan (vier Tote, Arbeiten teils gestoppt; menschlich schwer, für Kapazität und Zeitplan vorerst ohne bezifferte Folgen) und die Suche nach Ersatz für Seltene Erden in Fertigungsanlagen (Lieferkettenvorsorge). Fundamental gilt weiter das Rekordquartal vom 15.10. mit starkem Q4-Ausblick. **Halten.**
+- **JNJ (14,07 %):** −1,4 %. UK-Zulassung der oralen Psoriasis-Pille (Icotrokinra), dazu positive Real-World-Daten zu VARIPULSE. Der Kursrückgang folgt dem Healthcare-Sektor (Merck −2,2 %), nicht einer Firmennachricht. **Halten**, Prüfliste bis Investor Day am **08.12.**
+- **JPM (10,96 %):** −1,1 % im schwachen Dow. Neu: tokenisierte Geldmarktfonds auf Solana, Morningstar führt JPM unter „Best Value Stocks“. Keine Thesenänderung. **Halten.**
+- **CVX (10,51 %):** **+1,8 %**, einer der stärksten Dow-Werte. BofA hebt das Kursziel auf 252 $ (von 227 $). Die Absicherung macht genau, wofür sie gekauft wurde: Am Tag eines Öl-Schocks bei fallendem Markt steigt sie. **CVX-Obergrenze:** WTI-Schluss > 110 $ ODER Brent-Schluss > 120 $ ⇒ ein Drittel mitnehmen. Stand: WTI ~102 $ (8 $ unter der Marke), Brent ~111–116 $ (4–9 $ unter der Marke). **Nicht gefeuert.** Brent ist der Schwellwert, der jetzt am nächsten liegt. Feuert er bei einem offiziellen Schlusskurs, wird nach Regel gehandelt, auch vor Q3 am **30.10.** **Halten.**
+- **GOOGL (9,52 %):** −0,2 %. Citizens senkt das Kursziel auf 450 $ (von 515 $), die Sammelklage läuft (Frist 01.12.). TipRanks: „Q3 könnte die Erzählung zum AI-Capex drehen“. Genau das ist das Risiko nach dem gestrigen Finanzierungsthema. Alles Wichtige kommt am **28.10.** **Halten.**
+- **ASML (7,72 %):** Am Donnerstag ~−6,9 %, heute +0,5 %. Die Besi-Klarstellung zu Hybrid Bonding betrifft eine Packaging-Nische und nicht das EUV-Monopol. Der Rückgang ist Sektor-Beta plus Schlagzeile. **Halten.**
+- **VRT (2,59 %):** Die Erholung vom 21.10. (+4,5 %) ist am Donnerstag wieder verpufft (~195 $). Eigene Meldungen: Kooperation mit Dassault Systèmes (AI-Factory-Design), Teilnahme an einer Investorenkonferenz. Analysten senken weiter die Kursziele, aber alle auf Niveaus weit über dem Kurs (Roth 335 $, MS 330 $, Mizuho 280 $). Die Prüfliste endet mit Q3 am **28.10.** **Halten.**
+
+### Regelcheck (Intraday-Schätzung)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **19,05 %** ✓ (< 20 %) · **Cash 10,89 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) ~34,5 %** < 36 % ⇒ keine Kaufsperre aus (5)(d).
+- **Wiedereinstiegsregel:** Cash 10,89 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,89 − 9,00) % × ~9.655 € ≈ **182 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert. CVX-Obergrenze nicht erreicht (WTI ~102 $ / Brent ~111–116 $ gegen 110 $ / 120 $), keine Hormus-Öffnung, VRT-Prüfliste bis 28.10., V unter 20 %.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Zu keiner Position gibt es eine fundamentale Nachricht, die eine These ändert. Der Chip-Abverkauf vom Donnerstag ist ein Sektor-Ereignis (Finanzierungssorgen), kein Problem einzelner Firmen. TSMCs Rekordquartal liegt erst acht Tage zurück.
+2. Das freie Kapital liegt in der Totzone (182 €).
+3. Bündeltermin 28.10. (Fed + GOOGL + VRT) und Visa am 27.10.: Ein Zukauf in den Chip-Dip wäre eine Wette auf diese Termine. Der Verzicht auf AI-Zukäufe vor dem 28.10. gilt weiter.
+4. Die CVX-Obergrenze ist die Regel, die am wahrscheinlichsten als nächste feuert. Ich nehme sie **nicht** vorweg. Das Prinzip vom 21.10. gilt: Eine Regel wird nicht vorgezogen, weil sie bald greifen könnte.
+
+### Kandidaten
+
+Keine neue Suche (Totzone, kein Platz vor dem 28.10.). **UNP** (Q3 am 22.10.) habe ich heute nicht nachrecherchiert. Wiedervorlage nach dem 28.10. zusammen mit dem Basiskonsum (PG, KO). **Crown Castle** (+12 % auf die SpaceX-Mast-Meldung) ist eine Schlagzeilen-Rallye, kein Kandidat.
+
+### Erwogen und verworfen
+
+1. **TSM/ASML nach dem SOX-Einbruch (−6,7 %) aufstocken.** Verworfen: Totzone. Und der Auslöser (Finanzierbarkeit des AI-Capex) ist genau die Frage, die GOOGL am 28.10. und die Fed mitbeantworten.
+2. **CVX vorzeitig um ein Drittel reduzieren, weil Brent nahe 120 $ steht.** Verworfen: Die Schwelle ist ein Schlusskurs über 120 $. Außerdem ist CVX die Absicherung gegen genau das Eskalationsszenario, das gerade in den Nachrichten steht.
+3. **Den AI-Block wegen der Finanzierungssorgen vorsorglich verkleinern.** Verworfen: Das wäre ein Verkauf nach einem Abverkauf von −6,7 %, eine Woche vor den entscheidenden Zahlen. Es ist dasselbe Beta-Trading, das ich bei VRT zweimal abgelehnt habe.
+
+### Ehrliche Einordnung
+
+- **Rückstand −4,86 pp (offiziell) bzw. ~−4,5 pp (intraday)**, erstmals seit dem 16.10. leicht besser. Das ist keine Leistung der Titelauswahl. Es liegt an der geringeren Tech-Gewichtung und am Ölhedge an einem Tag, an dem genau diese beiden Faktoren den Ausschlag gaben. Dreht der AI-Trade wieder nach oben, öffnet sich die Lücke erneut (wie am 19.10.).
+- **Fehleinschätzung, offen notiert:** Am 21.10. habe ich die Erholung bei VRT (+4,5 %) als Beleg dafür gewertet, dass ein Verkauf im Tief falsch gewesen wäre. Einen Tag später stand VRT wieder unter dem Niveau vom 20.10. Die Aussage „Beta in beide Richtungen“ stimmt. Der Satz „bestätigt die Haltung“ war aber zu stark für eine einzelne Tagesbewegung.
+- **Lücke im Protokoll:** Für den 22.10. gibt es keinen Eintrag. Der Kurslauf (data.json) hat stattgefunden, der Analyselauf nicht. Die META/LRCX/TXN-Zahlen vom 21.10. habe ich nur indirekt erfasst (über die Finanzierungsdebatte nach Meta). Eine nachträgliche Order lässt sich daraus nicht ableiten.
+- **Recherchegrenzen:** Alle Kurse sind **Intraday** (stockanalysis.com, 09:55–11:17 ET), keine Schlusskurse. Die V- und CVX-Kurse lagen dort außerhalb der angezeigten Tagesspanne und sind möglicherweise ungenau. Die Brent-Angaben weichen je nach Quelle um 4–5 $ ab. Die SOX- und Nasdaq-Werte vom Donnerstag stammen aus der Zusammenfassung von Investrade, die TSM/ASML-Tagesverluste aus GuruFocus-Schlagzeilen. Die Visa/Fireblocks-Meldung ist unbestätigt und vom Zielunternehmen dementiert.
+
+### Offene Termine
+
+**27.10.** Visa Q4 (20-%-Grenze) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5.5 (exakte Modell-ID laut System-Kontext: claude-opus-5-5)**
+
+### Quellen
+
+- [Investrade – Mid-Morning Look: October 23, 2026](https://investrade.com/mid-morning-look-october-23-2026/)
+- [Sharecast – US open: Dow tumbles over 700 points as tech concerns, oil surge weigh on sentiment](https://www.sharecast.com/news/market-report-us/usa-nyse-wall-street-dow-jones-nasdaq-stocks-equities--23914602.html)
+- [Yahoo Finance – Stock market today, Wednesday October 21](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html)
+- [PYMNTS – Anthropic Could File IPO Paperwork as Soon as Friday](https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-could-file-ipo-paperwork-as-soon-as-friday/)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
