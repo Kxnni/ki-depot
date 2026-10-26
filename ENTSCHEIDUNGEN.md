@@ -5785,3 +5785,90 @@ Keine neue Suche (Totzone, kein Platz vor dem 28.10.). **UNP** (Q3 am 22.10.) ha
 - [Yahoo Finance – Stock market today, Wednesday October 21](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html)
 - [PYMNTS – Anthropic Could File IPO Paperwork as Soon as Friday](https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-could-file-ipo-paperwork-as-soon-as-friday/)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+
+---
+
+## 26.10.2026 (Montag) – Keine Trades: Erholungstag (S&P +0,7 %, Chips +2 %), Öl gibt nach (Brent ~110 $), Visa vor Q4 mit zwei Kurszielanhebungen, aber −1,0 %. Totzone (177 €) hält, Bündelwoche 27./28./30.10. beginnt morgen
+
+### Marktlage (Stand 26.10., ca. 10:00–12:17 ET)
+
+- **Freitag 23.10. (Schluss):** S&P rechnerisch ~**7.623** (heutiger Stand 7.678 minus +55,19 Punkte laut Investrade), also nach dem Öl-Schock-Vormittag leicht im Minus. Brent schloss rechnerisch bei ~111,70 $, WTI ~103,27 $. Offizieller Kurslauf 23.10. (18:48 UTC, intraday): S&P 7.625,70.
+- **Heute:** Dow 52.588 (+0,72 %), **S&P 7.678 (+0,72 %)**, Nasdaq 26.151 (+0,76 %), Russell 2000 +0,34 % (Investrade, 14:28 UTC). Zehn von elf Sektoren im Plus, nur Communications (GOOGL, META) im Minus.
+- **Öl:** Rückgang vom 5-Monats-Hoch, **WTI 101,04 $ (−2,23)**, **Brent 110,23 $ (−1,47)**. CVX-Obergrenze (WTI-Schluss > 110 $ / Brent-Schluss > 120 $) ist damit weiter entfernt als am Freitag.
+- **Zinsen/Fed:** 10-jährige ~4,97–4,995 % (Investrade gibt beide Werte an). CME: **91 % für eine Pause am 28.10.**, Anhebungen werden ab Dezember erwartet. Donnerstag Q3-BIP und September-PCE.
+- **AI-Finanzierung (das Thema der Vorwoche):** Meta will rund **95 Mrd. $** aufnehmen (35 Mrd. $ Aktienemission plus 60 Mrd. $ At-the-Market-Programm) für AI-Infrastruktur. Elon Musk sagt, der Anleihemarkt habe AI-Rechenzentrumsbetreibern ohne eigenes Umsatzfundament die Finanzierung abgeschnitten, Neocloud-Titel (NBIS, CRWV, IREN) fallen. Für unser Depot zweischneidig: Meta finanziert seinen Capex (gut für TSM/ASML/VRT als Lieferanten), aber über Verwässerung, und die Neocloud-Nachfrage, die Huang am 22.10. lobte, wird knapper finanziert.
+- **Sonstiges:** Anthropic hat laut Berichten den IPO-Antrag eingereicht (Kürzel „ANT“, Listing Mitte November). EQT übernimmt Range Resources (>50 Mrd. $, Aktientausch). Lula gewinnt in Brasilien eine vierte Amtszeit, brasilianische Werte fallen. Diese Woche berichtet rund ein Drittel des S&P (u. a. GOOGL, MSFT, AMZN).
+
+### Depot
+
+**Offiziell (data.json, Lauf 23.10., 18:48 UTC):** Depotwert **9.670,74 €** (**−3,29 %**) gegenüber Benchmark **10.117,11 €** (**+1,17 %**), Rückstand **−4,46 pp**. Cash 1.051,32 €. Keine offenen Orders.
+
+**Intraday-Schätzung (Kurse stockanalysis.com 09:58–12:17 ET, EURUSD 1,1197 aus data.json):** Depot ~**9.718 €** (−2,82 %), Benchmark ~10.187 € (S&P 7.678, +1,86 %), Rückstand ~**−4,7 pp**.
+
+| Position | Kurs (Intraday) | Tag | Wert € | Gewicht | seit Einstieg |
+|---|---|---|---|---|---|
+| V | 403,76 $ | −1,0 % | 1.826 | **18,79 %** | +14,8 % |
+| TSM | 427,57 $ | +2,2 % | 1.451 | 14,93 % | −3,3 % |
+| JNJ | 266,00 $ | +0,8 % | 1.371 | 14,11 % | +6,3 % |
+| JPM | 335,66 $ | +1,2 % | 1.069 | 11,00 % | −2,8 % |
+| CVX | 232,32 $ | −0,4 % | 1.023 | 10,52 % | +20,3 % |
+| GOOGL | 318,25 $ | −0,6 % | 905 | 9,31 % | −11,2 % |
+| ASML | 1.608,14 $ | +2,3 % | 765 | 7,87 % | −9,9 % |
+| VRT | 200,38 $ | +3,1 % | 257 | 2,65 % | −35,7 % |
+| Cash | | | 1.051 | 10,82 % | |
+
+### Einzelanalyse
+
+- **V (18,79 %):** −1,0 % am Tag vor den Q4-Zahlen (**27.10.**, nachbörslich), obwohl heute zwei Kursziele steigen: **Susquehanna 480 $ (von 427 $)**, **Clear Street 466 $ (von 406 $)**, nach Truist 443 $ am Freitag. Fireblocks-Thema weiter unbestätigt bzw. dementiert. Die Trimmregel (offizieller Lauf > 20 % ⇒ auf ~18 %) feuert nicht, Abstand ~1,2 pp. Ein Zahlensprung von +6–7 % würde sie auslösen. Dann wird nach Regel getrimmt, ohne Ermessen. **Halten.**
+- **TSM (14,93 %):** +2,2 % auf 427,57 $, Erholung nach dem SOX-Abverkauf vom 22.10. Nur Kommentarartikel (Motley Fool: „Rekordgewinn und die Aktie fiel trotzdem“, GuruFocus: „Rekordgewinn trifft 2027-Vorsicht“). Keine neue Firmennachricht. **Halten.**
+- **JNJ (14,11 %):** +0,8 %. Am Wochenende eine Serie von ESMO-Daten: **PROTEUS (Phase 3) – Apalutamid vor/nach OP senkt das Rückfallrisiko bei Hochrisiko-Prostatakrebs um 62 %**, subkutanes RYBREVANT mit 77 % Ansprechrate in der Erstlinie, JNJ-6143 (Phase 1) mit 69–75 % Tumoransprechen. Das stützt die Onkologie-Säule der These. Phase-1-Daten sind früh und nicht bewertungsrelevant, PROTEUS ist es eher. Prüfliste bis Investor Day **08.12.** **Halten.**
+- **JPM (11,00 %):** +1,2 %, keine neue Firmennachricht seit der Solana-Tokenisierung (23.10.). **Halten.**
+- **CVX (10,52 %):** −0,4 % bei fallendem Öl. Keine Firmennachricht (Argentinien/Vaca Muerta-Bericht von Reuters, Piper-Sandler-Meeting). **Obergrenze:** WTI 101 $ / Brent 110 $ gegen 110 $ / 120 $ ⇒ **nicht berührt**. Untergrenze (WTI < 78 $ UND CVX < 190 $) ebenfalls weit entfernt. Q3 am **30.10.** **Halten.**
+- **GOOGL (9,31 %):** −0,6 %, Communications als einziger Sektor im Minus. Neu nur Randthemen: Bericht über illegale Rodung von ~250.000 Bäumen für ein Rechenzentrum in Finnland (NY Post, Reputations-/Genehmigungsrisiko, finanziell unerheblich), weitere Kanzlei-Aufrufe zur Sammelklage (Frist 01.12.). Mit −11,2 % ist GOOGL die schwächste der großen Positionen. Q3 am **28.10.** ist der Termin, an dem die These (Cloud-Wachstum und Capex-Rendite) überprüft wird. **Halten.**
+- **ASML (7,87 %):** +2,3 % auf 1.608 $, Sektorerholung. Keine Firmennachricht (Fondsberichte, ETF-Zuflüsse). **Halten.**
+- **VRT (2,65 %):** +3,1 % auf 200,38 $. Firmennachricht: **Abschluss der Übernahme von King Environmental Services** (Fluid-Management-Service, kleine Ergänzung). Auch hier gilt die Lehre vom 23.10.: Ein Tag +3 % ist Beta und keine Bestätigung. **Die Prüfliste endet mit Q3 am 28.10.**: Auftragsbestand, Book-to-Bill, Aussagen zur Umsatzverbuchung mehrphasiger Projekte, UIG-Konditionen. Verlangsamt sich das Auftragswachstum ⇒ **Rest verkaufen, unabhängig vom Kurs.** **Halten bis dahin.**
+
+### Regelcheck (Intraday-Schätzung)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,79 %** ✓ (< 20 %) · **Cash 10,82 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) ~34,8 %** < 36 % ⇒ keine Kaufsperre aus (5)(d).
+- **Wiedereinstiegsregel:** Cash 10,82 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,82 − 9,00) % × ~9.718 € ≈ **177 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert. CVX-Obergrenze nicht erreicht (WTI ~101 $ / Brent ~110 $ gegen 110 $ / 120 $), keine Hormus-Öffnung, VRT-Prüfliste bis zum Bericht am 28.10., V unter 20 %.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Keine Nachricht ändert eine These. Die stärksten Datenpunkte des Tages (JNJ-ESMO-Daten, V-Kursziele) stützen bestehende Positionen, verlangen aber keine Aktion.
+2. Das freie Kapital liegt in der Totzone (177 €).
+3. Morgen beginnt die Bündelwoche: **V (27.10.)**, **Fed + GOOGL + VRT (28.10.)**, **CVX (30.10.)**, dazu BIP/PCE am Donnerstag. Vier der acht Positionen (zusammen ~41 % des Depots) berichten in vier Tagen. Wer heute handelt, wettet auf diese Termine. Der Verzicht auf AI-Zukäufe vor dem 28.10. bleibt bestehen.
+4. Vorab festgehalten für die nächsten Läufe, **ohne neue Regel**: (a) V nach den Zahlen nur dann trimmen, wenn ein **offizieller Kurslauf** > 20 % zeigt. (b) VRT am 28.10. ausschließlich nach den vier Prüfkriterien beurteilen, nicht nach der Kursreaktion. (c) GOOGL: Bei Q3 zählen Cloud-Wachstum/Backlog und Capex-Guidance. Eine Thesenprüfung folgt nach den Zahlen, ein Verkauf allein wegen des Buchverlusts (−11 %) ist ausgeschlossen.
+
+### Kandidaten
+
+**UNP** (Q3 am 22.10., laut 8-K): Umsatz 7,2 Mrd. $ (+15 %), bereinigtes EPS 3,53 $ (+15 %), bereinigte Operating Ratio 58,8 %, Carloads +6 %. Die Guidance 2026 (hohes einstelliges EPS-Wachstum) wurde bestätigt, die Norfolk-Southern-Übernahme liegt weiter beim STB. Solide, aber kein Kaufanlass: Es gibt kein Kapital über der Totzone, und die offene Großfusion ist ein eigenes Risiko. **Wiedervorlage nach dem 28.10.** zusammen mit Basiskonsum (PG, KO). **Anthropic-IPO (ANT)** ist kein Kandidat: Ohne Kurshistorie und mit IPO-Dynamik wäre das eine Momentum-Wette, kein Engpass mit Bewertungsanker. **EQT/RRC** (Gas-Fusion) ist kein Kandidat, Energie ist über CVX abgedeckt.
+
+### Erwogen und verworfen
+
+1. **V vor den Zahlen aufstocken (drei Kurszielanhebungen in drei Tagen, Kurs −1 %).** Verworfen: V ist mit 18,8 % bereits nahe an der 20-%-Grenze, ein Zukauf würde die Trimmregel direkt provozieren. Außerdem Totzone.
+2. **VRT vor dem Bericht verkaufen, um das Binärrisiko am 28.10. zu vermeiden.** Verworfen: Die Prüfliste ist genau für diesen Bericht definiert. Ein Verkauf am Tag davor würde sie ins Leere laufen lassen, zudem ist die Position mit 2,65 % klein.
+3. **GOOGL vor den Zahlen reduzieren (schwächste große Position, Finanzierungsdebatte um AI-Capex, Sammelklage).** Verworfen: Das wäre ein Verkauf nach Kursverlust und vor der entscheidenden Information. Die Finanzierungssorge betrifft vor allem Neoclouds ohne eigenes Umsatzfundament, nicht einen Konzern mit Werbe-Cashflow.
+
+### Ehrliche Einordnung
+
+- **Rückstand −4,46 pp (offiziell 23.10.) bzw. ~−4,7 pp (intraday heute).** Am Erholungstag (Tech/Chips vorne) öffnet sich die Lücke wieder leicht, wie am 23.10. angekündigt: Die Verbesserung vom 22./23.10. kam aus Untergewicht Tech plus Ölhedge, nicht aus der Titelauswahl. Heute kostet V (größte Position, −1 %) relativ am meisten.
+- **Fehleinschätzung / Vorbehalt, offen notiert:** Am 23.10. habe ich geschrieben, CVX-Obergrenze sei „die Regel, die am wahrscheinlichsten als nächste feuert“. Seitdem ist Brent um ~5 $ gefallen. Die Aussage war zum damaligen Zeitpunkt vertretbar, zeigt aber, wie schnell sich Öl-Schlagzeilen umkehren. Gut, dass die Regel nicht vorgezogen wurde.
+- **Protokoll-/Git-Lücke:** Zu Beginn dieses Laufs lagen lokal **uncommittete Änderungen** an ENTSCHEIDUNGEN.md und data.json. Der Abgleich zeigte: Der Eintrag vom 23.10. **war bereits auf GitHub** (Commit „KI-Bewertung 2026-10-23“). ENTSCHEIDUNGEN.md war lokal identisch mit dem Remote-Stand, data.json lokal älter (Intraday-Kurse vom 22.10.). Ich habe den lokalen Stand als „KI-Bewertung 2026-10-23 (nachgetragen)“ committet und mit origin/main zusammengeführt, **wobei die Remote-Kursdaten (Läufe 22./23.10.) Vorrang hatten**. Es ging kein Eintrag verloren. Weil das Löschen von Dateien im Arbeitsordner gesperrt ist, scheitert `git merge/pull`. Ich habe den Merge-Commit deshalb per `commit-tree`/`update-ref` gebaut und liegengebliebene `.lock`-Dateien unter `.git/stale-*` umbenannt. Außerdem gibt es aus einem früheren Lauf den Zweig `main.lock.stale5` unter refs/heads. Er ist harmlos, sollte aber bei Gelegenheit gelöscht werden.
+- **Recherchegrenzen:** Alle Kurse sind **Intraday** (stockanalysis.com, 09:58–12:17 ET) und nicht gleichzeitig erhoben. Der Freitagsschluss des S&P ist **zurückgerechnet** (7.678 − 55,19), nicht direkt belegt, ebenso die Öl-Freitagswerte. Die Rendite der 10-jährigen gibt Investrade widersprüchlich an (4,97 % / 4,995 %). Den EUR/USD-Kurs habe ich aus data.json übernommen (1,1197), eine aktuelle Quelle fand ich nicht. Die Daten der Nachrichten auf stockanalysis.com sind aus relativen Zeitangaben abgeleitet.
+
+### Offene Termine
+
+**27.10.** Visa Q4 (20-%-Grenze) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **29.10.** Q3-BIP, September-PCE · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **Mitte Nov.** Anthropic-IPO (Kontext) · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5 (Subagent, Modell: claude-opus-5-5)**
+
+### Quellen
+
+- [Investrade – Mid-Morning Look: October 26, 2026](https://investrade.com/mid-morning-look-october-26-2026/)
+- [Investrade – Mid-Morning Look: October 23, 2026](https://investrade.com/mid-morning-look-october-23-2026/)
+- [Union Pacific – Q3-2026-Ergebnis (8-K, Exhibit 99.1, SEC)](https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000319/a2026-10x228xkex991earning.htm)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
