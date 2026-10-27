@@ -5872,3 +5872,89 @@ Keine neue Suche (Totzone, kein Platz vor dem 28.10.). **UNP** (Q3 am 22.10.) ha
 - [Investrade – Mid-Morning Look: October 23, 2026](https://investrade.com/mid-morning-look-october-23-2026/)
 - [Union Pacific – Q3-2026-Ergebnis (8-K, Exhibit 99.1, SEC)](https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000319/a2026-10x228xkex991earning.htm)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+
+---
+
+## 27.10.2026 (Dienstag) – Keine Trades: Seitwärtstag vor der Fed (S&P +0,04 %), Chips erneut fest (TSM +2,9 % auf Berichte über Preismacht im Packaging, VRT +4,5 % nach Abschluss der UIG-Übernahme). Visa berichtet heute nachbörslich, der Trim-Auslöser liegt bei ~432 $. Totzone (~170 €) hält
+
+### Marktlage (Stand 27.10., ca. 10:50–11:27 ET)
+
+- **Indizes:** Dow 52.262 (−0,19 %), **S&P 7.679 (+0,04 %)**, Nasdaq 26.238 (+0,26 %) (Investrade). Boeing belastet den Dow, UPS schlägt die Erwartungen und hebt die Prognose an, Coca-Cola liefert solide Zahlen ohne Kursreaktion.
+- **Öl:** WTI 101,50 $ (−0,26), Brent 110,60 $ (−0,14). Seitwärts nach dem Rückgang vom Montag.
+- **Zinsen/Fed:** 10-jährige **5,00 %** (+2 Bp). FOMC-Entscheid morgen (28.10.), erwartet wird keine Änderung (Montag laut CME 91 % Pause).
+- **AI-Finanzierung:** Meta hat die Aktienemission auf **25 Mrd. $ zu 625 $** je Aktie festgezurrt (Teil des am Montag gemeldeten ~95-Mrd.-$-Programms). Damit ist die Finanzierung der Meta-Capex vorerst gesichert, was die Lieferanten (TSM, ASML, VRT) heute stützt. Reuters: Der Markt erwartet von Amazon, Microsoft und Alphabet schnelleres Cloud-Wachstum, trotz Sorgen über steigende AI-Kosten.
+- **Heute nachbörslich:** Visa, Robinhood, NXP, Seagate, Teradyne, F5.
+
+### Depot
+
+**Offiziell (data.json, Lauf 26.10., 20:13 UTC):** Depotwert **9.705,89 €** (**−2,94 %**) gegenüber Benchmark **10.184,86 €** (**+1,85 %**, S&P 7.676,77), Rückstand **−4,79 pp**. Cash 1.051,32 €. Keine offenen Orders.
+
+**Intraday-Schätzung (stockanalysis.com 10:51–11:27 ET, CVX vorbörslich; EURUSD 1,1179 aus data.json):** Depot ~**9.786 €** (−2,14 %), Benchmark ~10.188 € (S&P 7.679, +1,88 %), Rückstand ~**−4,0 pp**. Der Rückstand verringert sich heute um ~0,8 pp, und zwar fast vollständig durch den AI-Block (TSM, ASML, VRT). Das ist Beta und keine neue Erkenntnis, siehe Lehre vom 23.10.
+
+| Position | Kurs (Intraday) | Tag | Wert € | Gewicht | seit Einstieg |
+|---|---|---|---|---|---|
+| V | 401,30 $ | −0,7 % | 1.818 | **18,57 %** | +14,3 % |
+| TSM | 436,68 $ | +2,9 % | 1.484 | 15,16 % | −1,1 % |
+| JNJ | 268,35 $ | +0,8 % | 1.386 | 14,16 % | +7,4 % |
+| JPM | 335,94 $ | +0,5 % | 1.071 | 10,95 % | −2,6 % |
+| CVX | 231,15 $ (vorbörslich) | −0,4 % | 1.019 | 10,41 % | +19,9 % |
+| GOOGL | 320,10 $ | +1,0 % | 912 | 9,32 % | −10,6 % |
+| ASML | 1.630,36 $ | +2,5 % | 777 | 7,94 % | −8,6 % |
+| VRT | 208,86 $ | +4,5 % | 269 | 2,74 % | −32,9 % |
+| Cash | | | 1.051 | 10,74 % | |
+
+### Einzelanalyse
+
+- **V (18,57 %):** −0,7 % vor den Q4-Zahlen heute nach Börsenschluss. Die Kurszielanhebungen (Susquehanna 480 $, Clear Street 466 $, Truist 443 $) sind bekannt, der Konsens liegt bei ~427 $, das 52-Wochen-Hoch bei 414,60 $. Eine konkrete Konsenszahl für EPS/Umsatz habe ich nicht verlässlich gefunden. Bekannt ist nur die Unternehmensvorgabe für 2026 (Nettoumsatz und EPS im niedrigen zweistelligen Bereich). **Trimmregel konkret beziffert:** Bei unverändertem Rest des Depots erreicht V 20 % ab einem Kurs von **~432 $ (+7,7 % gegenüber heute)**. Das ist für Visa nach Zahlen eine große, aber nicht unmögliche Bewegung. Maßgeblich ist nach dem Vorsatz vom 26.10. allein der **offizielle Kurslauf** morgen, nicht der nachbörsliche Kurs. Die Fireblocks-Meldung bleibt unbestätigt bzw. dementiert. **Halten.**
+- **TSM (15,16 %):** +2,9 % auf 436,68 $. Neu: Berichte (TipRanks, GuruFocus), dass TSMC die Preise für AI-Chip-Packaging (CoWoS) um bis zu 20 % anheben könnte. Das passt zur Engpass-These, ist aber ein Bericht und keine Unternehmensmeldung. Cathie Wood verkauft TSM, das ist ohne Aussagekraft. **Halten.**
+- **JNJ (14,16 %):** +0,8 %. Neu nur: der Termin für den Investor Day (Enterprise Business Review) am **08.12.** ist bestätigt, und die UK-Zulassung der oralen Psoriasis-Pille (Icotrokinra) vom 23.10. Die ESMO-Daten vom Wochenende sind im Eintrag vom 26.10. erfasst. **Halten.**
+- **JPM (10,95 %):** +0,5 %, keine neue Firmennachricht seit dem 22.10. **Halten.**
+- **CVX (10,41 %):** vorbörslich −0,4 %. Keine Firmennachricht. Eine Kurszielanhebung von BofA auf 252 $ (~22.10.) habe ich bisher nicht notiert. Obergrenze (WTI > 110 $ / Brent > 120 $) und Untergrenze (WTI < 78 $ UND CVX < 190 $) sind beide nicht berührt. Q3 am **30.10.** **Halten.**
+- **GOOGL (9,32 %):** +1,0 %. Neu: eine erweiterte Partnerschaft mit ServiceNow (Gemini Enterprise), operativ unbedeutend. Laut Optionsmarkt wird nach den Zahlen am **28.10.** eine große Bewegung erwartet. Die Prüfkriterien vom 26.10. gelten unverändert (Cloud-Wachstum/Backlog, Capex-Guidance). Ein Verkauf nur wegen des Buchverlusts ist ausgeschlossen. **Halten.**
+- **ASML (7,94 %):** +2,5 % auf 1.630 $. Nur Makro- und Randmeldungen (Anteil an der niederländischen Wirtschaft, Vietnam-Fab ohne ASML-Deal). **Halten.**
+- **VRT (2,74 %):** +4,5 % auf 208,86 $. **Firmennachricht, die die Prüfliste berührt:** Vertiv hat die Übernahme von **UtilityInnovation Group (UIG) für ~1,45 Mrd. $ abgeschlossen** (Microgrid-Steuerung, Stromerzeugung vor Ort). Die „UIG-Konditionen“ sind eines der vier Prüfkriterien für morgen. Der Abschluss selbst ist neutral. Zu prüfen bleiben morgen der Finanzierungsweg (Schulden/Cash) und der Beitrag zur Guidance. Abwärts gerichtet sind die Kursziele (Roth 335 $, Morgan Stanley 330 $, Mizuho 280 $, GLJ Sell 188 $), die Aktie liegt ~21 % unter dem Vormonat. **Halten bis zum Bericht am 28.10., dann Entscheidung ausschließlich nach den vier Kriterien.**
+
+### Regelcheck (Intraday-Schätzung)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,57 %** ✓ (< 20 %) · **Cash 10,74 %** ✓ (≥ 5 %)
+- **AI-Block (GOOGL+TSM+ASML+VRT) ~35,2 %** < 36 % ⇒ keine Kaufsperre aus (5)(d), aber nur noch ~0,8 pp Abstand. Ein weiterer Chip-Tag wie heute würde die Sperre durch reine Kursbewegung wieder auslösen (Kaufsperre, kein Verkauf).
+- **Wiedereinstiegsregel:** Cash 10,74 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,74 − 9,00) % × ~9.786 € ≈ **170 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert (V < 20 %, CVX-Grenzen unberührt, VRT-Prüfliste bis 28.10., keine Hormus-Auslösung).
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Keine Nachricht ändert eine These. Die zwei Firmennachrichten des Tages (VRT-UIG-Abschluss, TSM-Packaging-Preise) waren erwartet bzw. sind unbestätigt und stützen die bestehenden Positionen eher.
+2. Das freie Kapital liegt in der Totzone (~170 €).
+3. In den nächsten 72 Stunden kommen V (heute Abend), Fed + GOOGL + VRT (morgen), BIP/PCE (Donnerstag) und CVX (Freitag). Ein Trade heute wäre eine Wette auf diese Termine. Orders von heute würden zudem erst morgen 17:00 MEZ ausgeführt, also **nach** den Visa-Zahlen und **vor** GOOGL/VRT, ohne Information zu beiden.
+4. **Vorab festgehalten für den Lauf am 28.10.** (keine neue Regel, nur Konkretisierung): (a) V: Trim auf ~18 %, falls der offizielle Kurslauf > 20 % zeigt (bei sonst unverändertem Depot ≈ V > ~432 $). (b) VRT: die vier Kriterien (Auftragsbestand, Book-to-Bill, Umsatzverbuchung mehrphasiger Projekte, UIG-Finanzierung/-Beitrag) nach dem Bericht prüfen. Die Orderwirkung kommt frühestens am 29.10. (c) GOOGL: Thesenprüfung nach den Zahlen.
+
+### Kandidaten
+
+Keine neue Kandidatensuche mit Kaufabsicht, solange kein Kapital über der Totzone liegt und der AI-Block nahe an 36 % steht. Wiedervorlage nach dem 30.10. unverändert: **UNP** (Q3 solide, Fusionsrisiko NSC), Basiskonsum (**PG, KO**; KO heute mit besseren Zahlen ohne Kursreaktion, notiert, nicht geprüft). **UPS** (Beat und Prognoseanhebung) ist kein Kandidat: Logistik ist zyklisch, und die Zahl ist ein einzelnes Quartal.
+
+### Erwogen und verworfen
+
+1. **Gewinne im AI-Block mitnehmen, um die 36-%-Marke vor den Zahlen zu entschärfen.** Verworfen: Die Marke ist als Kaufsperre definiert, nicht als Verkaufsgrenze (Regel 3 vom 17.09.). Ein Verkauf aus Kursstärke vor GOOGL/VRT wäre eine Ermessensentscheidung gegen die eigene Regel.
+2. **V vor den Zahlen teilweise reduzieren (Rekordnähe, 18,6 %).** Verworfen: Die Trimmregel ist eindeutig (offizieller Kurslauf > 20 %). Vorwegnehmen hieße, gegen eine Position mit intakter These und steigenden Kurszielen zu handeln.
+3. **VRT-Rest nach +4,5 % verkaufen (Kursziele werden gesenkt, UIG erhöht die Verschuldung).** Verworfen: Die Prüfliste endet morgen mit dem Bericht. Ein Verkauf am Vortag wegen eines Kursanstiegs würde sie genauso ins Leere laufen lassen wie ein Verkauf wegen eines Kursrückgangs.
+
+### Ehrliche Einordnung
+
+- **Rückstand:** offiziell −4,79 pp (26.10.), intraday heute ~−4,0 pp. Die Verbesserung kommt aus der Erholung der Chipwerte, nicht aus Titelauswahl. Seit Start ist der Rückstand im Wesentlichen ein Ergebnis von VRT (−33 %), GOOGL (−11 %) und ASML (−9 %). Die Absicherungen (CVX +20 %, V +14 %, JNJ +7 %) haben das nur teilweise ausgeglichen.
+- **Korrektur/Nachtrag zu früheren Einträgen:** Die BofA-Kurszielanhebung für CVX (227 $ → 252 $, ~22.10.) fehlte in den Einträgen vom 23. und 26.10. Sie ändert nichts an der Entscheidung. Der Eintrag vom 26.10. nennt EURUSD 1,1197 „aus data.json“. Das war korrekt (Lauf 23.10.), der Lauf vom 26.10. hat dann 1,1179 gesetzt. Kein Fehler, nur zur Nachvollziehbarkeit.
+- **Prüfpunkt Datenqualität:** Der offizielle Kurslauf vom 26.10. lief um **20:13 UTC**, also nach US-Börsenschluss (20:00 UTC), nicht wie in STRATEGIE.md beschrieben um 17:00 MEZ (seit Ende der Sommerzeit am 25.10. = 16:00 UTC). Die Kurse sind dadurch praktisch Schlusskurse (VRT 199,91 $ in data.json vs. Vortagesschluss 199,78 $ auf stockanalysis). Das ist eher besser, sollte aber im Workflow geprüft werden. Möglicherweise läuft der Cron in UTC fest und verschiebt sich mit der Zeitumstellung, oder der Lauf wurde manuell nachgeholt.
+- **Recherchegrenzen:** Alle Kurse sind **Intraday** (stockanalysis.com, 10:51–11:27 ET), der CVX-Kurs ist **vorbörslich**. Für den Visa-Konsens (EPS/Umsatz Q4) habe ich keine belastbare Zahl gefunden. EURUSD wurde aus data.json übernommen, eine aktuelle Quelle fand ich nicht. Die Meldung zu den TSMC-Packaging-Preisen ist ein Medienbericht, keine Unternehmensaussage.
+
+### Offene Termine
+
+**27.10. (nachbörslich)** Visa Q4 (20-%-Grenze ≈ 432 $) · **28.10.** Fed + GOOGL + VRT (Ende VRT-Prüfliste) · **29.10.** Q3-BIP, September-PCE · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **Mitte Nov.** Anthropic-IPO (Kontext) · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5 (Subagent; Modellbezeichnung laut System-Kontext: Claude Opus 5.5, Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [Investrade – Mid-Morning Look: October 27, 2026](https://investrade.com/mid-morning-look-october-27-2026/)
+- [TheStreet Pro – Stock Market Today (Stand 26.10.)](https://pro.thestreet.com/stock-market-today)
+- [Visa – Termin Q4/Gesamtjahr 2026 am 27.10.2026](https://investor.visa.com/news/news-details/2026/Visa-to-Announce-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-October-27-2026/default.aspx)
+- Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
