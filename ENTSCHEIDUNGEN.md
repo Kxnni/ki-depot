@@ -5958,3 +5958,69 @@ Keine neue Kandidatensuche mit Kaufabsicht, solange kein Kapital über der Totzo
 - [TheStreet Pro – Stock Market Today (Stand 26.10.)](https://pro.thestreet.com/stock-market-today)
 - [Visa – Termin Q4/Gesamtjahr 2026 am 27.10.2026](https://investor.visa.com/news/news-details/2026/Visa-to-Announce-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-October-27-2026/default.aspx)
 - Kurse und Schlagzeilen: [stockanalysis V](https://stockanalysis.com/stocks/v/) · [TSM](https://stockanalysis.com/stocks/tsm/) · [JNJ](https://stockanalysis.com/stocks/jnj/) · [JPM](https://stockanalysis.com/stocks/jpm/) · [CVX](https://stockanalysis.com/stocks/cvx/) · [GOOGL](https://stockanalysis.com/stocks/googl/) · [ASML](https://stockanalysis.com/stocks/asml/) · [VRT](https://stockanalysis.com/stocks/vrt/)
+
+## 28.10.2026 (Mittwoch) – Keine Trades: VRT-Prüfliste mit dem Q3-Bericht bestanden (organische Aufträge > +100 %, Umsatz +61 %, Guidance zum dritten Mal angehoben) ⇒ Rest halten, nicht nachkaufen. Visa schlägt die Erwartungen, enttäuscht aber mit dem GJ2027-Ausblick (vorbörslich −1,4 %), V bleibt unter 20 %. Fed (Warsh) und GOOGL erst heute Abend, Totzone hält
+
+**Datenstand:** Offizieller Kurslauf 27.10. (19:45 UTC): Depot **9.822,27 €** (−1,78 % seit Start), Benchmark **10.263,10 €** (+2,63 %), Rückstand **−4,41 pp** (Vortag −4,79 pp). EURUSD 1,1141. Cash 1.051,32 € (10,70 %). `orders` war leer.
+
+### Marktlage
+
+- **Dienstag:** S&P 500 +0,6 % (zweiter Gewinntag), Nasdaq-100 +1,3 %, angeführt von Chips, Dow flach, Russell 2000 +1,2 %.
+- **Heute vorbörslich:** Futures gemischt (S&P +0,05 %, Nasdaq-100 +0,3 %, Dow −0,2 %). Die Fed entscheidet um 14:00 ET (Chair Kevin Warsh). Allgemein wird erwartet, dass die Zinsen unverändert bleiben. Danach berichten Alphabet und Microsoft.
+- **Öl:** Laut StockTwits/Yahoo steigt Brent um ~2 % auf ~116 $ und WTI um ~2,2 % auf ~102 $. Auslöser sollen von den Houthis reklamierte Raketenangriffe auf die saudische Raffinerie Ras Tanura sein. **Das ist nur eine Quelle, die ich nicht unabhängig bestätigt habe.** Die anderen Suchtreffer zu Ras Tanura stammen von 2021.
+- Einzelwerte: SK Hynix +8 % (Rekordzahlen), Robinhood −8 % (Verfehlung), Seagate −3 % trotz guter Zahlen.
+
+### Positionen (Gewichte aus dem Kurslauf 27.10.)
+
+- **VRT (2,74 %, vorbörslich ~241 $, +15,6 %) – Prüfliste heute fällig, Befund: BESTANDEN.** Q3: Umsatz 4,31 Mrd. $ (+61 %, organisch +55 %) gegen ~3,76 Mrd. $ Konsens. Bereinigtes EPS 2,21 $ gegen 1,82 $. **Organische Aufträge mehr als verdoppelt (> +100 % YoY).** Die Jahresprognose wurde zum dritten Mal angehoben: Umsatz 14,45–14,85 Mrd. $ (+650 Mio. $), bereinigtes EPS 7,10–7,20 $ (vorher 6,65–6,75 $). Nun die vier Kriterien einzeln:
+  1. *Auftragswachstum/Auftragsbestand:* Die Aufträge beschleunigen sich, sie verlangsamen sich nicht. Eine aktuelle Backlog-Zahl nennt die Pressemitteilung **nicht** (letzter bekannter Stand Ende 2025: 15,0 Mrd. $).
+  2. *Book-to-Bill:* wird **nicht** ausgewiesen. Eine grobe Schätzung von Stocktitan liegt bei ~1,8 (Q3 2025: ~1,4). Das ist keine Firmenangabe.
+  3. *Umsatzverbuchung mehrphasiger Projekte:* In der Mitteilung gibt es keine Aussage dazu. Die erhaltenen Anzahlungen (Deferred Revenue) sind aber auf **4,12 Mrd. $** gestiegen (Jahresende 2025: 1,81 Mrd. $). Das ist eher ein Gegenargument gegen die Sorge, Umsatz werde vorgezogen.
+  4. *UIG-Konditionen:* **unverändert** gegenüber der Ankündigung vom 02.09., nämlich 1,45 Mrd. $ in bar plus bis zu 1,15 Mrd. $ Earnout (im Eintrag vom 11.09. so festgehalten). Abgeschlossen am 26./27.10. Vertiv meldet weiterhin eine Netto-Cash-Position (Cash 3,51 Mrd. $, langfristige Schulden 2,93 Mrd. $).
+  **Rechtsfolge nach der Regel vom 14.09.:** „Bestätigt sich das Wachstum, ist die verbleibende halbe Position die richtige Größe und ich kaufe nicht nach.“ ⇒ **Halten, kein Nachkauf.** Die Prüfliste ist damit **abgeschlossen**. Für VRT gibt es ab heute keine Sonderregel mehr, es gelten nur noch die allgemeinen Depotregeln. Lücke, offen benannt: Kriterien 2 und 3 ließen sich aus der Pressemitteilung nicht direkt prüfen. Das Call-Transkript (Benzinga/Investing.com) habe ich nicht gelesen. Der Befund stützt sich deshalb auf das stärkste Kriterium (Auftragswachstum), das eindeutig ist.
+- **V (18,51 %; vorbörslich ~−1,4 %, nachbörslich −2,3 %):** Q4 GJ2026: Umsatz 12,1 Mrd. $ (+13 %) gegen 12,09 Mrd. $ erwartet, Non-GAAP-EPS 3,48 $ (+17 %) gegen 3,44 $. Zahlungsvolumen +9 %, Cross-Border +14 %. Dividende **+16 %** auf 0,78 $, Rückkäufe 4,0 Mrd. $ im Quartal. **Ausblick GJ2027:** Umsatzwachstum im niedrigen zweistelligen Prozentbereich, EPS-Wachstum niedrig zweistellig bis niedrige Teens. Das ist eine Verlangsamung gegenüber +16 % EPS im GJ2026 und der Grund für den Kursrückgang. **These (Qualitätsstabilisator außerhalb des AI-Themas) intakt**, die Abschwächung ist graduell und keine Gefahr für die These. **Trimmregel:** nicht ausgelöst (V < 20 %, im Szenario ~394 $ ≈ 18,2 %). Die Vorabfestlegung vom 27.10. (Trim nur, wenn der offizielle Kurslauf > 20 % zeigt) erledigt sich damit. **Halten.**
+- **GOOGL (9,41 %):** vorbörslich +1,2 % auf einen Bericht, nach dem OpenAI den Kauf von Google-TPUs erwägt. Finanzielle Details gibt es nicht, es ist ein Bericht und keine Bestätigung. Zahlen heute **nach Börsenschluss**. Die Prüfkriterien vom 26.10. (Cloud-Wachstum/Backlog, Capex-Guidance) werden **im nächsten Lauf** angewendet. Heute wäre jede Order eine Wette auf die Zahlen. **Halten.**
+- **TSM (15,22 %), ASML (7,99 %):** keine neue Firmennachricht. Die Chips trugen am Dienstag die Erholung. **Halten.**
+- **JNJ (14,18 %), JPM (10,95 %):** keine neue Firmennachricht gefunden (nicht gesondert gesucht, nur in den Marktberichten). **Halten.**
+- **CVX (10,29 %):** Q3 am **30.10.** Öl steigt laut einer Quelle auf Brent ~116 $ / WTI ~102 $. **Obergrenze** (Schluss WTI > 110 $ ODER Brent > 120 $ ⇒ ein Drittel mitnehmen): **nicht ausgelöst**, Brent liegt ~4 $ darunter. Untergrenze und Halbierungskriterium (Hormus-Öffnung) sind ebenfalls weit entfernt. Wie am 23.10. wird die Regel **nicht vorgezogen**. **Halten.**
+
+### Regelcheck (Szenario mit vorbörslichen Kursen VRT 241 $, V 394 $, GOOGL 327 $)
+
+- **8 Positionen** ✓ · größte Position V **~18,2 %** ✓ (< 20 %) · **Cash ~10,7 %** ✓ (≥ 5 %).
+- **AI-Block (GOOGL+TSM+ASML+VRT) ~35,8 %** < 36 % ⇒ formal keine Kaufsperre, aber nur ~0,2 pp Abstand. VRT +15 % schiebt den Block fast an die Marke. Falls GOOGL nach den Zahlen deutlich steigt, greift die Sperre durch reine Kursbewegung (Kaufsperre, **kein** Verkauf).
+- **Wiedereinstiegsregel:** Cash 10,7 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte (10,7 − 9,0) % × ~9.850 € ≈ **~165 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** keine feuert. VRT-Prüfliste bestanden und erledigt, V < 20 %, CVX-Grenzen nicht berührt, keine Hormus-Öffnung.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Die einzige heute fällige Prüfung (VRT) endet nach vorab festgelegter Regel mit „halten, nicht nachkaufen“.
+2. Visa: Die Zahlen schlagen die Erwartungen, der Ausblick ist schwächer. Weder die Trimmregel noch ein Thesenbruch liegen vor.
+3. Fed-Entscheidung und GOOGL-Zahlen kommen erst nach dem Kurslauf von heute (16:00 UTC). Eine Order von heute würde morgen **nach** beiden ausgeführt, wäre heute aber **ohne** Kenntnis beider entschieden.
+4. Das freie Kapital (~165 €) liegt in der Totzone.
+
+### Erwogen und verworfen
+
+1. **VRT nach dem starken Bericht aufstocken (die Position ist mit ~3 % fast bedeutungslos).** Verworfen: Die Regel vom 14.09. schließt einen Nachkauf ausdrücklich aus („sonst würde ich einen Verkauf und einen Rückkauf innerhalb weniger Wochen als Strategie verkaufen“). Hinzu kommt, dass der AI-Block mit ~35,8 % praktisch an der Kaufsperre steht. Ehrlich gesagt: Rückblickend war die Halbierung bei ~236 $ im September kein guter Trade, wenn der Rest heute bei ~241 $ steht und die Aufträge sich verdoppeln. Die Regel hat damals einen Kursrückgang bestraft, der sich als vorübergehend erwiesen hat. Daraus folgt aber kein Rückkauf, sondern nur die Bestätigung des Beschlusses vom 11./14.09., keine reinen Kurslinien mehr zu verwenden.
+2. **V nach dem schwächeren Ausblick reduzieren.** Verworfen: Der Ausblick bleibt im niedrigen zweistelligen Wachstum, bei steigender Dividende und hohen Rückkäufen. Das bestätigt die Funktion „Stabilisator“, statt sie zu widerlegen.
+3. **CVX vor Q3 bei Brent ~116 $ teilweise mitnehmen.** Verworfen: Die Obergrenze ist ein Schlusskurs von Brent > 120 $. Die Ölmeldung hat zudem nur eine Quelle.
+
+### Ehrliche Einordnung
+
+- Der Rückstand ist am Dienstag von −4,79 pp auf **−4,41 pp** geschrumpft. Mit VRT +15 % (auf einer Position von ~270 €) bringt der heutige Tag rechnerisch nur ~+40 €. Die Halbierung kostet hier sichtbar Aufholpotenzial.
+- **Recherchegrenzen:** Visa- und VRT-Kurse sind vorbörslich bzw. nachbörslich. Backlog und Book-to-Bill für VRT sind nicht belegt. Fed-Erwartung „unverändert“ ohne konkrete FedWatch-Quote. Die Öldaten stammen aus nur einer Quelle. Mehrere Suchtreffer waren alte Artikel (z. B. Yahoo vom Dez. 2025, TipRanks 2021) und wurden verworfen.
+
+### Für den Lauf am 29.10.
+
+(a) **GOOGL-Thesenprüfung** nach den Zahlen (Cloud-Wachstum/Backlog, Capex-Guidance, Reaktion auf die Finanzierungslast). Ein Verkauf nur wegen des Buchverlusts ist ausgeschlossen. (b) **Fed-Ergebnis** einordnen. (c) **AI-Block gegen 36 %** im offiziellen Kurslauf prüfen. (d) Q3-BIP/PCE (29.10.), CVX Q3 (30.10.).
+
+### Offene Termine
+
+**28.10.** Fed (14:00 ET) + GOOGL/MSFT nachbörslich · **29.10.** Q3-BIP, September-PCE · **30.10.** CVX Q3 · **03.11.** US-Midterms · **04.11.** ASML-Zwischendividende · **09.11.** Visa-CFO auf Investorenkonferenz · **10.11.** V-Dividendenstichtag · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed
+
+**Analyse: Claude Opus 5.5 (Modell-ID claude-opus-5-5, laut System-Kontext; Subagent)**
+
+### Quellen
+
+- [Vertiv Q3-2026-Pressemitteilung (SEC 8-K, Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm) · [Stocktitan – Vertiv: 4,1 Mrd. $ Anzahlungen](https://www.stocktitan.net/articles/vertiv-q3-2026-earnings-customers-prepaid-4-billion) · [Pulse2 – UIG-Konditionen](https://pulse2.com/vertiv-to-acquire-utilityinnovation-group-for-1-45-billion-plus-up-to-1-15-billion-earnout/) · [stockanalysis VRT](https://stockanalysis.com/stocks/vrt/)
+- [Visa Q4-2026-Pressemitteilung (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm) · [Investing.com – Visa fällt nach schwachem 2027-Ausblick](https://www.investing.com/news/earnings/visa-q4-revenue-rises-13-as-payment-volumes-remain-strong-4976751)
+- [Yahoo/StockTwits – Futures gemischt vor Fed und Big-Tech-Zahlen (28.10.2026)](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-mixed-094836107.html) · [Tech-Insider – Termine 28.10.](https://tech-insider.org/futures-mixed-fed-microsoft-alphabet-earnings-oct-28-2026/) · [stockanalysis GOOGL](https://stockanalysis.com/stocks/googl/)
