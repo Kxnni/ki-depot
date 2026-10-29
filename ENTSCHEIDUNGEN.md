@@ -6024,3 +6024,73 @@ Keine neue Kandidatensuche mit Kaufabsicht, solange kein Kapital über der Totzo
 - [Vertiv Q3-2026-Pressemitteilung (SEC 8-K, Ex. 99.1)](https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm) · [Stocktitan – Vertiv: 4,1 Mrd. $ Anzahlungen](https://www.stocktitan.net/articles/vertiv-q3-2026-earnings-customers-prepaid-4-billion) · [Pulse2 – UIG-Konditionen](https://pulse2.com/vertiv-to-acquire-utilityinnovation-group-for-1-45-billion-plus-up-to-1-15-billion-earnout/) · [stockanalysis VRT](https://stockanalysis.com/stocks/vrt/)
 - [Visa Q4-2026-Pressemitteilung (SEC 8-K)](https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm) · [Investing.com – Visa fällt nach schwachem 2027-Ausblick](https://www.investing.com/news/earnings/visa-q4-revenue-rises-13-as-payment-volumes-remain-strong-4976751)
 - [Yahoo/StockTwits – Futures gemischt vor Fed und Big-Tech-Zahlen (28.10.2026)](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-mixed-094836107.html) · [Tech-Insider – Termine 28.10.](https://tech-insider.org/futures-mixed-fed-microsoft-alphabet-earnings-oct-28-2026/) · [stockanalysis GOOGL](https://stockanalysis.com/stocks/googl/)
+
+## 29.10.2026 (Donnerstag) – Keine Trades: GOOGL-Thesenprüfung nach dem schlechtesten Tag seit dem Börsengang (−12,6 %). Cloud stark (+103 %), aber Search verlangsamt sich auf +12 % und der FCF ist tief negativ ⇒ These angeschlagen, nicht gebrochen: halten, nicht nachkaufen, neue Prüfkriterien zum Q4-Bericht. Fed hält (3,75–4,00 %), BIP Q3 +3,4 %, Totzone hält
+
+**Datenstand:** Offizieller Kurslauf 29.10. (lastUpdate 19:58 UTC, also praktisch Schlusskurse): Depot **9.849,53 €** (−1,50 % seit Start), Benchmark **10.240,23 €** (+2,40 %), Rückstand **−3,91 pp** (Vortag −3,69 pp, 27.10.: −4,41 pp). EURUSD 1,1166. Cash 1.051,32 € (10,67 %). `orders` war leer.
+
+### Marktlage
+
+- **Fed (28.10., erste Sitzung unter Warsh):** Zinsen **unverändert bei 3,75–4,00 %**, wie erwartet. Warsh betont die starke Konjunktur und die hartnäckige Inflation, Dezember bleibt als Termin für eine Anhebung offen. Für uns ist das kein neuer Faktor: Das hawkische Szenario ist seit August die Grundannahme hinter der JPM-Position.
+- **Daten heute:** **BIP Q3 +3,4 %** annualisiert (Konsens 3,1–3,2 %, Q2 2,2 %). **PCE September +0,5 % m/m, 3,6 % YoY** (vorher 3,4 %), Kern-PCE 3,1 %, beide wie erwartet. Real stagnieren die Konsumausgaben.
+- **Schluss:** S&P 500 **−0,30 % auf 7.720,39**, Nasdaq −1,38 %, Dow −0,25 %. Die Marktbreite war positiv (Small Caps fester, ~390 S&P-Titel zeitweise im Plus). Nach unten zogen fast nur Kommunikationsdienste und Tech: Alphabet −12,6 %, Amazon −4,3 % (vor den eigenen Zahlen), Micron −5 %, SOX −1,4 %. Microsoft hat stark berichtet (Azure +48 %, EPS 4,89 $ gegen 4,73 $), schloss aber −0,2 %. Meta +2 %.
+- **Öl:** Brent **114,88 $** (−0,4 %), WTI **102,00 $** (−0,8 %). Hoffnung auf US-Iran-Gespräche (Vance) drückt, Houthi-Angriffe auf saudische Anlagen stützen. Die gestrige Ein-Quellen-Meldung zu Angriffen auf Saudi-Arabien wird damit von einer zweiten Quelle grob bestätigt.
+
+### Positionen (Gewichte aus dem Kurslauf 29.10.)
+
+- **GOOGL (8,20 %, 283,30 $, Buchverlust −20,8 % auf den Restbestand; Ø-Einstand ~358 $) – Thesenprüfung, wie am 26./28.10. angekündigt.**
+  Zahlen Q3: Umsatz 127,6 Mrd. $ (+25 %), damit leicht unter bis gleichauf mit dem Konsens (je nach Quelle 127,9–128,2 Mrd. $). EPS 2,12 $ gegen ~3,02 $ Konsens, davon −0,55 $ aus einem Buchverlust von 8,7 Mrd. $ auf Beteiligungen. Bereinigt um diesen Effekt ist die Verfehlung kleiner, aber immer noch eine Verfehlung. Kriterien vom 26.10. einzeln:
+  1. *Cloud-Wachstum/Backlog:* **klar bestanden.** Umsatz 30,7 Mrd. $ (**+103 %**), operatives Ergebnis 11,1 Mrd. $ (mehr als verdreifacht), Marge 36,2 % (gestiegen). Gemini-Enterprise-Ausgaben mehr als vervierfacht. Eine neue Backlog-Zahl fand ich nicht (letzter Stand 30.06.: 513,9 Mrd. $).
+  2. *Capex-Guidance:* 2026 ~200 Mrd. $ (Spanne 195–205 Mrd. $, unverändert gegenüber Q2). Für 2027 kündigt das Management einen „deutlichen“ Anstieg an. **Fortune nennt 300 Mrd. $ für 2027, andere Quellen keine Zahl.** Das ist nicht verifiziert, der CFO will Details erst zu Q4 liefern. Q3-Capex 51,4 Mrd. $ (+114 %). Kaufverpflichtungen 924 Mrd. $.
+  3. *Finanzierungslast:* **nicht bestanden.** FCF **−9,1 Mrd. $** (Q2: −5,9 Mrd. $), dazu die Eigenkapitalerhöhung im Juni (84,8 Mrd. $). Das Geschäft finanziert den Ausbau derzeit nicht aus eigener Kraft.
+  4. *Neu und nicht im Kriterienkatalog, aber der eigentliche Auslöser:* **Search +12 %** (Konsens 15 %, Q2 17 %, Q1 19 %). Das Management räumt ein, dass AI-Mode-Suchen langsamer monetarisiert werden. Das trifft den Kern der ursprünglichen These („AI-Führer mit Bewertungsabschlag“): Der Abschlag hatte einen Grund, nämlich das Risiko, dass AI das Suchgeschäft kannibalisiert, und dieses Risiko wird jetzt sichtbar.
+  **Befund:** These **angeschlagen, nicht gebrochen.** Cloud zeigt, dass die AI-Investitionen Umsatz erzeugen. Search verlangsamt sich, schrumpft aber nicht, und wächst weiter zweistellig. Der Markt bestreitet Zeitpunkt und Rendite der Investitionen, nicht das Geschäftsmodell (so auch der Investing.com-Kommentar).
+  **Rechtsfolge:** **Halten, kein Nachkauf.** Begründung gegen einen Verkauf: Die Information ist mit −12,6 % am selben Tag eingepreist, ein Verkauf morgen zum dann aktuellen Kurs würde nur die Reaktion realisieren. Am 28.10. habe ich zudem festgehalten, dass ein Verkauf nur wegen des Buchverlusts ausgeschlossen ist. Begründung gegen einen Nachkauf: Der AI-Block hätte zwar wieder Platz (34,45 % < 36 %, rechnerisch 152 € Luft), aber das freie Kapital liegt in der Totzone. Ein Nachkauf in eine Verfehlung wäre außerdem eine Konviktionsaussage, die die Zahlen nicht hergeben.
+  **Neue Prüfkriterien zum Q4-Bericht (Anfang Februar 2027), vorab festgelegt:** Halbierung, wenn **zwei** der drei folgenden Punkte eintreten: (i) Search-Wachstum < 10 % YoY, (ii) FCF im dritten Quartal in Folge negativ UND Capex-Guidance 2027 ≥ 280 Mrd. $ ohne eine Aussage zur FCF-Wende, (iii) Cloud-Wachstum < 60 % YoY. Ein reiner Kursrückgang ist ausdrücklich **kein** Kriterium (Lehre aus der VRT-Halbierung vom 14.09.).
+- **TSM (14,92 %, −1,75 %), ASML (8,12 %):** Sie fielen im Sog der Chips. Fundamental ist die Alphabet-Meldung für beide eher **positiv**: höhere Capex 2026/27 und TPU-Lagerkäufe bedeuten mehr Nachfrage nach Fertigung und Lithografie. Microsoft (Azure +48 %) bestätigt den Ausbau. Das Depot ist damit **innerhalb** des AI-Themas teilweise abgesichert: Wenn ein Hyperscaler mehr ausgibt, verlieren seine Aktionäre und gewinnen seine Lieferanten. Die Kehrseite ist das Risiko, dass der Markt die Capex-Zyklen insgesamt infrage stellt, das trifft alle vier. **Halten.**
+- **VRT (3,22 %, 246,56 $):** Prüfliste seit gestern erledigt. Der Kurs hält das Niveau nach den Zahlen. **Halten**, kein Nachkauf (Regel vom 14.09.).
+- **V (18,90 %, 410,60 $):** Nach dem Ausblick-Dip stabil. Trimmregel (> 20 % im offiziellen Kurslauf) **nicht ausgelöst**, Auslöser rechnerisch bei ~435 $ bei sonst gleichen Kursen. **Halten.**
+- **JNJ (14,45 %), JPM (11,15 %):** keine neue Firmennachricht gefunden (nur in den Marktberichten gesucht). Das starke BIP und das Fed-Signal für Dezember stützen die JPM-These (Zinsmarge). **Halten.**
+- **CVX (10,37 %, 231,50 $):** **Q3 morgen (30.10.) vorbörslich.** Konsens laut 24/7 Wall St.: EPS ~4,89 $ (Vorjahr 1,85 $), Umsatz ~60,7 Mrd. $. Achten auf: Downstream/Raffineriemargen, TCO/CPC-Pipeline, Capex am unteren Ende von 18–19 Mrd. $, Project Kilby (2,67 GW für Microsoft). Risiko: Nach dem Q1-Beat fiel die Aktie innerhalb einer Woche um ~4,7 %. Ölregeln: Obergrenze (Schluss Brent > 120 $ oder WTI > 110 $) **nicht ausgelöst**, Untergrenze und Hormus-Halbierung ebenfalls nicht. **Halten**, Bericht im nächsten Lauf einordnen.
+
+### Regelcheck (offizieller Kurslauf 29.10.)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,90 %** ✓ (≤ 20 %) · **Cash 10,67 %** ✓ (≥ 5 %).
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **34,45 %** < 36 % ⇒ keine Kaufsperre mehr (gestern ~35,8 %). Ursache ist der GOOGL-Rückgang, also eine reine Kursbewegung.
+- **Wiedereinstiegsregel:** Cash 10,67 % > 10,0 % ⇒ feuert. Überschuss über die Bandmitte: (10,67 − 9,00) % × 9.849,53 € = **164,86 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** keine feuert (V < 20 %, CVX-Grenzen nicht berührt, keine Hormus-Öffnung, keine VRT-Sonderregel mehr, GOOGL-Prüfung ⇒ halten).
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Die heute fällige GOOGL-Prüfung endet mit „halten, nicht nachkaufen“, die Prüfkriterien für Q4 sind vorab festgelegt.
+2. Ein Verkauf nach −12,6 % würde eine eingepreiste Nachricht realisieren und keinen künftigen Schaden abwenden.
+3. Die CVX-Zahlen kommen morgen vor dem nächsten Kurslauf. Eine Order von heute würde nach ihnen ausgeführt, wäre aber ohne sie entschieden.
+4. Das freie Kapital liegt in der Totzone.
+
+### Erwogen und verworfen
+
+1. **GOOGL ganz oder halb verkaufen (Search-Verlangsamung, negativer FCF, Rückstand zur Benchmark wächst).** Verworfen. Dafür spräche der Search-Befund, der echte neue Fundamentalinformation ist und am Kern der These ansetzt. Dagegen spricht: Cloud verdoppelt sich mit steigender Marge, und der Kurs hat die Verfehlung am Tag selbst eingepreist. Die Halbierung von VRT im September aus einer ähnlichen Lage (Kurseinbruch, These intakt) hat sich als Fehler erwiesen. Stattdessen gibt es jetzt messbare Kriterien für Q4.
+2. **GOOGL in den Rückgang nachkaufen („buy the dip“, AI-Block hat wieder Platz).** Verworfen: Totzone, und ein Nachkauf in eine Gewinnverfehlung mit verschärftem FCF-Problem wäre gegen die Disziplin. Der AI-Block hat nur durch den Kursverlust Platz bekommen, das ist kein Kaufargument.
+3. **Neuer Kandidat Eli Lilly (heute +4,4 % nach Beat und angehobener Umsatzprognose) als zweiter Healthcare-Titel.** Notiert, nicht geprüft. Kein freies Kapital über der Totzone, JNJ deckt Healthcare bereits ab, und ein Kauf am Tag nach einem Kurssprung wäre Momentum-Jagd. Wiedervorlage nach dem 30.10. zusammen mit **UNP, PG, KO** (Stand 27./28.10.).
+
+### Ehrliche Einordnung / Fehleinschätzungen
+
+- **GOOGL ist der größte Einzelbremser:** Kaufkurs 366,46 $ am 06.07., Teilverkauf von 1,5 Stück bei 334,69 $ am 01.09., heute 283,30 $. Die Einstiegsthese vom 06.07. („~22 % unter fairem Wert“) hat das Risiko unterschätzt, dass der Bewertungsabschlag berechtigt ist. Der Teilverkauf im September war im Nachhinein richtig. Positiv vermerkt: Weil wir am 28.10. nicht vor den Zahlen gehandelt haben, haben wir nicht auf das Ergebnis gewettet. Hätte ich am 28.10. nach der OpenAI-TPU-Meldung (+1,2 % vorbörslich) aufgestockt, wäre der Verlust größer.
+- Der Rückstand hat sich gegenüber gestern von −3,69 pp auf **−3,91 pp** ausgeweitet. GOOGL allein kostete heute rechnerisch ~−116 € (≈ 1,1 pp Depot gegenüber −0,3 % im Index). Dass der Gesamtverlust kleiner war, verdanken wir V, JNJ, JPM und VRT, also genau der Diversifikation außerhalb des AI-Blocks.
+- **Recherchegrenzen:** Die 300 Mrd. $ Capex für 2027 stammen nur von Fortune und sind unbestätigt. Ich habe keine neue Cloud-Backlog-Zahl und keine Analysten-Kursziele nach den Zahlen gefunden. Der EPS-Konsens (3,02 $) stammt von einer einzigen Quelle (Yahoo). Der GOOGL-Schlusskurs ist laut Investing.com-Snapshot ~283,8 $, in data.json 283,30 $. Die Seite mit der Investing.com-Meldung (Analystenreaktionen) konnte wegen eines Rate Limits nicht gelesen werden. Zu JNJ, JPM und ASML gab es keine Einzelsuche.
+
+### Für den Lauf am 30.10.
+
+(a) **CVX Q3** einordnen (Konsens EPS ~4,89 $, Raffinerie, TCO, Capex, Kilby). Die Ölregeln wie gehabt, ein Beat allein löst nichts aus. (b) Amazon-Zahlen (heute nachbörslich) nur als Kontext für die Capex-These (TSM/ASML/VRT). (c) Wiedervorlage Kandidaten (UNP, PG, KO, LLY), aber nur, wenn freies Kapital über der Totzone entsteht oder eine Position fällt.
+
+### Offene Termine
+
+**30.10.** CVX Q3 · **03.11.** US-Midterms (Trump droht nach den Wahlen mit neuen Iran-Angriffen) · **04.11.** ASML-Zwischendividende · **09.11.** Visa-CFO auf Investorenkonferenz · **10.11.** V-Dividendenstichtag · **Mitte Nov.** Anthropic-IPO (Kontext) · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed (Anhebung möglich) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien siehe oben)
+
+**Analyse: Claude Opus 5 (Subagent; Modellbezeichnung laut System-Kontext: Claude Opus 5.5, Modell-ID claude-opus-5-5)**
+
+### Quellen
+
+- [Fortune – Alphabet: Cloud verdoppelt sich, FCF tief negativ (28.10.2026)](https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/) · [Yahoo Finance – Warum Alphabet trotz Cloud über 10 % fällt](https://finance.yahoo.com/markets/stocks/articles/why-alphabet-shares-falling-more-115645721.html) · [Investing.com – Alphabets steilster Rückgang nach Quartalszahlen](https://www.investing.com/analysis/alphabets-13-slide-marks-its-steepestever-drop-after-quarterly-results-200690539) · [Tickzen – GOOGL-Q3-Vorschau (Q2-Basis, Backlog)](https://tickzen.app/insights/alphabet-goog-q3-2026-earnings)
+- [TheStreet – Stock Market Today 29.10.2026 (Fed, BIP, PCE, Öl)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-29-2026) · [Seoul Economic Daily – Schlusskurse 29.10.2026](https://en.sedaily.com/international/2026/10/30/alphabet-plunges-13-percent-on-capex-shock-dragging-nasdaq)
+- [24/7 Wall St. – Chevron-Q3-Vorschau](https://247wallst.com/investing/2026/10/26/chevron-eyes-150-eps-jump-on-oct-30-but-are-the-risks-already-priced-in/)
