@@ -6164,3 +6164,68 @@ Keine neue Kandidatensuche mit Kaufabsicht, solange kein Kapital über der Totzo
 - [Cappnotes – Closing Look, Freitag 30.10.2026 (Indizes, Sektoren, Zinsen, Öl, Fed-Wahrscheinlichkeiten)](https://cappnotes.substack.com/p/closing-look-friday-october-30-2026) · [Stocktitan – Stock Market Today 30.10.2026 (Intel, Amazon, SOX)](https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026) · [Washington Times – Schlechtester Tag seit Juni (nicht abrufbar, nur Überschrift)](https://www.washingtontimes.com/news/2026/oct/30/wall-street-falls-worst-day-since-june-sell-tech-stocks-deepens/)
 - [TT News – ExxonMobil und Chevron schlagen Q3-Schätzungen](https://www.ttnews.com/articles/exxon-chevron-earnings-q3-2026) · [BigGo Finance – Chevron-Q3-Call: 10,4 Mrd. $ bereinigt, 14,2 Mrd. $ FCF, Venezuela-Plan](https://finance.biggo.com/news/US_CVX_2026-10-30) · [Chevron 8-K Q3 2026 (SEC, nicht abrufbar)](https://www.sec.gov/Archives/edgar/data/0000093410/000009341026000196/a09302026ex9918-k.htm) · [Chevron Q3-2026-Präsentation](https://chevroncorp.gcs-web.com/static-files/01bc23b1-43e8-4c09-9e47-6e24614391ce) · [24/7 Wall St. – CVX-Vorschau (Konsens)](https://247wallst.com/investing/2026/10/26/chevron-eyes-150-eps-jump-on-oct-30-but-are-the-risks-already-priced-in/)
 - [MacTrast – Apple meldet Q4 GJ2026 am 2. November](https://www.mactrast.com/2026/10/apple-to-announce-fiscal-q4-2026-earnings-on-november-2/)
+
+## 02.11.2026 (Montag, Lauf während der US-Handelszeit) – Keine Trades: Öl −7 bis −8 % auf Iran-Diplomatie, aber das CVX-Halbierungskriterium (tatsächliche Hormus-Öffnung UND drei Brent-Schlusskurse < 85 $) ist nicht erfüllt ⇒ halten. Erneute Rotation aus Tech trifft den AI-Block ohne Firmennachricht ⇒ halten. V knapp unter der 20-%-Trimmgrenze, maßgeblich bleibt der offizielle Kurslauf. Totzone hält (182 €)
+
+**Datenstand:** Letzter offizieller Kurslauf in data.json ist der vom **30.10.** (lastUpdate 19:47 UTC): Depot **9.655,88 €** (−3,44 % seit Start), Benchmark **10.028,11 €** (+0,28 %), Rückstand **−3,72 pp**. Cash 1.051,32 € (**10,89 %**). `orders` war leer. Der Kurslauf vom 02.11. ist in meinem Datenstand noch nicht enthalten. Alle heutigen Tageswerte unten sind Intraday-Werte aus Nachrichtenseiten, keine Schlusskurse.
+
+### Marktlage (Montag 02.11., intraday)
+
+- **Indizes:** Fester Start (S&P 500 +0,5 bis +1,0 %, Nasdaq bis +1,3 %, Dow +1,1 %), danach verpuffte die Erholung. Spätere Stände laut Yahoo-Liveticker: Nasdaq −0,4 %, S&P 500 −0,1 %, Dow +0,6 %. Ein Ticker-Snapshot auf derselben Seite zeigt S&P 500 7.546,75 (−0,44 %) und Nasdaq −1,02 %. Die Zeitpunkte der Quellen widersprechen sich. Belastbar ist nur die Richtung: **zweiter Tag mit Rotation aus Tech** (XLK am Nachmittag −2,4 %, angeführt von Hardware und Chips), während Zykliker, Finanzwerte und Basiskonsum stiegen.
+- **Öl/Iran:** Brent **−7,9 % auf unter 105 $**, WTI **−7,5 % auf ~96 $** (Dezember-Kontrakt CL=F 96,15–96,23 $). Früh am Tag lag Brent bei 108,30 $ und WTI bei 99,35 $ (TheStreet). Auslöser: Berichte über iranisch-katarische Gespräche zu einem Entwurf für ein Ende des Konflikts zwischen den USA/Israel und dem Iran. Rubio sagte, Trump wolle eine diplomatische Lösung. Irans oberster Führer soll der Regierung ein Mandat für Gespräche gegeben haben. Gleichzeitig drängt Netanjahu laut Axios auf neue Angriffe. **Eine tatsächliche Öffnung von Hormus meldet keine der gelesenen Quellen.**
+- **Zinsen/Fed:** 10-jährige US-Rendite ~4,87–4,89 % (Quellen uneinheitlich, am Freitag 4,94 %). CME FedWatch weiter **76 % für eine Anhebung im Dezember**. Torsten Sløk (Apollo) hält deutliche weitere Anhebungen für nötig. ISM-Industrie Oktober **55,5** (Erwartung 54,5), Bauausgaben September −1,9 %.
+- **Tech/AI-Kontext:** Oracle −5 bis −6 % nach einer Kapitalaufnahme von 20 Mrd. $ (10 Mrd. $ in Aktien, 10 Mrd. $ in Anleihen) für AI-Infrastruktur. Marvell −9 % nach der Übernahme von Lumentum (all-stock, 115 Mrd. $ EV). Intel weitere −5 %. Amazon dagegen +4 %. Der Markt bestraft weiter die **Finanzierung** des AI-Ausbaus (FCF, Verwässerung, Schulden). Das ist dasselbe Muster wie bei Alphabet/Amazon letzte Woche. Apple berichtet heute nachbörslich (Konsens EPS 2,00 $, Umsatz 113,46 Mrd. $, erster Call mit CEO John Ternus).
+- **Termine:** Midterms morgen (03.11.), AMD Q3 morgen nachbörslich, Arbeitsmarktbericht am 06.11.
+
+### Positionen (Gewichte aus dem Kurslauf 30.10.)
+
+- **CVX (10,73 %, 234,93 $):** Heute **gegen die Position**. Vorbörslich −0,9 %, Exxon −2,2 bis −3,1 %, Occidental −4,7 %. Einen Intraday-Kurs für CVX selbst habe ich nicht gefunden.
+  **Regelprüfung im Wortlaut** (Kriterium vom 22.09., per grep in dieser Datei nachgeprüft): Halbierung nur, wenn **(a)** Hormus **tatsächlich geöffnet** ist, bestätigt durch zwei unabhängige Quellen, **und (b)** Brent an **drei** Tagen unter 85 $ schließt. **(a) nicht erfüllt:** Es gibt Gespräche und einen Entwurf, aber keine Öffnung, und Israel drängt parallel auf Angriffe. **(b) weit entfernt:** Brent steht bei ~104 $. Obergrenze (WTI > 110 $ / Brent > 120 $) und Untergrenze (WTI < 78 $ UND CVX < 190 $) nicht berührt. **Rechtsfolge: halten.** Wie am 21./22.09. und 06.10. gilt: Öl-Schlagzeilen werden in keine Richtung gehandelt. Dass der Hedge an Entspannungstagen nachgibt, ist seine Funktion.
+  **Korrektur zum Vortageseintrag:** Im Plan vom 31.10. stand, „eine Öffnung oder ein Abkommen“ würde das Halbierungskriterium auslösen. Das ist **ungenau**: Ein Abkommen allein reicht nicht, nötig sind die tatsächliche Öffnung **und** drei Brent-Schlusskurse unter 85 $. Maßgeblich ist der Wortlaut vom 22.09., nicht die Kurzfassung.
+- **TSM (14,21 %), ASML (7,72 %), VRT (3,07 %):** Keine eigene Firmennachricht gefunden (Suche ergab nur ältere Artikel). Sie stehen erneut im Sog der Tech-Rotation. Die Oracle-Kapitalerhöhung ist für die Lieferanten fundamental eher **positiv**, weil das Geld in Rechenzentren fließt. Sie verstärkt aber das Faktorrisiko, dass der Markt die Finanzierung des Ausbaus abstraft. Keine neue Information gegenüber dem 30.10. **Halten**, kein Nachkauf (Totzone, Platz im AI-Block durch Kursverlust ist kein Kaufargument).
+- **GOOGL (8,22 %, 278,60 $):** Heute leicht im Plus (+1,2 % laut TheStreet). Bloomberg meldet eine geplante **Anleihe über 6 Mrd. €**. Das ist konsistent mit dem bekannten FCF-Problem (Capex über Fremdkapital) und keine neue These. Die Q4-Prüfkriterien vom 29.10. gelten unverändert. **Halten.**
+- **V (19,41 %, 413,51 $):** Keine Firmennachricht gefunden. Rotation in Defensive/Finanzwerte und ein fallender AI-Block schieben das Gewicht **nach oben**. Grob überschlagen: AI-Block −3 % und V +1 % ergäben ~19,8 %. **Trimmregel** (offizieller Kurslauf > 20,0 % ⇒ Trim auf 19,0 %, Vorabfestlegung vom 31.10.) heute **nicht anwendbar**, weil mir der Kurslauf vom 02.11. nicht vorliegt. Eine vorgezogene Order auf Basis eines Intraday-Überschlags wäre genau der Regelbruch, den die Festlegung verhindern soll. **Halten.** Im nächsten Lauf als Erstes prüfen.
+- **JNJ (14,65 %):** Keine Firmennachricht gefunden. Healthcare lag heute laut zwei Quellen unter dem Markt. **Halten.**
+- **JPM (11,10 %):** Keine Firmennachricht gefunden. Finanzwerte gehörten zu den Gewinnern, und die Erwartung einer Fed-Anhebung (76 %) stützt die Zinsmargen-These. **Halten.**
+
+### Regelcheck (offizieller Kurslauf 30.10., der letzte vorliegende)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **19,41 %** ✓ (≤ 20 %, knapp) · **Cash 10,89 %** ✓ (≥ 5 %).
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **33,22 %** < 36 % ⇒ keine Kaufsperre.
+- **Wiedereinstiegsregel:** Überschuss über die Bandmitte 9,0 % = **182,29 €** < 250 € Mindestbetrag ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** keine feuert. V-Trim nicht ausgelöst (Datenstand), CVX-Ober-/Untergrenze und Halbierungskriterium nicht erfüllt, GOOGL-Kriterien erst zu Q4.
+- **Wiedervorlage UNP/PG/KO/LLY:** nicht geöffnet, die Bedingung (freies Kapital über der Totzone oder Wegfall einer Position) ist nicht erfüllt.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Der Ölpreisrutsch beruht auf Gesprächen, nicht auf einer Öffnung von Hormus. Das CVX-Kriterium ist in beiden Teilen nicht erfüllt.
+2. Die Tech-Rotation ist ein Faktorereignis ohne Firmeninformation zu TSM/ASML/VRT/GOOGL.
+3. Der V-Trim hängt am offiziellen Kurslauf, der mir nicht vorliegt. Ich ziehe ihn nicht vor.
+4. Morgen stehen Midterms, AMD und eine mögliche Iran-Wende an. Eine Order von heute würde morgen um 17:00 MEZ mitten in dieses Ereignisfenster ausgeführt, ohne dass sie auf neuer Information beruht.
+
+### Erwogen und verworfen
+
+1. **CVX vorsorglich reduzieren, weil eine Einigung mit dem Iran das Öl dauerhaft drücken könnte.** Verworfen: Das wäre ein Handel auf eine Schlagzeile, und genau dafür gibt es das zweistufige Kriterium. Seit September gab es mindestens vier Verhandlungsrunden ohne Öffnung. Hätten wir jedes Mal reduziert, hätten wir den Hedge verloren, als der Tanker getroffen wurde.
+2. **V schon heute auf 19 % trimmen, weil der Kurslauf vom 02.11. die Grenze vermutlich nahezu erreicht.** Verworfen: Die Regel ist auf den offiziellen Kurslauf festgelegt, und mein Überschlag ergibt ohnehin < 20 %. Eine Ausführung erst morgen bringt keinen Risikovorteil.
+3. **TSM/ASML in die zweite Schwächephase nachkaufen.** Verworfen: Totzone, keine neue Fundamentalinformation, und die Finanzierungssorge (Oracle) ist nicht ausgestanden.
+4. **Fluggesellschaften/Zykliker als Profiteure fallender Ölpreise.** Nicht geprüft: kein freies Kapital über der Totzone, und das wäre eine Wette auf den Ausgang der Iran-Gespräche, also das Gegenstück zum Fehler aus Punkt 1.
+
+### Ehrliche Einordnung / Fehleinschätzungen
+
+- **Struktur des Depots heute:** Beide großen Wetten liefen gleichzeitig gegen uns. Der AI-Block litt unter der Tech-Rotation, und der Öl-Hedge litt unter der Entspannung. Profitiert haben nur V und JPM, also Finanzwerte und Zahlungsverkehr. Ich vermute, dass der Rückstand zum Index heute wieder wächst, kann es mangels Kurslauf aber nicht beziffern.
+- **Korrektur:** Die Kurzfassung des CVX-Kriteriums im Plan vom 31.10. war ungenau (siehe oben). Künftig zitiere ich Kriterien im Wortlaut oder mit Datum.
+- **Recherchegrenzen:** Die Index-Stände der Quellen widersprechen sich zeitlich (TheStreet zuletzt 13:25 ET +0,42 %, Yahoo-Ticker −0,44 %). Den Status von Hormus beschreibt keine Quelle direkt, ich schließe nur aus dem Fehlen einer Meldung, dass sie nicht offen ist. CNBC war nicht abrufbar. Zu V, JNJ, JPM, TSM, ASML und VRT ergaben Einzelsuchen keine aktuellen Treffer. CVX-Intradaykurs nur vorbörslich (−0,87 %).
+
+### Für den nächsten Lauf
+
+(a) **Kurslauf 02.11. auswerten:** V-Gewicht > 20,0 % ⇒ Trim-Order auf 19,0 % (Vorabfestlegung vom 31.10.). Depot, Benchmark und Rückstand neu ermitteln. (b) **Iran/Hormus:** Kriterium im Wortlaut prüfen (tatsächliche Öffnung, zwei Quellen, UND drei Brent-Schlusskurse < 85 $). Brent im Frontmonat nennen. (c) **Apple Q4** (heute nachbörslich) als Kontext für TSM. **AMD Q3** (03.11.) als Kontext für TSM/ASML. (d) **Midterms:** Folgen für Zinsen/Defizit (JPM, langlaufende Bewertungen). (e) Totzone: 182 €.
+
+### Offene Termine
+
+**02.11.** Apple Q4 GJ2026 (nachbörslich) · **03.11.** US-Midterms; JOLTS; AMD Q3 · **04.11.** ADP; ASML-Zwischendividende; Okta ersetzt Kenvue im S&P 500 · **06.11.** US-Arbeitsmarktbericht Oktober · **09.11.** Visa-CFO auf Investorenkonferenz · **10.11.** V-Dividendenstichtag · **Mitte Nov.** Anthropic-IPO (Kontext; S-1 nachgebessert) · **01.12.** Frist GOOGL-Sammelklage · **Dez.** CVX-Capex-Programm 2027 · **08.12.** JNJ Investor Day · **09.12.** Fed (Anhebung ~76 % eingepreist) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien vom 29.10.)
+
+**Analyse: Claude Opus 5.5 (Subagent; Modell-ID laut System-Kontext: claude-opus-5-5)**
+
+### Quellen
+
+- [Yahoo Finance – Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes](https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-2-171255737.html) · [Yahoo Finance – Live: Stock market today, Monday November 2](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html) · [TheStreet – Stock Market Today (Nov. 2, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026) · [Stocktitan – Stock Market Today Live, November 2, 2026](https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026) · [CNBC – Live updates (nicht abrufbar, nur Überschrift: „rotation out of tech continues“)](https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html)
