@@ -6229,3 +6229,66 @@ Keine neue Kandidatensuche mit Kaufabsicht, solange kein Kapital über der Totzo
 ### Quellen
 
 - [Yahoo Finance – Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes](https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-2-171255737.html) · [Yahoo Finance – Live: Stock market today, Monday November 2](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html) · [TheStreet – Stock Market Today (Nov. 2, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026) · [Stocktitan – Stock Market Today Live, November 2, 2026](https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026) · [CNBC – Live updates (nicht abrufbar, nur Überschrift: „rotation out of tech continues“)](https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html)
+
+## 04.11.2026 (Mittwoch) – Keine Trades: Demokraten gewinnen House und Senat (Projektionen DDHQ/VoteHub), die Futures steigen auf die Aussicht auf Blockade. AMD schlägt die Erwartungen und hebt die Prognose an, ASML-Lieferverträge reichen laut Berichten bis 2028 ⇒ AI-These bestätigt, aber keine neue Kaufinformation (Totzone). V im Kurslauf 03.11. bei 19,80 % ⇒ kein Trim. Hormus weiter nicht offen (Brent ~102,5 $) ⇒ CVX halten. Totzone hält (187 €)
+
+**Datenstand:** Offizieller Kurslauf **03.11.** (lastUpdate 20:42 UTC): Depot **9.598,16 €** (**−4,02 %** seit Start), Benchmark **10.036,09 €** (**+0,36 %**, S&P 500 7.564,63), Rückstand **−4,38 pp** (30.10.: −3,72 pp, 02.11.: −3,81 pp). Cash 1.051,32 € (**10,95 %**). `orders` war leer. Für Dienstag, 03.11., gibt es **keinen Eintrag**: Der Abendlauf ist ausgefallen. Dieser Eintrag deckt beide Tage ab. Heutige Marktwerte sind Vorbörsenwerte, keine Schlusskurse.
+
+### Marktlage
+
+- **Dienstag 03.11. (Schluss):** S&P 500 7.568,92 (+0,36 %, beendet drei Verlusttage), Nasdaq +0,83 %, Dow −0,38 % (Apple −1,9 % nach schwachem Margenausblick). Tech +1,3 %, Kommunikation +1,2 %, Basiskonsum −2,1 %. 10-jährige Rendite 4,95 % (+4 bp). Fed-Anhebung im Dezember zu **78 %** eingepreist. Die Chips erholten sich nach zwei Tagen Rotation.
+- **AMD Q3 (03.11. nachbörslich):** EPS 2,09 $ (Konsens 1,94–1,95 $), Umsatz 13,4 Mrd. $ (+44,6 %), Rechenzentrum 8,5 Mrd. $ (nahezu verdoppelt), Q4-Prognose ~17 Mrd. $ (Konsens 16,2 Mrd. $), 2027 > +80 % Wachstum erwartet. Aktie nachbörslich +5 bis +8 %. Supermicro hebt die Jahresprognose auf 72–82 Mrd. $ an.
+- **Midterms:** Laut DDHQ/VoteHub gewinnen die Demokraten **House und Senat**. JPMorgan hatte einem solchen „Blue Wave“-Szenario 66 % gegeben und nur eine geringe Indexreaktion erwartet. Vorbörslich heute (TipRanks, 05:25 ET): S&P-Futures +0,9 %, Nasdaq-100 +0,9 %, Dow +1,3 %. Andere Quellen nennen zu anderen Zeitpunkten nur +0,2 %. Belastbar ist nur die Richtung: **leicht positiv**. Gefragt sind Erneuerbare und Healthcare, Rüstung schwächer. CoreWeave, Nebius und IREN fallen, weil eine strengere Regulierung von Rechenzentren befürchtet wird (Texas: die neue demokratische Gouverneurin will neue Rechenzentrumsprojekte pausieren). 10-jährige Rendite 4,92 %.
+- **Öl/Iran:** Am Dienstag stiegen die Preise kurz auf ~106,50 $ (Brent), nachdem die USA eine IRGC-Stellung auf **Qeshm** angegriffen hatten (Iran hatte auf ein US-Flugzeug gefeuert). Danach fielen sie wieder. Heute früh (Tradingpedia, 05:06 ET) Brent **102,49 $**, WTI **95,17 $**, je ~−1 %. **Kontraktmonat in der Quelle nicht genannt**, vermutlich Frontmonat (Brent Jan., WTI Dez.). Iran nennt die US-Antwort auf seine Bedingungen für die Wiederöffnung von Hormus „unbefriedigend“, **erneut wurde ein Tanker angegriffen**, beide Seiten seien „weit auseinander“. Trump plant vorerst keine weiteren Angriffe.
+
+### Positionen (Gewichte aus dem Kurslauf 03.11.)
+
+- **V (19,80 %, 420,18 $, +310 € unrealisiert):** **Trimmregel geprüft** (offizieller Kurslauf > 20,0 % ⇒ Trim auf 19,0 %, Vorabfestlegung 31.10.): 19,80 % < 20,0 % ⇒ **nicht ausgelöst**. Keine Firmennachricht. **Neues Politikrisiko:** Ein demokratischer Kongress erhöht die Chance auf Gesetzesinitiativen zu Interchange-Gebühren (Credit Card Competition Act). Weil der Präsident ein Veto einlegen kann, ist ein Gesetz bis 2028 unwahrscheinlich. Ich habe das **nicht** recherchiert, es ist eine Einschätzung. Es ist ein Prüfpunkt für den Visa-CFO-Auftritt am 09.11. und kein Verkaufsgrund. **Halten.**
+- **TSM (14,35 %), ASML (7,72 %), VRT (3,14 %):** Keine eigene Firmenmeldung. Das Umfeld ist **fundamental positiv**: AMDs Rechenzentrumszahlen (TSMC fertigt), ASML-Lieferverträge laut Berichten bis 2028 und Lieferzeiten > 2 Jahre (Quelle: Substack-Brief, unbestätigte Berichte), Supermicro-Prognose (relevant für Kühlung/VRT). Das bestätigt die Thesen, ist aber keine neue Information, die einen Nachkauf über der Totzone rechtfertigt. **Neues Gegenrisiko:** Die demokratische Mehrheit und Texas könnten Rechenzentren strenger regulieren (Strom, Genehmigungen). Das trifft VRT am direktesten und ist bisher nur ein Stimmungsthema. **Halten.**
+- **GOOGL (8,28 %, 279,30 $):** +0,4 % am Dienstag. Der nachgebesserte Anthropic-S-1 nennt 121,3 Mrd. $ Zusagen mit Google, was Cloud-Auslastung bestätigt. FCF Q3 −9,1 Mrd. $, das bekannte Problem. Die Q4-Prüfkriterien vom 29.10. gelten. **Halten.**
+- **JNJ (14,26 %):** Keine Firmennachricht. Healthcare vorbörslich fester. Das Risiko einer Arzneimittelpreis-Gesetzgebung unter demokratischem Kongress besteht, wird aber ebenfalls durch das Veto begrenzt. Investor Day am 08.12. **Halten.**
+- **JPM (11,16 %):** Keine Firmennachricht. Die Zinsmargen-These (Fed-Anhebung 78 % eingepreist) ist intakt. Eine strengere Bankenregulierung ist mit einem demokratischen Kongress ohne Präsident nur begrenzt durchsetzbar. **Halten.**
+- **CVX (10,34 %, 225,57 $):** **Regelprüfung im Wortlaut** (22.09.): Halbierung nur, wenn **(a)** Hormus tatsächlich geöffnet ist (zwei unabhängige Quellen) **und (b)** Brent an drei Tagen unter 85 $ schließt. **(a) nicht erfüllt:** Iran lehnt die US-Antwort ab, ein weiterer Tanker wurde angegriffen. **(b) nicht erfüllt:** Brent ~102,5 $. Obergrenze (WTI > 110 $ / Brent > 120 $) und Untergrenze (WTI < 78 $ UND CVX < 190 $) nicht berührt. **Halten.** Zusatz: Ein demokratischer Kongress ist für Öl-Upstream politisch eher ein Gegenwind, ändert aber kurzfristig nichts am Cashflow (Q3-FCF 14,2 Mrd. $).
+
+### Regelcheck (Kurslauf 03.11.)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **19,80 %** ✓ (≤ 20 %) · **Cash 10,95 %** ✓ (≥ 5 %).
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **33,48 %** < 36 % ⇒ keine Kaufsperre.
+- **Wiedereinstiegsregel:** Überschuss über die Bandmitte 9,0 % = 1.051,32 € − 0,09 × 9.598,16 € = **187,49 €** < 250 € ⇒ **Totzone, keine Order.**
+- **Verkaufsregeln:** Keine feuert (V-Trim, CVX-Ober-/Untergrenze, CVX-Halbierung, GOOGL erst zu Q4).
+- **Wiedervorlage UNP/PG/KO/LLY:** nicht geöffnet.
+
+### Entscheidung: keine Trades, `orders` bleibt leer
+
+1. Die Wahl ist ein Makroereignis mit klarer Richtung (Blockade), aber ohne Firmeninformation zu unseren Titeln. Die Politikrisiken (Interchange für V, Arzneimittelpreise für JNJ, Rechenzentren für VRT) sind durch das präsidiale Veto begrenzt und werden als Prüfpunkte geführt, nicht gehandelt.
+2. Die AMD-Zahlen und die ASML-Berichte bestätigen die AI-Lieferanten-These. Ein Nachkauf scheitert an der Totzone, und ich will die Regel nicht an einem guten Tag aufweichen, nachdem ich sie an schlechten eingehalten habe.
+3. V liegt im offiziellen Kurslauf unter 20 %, CVX-Kriterien nicht erfüllt.
+
+### Erwogen und verworfen
+
+1. **V vorsorglich reduzieren wegen des Interchange-Risikos unter einem demokratischen Kongress.** Verworfen: Ohne Präsident wird kein Gesetz Realität. Die Position steht 0,2 pp unter der Trimmgrenze, und die Trimmregel greift ohnehin mechanisch, falls sie überschritten wird.
+2. **VRT reduzieren wegen des Texas-Rechenzentrums-Moratoriums.** Verworfen: Bisher nur ein Vorschlag einer Gouverneurin, die ihr Amt erst im Januar antritt. Die VRT-Prüfliste wurde am 28.10. mit starken Q3-Zahlen bestanden. Die Position ist mit 3,1 % klein.
+3. **TSM/ASML nach AMD aufstocken.** Verworfen: Totzone (187 € < 250 €). Wenn der Markt die AMD-Zahlen heute einpreist, ist der Vorteil morgen um 17:00 MEZ ohnehin weg. Das wäre Hinterherlaufen.
+
+### Ehrliche Einordnung / Fehleinschätzungen
+
+- **Rückstand wächst weiter:** −4,38 pp am 03.11. gegenüber −3,72 pp am 30.10. In drei Kurstagen haben wir ~0,7 pp verloren. Ursache: Der AI-Block litt am 30.10./02.11. stärker als der Index (Tech-Rotation), und der Öl-Hedge gab mit der Diplomatie nach. Meine Vermutung vom 02.11. („Rückstand wächst heute wieder“) hat sich bestätigt. Das Depot hat seit Start mit −4,02 % kein einziges strukturelles Problem gelöst: Drei der vier AI-Titel liegen im Verlust (GOOGL −225 €, TSM −123 €, ASML −109 €, VRT −99 €), die Gewinne kommen aus V, CVX und JNJ.
+- **Prozessfehler:** Der Lauf vom 03.11. ist ausgefallen. Er hätte keine Order ausgelöst (V 19,80 %, Totzone), es ist also kein Schaden entstanden, aber die Dokumentationslücke ist real.
+- **Recherchegrenzen:** Die Vorbörsenwerte widersprechen sich stark (S&P-Futures +0,2 % laut Yahoo, +0,9 % laut TipRanks, verschiedene Zeitpunkte). Ölpreise ohne Kontraktmonat. Die ASML-/TSMC-Angaben stammen aus einem Substack-Brief, der sich auf Berichte und Broker-Schätzungen stützt, nicht auf Firmenmitteilungen. Zu V, JNJ, JPM und CVX ergab die Suche keine aktuellen Firmennachrichten. Die Einschätzungen zum Interchange- und Arzneimittelpreis-Risiko sind meine Einordnung, nicht recherchiert. Die Midterm-Ergebnisse beruhen auf Projektionen (DDHQ/VoteHub), nicht auf amtlichen Ergebnissen.
+
+### Für den nächsten Lauf (Do 05.11.)
+
+(a) **Kurslauf 04.11. auswerten:** V > 20,0 % ⇒ Trim-Order auf 19,0 %. Rückstand neu ermitteln. (b) **Iran/Hormus:** Kriterium im Wortlaut, Brent im Frontmonat mit Kontrakt nennen. (c) **Midterm-Folgen:** Ob die Projektionen halten und ob Interchange (V), Arzneimittelpreise (JNJ) oder Rechenzentrumsregulierung (VRT) konkret auf die Agenda kommen. (d) **Qualcomm/ARM** (04.11. nachbörslich) als Kontext für TSM. (e) Totzone: 187 €.
+
+### Offene Termine
+
+**04.11.** ADP; ASML-Zwischendividende; Okta ersetzt Kenvue im S&P 500; Qualcomm, ARM, Uber Q3 · **06.11.** US-Arbeitsmarktbericht Oktober · **09.11.** Visa-CFO auf Investorenkonferenz (Interchange-Frage) · **10.11.** V-Dividendenstichtag · **Mitte Nov.** Anthropic-IPO (Kontext GOOGL) · **01.12.** Frist GOOGL-Sammelklage · **Dez.** CVX-Capex-Programm 2027 · **08.12.** JNJ Investor Day · **09.12.** Fed (Anhebung ~78 % eingepreist) · **Jan. 2027** neuer Kongress · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien vom 29.10.)
+
+**Analyse: Claude Opus 5.5 (Subagent; Modell-ID laut System-Kontext: claude-opus-5-5)**
+
+### Quellen
+
+- [Cappnotes – Closing Look, Dienstag 03.11.2026](https://cappnotes.substack.com/p/closing-look-tuesday-november-3-2026) · [TheStreet – Stock Market Today (Nov. 3, 2026): Midterms](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026)
+- [TipRanks – Stock Market Today, Nov. 4: Futures Rise After Democrats Sweep Midterm Elections](https://www.tipranks.com/news/stock-market-today-nov-4-futures-rise-after-democrats-sweep-midterm-elections) · [Yahoo Finance – Live: Futures nach den Midterms](https://ca.finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html) · [KuCoin – US Pre-Market Overview, 04.11.2026 (Repost)](https://www.kucoin.com/news/insight/NVDA/6aeb15d1bbcb52000745c93c)
+- [Tradingpedia – Crude Oil Pulls Back on US Election Shift & Iran (04.11.)](https://www.tradingpedia.com/2026/11/04/crude-oil-pulls-back-on-us-election-shift-iran/) · [Bloomberg – Oil Edges Higher as Progress on US-Iran Talks Remains Mixed (nur Überschrift)](https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4)
+- [456X Morning Brief, 04.11.2026 (AMD, Supermicro, TSMC, ASML, Alphabet)](https://404kresearch.substack.com/p/456x-morning-brief-november-4-2026-f25)
