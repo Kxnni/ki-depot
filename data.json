@@ -90,7 +90,16 @@
       "valueEur": 953.02
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "sell",
+      "symbol": "V",
+      "name": "Visa",
+      "shares": 0.3356,
+      "created": "2026-11-05",
+      "reason": "Mechanische Trimmregel (Vorabfestlegung 31.10.2026): Offizieller Kurslauf 04.11.2026 zeigt V bei 20,37 % des Depotwerts (1.961,66 EUR von 9.628,31 EUR) und damit ueber 20,0 % - zugleich Verletzung der Strategie-Obergrenze 20 % je Position. Rueckfuehrung auf 19,0 %: 1.961,66 - 0,19 x 9.628,31 = 132,28 EUR, abgerundet auf volle 10 EUR = 130 EUR = 0,3356 Stueck (5,0635 x 130/1.961,66). Risikomassnahme, keine Thesenaussage; die Interchange-Vorabregel (Reduktion auf 15 %) hat NICHT gefeuert. Nach Regel (6) heute kein Kauf."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",
