@@ -90,7 +90,48 @@
       "valueEur": 941.6
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "type": "buy",
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor (ADR)",
+      "amountEur": 64,
+      "created": "2026-11-08",
+      "reason": "Wiedereinstiegsregel (Fassung 16.09.2026), mechanische Cash-Allokation, KEINE Konviktionsaussage. Kurslauf 06.11.2026: Depot 9.425,37 EUR, Cash 1.177,70 EUR = 12,50 % > Bandobergrenze 10,0 % => feuert. Betrag: 1.177,70 - 9,0 % x 9.425,37 = 329,42 EUR, abgerundet 320 EUR (>= 250 EUR Mindestbetrag, < 5 %-Kappe 471 EUR). Regel (6) sperrt nicht (keine Verkaufsregel gefeuert, V 19,05 % < 20 %). Berechtigt: TSM, ASML, VRT, JPM, CVX => je 64 EUR. Gesperrt: V (19,05 %) und JNJ (15,11 %) nach (5)(f) > 15 %; GOOGL nach (5)(a) (datierte Q4-Pruefkriterien vom 29.10., Stichtag Feb. 2027). AI-Block danach ~34,0 % < 36 %. Cash danach ~9,1 %."
+    },
+    {
+      "type": "buy",
+      "symbol": "ASML",
+      "name": "ASML (ADR)",
+      "amountEur": 64,
+      "created": "2026-11-08",
+      "reason": "Wiedereinstiegsregel (Fassung 16.09.2026), mechanische Cash-Allokation, KEINE Konviktionsaussage. Kurslauf 06.11.2026: Depot 9.425,37 EUR, Cash 1.177,70 EUR = 12,50 % > Bandobergrenze 10,0 % => feuert. Betrag: 1.177,70 - 9,0 % x 9.425,37 = 329,42 EUR, abgerundet 320 EUR (>= 250 EUR Mindestbetrag, < 5 %-Kappe 471 EUR). Regel (6) sperrt nicht (keine Verkaufsregel gefeuert, V 19,05 % < 20 %). Berechtigt: TSM, ASML, VRT, JPM, CVX => je 64 EUR. Gesperrt: V (19,05 %) und JNJ (15,11 %) nach (5)(f) > 15 %; GOOGL nach (5)(a) (datierte Q4-Pruefkriterien vom 29.10., Stichtag Feb. 2027). AI-Block danach ~34,0 % < 36 %. Cash danach ~9,1 %."
+    },
+    {
+      "type": "buy",
+      "symbol": "VRT",
+      "name": "Vertiv Holdings",
+      "amountEur": 64,
+      "created": "2026-11-08",
+      "reason": "Wiedereinstiegsregel (Fassung 16.09.2026), mechanische Cash-Allokation, KEINE Konviktionsaussage. Kurslauf 06.11.2026: Depot 9.425,37 EUR, Cash 1.177,70 EUR = 12,50 % > Bandobergrenze 10,0 % => feuert. Betrag: 1.177,70 - 9,0 % x 9.425,37 = 329,42 EUR, abgerundet 320 EUR (>= 250 EUR Mindestbetrag, < 5 %-Kappe 471 EUR). Regel (6) sperrt nicht (keine Verkaufsregel gefeuert, V 19,05 % < 20 %). Berechtigt: TSM, ASML, VRT, JPM, CVX => je 64 EUR. Gesperrt: V (19,05 %) und JNJ (15,11 %) nach (5)(f) > 15 %; GOOGL nach (5)(a) (datierte Q4-Pruefkriterien vom 29.10., Stichtag Feb. 2027). AI-Block danach ~34,0 % < 36 %. Cash danach ~9,1 %."
+    },
+    {
+      "type": "buy",
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "amountEur": 64,
+      "created": "2026-11-08",
+      "reason": "Wiedereinstiegsregel (Fassung 16.09.2026), mechanische Cash-Allokation, KEINE Konviktionsaussage. Kurslauf 06.11.2026: Depot 9.425,37 EUR, Cash 1.177,70 EUR = 12,50 % > Bandobergrenze 10,0 % => feuert. Betrag: 1.177,70 - 9,0 % x 9.425,37 = 329,42 EUR, abgerundet 320 EUR (>= 250 EUR Mindestbetrag, < 5 %-Kappe 471 EUR). Regel (6) sperrt nicht (keine Verkaufsregel gefeuert, V 19,05 % < 20 %). Berechtigt: TSM, ASML, VRT, JPM, CVX => je 64 EUR. Gesperrt: V (19,05 %) und JNJ (15,11 %) nach (5)(f) > 15 %; GOOGL nach (5)(a) (datierte Q4-Pruefkriterien vom 29.10., Stichtag Feb. 2027). AI-Block danach ~34,0 % < 36 %. Cash danach ~9,1 %."
+    },
+    {
+      "type": "buy",
+      "symbol": "CVX",
+      "name": "Chevron",
+      "amountEur": 64,
+      "created": "2026-11-08",
+      "reason": "Wiedereinstiegsregel (Fassung 16.09.2026), mechanische Cash-Allokation, KEINE Konviktionsaussage. Kurslauf 06.11.2026: Depot 9.425,37 EUR, Cash 1.177,70 EUR = 12,50 % > Bandobergrenze 10,0 % => feuert. Betrag: 1.177,70 - 9,0 % x 9.425,37 = 329,42 EUR, abgerundet 320 EUR (>= 250 EUR Mindestbetrag, < 5 %-Kappe 471 EUR). Regel (6) sperrt nicht (keine Verkaufsregel gefeuert, V 19,05 % < 20 %). Berechtigt: TSM, ASML, VRT, JPM, CVX => je 64 EUR. Gesperrt: V (19,05 %) und JNJ (15,11 %) nach (5)(f) > 15 %; GOOGL nach (5)(a) (datierte Q4-Pruefkriterien vom 29.10., Stichtag Feb. 2027). AI-Block danach ~34,0 % < 36 %. Cash danach ~9,1 %."
+    }
+  ],
   "trades": [
     {
       "date": "2026-07-06",

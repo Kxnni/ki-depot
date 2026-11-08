@@ -6411,3 +6411,87 @@ Gestern habe ich den Rückstand nach dem Kurslauf auf **−4,8 bis −5,3 pp** g
 - [CNBC – Qualcomm slides 9% after earnings (nur Überschrift)](https://cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html) · [investingLive – Qualcomm beats Q4, profit guidance light](https://investinglive.com/stocks/qualcomm-beats-q4-forecasts-shares-slip-2-as-profit-guidance-comes-in-light/)
 - [TIKR – ASML Sinks 8% as Post-Election Chip Rout Deepens](https://www.tikr.com/blog/asml-sinks-8-as-post-election-chip-rout-deepens) · [GuruFocus – TSMC Stocks Fall 7.46% (nur Überschrift)](https://www.gurufocus.com/news/9175279/tsmc-stocks-fall-746-despite-a-533-billion-revenue-midpoint) · [TradingKey – TSM opened down 5.32% on Nov 5](https://www.tradingkey.com/news/market-movers/262282801-market-movers-tsm-20261105)
 - [HDFC Sky – Brent at $93.9 on Iran de-escalation hopes (05.11.)](https://hdfcsky.com/news/brent-crude-oil-price-today-november-5-2026-brent-falls-0-7percent-to-93-9-wti-slips-below-88-as-iran-war-resolution-hopes-weigh-on-prices) · [straits.live – Strait of Hormuz Closed, Day 249](https://straits.live/)
+
+## 08.11.2026 (Sonntag, Wochenendlauf nach Kurslauf 06.11.) – Fünf mechanische Käufe à 64 € (TSM, ASML, VRT, JPM, CVX): Die Wiedereinstiegsregel verlässt erstmals seit dem 18.09. die Totzone (Überschuss 329 € ≥ 250 €). Keine Konviktionsaussage, kein neuer Titel. V-Trim ausgeführt, V jetzt 19,05 %. Hormus nicht offen (Brent ~100 $) ⇒ CVX-Kriterien nicht erfüllt. Texas-Moratorium als neues VRT-Risiko benannt, aber nicht als Sperre konstruiert
+
+**Analyse: Claude Opus 5 (Modell-ID laut System-Kontext: claude-opus-5-5, Subagent)**
+
+**Datenstand:** Offizieller Kurslauf **06.11.2026** (20:39 UTC, also kurz vor US-Schluss): Depot **9.425,37 €** (**−5,75 %** seit Start), Benchmark **9.809,70 €** (**−1,90 %**, S&P 7.393,99). **Rückstand −3,85 pp** (04.11.: −5,75 pp, 05.11.: −5,23 pp). Cash **1.177,70 € = 12,50 %**. `orders` war vor diesem Lauf leer. Der V-Trim vom 05.11. wurde im Kurslauf 05.11. ausgeführt: 0,3356 Stück zu 422,59 $ = **126,38 €** (geplant ≈ 130 €, Differenz durch Kurs/FX). Märkte heute geschlossen, alle Orders werden im Kurslauf Mo 09.11. ausgeführt.
+
+### Abgleich mit dem Eintrag vom 05.11.
+
+- **Ausmaß des Crashs unterschätzt:** Ich habe am 05.11. mit Intraday-Werten von S&P ≈ −2,8 % gearbeitet und die Zahl „Nasdaq > −5 %“ als nur einfach belegt markiert. Tatsächlich schloss der S&P laut Kurslauf bei **−4,38 %** (7.690 → 7.354), der Nasdaq bei ≈ **−5,5 %** und der Chipindex bei ≈ **−12 %** (Alain Guillot). Die Einzelquelle hatte also recht, meine Vorsicht war hier zu konservativ.
+- **Richtung der Relativ-Schätzung stimmte:** Erwartet hatte ich, dass das Depot am 05.11. relativ aufholt. Das ist passiert, aber nur knapp: Das Depot verlor −4,10 %, der Index −4,38 %. Der defensive Teil (V, JNJ, JPM, CVX) hat weniger geschützt als gedacht, weil der AI-Block (TSM, ASML, VRT) überproportional fiel. Am 06.11. holte das Depot dann deutlich auf (+2,08 % gegen +0,55 %), getragen von der Chip-Erholung. Unterm Strich: Rückstand **−3,85 pp**, so klein wie seit Wochen nicht. **Das ist Volatilität und kein Erfolg einer Entscheidung**, denn es wurde in der Woche nur der mechanische V-Trim gehandelt.
+- **Nicht nachgekauft im Ausverkauf:** Am 05.11. habe ich den Nachkauf von TSM/ASML abgelehnt (Regel (6) und Begründung „Momentum-Fang“). Im Nachhinein hätte ein Kauf am 05.11. zum Kurslauf (ausgeführt am 06.11.) etwas Erholung mitgenommen. Das ist Rückschau-Wissen, der Grundsatz bleibt richtig.
+
+### Marktlage (Woche 02.–06.11.)
+
+- **Woche:** S&P **−2,7 %**, Nasdaq **−3,4 %**, Dow −0,9 %, Russell 2000 −2,1 %. Für S&P und Nasdaq ist das die schlechteste Woche seit Juni. Ablauf: Wahl-Rally am 04.11. (Demokraten gewinnen House und Senat), am 05.11. dann der KI-Chip-Crash (Qualcomm-Warnung, Zweifel an der AI-Rendite, Sorge vor Bremsen beim Rechenzentrumsbau), am 06.11. eine Erholung (S&P +0,3 %, Nasdaq +1,1 %, Chips erholen sich: Nvidia, AMD, Micron).
+- **Arbeitsmarkt Oktober (06.11.):** **+165.000** Stellen gegen ~65.000 erwartet (LSEG), privat +159.000, Arbeitslosenquote **4,1 %** (Vormonat 4,2 %), Revisionen Aug./Sep. zusammen **+84.000**, Stundenlöhne **+3,1 % J/J** (erwartet 2,4 %). Der Bericht ist robust und zugleich lohninflationär. Das spricht eher für die Zinsanhebung im Dezember (09.12.), stützt JPM und belastet langlaufende Bewertungen. Challenger meldet die wenigsten angekündigten Entlassungen seit 2023.
+- **Öl/Hormus:** Brent (**Januar-Kontrakt**, LCOc1) lag am 06.11. morgens bei **99,58 $**, WTI bei 91,38 $. Die Woche endet mit ≈ **−12 %**, an den letzten beiden Tagen stiegen die Preise wieder. Laut UKMTO gibt es weiter Tankerangriffe in fast rekordhohem Tempo (Iran meldet drei weitere Angriffe am 05.11.). Gespräche laufen über Katar, ein Abkommen gibt es nicht. Ich habe **keine** Quelle für eine tatsächliche Öffnung gefunden. Die Treffer „Iran declares Strait open“ stammen vom **18.04.2026** (alt) und wurden verworfen.
+- **Rechenzentrums-Politik:** Die designierte Texas-Gouverneurin **Gina Hinojosa** (Amtsantritt 19.01.) kündigt ein **sofortiges Moratorium für neue Rechenzentrumsgenehmigungen** an, bis das Parlament Regeln beschließt (Gewerkschaftspflicht, Strom-/Wasserkostenschutz, Ende der Subventionen, Mitsprache der Gemeinden). Texas steht für ~25 % (Goldman via Reuters) bis ~30 % (CNBC/Weiss) der geplanten US-Kapazität. Bestehende Projekte sind nach dem Text nicht erfasst, nur Wasserverträge könnten gekündigt werden. Das ERCOT-Audit endet im Dezember, das Parlament tagt ab Januar.
+- **Wochenende:** Ich habe keine marktrelevanten Neuigkeiten gefunden.
+
+### Positionen (Gewichte Kurslauf 06.11.)
+
+- **V (19,05 %, 423,16 $, Buchgewinn +21,0 %):** Der Trim ist ausgeführt. Das Gewicht liegt nach der Defensivbewegung am 05.11. bei 19,05 % und damit unter 20 % ⇒ **Trimmregel feuert nicht**. Ich habe keine neue Visa-Nachricht gefunden, die CCCA-Berichterstattung ist alt (Januar 2026). **Interchange-Vorabregel (15 %)** hat nicht gefeuert: Es gibt weder einen eingebrachten Gesetzentwurf noch eine Prioritätserklärung der künftigen Mehrheit. Am **09.11. (CFO)** prüfen. **Halten.**
+- **JNJ (15,11 %, +10,4 %):** Keine Firmennachricht gefunden. Wegen der Kursbewegung jetzt knapp über 15 % ⇒ nach (5)(f) für Wiedereinstiegskäufe gesperrt. Prüfliste zum Investor Day 08.12. **Halten.**
+- **TSM (13,58 %, 375,38 $, −14,7 %):** Keine TSMC-eigene Negativmeldung. Der Absturz am 05.11. und die Erholung am 06.11. waren reine Sektorbewegungen. Der **Oktober-Umsatz** kommt voraussichtlich um den 10.11. und ist der nächste harte Datenpunkt. These (Fertigungsmonopol) unberührt. **Halten**, mechanischer Zukauf 64 €.
+- **JPM (11,38 %, −2,5 %):** Keine Firmennachricht. Der starke Arbeitsmarkt und eine wahrscheinlichere Dezember-Anhebung stützen die These. Das Thema Kreditkartenzins-Deckel bleibt als Hintergrund (Trefis 03.11.), mit dem demokratischen Kongress eher etwas wahrscheinlicher, es gibt aber keinen konkreten Schritt. **Halten**, mechanischer Zukauf 64 €.
+- **CVX (9,99 %, 212,86 $, +10,8 %; 30.10. noch 234,93 $ ⇒ −9,4 % in einer Woche):** Prüfung des Halbierungskriteriums im Wortlaut: **(a)** Hormus tatsächlich geöffnet, belegt durch zwei unabhängige Quellen: **nein** (Angriffe laufen weiter, kein Abkommen) · **(b)** Brent an drei Tagen < 85 $: **nein** (~95–100 $). Untergrenze (WTI < 78 $ UND CVX < 190 $): nicht berührt. **Halten.** Ehrlicher Hinweis: Der mechanische Zukauf von 64 € geht in einen Titel, dessen Halbierungskriterium bei einem Iran-Abkommen feuern würde. Das ist eine bekannte Eigenschaft der Regel (Gleichverteilung ohne Meinung). Ich überstimme sie nicht, denn eine Sperre für CVX gibt (5) seit der Rückführung der Hormus-Feuerregel nicht mehr her.
+- **GOOGL (8,66 %, 285,66 $, −19,9 %):** Keine neue Firmennachricht. Die Q4-Prüfkriterien vom 29.10. (Halbierung bei 2 von 3) laufen bis Anfang Februar 2027. Das ist eine **laufende, datierte Prüfliste** ⇒ nach (5)(a) gesperrt. **Halten.**
+- **ASML (7,22 %, 1.423,73 $, −19,9 %):** Keine Firmennachricht. Der Rückgang war rein sektorgetrieben (TIKR am 05.11.: „Nothing in today's sell-off came from ASML“). Forward-KGV im Bereich ~23x. **Halten**, mechanischer Zukauf 64 €.
+- **VRT (2,51 %, 183,51 $, −40,8 %; 28.10. vorbörslich ~241 $ ⇒ ≈ −24 % in gut einer Woche):** Der Kurs fiel am 04.11. um ≈ −13 % und am 05.11. um weitere ≈ −16 % (TIKR). Es gibt **keine Vertiv-eigene Nachricht**. Die Q3-Zahlen vom 28.10. (Aufträge > +100 %, Guidance angehoben, Deferred Revenue 4,12 Mrd. $) sind unverändert. Neu ist die **politische** Information zu Texas (siehe oben). Sie trifft neue Genehmigungen ab Ende Januar in einem Staat mit ~25–30 % der Pipeline, nicht den bestehenden Auftragsbestand. Forward-KGV laut TIKR ~22x (5-Jahres-Schnitt 27x). **These angekratzt (Wachstumspfad 2027+ unsicherer), nicht gebrochen. Halten.**
+  **Bewusst erwogen und verworfen:** VRT heute wegen Texas unter eine neue datierte Prüfliste zu stellen und damit nach (5)(a) aus der Wiedereinstiegsregel herauszunehmen. Das wäre formal möglich, aber es wäre genau das Muster, vor dem dieses Journal wiederholt warnt: eine Sperre am Tag nach einem −30 %-Absturz erfinden, und zwar auf der Verlustseite (vgl. Gewinner-Kauf-Filter, 22.09.). Die VRT-Sonderregel ist seit dem 28.10. abgeschlossen („es gelten nur noch die allgemeinen Depotregeln“). Der Zukauf von 64 € hebt VRT auf ~3,2 %, also etwa auf das Gewicht vom 28.10., und widerspricht damit nicht der Aussage vom 14.09., die halbe Position sei die richtige Größe. Stattdessen setze ich einen **Prüfpunkt ohne Sperrwirkung**: Q4-Bericht (Feb. 2027), Aussagen zu Texas-Aufträgen und Stornos.
+
+### Regelcheck (Kurslauf 06.11.)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **19,05 %** ✓ (≤ 20 %) · **Cash 12,50 %** ✓ (≥ 5 %).
+- **Verkaufsregeln:** keine feuert (V < 20 %, CVX-Ober-/Untergrenze und Halbierung nicht erfüllt, GOOGL-Kriterien erst zu Q4, V-Interchange-Vorabregel nicht ausgelöst) ⇒ **Regel (6) sperrt heute nicht.**
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **31,97 %** < 36 % ✓.
+- **Wiedereinstiegsregel (Fassung 16.09., Band 8,0–10,0 %, Mitte 9,0 %):** Cash 12,50 % > 10,0 % ⇒ **feuert**. Betrag: 1.177,70 € − 0,09 × 9.425,37 € = **329,42 €** ⇒ abgerundet **320 €**. Das ist ≥ 250 € Mindestbetrag und < 471 € Höchstbetrag (5 %) ⇒ **erstmals seit dem 18.09. eine Order.** Der Überschuss ist durch zwei Effekte gewachsen: den V-Trim (+126 €) und den gefallenen Depotwert.
+- **Berechtigungsprüfung (5)(a)–(f):**
+
+| Titel | Gewicht | Status | Grund |
+|---|---|---|---|
+| V | 19,05 % | gesperrt | (5)(f) > 15 % |
+| JNJ | 15,11 % | gesperrt | (5)(f) > 15 % (erst seit diesem Kurslauf), zusätzlich Investor-Day-Prüfliste 08.12. |
+| GOOGL | 8,66 % | gesperrt | (5)(a) laufende datierte Q4-Prüfkriterien (29.10.) |
+| TSM | 13,58 % | **berechtigt** | nach Kauf ~14,26 % < 15 % ✓ |
+| ASML | 7,22 % | **berechtigt** | – |
+| VRT | 2,51 % | **berechtigt** | Prüfliste am 28.10. abgeschlossen (siehe oben) |
+| JPM | 11,38 % | **berechtigt** | – |
+| CVX | 9,99 % | **berechtigt** | (5)(b) entfällt seit Rückführung der Hormus-Feuerregel |
+
+  320 € / 5 = **64 € je Titel**. AI-Block danach ≈ **34,0 %** < 36 % ✓. Cash danach ≈ **9,1 %** (Bandmitte) ✓.
+- **Hinweis zum Gewinner-Kauf-Filter (Zählregel seit 30.09.: gezählt wird nur, wenn eine Order entsteht):** Diesmal liegen von den fünf berechtigten Titeln **vier im Verlust** (TSM, ASML, VRT, JPM leicht) und **einer im Gewinn** (CVX). Gesperrt sind zwei Gewinner (V, JNJ) und ein Verlierer (GOOGL). Der Filter wirkt heute also **nicht** gleichgerichtet ⇒ keine Zählung als Beobachtung.
+- **Wiedervorlage UNP/PG/KO/LLY:** Die Bedingung vom 29.10. (freies Kapital über der Totzone) ist formal **erfüllt**. Ergebnis: **kein neuer Titel.** Begründung: Regel (4) verbietet, dass die Wiedereinstiegsregel eine neue Position eröffnet. 320 € (3,4 %) wären außerdem eine Splitterposition, und für eine gesonderte Kaufentscheidung habe ich heute keine aktuelle Recherche zu Bewertung und Kurs der vier Kandidaten gemacht. **Das ist eine Vertagung, und ich nenne sie so.** Datiert: Die Strukturfrage (Mega-Cap-Lücke, 9./10. Platz) wird im **ersten Lauf nach den Nvidia-Zahlen (18.11.)** entschieden, mit Recherche zu UNP, PG, KO und LLY.
+
+### Entscheidung
+
+**Fünf Kauforders à 64 €: TSM, ASML, VRT, JPM, CVX** (zusammen 320 €), Ausführung im Kurslauf Mo 09.11.
+1. Das ist die mechanische Anwendung einer seit dem 16.09. fixierten Regel und **keine** These, dass der Chip-Ausverkauf vorbei ist. Ich hätte aus eigenem Urteil heute nicht gezielt nachgekauft, aber auch nicht gegen die Regel verkauft. Die Regel existiert genau dafür, dass ich überschüssiges Cash nicht wochenlang nach Stimmung parke.
+2. **Kein Verkauf:** Weder VRT (Texas-Politik ohne Firmeninformation, Auftragsbestand intakt) noch CVX (Kriterien nicht erfüllt) noch der AI-Block (Sektorbewegung) liefern einen Verkaufsgrund nach unseren Regeln.
+3. **Kein neuer Titel** (siehe Wiedervorlage, datiert auf nach dem 18.11.).
+
+### Ehrliche Einordnung
+
+- Der Rückstand ist mit **−3,85 pp** so klein wie lange nicht, aber er ist durch die Schwankung des AI-Blocks gesunken und nicht durch Entscheidungen. Er kann genauso schnell wieder wachsen. Absolut liegt das Depot bei **−5,75 %**.
+- **Zur Order:** Sie kauft zu 60 % in den AI-Block (TSM, ASML, VRT) nach dessen schlechtester Woche seit Langem. Das kann gut aussehen (Mean Reversion) oder schlecht (das Faktorrisiko „AI-Rendite/Politik“ setzt sich fort). Die Beträge sind klein (zusammen 3,4 % des Depots), das Risiko ist begrenzt.
+- **Recherchegrenzen:** Keine Einzeltageskurse für die Positionen außer den `data.json`-Werten. VRT-Bewegungen stammen von TIKR (05.11., intraday). Öl ist nur ein Morgen-Snapshot vom 06.11. (Januar-Kontrakt), kein Schlusskurs. TSMC-Oktoberumsatz noch nicht veröffentlicht. Für JPM und JNJ habe ich keine gezielte Firmen-Suche über Hintergrundthemen hinaus gemacht.
+
+### Für den nächsten Lauf (Mo 09.11.)
+
+(a) **Ausführung der 5 Orders** im Kurslauf prüfen (Stückzahlen, Cash ≈ 9,1 %). (b) **Visa-CFO (09.11.):** Interchange/CCCA ⇒ Vorabregel 15 % prüfen. V-Trim nur bei > 20 % im Kurslauf. (c) **TSMC-Oktoberumsatz** (~10.11.) einordnen. (d) **Hormus:** zwei unabhängige Quellen für eine **tatsächliche** Öffnung? Brent-Schluss (mit Kontraktmonat) < 85 $? (e) **CoreWeave Q3 (10.11.)** als Kontext für Neoclouds und VRT, dazu weitere Texas-/Moratoriums-Meldungen (nur Prüfpunkt, keine Sperre). (f) JNJ wieder unter 15 %? Nur relevant für die Berechtigung.
+
+### Offene Termine
+
+**09.11.** Visa-CFO (Interchange/CCCA, Vorabregel 15 %) · **~10.11.** TSMC-Oktoberumsatz · **10.11.** V-Dividendenstichtag · **10.11.** CoreWeave Q3 · **Mitte Nov.** Anthropic-IPO · **18.11.** Nvidia Q3 ⇒ **erster Lauf danach: Strukturfrage/Wiedervorlage UNP/PG/KO/LLY** · **01.12.** Frist GOOGL-Sammelklage · **Dez.** ERCOT-Audit, CVX-Capex 2027 · **08.12.** JNJ Investor Day · **09.12.** Fed · **19.01.2027** Amtsantritt Hinojosa (Texas-Moratorium) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien), VRT Q4 (Prüfpunkt Texas)
+
+### Quellen
+
+- [Alain Guillot – Stock Market Recap November 6, 2026 (Tages- und Wochenbilanz, Chip-Crash 05.11.)](https://www.alainguillot.com/stock-market-recap-november-6-2026/)
+- [Fox Business – US economy adds 165,000 jobs in October (06.11.2026)](https://foxbusiness.com/economy/us-jobs-report-october-2026)
+- [OE Digital – Oil Heads for Steep Weekly Drop Despite Middle East Supply Risks (06.11.2026)](https://www.oedigital.com/amp/news/544192-oil-heads-for-steep-weekly-drop-despite-middle-east-supply-risks) · [OE Digital – Oil Prices Tumble Nearly 4% as US-Iran Peace Hopes Grow (02.11.2026)](https://www.oedigital.com/amp/news/544055-oil-prices-tumble-nearly-4-as-us-iran-peace-hopes-grow) · verworfen, weil alt: [Daily Star – Oil settles down 9% after Iran declares Strait of Hormuz open (18.04.2026)](https://www.thedailystar.net/business/news/oil-settles-down-9-after-iran-declares-strait-hormuz-open-4154276)
+- [TIKR – Vertiv Sinks Another 16% as Data Center Selloff Deepens (05.11.2026)](https://www.tikr.com/blog/vertiv-sinks-another-16-as-data-center-selloff-deepens-forced-control-on-capex) · [Baxtel – Texas governor-elect pledges moratorium on new data center approvals (05.11.2026)](https://baxtel.com/news/texas-governor-elect-pledges-moratorium-on-new-data-center-approvals)
+- [Trefis – Bank Stocks' Real Risk Is A Credit-Card Rate Cap (03.11.2026)](https://www.trefis.com/stock/jpm/articles/622017/nov-3-bank-stocks-real-risk-is-a-credit-card-rate-cap/2026-11-03)
