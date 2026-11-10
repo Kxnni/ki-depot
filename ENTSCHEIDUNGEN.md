@@ -6495,3 +6495,68 @@ Gestern habe ich den Rückstand nach dem Kurslauf auf **−4,8 bis −5,3 pp** g
 - [OE Digital – Oil Heads for Steep Weekly Drop Despite Middle East Supply Risks (06.11.2026)](https://www.oedigital.com/amp/news/544192-oil-heads-for-steep-weekly-drop-despite-middle-east-supply-risks) · [OE Digital – Oil Prices Tumble Nearly 4% as US-Iran Peace Hopes Grow (02.11.2026)](https://www.oedigital.com/amp/news/544055-oil-prices-tumble-nearly-4-as-us-iran-peace-hopes-grow) · verworfen, weil alt: [Daily Star – Oil settles down 9% after Iran declares Strait of Hormuz open (18.04.2026)](https://www.thedailystar.net/business/news/oil-settles-down-9-after-iran-declares-strait-hormuz-open-4154276)
 - [TIKR – Vertiv Sinks Another 16% as Data Center Selloff Deepens (05.11.2026)](https://www.tikr.com/blog/vertiv-sinks-another-16-as-data-center-selloff-deepens-forced-control-on-capex) · [Baxtel – Texas governor-elect pledges moratorium on new data center approvals (05.11.2026)](https://baxtel.com/news/texas-governor-elect-pledges-moratorium-on-new-data-center-approvals)
 - [Trefis – Bank Stocks' Real Risk Is A Credit-Card Rate Cap (03.11.2026)](https://www.trefis.com/stock/jpm/articles/622017/nov-3-bank-stocks-real-risk-is-a-credit-card-rate-cap/2026-11-03)
+
+## 09.11.2026 (Montag, Lauf während der US-Handelszeit, vor dem Kurslauf) – Keine neuen Trades: Starke Erholung (S&P mittags ≈ +2,4 %, Nasdaq ≈ +2,6 %), Chips führen, Alphabet stellt neue TPUs vor, Nvidia −5 % wegen Huang-Untersuchung. Die fünf mechanischen 64-€-Orders vom 08.11. sind noch offen und werden im heutigen Kurslauf ausgeführt, also keine Doppelorder. Brent ≈ 94 $, Hormus weiter nicht offen ⇒ CVX-Kriterien nicht erfüllt
+
+**Analyse: Claude Opus 5 (Modell-ID laut System-Kontext: claude-opus-5-5, Subagent)**
+
+**Datenstand:** Letzter offizieller Kurslauf ist weiterhin **06.11.2026** (20:39 UTC): Depot **9.425,37 €** (**−5,75 %** seit Start), Benchmark **9.809,70 €** (**−1,90 %**, S&P 7.393,99), **Rückstand −3,85 pp**. Cash 1.177,70 € = 12,50 %. Der Kurslauf vom 09.11. ist zum Zeitpunkt dieses Eintrags (≈ 19:30 UTC) **noch nicht** im Repo (`git fetch` zeigt keine neuen Commits; der letzte Lauf kam um 20:39 UTC). In `orders` stehen die **fünf Kauforders vom 08.11.** (TSM, ASML, VRT, JPM, CVX à 64 €). Sie sind korrekt und werden in diesem Kurslauf ausgeführt. Ich lege **nichts doppelt** an und rechne die Wiedereinstiegsregel nicht neu, weil es keinen neuen Kurslauf gibt.
+
+### Abgleich mit dem Eintrag vom 08.11.
+
+- **Ausführungszeitpunkt der mechanischen Käufe:** Die Orders werden an einem Tag mit ≈ +2,4 % im S&P und einem Chip-Rally (ASML, AMD, Micron genannt) ausgeführt, also **nach** einem Teil der Erholung. Am 05.11. hatte ich den Nachkauf im Ausverkauf abgelehnt. Die Kosten dieser Verzögerung sind bei 320 € gering (grob 5–10 €). Ich halte das für eine bekannte Eigenschaft der Regel (Ausführung am Folgetag, Wochenende dazwischen) und nicht für einen Fehler, der eine Regeländerung rechtfertigt.
+- **Prognose „Rückstand kann schnell wieder wachsen“ (08.11.):** Heute läuft es eher umgekehrt: Der AI-Block (TSM, ASML, GOOGL, VRT ≈ 32 %) dürfte mit dem Chip-Rally überproportional steigen, während die Defensiven (V, JNJ ≈ 34 %) wohl hinter dem Index zurückbleiben. Was im Kurslauf tatsächlich ankommt, ist offen. **Keine** Aussage über Entscheidungen, nur über Schwankung.
+
+### Marktlage (09.11., Intraday-Werte, keine Schlusskurse)
+
+- **Indizes (Yahoo Live, mittags):** S&P **7.552,65 (+2,38 %)**, Dow 52.424 (+2,22 %), Nasdaq 25.224 (+2,62 %), Russell 2000 +3,05 %, VIX 20,3 (−21 %). Das ist eine Erholung nach der schlechtesten S&P-Woche seit April 2025.
+- **Nvidia −5 % (zeitweise −8 %):** Der Aufsichtsrat untersucht Berichte, die CEO Jensen Huang über eine eingeräumte Affäre mit einer mutmaßlich für China spionierenden Person in Verbindung bringen. Thema ist das Schlüsselpersonenrisiko (kein benannter Nachfolger). Laut Analysten bleibt der Schaden auf Nvidia begrenzt, der Rest des Halbleitersektors steigt. Für uns ist das **indirekt** relevant: TSM fertigt für Nvidia, aber ein Personalthema ändert die Nachfrage nach Fertigungskapazität nicht.
+- **Alphabet:** Neue TPU-Chips (8t / 8i, laut Berichten auch Direktverkauf an Kunden), vorbörslich ≈ +3 %. Das passt zur ursprünglichen These (eigene Chips) und ist **kein** Kriterium der Q4-Prüfliste vom 29.10. ⇒ ändert nichts am Status.
+- **Citi** stuft US-Aktien und globale Tech auf Neutral ab und hebt europäische Aktien an (weniger AI-Exposure). Sie erwartet weitere Verkäufe, bevor sich die Stimmung stabilisiert. Das ist Kontext, kein Handlungsgrund.
+- **Öl/Hormus:** Brent **≈ 94–95 $** (−3,6 %), WTI (Dez.) ≈ 87,7–88,1 $ (−3 bis −3,4 %), nachdem Trump neue Schläge gegen Iran herunterspielte. Am 06.11. gab es noch US-Schläge (Gulf News, 07.11.). Iran prüft Vorschläge über Katar, ein „Bridge Deal“ (Öffnung der Meerenge am zweiten Tag) ist **nicht** abgeschlossen. Ich habe **keine** Quelle für eine tatsächliche Öffnung gefunden.
+- **Nicht gefunden:** Berichterstattung zum Visa-CFO-Auftritt (Interchange/CCCA) und den TSMC-Oktoberumsatz (erwartet ~10.11.). Für JPM, JNJ, VRT und ASML gibt es keine firmenspezifischen Nachrichten über die Sektorbewegung hinaus.
+
+### Positionen (Gewichte Kurslauf 06.11., vor Ausführung der Orders)
+
+- **V (19,05 %):** Keine neue Visa-Nachricht gefunden, auch nicht zum CFO-Auftritt. Die Interchange-Vorabregel (15 %) feuert nicht, es gibt weder einen Gesetzentwurf noch eine Prioritätserklärung. Trim nur bei > 20 % im Kurslauf. **Halten.** Dividendenstichtag 10.11.
+- **JNJ (15,11 %):** Keine Nachricht. **Halten.** Investor Day 08.12.
+- **TSM (13,58 %):** Keine Firmennachricht. Die Nvidia-Personalie betrifft die Kundenseite und nicht die Nachfrage. Der Oktoberumsatz steht noch aus. **Halten**, Order 64 € läuft.
+- **JPM (11,38 %):** Keine Nachricht. **Halten**, Order 64 € läuft.
+- **CVX (9,99 %):** Halbierungskriterium im Wortlaut: (a) Hormus tatsächlich geöffnet, zwei unabhängige Quellen: **nein**. (b) Brent an drei Tagen < 85 $: **nein** (≈ 94 $). Untergrenze (WTI < 78 $ UND CVX < 190 $): nicht berührt. **Halten**, Order 64 € läuft. Hinweis: Der Ölpreis fällt weiter. Rückt (b) näher, wird das im nächsten Lauf mit Schlusskursen und Kontraktmonat geprüft.
+- **GOOGL (8,66 %):** Die TPU-Vorstellung ist positiv für die These. Die Q4-Prüfkriterien (Stichtag Feb. 2027) bleiben bestehen ⇒ weiter nach (5)(a) für Wiedereinstiegskäufe gesperrt. **Halten.**
+- **ASML (7,22 %):** Wird im Chip-Rally ausdrücklich genannt. Die Citi-Aufwertung Europas ist leichter Rückenwind. **Halten**, Order 64 € läuft.
+- **VRT (2,51 %):** Keine eigene Nachricht. CoreWeave Q3 (10.11.) und Texas-Meldungen bleiben Prüfpunkte ohne Sperrwirkung. **Halten**, Order 64 € läuft.
+
+### Regelcheck (Kurslauf 06.11. + offene Orders)
+
+- 8 Positionen ✓ · größte Position V 19,05 % ✓ · Cash 12,50 % (nach Orders ≈ 9,1 %) ✓ ≥ 5 %.
+- Es feuert keine Verkaufsregel. Der AI-Block liegt nach den Orders bei ≈ 34 % < 36 % ✓. Ein Rally kann ihn nur durch Kursbewegung in Richtung 36 % schieben. Das wäre nach Regel 3 nur eine Kaufsperre und kein Verkauf.
+- **Wiedereinstiegsregel:** Sie wurde am 08.11. auf Basis des Kurslaufs 06.11. bereits angewandt. Ohne neuen Kurslauf gibt es **keine neue Rechnung** (sonst würde derselbe Überschuss doppelt investiert).
+
+### Entscheidung
+
+**Keine neuen Orders.** Die fünf offenen Orders vom 08.11. bleiben unverändert stehen.
+1. Die Tagesnachrichten (Rally, Nvidia-Personalie, Alphabet-TPUs, fallendes Öl) bestätigen oder berühren die Thesen, liefern aber **keinen** Kauf- oder Verkaufsgrund nach unseren Regeln.
+2. Einen Nachkauf über die mechanischen Orders hinaus „weil es heute steigt“ lehne ich ab. Das wäre Momentum-Jagd und widerspricht der Disziplinregel 7.
+3. Kein neuer Titel: Die Strukturfrage (UNP/PG/KO/LLY) bleibt wie am 08.11. datiert auf den ersten Lauf nach den Nvidia-Zahlen (18.11.).
+
+### Ehrliche Einordnung
+
+- Der Rückstand von −3,85 pp ist seit dem 06.11. unverändert offiziell. Was heute passiert, zeigt erst der Kurslauf. Der Rückgang des Rückstands in der letzten Woche war Volatilität, keine Leistung, und das gilt auch für eine mögliche weitere Verbesserung heute.
+- **Recherchegrenzen:** Alle Marktzahlen sind Intraday-Werte (Yahoo/TheStreet, mittags). Ich habe keine Einzelkurse unserer Titel außer den Nennungen (ASML im Rally, GOOGL vorbörslich ≈ +3 %). Visa-CFO und TSMC-Oktoberumsatz habe ich nicht gefunden, Öl nur als Intraday-Snapshot ohne Brent-Kontraktmonat.
+
+### Für den nächsten Lauf
+
+(a) **Ausführung der 5 Orders** im Kurslauf 09.11. prüfen (Stückzahlen, Cash ≈ 9,1 %). (b) **TSMC-Oktoberumsatz** (~10.11.). (c) **CoreWeave Q3** (10.11.) als Kontext für VRT. (d) **Visa-CFO** nachrecherchieren (Interchange/CCCA ⇒ Vorabregel 15 %). V-Trim nur bei > 20 %. (e) **Öl:** Brent-Schluss mit Kontraktmonat. Gibt es drei Tage < 85 $? Hormus tatsächlich offen (zwei Quellen)? (f) AI-Block-Gewicht nach dem Rally (36-%-Kaufsperre?). (g) Nvidia-Untersuchung beobachten, nur als Sektorkontext.
+
+### Offene Termine
+
+**10.11.** TSMC-Oktoberumsatz (ca.), V-Dividendenstichtag, CoreWeave Q3 · **Mitte Nov.** Anthropic-IPO · **18.11.** Nvidia Q3 ⇒ Strukturfrage UNP/PG/KO/LLY · **01.12.** Frist GOOGL-Sammelklage · **08.12.** JNJ Investor Day · **09.12.** Fed · **19.01.2027** Amtsantritt Hinojosa (Texas) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien), VRT Q4
+
+### Quellen
+
+- [Yahoo Finance – Stock market today, Monday November 9 (Live, Indexstände mittags, Nvidia, Alphabet-TPUs, Öl)](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html)
+- [TheStreet – Stock Market Today (Nov. 9, 2026): Nvidia bucks tech stock comeback on controversy (Öl, Citi-Abstufung)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202)
+- [Gulf News – US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals (07.11.2026)](https://gulfnews.com/world/mena/us-military-carries-out-new-targeted-strikes-on-iran-as-tehrans-leaders-weigh-mediators-proposals-1.500739074)
+- [Energy Connects/Bloomberg – Oil extends rebound on uncertainty over Iran war peace progress (06.11.2026)](https://www.energyconnects.com/news/oil/2026/november/oil-extends-rebound-on-uncertainty-over-iran-war-peace-progress/)
+- [StreetInsider – Alphabet launches two TPU chips for AI agent workloads](https://www.streetinsider.com/Basic+Content/Alphabet+launches+two+TPU+chips+for+AI+agent+workloads/26347700.html)
