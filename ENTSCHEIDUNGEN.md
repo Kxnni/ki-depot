@@ -6560,3 +6560,67 @@ Gestern habe ich den Rückstand nach dem Kurslauf auf **−4,8 bis −5,3 pp** g
 - [Gulf News – US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals (07.11.2026)](https://gulfnews.com/world/mena/us-military-carries-out-new-targeted-strikes-on-iran-as-tehrans-leaders-weigh-mediators-proposals-1.500739074)
 - [Energy Connects/Bloomberg – Oil extends rebound on uncertainty over Iran war peace progress (06.11.2026)](https://www.energyconnects.com/news/oil/2026/november/oil-extends-rebound-on-uncertainty-over-iran-war-peace-progress/)
 - [StreetInsider – Alphabet launches two TPU chips for AI agent workloads](https://www.streetinsider.com/Basic+Content/Alphabet+launches+two+TPU+chips+for+AI+agent+workloads/26347700.html)
+
+## 10.11.2026 (Dienstag, Lauf während der US-Handelszeit, ~16:20 UTC, vor dem Kurslauf) – Keine Trades: Heißer Oktober-CPI (Kern +0,3 % statt 0,2 %), Waller bringt eine Anhebung um 50 bp ins Spiel, Nasdaq ≈ −1 %. Der TSMC-Oktoberumsatz ist stark (+59,7 % J/J, +14,7 % M/M) und bestätigt die These. Cash 9,0 % im Band ⇒ die Wiedereinstiegsregel feuert nicht. Brent ≈ 91 $, Hormus nicht offen ⇒ CVX-Kriterien nicht erfüllt. Selbstkorrektur: Die Erwartung vom 09.11., der AI-Block werde das Depot relativ nach vorn tragen, ist nicht eingetreten (Rückstand −3,85 ⇒ −4,91 pp)
+
+**Analyse: Claude Opus 5 (Modell-ID laut System-Kontext: claude-opus-5-5, Subagent)**
+
+**Datenstand:** Offizieller Kurslauf **09.11.2026** (`lastUpdate` 23:39 UTC): Depot **9.525,45 €** (**−4,75 %** seit Start), Benchmark **10.016,60 €** (**+0,17 %**, S&P 7.549,94). **Rückstand −4,91 pp** (06.11.: −3,85 pp). Cash **857,70 € = 9,00 %**, EURUSD 1,1226. Die **fünf 64-€-Orders vom 08.11. wurden ausgeführt**: TSM, ASML, VRT, JPM und CVX stehen am 09.11. in `trades`, Cash 1.177,70 − 320 = 857,70 € ✓. `orders` ist leer. Die heutigen Marktzahlen sind Werte aus dem frühen Handel, keine Schlusskurse.
+
+### Abgleich mit dem Eintrag vom 09.11. (Fehleinschätzung)
+
+- Am 09.11. hatte ich geschrieben, der AI-Block „dürfte mit dem Chip-Rally überproportional steigen“, die Defensiven würden zurückbleiben. Der erste Teil stimmte: VRT +9,2 %, ASML +6,3 %, TSM +3,5 % (USD, 06.11. ⇒ 09.11.). Aber **GOOGL nur +0,9 %**, und V (−0,2 %) und CVX (−1,0 %) sanken an einem Tag mit S&P **+2,11 %**. Unterm Strich stieg das Depot nur um **+1,06 %**, der Rückstand **wuchs um ~1,1 pp**. Der AI-Block ist mit ~32–35 % zu klein, um ein breites Index-Rally (Russell, Dow, Mega-Caps) zu überkompensieren, wenn gleichzeitig ~45 % des Depots (V, JNJ, JPM, CVX) seitwärts laufen.
+- **Vermutlich zusätzlich: Währung.** Die Benchmark wird ohne Währungseffekt gerechnet (10.000 € × Index-Verhältnis), das Depot aber in EUR. Ein steigender Euro drückt das Depot also relativ. Den EURUSD-Kurs vom 06.11. habe ich nicht in `data.json`, deshalb ist der Anteil **nicht quantifiziert**. Prüfpunkt: Bei künftigen Abgleichen den FX-Kurs mitnotieren.
+- Ehrliche Lehre: Prognosen über die relative Tagesbewegung sind in diesem Journal wiederholt nicht besser als ein Münzwurf. Ich formuliere sie künftig nicht mehr als Erwartung, sondern höchstens als Szenario.
+
+### Marktlage (10.11., früher Handel)
+
+- **Oktober-CPI (BLS):** Gesamtindex **+0,4 % M/M** (erwartet 0,3 %, Sept. 0,6 %), **Kern +0,3 %** (erwartet 0,2 %). Fed-Gouverneur **Waller** unterstützt mindestens eine Anhebung um 25 bp im Dezember und hält **50 bp** für erwägenswert, wenn der Kern bei ≥ 0,3 % liegt. Das ist jetzt der Fall. Fed-Sitzung 08.–09.12.
+- **Indizes (TheStreet, Eröffnung):** S&P **−0,74 %**, Dow −0,37 %, Nasdaq **−1,05 %**. Nach dem +2,1-%-Rally gestern ist das ein Teil-Rücksetzer, getragen von Zinssorgen.
+- **Öl:** Brent **90,82 $ (−1,9 %)**, WTI 85,53 $ (−1,5 %), der tiefste Stand seit Ende August, weil Trump weitere Schläge gegen Iran zurückstellt. Ich habe **keine** Quelle für eine tatsächliche Öffnung der Meerenge gefunden.
+- **Heute nach Börsenschluss:** CoreWeave Q3 (Telefonkonferenz 17:00 ET). Das Ergebnis liegt zum Zeitpunkt dieses Eintrags noch nicht vor.
+
+### Positionen (Gewichte Kurslauf 09.11.)
+
+- **V (18,7 %, 422,16 $):** Keine neue Nachricht. Die gefundene Meldung zur Swipe-Fee-Regulierung (rallies.ai) stammt vom **27.03.2026** und ist **verworfen**. Zum CFO-Auftritt am 09.11. habe ich weiter keine Berichterstattung gefunden. Interchange-Vorabregel (15 %): kein Gesetzentwurf und keine Prioritätserklärung ⇒ feuert nicht. Trim nur bei > 20 %. **Halten.** Dividendenstichtag heute.
+- **JNJ (15,2 %, 282,11 $):** Keine neue Firmennachricht gefunden, die Treffer sind älter. Weiter > 15 % ⇒ nach (5)(f) nicht berechtigt (ohnehin irrelevant, weil die Regel nicht feuert). **Halten.** Investor Day 08.12.
+- **TSM (14,5 %, 388,62 $):** **Oktoberumsatz NT$ 586,9 Mrd., +14,7 % M/M, +59,7 % J/J**, Jan.–Okt. +43,3 % (6-K, SEC). Bei ~30–31 NT$/USD sind das grob 19 Mrd. $, also schon ein Monat **über einem Drittel** der Q4-Mitte (~53,3 Mrd. $, laut Überschrift von GuruFocus). Die Umrechnung ist eine Schätzung von mir. **These klar bestätigt**, der Kursrückgang vom 05.11. hatte keine fundamentale Ursache. Zukauf nach eigenem Urteil? Nein: TSM liegt bei 14,5 %, die Wiedereinstiegsregel feuert nicht, und ein Nachkauf gegen das Regelwerk „weil die Zahl gut ist“ wäre genau die diskretionäre Ausnahme, die wir vermeiden. **Halten.**
+- **JPM (12,1 %, 342,08 $):** Keine Firmennachricht. Ein heißer CPI und eine wahrscheinlichere Anhebung im Dezember (eventuell 50 bp) stützen die Zinsmarge-These. Risiko: steigende Renditen treffen auch Bankkurse (Kreditqualität, Wertverluste auf Anleihen), und der Kreditkartenzins-Deckel bleibt Hintergrundthema. **Halten.**
+- **CVX (10,4 %, 210,78 $):** Halbierungskriterium im Wortlaut: (a) Hormus tatsächlich geöffnet, belegt durch zwei unabhängige Quellen: **nein**. (b) Brent an drei Tagen < 85 $: **nein** (90,8 $ intraday, Abstand ~6 $). Untergrenze (WTI < 78 $ UND CVX < 190 $): nicht berührt. **Halten.** Hinweis: Brent fällt seit zwei Wochen fast täglich. (b) ist realistischer geworden und wird ab jetzt täglich mit Schlusskurs und Kontraktmonat gezählt.
+- **GOOGL (8,6 %, 288,15 $):** Keine neue Firmennachricht. Die Treffer zu Anthropic, Google Cloud und TPU sind vom Mai 2026, also alt. Q4-Prüfkriterien (Feb. 2027) laufen weiter. **Halten.**
+- **ASML (8,2 %, 1.513,25 $):** Keine Firmennachricht. Indirekt positiv: Der TSMC-Umsatz stützt die Capex-Erwartung. **Halten.**
+- **VRT (3,4 %, 200,47 $):** Keine eigene Nachricht, nach −30 % ist der Kurs um +9 % zurückgekommen. CoreWeave Q3 heute Abend und Texas bleiben Prüfpunkte ohne Sperrwirkung. **Halten.**
+
+### Regelcheck (Kurslauf 09.11., keine offenen Orders)
+
+- **8 Positionen** ✓ · größte Position V **18,7 %** ✓ (≤ 20 %) · **Cash 9,0 %** ✓ (≥ 5 %).
+- **Verkaufsregeln:** Keine feuert (V < 20 %, CVX-Kriterien nicht erfüllt, GOOGL-Prüfliste erst zu Q4, Interchange-Vorabregel nicht ausgelöst).
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **≈ 34,7 %** < 36 % ✓. Der Puffer ist knapp. Bei weiterem Chip-Rally kann die Kaufsperre durch Kursbewegung allein greifen, einen Verkauf löst sie aber nicht aus.
+- **Wiedereinstiegsregel (Band 8,0–10,0 %):** Cash 9,00 % liegt **im Band** ⇒ **feuert nicht.**
+
+### Entscheidung
+
+**Keine Trades, keine Orders.**
+1. Die Nachrichten des Tages (CPI, Waller, Öl, TSMC-Umsatz) bestätigen bestehende Thesen (TSM, JPM) oder bewegen sich innerhalb der dokumentierten Kriterien (CVX). Einen regelkonformen Kauf- oder Verkaufsgrund gibt es nicht.
+2. Bewusst **nicht** gemacht: (a) diskretionärer TSM-Zukauf auf die starke Umsatzzahl (Momentum-/Bestätigungsfehler, AI-Block nahe 36 %). (b) Vorgezogener CVX-Trim, weil Öl fällt. Das Kriterium (Brent dreimal < 85 $ bzw. Hormus offen) ist genau dafür definiert worden, eine Vorwegnahme würde es entwerten. (c) Defensiv-Umschichtung wegen des heißen CPI: Das Depot ist mit V, JNJ, JPM und CVX (~56 %) bereits deutlich zins-/inflationsrobuster als der Index.
+3. Kein neuer Titel. Die Strukturfrage (UNP/PG/KO/LLY, Mega-Cap-Lücke) bleibt **datiert auf den ersten Lauf nach den Nvidia-Zahlen (18.11.)**.
+
+### Ehrliche Einordnung
+
+- Der Rückstand liegt bei **−4,91 pp**, das Depot absolut bei **−4,75 %**, während der S&P wieder knapp über dem Startniveau steht. Der Hauptgrund bleibt der AI-Einstieg am 06.07. auf Hochpunkten (GOOGL, TSM, ASML, VRT zusammen deutlich im Minus) und das Fehlen der Mega-Caps, die das Index-Rally tragen. Das ist **die** Frage für die Strukturentscheidung nach dem 18.11.
+- **Recherchegrenzen:** Indexstände nur in Prozent aus dem frühen Handel (TheStreet/StockTitan), keine Einzeltageskurse unserer Titel für heute. CNBC-Liveticker nicht abrufbar. Keine CME-FedWatch-Wahrscheinlichkeiten. Der USD-Wert des TSMC-Umsatzes ist meine Umrechnung. Zu JNJ, JPM, CVX, ASML und GOOGL gab die Suche nur ältere Treffer.
+
+### Für den nächsten Lauf
+
+(a) **CoreWeave Q3** (heute Abend) einordnen: Capex-/Auftragsaussagen als Kontext für VRT/TSM, kein Auslöser. (b) **Öl:** Brent-Schluss mit Kontraktmonat täglich zählen (Tage < 85 $), Hormus-Öffnung durch zwei Quellen? (c) **AI-Block** im Kurslauf: > 36 % ⇒ Kaufsperre vermerken. (d) **Fed-Erwartung** Dez. (25 vs. 50 bp), Folgen für JPM/V. (e) **FX-Effekt:** EURUSD je Kurslauf notieren, damit Relativ-Abgleiche Währung und Kursbewegung trennen. (f) Visa-CFO-Aussagen nachrecherchieren (geringe Priorität). (g) Wiedereinstiegsregel neu rechnen (Cash > 10 %?).
+
+### Offene Termine
+
+**10.11.** CoreWeave Q3 (nach Schluss), V-Dividendenstichtag · **Mitte Nov.** Anthropic-IPO · **18.11.** Nvidia Q3 ⇒ **erster Lauf danach: Strukturfrage/Wiedervorlage UNP/PG/KO/LLY** · **01.12.** Frist GOOGL-Sammelklage · **Dez.** ERCOT-Audit, CVX-Capex 2027 · **08.12.** JNJ Investor Day · **08.–09.12.** Fed (25 oder 50 bp) · **~10.12.** TSMC-Novemberumsatz · **19.01.2027** Amtsantritt Hinojosa (Texas-Moratorium) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien), VRT Q4 (Prüfpunkt Texas)
+
+### Quellen
+
+- [TheStreet – Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report (CPI, Waller, Öl, Indizes)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026)
+- [StockTitan – The Stock Market Today Live, November 10, 2026 (CPI vs. Erwartung, Waller, CoreWeave-Termin)](https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026)
+- [SEC – TSMC Form 6-K, Oktober-Umsatz 2026 (10.11.2026)](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm)
+- verworfen, weil alt: [rallies.ai – Visa slides as swipe-fee regulation fears resurface (27.03.2026)](https://rallies.ai/news/visa-slides-as-swipe-fee-regulation-fears-resurface-pressuring-payments-stocks) · [Taiwan News – Anthropic/Google-Cloud-Deal (07.05.2026)](https://www.taiwannews.com.tw/en/news/6356746)
