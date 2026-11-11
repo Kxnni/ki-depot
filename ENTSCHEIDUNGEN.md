@@ -6624,3 +6624,70 @@ Gestern habe ich den Rückstand nach dem Kurslauf auf **−4,8 bis −5,3 pp** g
 - [StockTitan – The Stock Market Today Live, November 10, 2026 (CPI vs. Erwartung, Waller, CoreWeave-Termin)](https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026)
 - [SEC – TSMC Form 6-K, Oktober-Umsatz 2026 (10.11.2026)](https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm)
 - verworfen, weil alt: [rallies.ai – Visa slides as swipe-fee regulation fears resurface (27.03.2026)](https://rallies.ai/news/visa-slides-as-swipe-fee-regulation-fears-resurface-pressuring-payments-stocks) · [Taiwan News – Anthropic/Google-Cloud-Deal (07.05.2026)](https://www.taiwannews.com.tw/en/news/6356746)
+
+## 11.11.2026 (Mittwoch, Veterans Day: Aktienbörse offen, Anleihemarkt geschlossen; Lauf am Abend MEZ während der US-Handelszeit, vor dem Kurslauf) – Keine Trades: CoreWeave-Q3 (Umsatz +168 %, Guidance erhöht, Capex 37–39 Mrd. $) trägt den AI-Trade, S&P mittags ≈ +1,5 %, Nasdaq stärker. Cash 8,95 % im Band ⇒ Wiedereinstiegsregel feuert nicht. Brent ≈ 92–93 $ ⇒ CVX-Kriterien nicht erfüllt. Rückstand im Kurslauf 10.11. von −4,91 auf −3,93 pp verringert, davon gut die Hälfte Währung
+
+**Analyse: Claude Opus 5.5 (Modell-ID laut System-Prompt: claude-opus-5-5, Subagent)**
+
+**Datenstand:** Offizieller Kurslauf **10.11.2026** (`lastUpdate` 21:06 UTC): Depot **9.584,72 €** (**−4,15 %** seit Start), Benchmark **9.978,11 €** (**−0,22 %**, S&P 7.520,93). **Rückstand −3,93 pp** (09.11.: −4,91 pp). Cash **857,70 € = 8,95 %**, EURUSD **1,1166** (09.11.: 1,1226). `orders` ist leer, seit dem 09.11. gab es keine Trades. Die heutigen Marktzahlen sind Intraday-Werte, keine Schlusskurse.
+
+### Abgleich mit dem Eintrag vom 10.11. (FX-Prüfpunkt (e) umgesetzt)
+
+- Am 10.11. stieg das Depot um **+0,62 %**, der S&P fiel um **−0,38 %**, relativ also **+1,0 pp**. Der Euro fiel von 1,1226 auf 1,1166 (**−0,54 %**), das hebt USD-Titel in EUR um ~+0,54 %. **Gut die Hälfte des relativen Gewinns ist Währung, keine Titelauswahl.** In USD stieg TSM um +2,0 % (Oktoberumsatz), VRT fiel um −3,1 %, der Rest blieb nahezu unverändert (Depot in USD ≈ +0,1 % gegen S&P −0,4 %).
+- Damit bestätigt sich die Vermutung vom 10.11.: Die Benchmark wird **ohne** Währungsumrechnung geführt, das Depot **mit**. Tagesvergleiche sind deshalb immer FX-verzerrt. Ich notiere den EURUSD weiter bei jedem Abgleich. Das ist kein Grund für eine Regeländerung, weil die Verzerrung über die Zeit in beide Richtungen wirkt (seit Start ist sie ein Nachteil, wenn der Euro seit Juli gestiegen ist, nicht quantifiziert).
+- Zu meiner Aussage vom 10.11. („Prognosen der relativen Tagesbewegung nicht besser als ein Münzwurf“): Ich formuliere auch heute keine Erwartung für den Kurslauf.
+
+### Marktlage (11.11., Intraday)
+
+- **CoreWeave Q3 (nach Schluss 10.11.):** Umsatz **3,66 Mrd. $** (+168 % J/J, über der eigenen Spanne 3,45–3,60), Nettoverlust 709 Mio. $. Umsatzprognose 2026 auf **13,0–13,3 Mrd. $** angehoben (zuvor 12,4–13,2, LSEG-Konsens 12,86). Capex 2026 **37–39 Mrd. $**, um Kapazität früher zu liefern. Die Aktie stieg um ~17–21 %. Das beruhigt die Sorge um AI-Ausgaben und zieht Chips mit.
+- **Indizes (TheStreet):** 9:33 ET S&P +1,05 %, Nasdaq +1,64 %, Dow +0,16 %, Russell −0,68 %. 12:38 ET S&P **+1,50 %** (Tageshoch). Laut Yahoo stand der Dow um 9:47 ET bei −0,13 %, der Markt ist also eng von Tech getragen, nicht breit.
+- **Nvidia:** Nach zwei Tagen mit zusammen −430 Mrd. $ Börsenwert (Untersuchung zur Huang-/Spionage-Berichterstattung, Baird-Abstufung auf Neutral, Kursziel 200 $) heute +2–4 %. Weiterhin nur Sektorkontext für TSM, ASML und VRT.
+- **Zinsen:** Die 10-jährige Rendite lag am 10.11. kurzzeitig **über 5 %**. CME FedWatch: ~90 % für **+25 bp** im Dezember, ~11 % für 50 bp. Waller (50 bp) ist also nicht Konsens. Heute fehlen Anleihekurse (Feiertag).
+- **Öl:** Brent früh **92,70 $ (+1,3 %)**, WTI 86,6–87,4 $. Nach dem Tief vom 10.11. (90,8 $) gibt es eine leichte Gegenbewegung. Eine Quelle für eine tatsächliche Öffnung der Meerenge von Hormus habe ich **nicht** gefunden.
+- **Anthropic-IPO:** Preisspanne 70–78 $, bis zu 1,4 Bio. $ Bewertung am oberen Ende, Handel möglicherweise ab nächster Woche (Yahoo). Relevant für GOOGL als Anteilseigner. **Hinweis zum Interessenkonflikt:** Ich bin ein Anthropic-Modell. Ich leite daraus ausdrücklich **keine** Kauf- oder Verkaufsbegründung ab und führe das Thema nur als Termin.
+
+### Positionen (Gewichte Kurslauf 10.11.)
+
+- **V (18,69 %, 423,00 $):** Keine neue Nachricht. Die Treffer zur Swipe-Fee/CCCA sind älter (Mai–Juli 2026 bzw. 2025) und verworfen. Interchange-Vorabregel (15 %): kein Gesetzentwurf und keine Prioritätserklärung ⇒ feuert nicht. Trim nur bei > 20 % im Kurslauf (Abstand ~1,3 pp). **Halten.**
+- **JNJ (15,14 %, 280,77 $):** Keine Firmennachricht. Steigende Renditen sind leichter Gegenwind für Defensive, aber kein These-Thema. **Halten.** Investor Day 08.12.
+- **TSM (14,76 %, 396,59 $):** Der Oktoberumsatz (gestern) wurde im Kurslauf eingepreist (+2,0 %). Der CoreWeave-Capex (37–39 Mrd. $) bestätigt die Nachfrage indirekt. **Halten.** Kein Zukauf, Begründung wie am 10.11.
+- **JPM (12,08 %, 342,30 $):** Keine Firmennachricht. Zinsanhebung im Dezember ist fast eingepreist und stützt die Zinsmarge. Risiko: 10-jährige > 5 % (Bewertungsverluste auf Anleihen, Kreditqualität). **Halten.**
+- **CVX (10,40 %, 211,21 $):** Halbierungskriterium im Wortlaut: (a) Hormus tatsächlich geöffnet, zwei unabhängige Quellen: **nein**. (b) Brent an drei Tagen < 85 $: **nein** (Zähler 0, Brent ~92,7 $). Untergrenze (WTI < 78 $ UND CVX < 190 $): nicht berührt. **Halten.** Einschränkung: Ich habe heute keinen Brent-Schlusskurs mit Kontraktmonat, nur den Wert von 7:13 ET.
+- **GOOGL (8,55 %, 287,38 $):** Keine eigene Firmennachricht. Anthropic-IPO siehe oben (kein Auslöser). Q4-Prüfkriterien (Feb. 2027) laufen weiter, Wiedereinstiegskäufe weiter nach (5)(a) gesperrt. **Halten.**
+- **ASML (8,18 %, 1.507,85 $):** Keine neue Firmennachricht (Treffer vom 05.11. und älter). Profitiert heute vermutlich vom Chip-Rally, Einzelkurs nicht gefunden. **Halten.**
+- **VRT (3,26 %, 194,19 $):** Keine eigene Nachricht. Der CoreWeave-Capex ist das Szenario, von dem Kühlungsanbieter profitieren. Das ist Kontext, kein Auslöser. **Halten.**
+
+### Regelcheck (Kurslauf 10.11., keine offenen Orders)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,69 %** ✓ (≤ 20 %) · **Cash 8,95 %** ✓ (≥ 5 %).
+- **Verkaufsregeln:** Keine feuert (V < 20 %, CVX-Kriterien nicht erfüllt, GOOGL-Prüfliste erst zu Q4, Interchange-Vorabregel nicht ausgelöst).
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **≈ 34,75 %** < 36 % ✓. Beim heutigen Chip-Rally kann er im Kurslauf 11.11. Richtung 36 % laufen. Das wäre nur eine Kaufsperre, kein Verkauf.
+- **Wiedereinstiegsregel (Band 8,0–10,0 %):** Cash 8,95 % liegt **im Band** ⇒ **feuert nicht.**
+
+### Entscheidung
+
+**Keine Trades, keine Orders.**
+1. CoreWeave, Nvidia-Erholung und Zinsen bestätigen oder berühren bestehende Thesen (TSM, ASML, VRT, JPM), liefern aber keinen regelkonformen Kauf- oder Verkaufsgrund.
+2. Bewusst **nicht** gemacht: (a) AI-Zukauf „weil CoreWeave stark war“. Das wäre Momentum-Jagd, und der AI-Block liegt nahe der 36-%-Kaufsperre. (b) Defensiv-Umschichtung wegen der 10-jährigen über 5 %. Das Depot ist mit V, JNJ, JPM und CVX (~56 %) bereits zinsrobuster als der Index. (c) GOOGL-Trade wegen des Anthropic-IPO (Interessenkonflikt, siehe oben, und kein fundamentaler Auslöser für Alphabet selbst).
+3. Kein neuer Titel. Die Strukturfrage (UNP/PG/KO/LLY, Mega-Cap-Lücke) bleibt **datiert auf den ersten Lauf nach den Nvidia-Zahlen (18.11.)**.
+
+### Ehrliche Einordnung
+
+- Der Rückstand von **−3,93 pp** ist kleiner als gestern, aber zur Hälfte Währungsglück. Dass das Depot am 10.11. bei fallendem Markt hielt, ist ein Tag und kein Beleg für die Struktur. Ein enges, tech-getragenes Rally wie heute (Dow flach, Russell im Minus) ist für uns gemischt: Der AI-Block (~35 %) profitiert, die ~56 % Nicht-Tech nicht.
+- **Recherchegrenzen:** Indexstände nur bis 12:38 ET, keine Einzelkurse für unsere Titel heute, kein Brent-Schluss mit Kontraktmonat. Die Benzinga-Seite zu Bessents US-China-Aussagen („de-risk“) war nicht abrufbar, Inhalt also **unbekannt** (potenziell relevant für TSM/ASML). Zu V, JNJ, JPM, CVX, ASML und VRT nur ältere Treffer.
+
+### Für den nächsten Lauf
+
+(a) **AI-Block** im Kurslauf 11.11. prüfen: > 36 % ⇒ Kaufsperre vermerken. (b) **Bessent/US-China** nachrecherchieren (Exportkontrollen, Zölle ⇒ TSM/ASML). (c) **Öl:** Brent-Schluss mit Kontraktmonat, Tage < 85 $ zählen, Hormus-Öffnung durch zwei Quellen? (d) **EURUSD** je Abgleich notieren (11.11. vs. 1,1166). (e) **Renditen** nach dem Feiertag (10-jährige > 5 %?), Folgen für JPM, JNJ und V. (f) V-Gewicht: Trim erst > 20 %. (g) Wiedereinstiegsregel neu rechnen (Cash außerhalb 8–10 %?).
+
+### Offene Termine
+
+**Nächste Woche** Anthropic-IPO (nur Termin, Interessenkonflikt) · **18.11.** Nvidia Q3 ⇒ **erster Lauf danach: Strukturfrage/Wiedervorlage UNP/PG/KO/LLY** · **01.12.** Frist GOOGL-Sammelklage · **Dez.** ERCOT-Audit, CVX-Capex 2027 · **08.12.** JNJ Investor Day · **08.–09.12.** Fed (~90 % für +25 bp) · **~10.12.** TSMC-Novemberumsatz · **19.01.2027** Amtsantritt Hinojosa (Texas-Moratorium) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien), VRT Q4
+
+### Quellen
+
+- [TheStreet – Stock Market Today (Nov. 11, 2026): Nasdaq, S&P 500 whipsaws higher as CoreWeave lifts AI trade (Indizes, CoreWeave, Öl, Fed, Nvidia)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026)
+- [StockTitan – Stock Market Today Live, November 11, 2026 (CoreWeave-Guidance und Capex, FedWatch, Veterans Day)](https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026)
+- [Yahoo Finance – Stock market today, Wednesday November 11 (Indexstände 9:47 ET, 10-jährige > 5 %, Anthropic-IPO)](https://ca.finance.yahoo.com/news/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html)
+- [MarketScreener – S&P 500, Nasdaq rise over 1% as CoreWeave results calm AI spending jitters](https://www.marketscreener.com/news/s-p-500-nasdaq-rise-over-1-as-coreweave-results-calm-ai-spending-jitters-ce785edbde8ef522)
+- nicht abrufbar: [Benzinga – Futures rise as Bessent urges US-China to 'de-risk'](https://www.benzinga.com/markets/equities/26/11/63132394/stock-market-today-dow-jones-sp-500-futures-rise-as-bessent-urges-us-china-to-de-risk-crwv-rgti-fnv-in-focus)
