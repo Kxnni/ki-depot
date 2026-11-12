@@ -6691,3 +6691,71 @@ Gestern habe ich den Rückstand nach dem Kurslauf auf **−4,8 bis −5,3 pp** g
 - [Yahoo Finance – Stock market today, Wednesday November 11 (Indexstände 9:47 ET, 10-jährige > 5 %, Anthropic-IPO)](https://ca.finance.yahoo.com/news/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html)
 - [MarketScreener – S&P 500, Nasdaq rise over 1% as CoreWeave results calm AI spending jitters](https://www.marketscreener.com/news/s-p-500-nasdaq-rise-over-1-as-coreweave-results-calm-ai-spending-jitters-ce785edbde8ef522)
 - nicht abrufbar: [Benzinga – Futures rise as Bessent urges US-China to 'de-risk'](https://www.benzinga.com/markets/equities/26/11/63132394/stock-market-today-dow-jones-sp-500-futures-rise-as-bessent-urges-us-china-to-de-risk-crwv-rgti-fnv-in-focus)
+
+## 12.11.2026 (Donnerstag; Lauf während der US-Handelszeit, vor dem Kurslauf) – Keine Trades: Jensen Huang tritt als Nvidia-CEO mit sofortiger Wirkung zurück (CFO Colette Kress interimistisch), NVDA zur Eröffnung ≈ −14 %, um 11:08 ET noch ≈ −4 %. TSM > −2 %, ASML leicht im Minus, S&P um 11 ET ≈ flach bis +0,25 %. Das ist ein Governance-Ereignis beim Kunden, keine Nachfrageänderung für TSM/ASML/VRT ⇒ kein Auslöser. Rückstand im Kurslauf 11.11. auf −3,33 pp verringert, relativ nahezu vollständig Währung
+
+**Analyse: Claude Opus (Subagent, Modell-ID: claude-opus-5-5)**
+
+**Datenstand:** Offizieller Kurslauf **11.11.2026** (`lastUpdate` 21:40 UTC): Depot **9.776,19 €** (**−2,24 %** seit Start), Benchmark **10.108,72 €** (**+1,09 %**, S&P 7.619,38). **Rückstand −3,33 pp** (10.11.: −3,93 pp). Cash **857,70 € = 8,77 %**, EURUSD **1,1093** (10.11.: 1,1166). `orders` ist leer, seit dem 09.11. gab es keine Trades. Die heutigen Marktzahlen sind Intraday-Werte (bis ~11:08 ET), keine Schlusskurse.
+
+### Abgleich mit dem Eintrag vom 11.11. (FX getrennt)
+
+- Am 11.11. stieg das Depot in EUR um **+2,00 %**, der S&P um **+1,31 %**, relativ also **+0,69 pp**. Der Euro fiel von 1,1166 auf 1,1093 (**−0,65 %**), das hebt USD-Titel in EUR um ~**+0,66 %**. **Der relative Gewinn ist damit praktisch vollständig Währung.** In USD lag das Depot ≈ **+1,3 %**, gleichauf mit dem S&P. Die Titelauswahl hat am CoreWeave-Tag weder gewonnen noch verloren.
+- Prognose vom 11.11. („AI-Block kann im Kurslauf Richtung 36 % laufen“): tatsächlich **35,43 %**. Leicht gestiegen, die Schwelle wurde nicht erreicht. Die Aussage war vorsichtig genug formuliert, um nicht falsch zu sein. Sie war aber auch nicht nützlich.
+- Zwei Tage in Folge kam die Verbesserung des Rückstands (zusammen +1,58 pp) zu mehr als der Hälfte aus dem schwächeren Euro. Das ist **kein Beleg** für die Depotstruktur und kann sich umkehren.
+
+### Marktlage (12.11., Intraday)
+
+- **Nvidia:** Der Vorstand meldete um 8:48 ET den **sofortigen Rücktritt von Jensen Huang** als President, CEO und Director. **Colette Kress** (CFO) ist Interims-CEO und bleibt CFO. Harvey C. Jones ist erster Board Chair. Interne und externe Kandidaten werden geprüft. Hintergrund laut NYT/WSJ: Berichte über Huangs Privatleben, darunter eine Beziehung zu einer Nvidia-Managerin. Dazu kommt die bereits bekannte Spionage-Berichterstattung, der Vorstand bereitete seine Abberufung vor. Kurs: Schluss 10./11.11. 173,73 $, vorbörslich 155,44 $, zur Eröffnung ≈ −14 %, um 11:08 ET ≈ **−4 % (166,66 $)**. Die Unterstützung bei ~164 $ wurde kurz unterschritten, ≈ −30 % in einem Monat.
+- **Chips:** TSMC **> −2 %** (Yahoo), ASML in Europa ≈ −3 % (CNBC), in den USA leicht negativ. Micron/SK Hynix ≈ −4 %, AMD im Plus (gilt als möglicher Profiteur).
+- **Indizes (Yahoo, ~11:08 ET):** Dow +0,36 % (52.675), S&P ≈ +0,1–0,25 % (7.638), Nasdaq ≈ flach bis +0,26 %, Russell 2000 −0,92 %, VIX ≈ 18. Zur Eröffnung lag der S&P bei −0,3 %. Eine andere Quelle (JournalArta) nennt S&P −0,32 % / Nasdaq −0,49 %, die Zahlen sind also uneinheitlich und vom Zeitpunkt abhängig.
+- **Zinsen:** 10-jährige Rendite ≈ **5,07 %** (+7 bp) nach dem Feiertag. Nach dem heißen CPI vom 10.11. erhöhen Analysten die Erwartungen für weitere und größere Zinsanhebungen. Erstanträge auf Arbeitslosenhilfe 200.000 (+9.000). **PPI Oktober morgen (13.11., 8:30 ET).**
+- **Öl:** Brent ≈ **93 $**, WTI +1,5 % nach Trumps Post „we don't need a deal with Iran“, kurz nachdem über mögliche direkte Gespräche Vance–Iran berichtet wurde. **Kein** Hinweis auf eine Öffnung der Meerenge von Hormus.
+- **Alphabet:** Nur die Schlagzeile „Alphabet kicks off Asia bond sale as AI firms face scrutiny“ (Plan war ~3 Mrd. $ in HKD/SGD). Fremdfinanzierung des AI-Capex, keine These-Änderung.
+- **Anthropic-IPO:** weiter für nächste Woche geplant. Interessenkonflikt wie am 11.11.: Ich bin ein Anthropic-Modell und leite daraus **keine** Handlung ab.
+
+### Positionen (Gewichte Kurslauf 11.11.)
+
+- **V (18,55 %, 425,55 $):** Keine neue Firmennachricht, die Treffer sind älter und verworfen. Trim erst bei > 20 % im Kurslauf (Abstand ~1,45 pp). Interchange-Vorabregel nicht ausgelöst. **Halten.**
+- **TSM (15,19 %, 413,35 $):** Huangs Rücktritt trifft den größten Kunden auf der **Führungsebene**. Die Nachfrage (Blackwell/Rubin-Aufträge, CoreWeave-Capex 37–39 Mrd. $, Oktoberumsatz) ist davon nicht direkt betroffen. Das Risiko: Eine längere Führungskrise bei Nvidia könnte Roadmaps und Kundenvertrauen verzögern. Belegt ist das heute nicht. −2 % ist Sentiment. **Halten**, kein Zukauf (AI-Block nahe 36 %).
+- **JNJ (14,93 %, 280,41 $):** Keine Firmennachricht. Rendite > 5 % ist leichter Gegenwind für Defensive. **Halten.** Investor Day 08.12.
+- **JPM (11,96 %, 343,39 $):** Keine Firmennachricht. Höhere Renditen stützen die Zinsmarge. Risiko: Bewertungsverluste auf Anleihen und Kreditqualität bei 10-jähriger > 5 %. **Halten.**
+- **CVX (10,36 %, 213,28 $):** Halbierungskriterium im Wortlaut: (a) Hormus tatsächlich geöffnet, zwei unabhängige Quellen: **nein** (Trump-Post spricht eher dagegen). (b) Brent an drei Tagen < 85 $: **nein**, Zähler 0, Brent ≈ 93 $. Untergrenze (WTI < 78 $ UND CVX < 190 $): nicht berührt. **Halten.** Wieder ohne Brent-Schluss mit Kontraktmonat.
+- **GOOGL (8,62 %, 293,45 $):** Asien-Anleihe als Finanzierung des AI-Capex. Kein Auslöser. Q4-Prüfkriterien (Feb. 2027) laufen, Wiedereinstiegskäufe weiter gesperrt. **Halten.**
+- **ASML (8,21 %, 1.534,42 $):** In Europa ≈ −3 % im Sog von Nvidia, sonst keine eigene Nachricht. EUV-Nachfrage hängt an TSMC/Samsung/Intel-Capex, nicht an Nvidias CEO. **Halten.**
+- **VRT (3,42 %, 206,51 $):** Keine eigene Nachricht. Indirektes Nvidia-Risiko wie bei TSM. **Halten.**
+
+### Regelcheck (Kurslauf 11.11., keine offenen Orders)
+
+- **8 Positionen** ✓ (≤ 10) · größte Position V **18,55 %** ✓ (≤ 20 %) · **Cash 8,77 %** ✓ (≥ 5 %).
+- **Verkaufsregeln:** Keine feuert.
+- **AI-Block** (GOOGL+TSM+ASML+VRT) **35,43 %** < 36 % ✓. Keine Kaufsperre, aber nur 0,57 pp Abstand. Heute dürfte er eher fallen (TSM/ASML im Minus).
+- **Wiedereinstiegsregel (Band 8,0–10,0 %):** Cash 8,77 % **im Band** ⇒ feuert nicht.
+
+### Entscheidung
+
+**Keine Trades, keine Orders.**
+1. Der Huang-Rücktritt ist ein **Governance-Schock bei einem Kunden**, kein fundamentaler Bruch der Thesen „Fertigungsengpass“ (TSM), „EUV-Monopol“ (ASML) und „Kühlung“ (VRT). Wir halten **kein** NVDA. Ein Verkauf der Zulieferer wegen einer Personalie wäre eine Reaktion auf Schlagzeilen.
+2. Bewusst **nicht** gemacht: (a) **Dip-Kauf TSM/ASML.** Der AI-Block liegt nur 0,57 pp unter der Kaufsperre, und das Ausmaß der Nvidia-Krise ist unklar (Nachfolge, mögliche weitere Enthüllungen, Q3-Zahlen am 18.11. ohne den Gründer). (b) **Defensive Umschichtung** wegen Rendite > 5 %: Mit V/JNJ/JPM/CVX (≈ 56 %) ist das Depot bereits zinsrobuster als der Index. (c) **Kauf von AMD als „Profiteur“:** Das ist eine spekulative Spielart derselben AI-Wette und würde die Konzentration erhöhen.
+3. Die Strukturfrage (UNP/PG/KO/LLY, Mega-Cap-Lücke) bleibt **datiert auf den ersten Lauf nach den Nvidia-Zahlen (18.11.)**. Die Zahlen werden jetzt zusätzlich ein Test, ob die neue Führung Guidance und Kundenvertrauen halten kann. **Es gilt zu prüfen, ob der Termin trotz CEO-Wechsel bestehen bleibt.**
+
+### Ehrliche Einordnung
+
+- Der verkleinerte Rückstand (−3,33 pp) beruht zwei Tage in Folge vor allem auf dem schwächeren Euro. In USD hat die Auswahl am 11.11. den Index nur egalisiert. Der Rückstand seit Start ist echt und strukturell (v. a. GOOGL −17 %, ASML, VRT).
+- Ein Risiko, das ich bisher unterschätzt habe: die **Klumpenabhängigkeit von Nvidia** als Kunde von TSM und VRT. Ich habe sie bisher nur als „Sektorkontext“ geführt. Der heutige Tag zeigt, dass ein Nvidia-spezifisches Ereignis (nicht nur AI-Nachfrage) unsere Positionen direkt bewegt. Das ist bei den Prüfungen am 18.11. ausdrücklich zu bewerten.
+- **Recherchegrenzen:** Intraday-Daten bis ~11 ET mit widersprüchlichen Indexwerten je nach Quelle. Keine Einzelkurse für V, JNJ, JPM, CVX, GOOGL, VRT heute. Kein Brent-Schluss mit Kontraktmonat. Bessent/US-China („de-risk“, Prüfpunkt (b) vom 11.11.): Ich habe nur Treffer zur Beschwichtigung Pekings nach dem Taiwan-Gesetz gefunden, ohne Datum und Details zu Exportkontrollen. Der Punkt bleibt **offen**.
+
+### Für den nächsten Lauf
+
+(a) **Nvidia:** Nachfolge, weitere Enthüllungen, Termin der Q3-Zahlen am 18.11. bestätigen. Wie haben TSM und VRT im Kurslauf 12.11. reagiert (in USD und EUR getrennt)? (b) **PPI Oktober (13.11.)** und 10-jährige Rendite > 5 %: Folgen für JPM, JNJ und V, Fed-Erwartung Dezember (25 vs. 50 bp). (c) **AI-Block** im Kurslauf: > 36 % ⇒ Kaufsperre. (d) **Öl:** Brent-Schluss mit Kontraktmonat, Tage < 85 $ zählen, Hormus/Iran-Gespräche. (e) **EURUSD** je Abgleich notieren (12.11. vs. 1,1093). (f) Bessent/US-China weiter offen. (g) Wiedereinstiegsregel (Cash außerhalb 8–10 %?).
+
+### Offene Termine
+
+**13.11.** PPI Oktober · **Nächste Woche** Anthropic-IPO (nur Termin, Interessenkonflikt) · **18.11.** Nvidia Q3 (erstmals ohne Huang, Termin prüfen) ⇒ **erster Lauf danach: Strukturfrage/Wiedervorlage UNP/PG/KO/LLY + Nvidia-Klumpenrisiko TSM/VRT** · **01.12.** Frist GOOGL-Sammelklage · **Dez.** ERCOT-Audit, CVX-Capex 2027 · **08.12.** JNJ Investor Day · **08.–09.12.** Fed · **~10.12.** TSMC-Novemberumsatz · **19.01.2027** Amtsantritt Hinojosa (Texas-Moratorium) · **Anfang Feb. 2027** GOOGL Q4 (Prüfkriterien), VRT Q4
+
+### Quellen
+
+- [Yahoo Finance – Stock market today, Thursday November 12: S&P 500, Nasdaq pare losses as Nvidia stock slides after CEO Jensen Huang resigns (Indizes, Chips, Renditen, Öl, Alphabet-Anleihe, Anthropic)](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html)
+- [StockTitan – Tech Stocks Fall in the Stock Market Today Live, November 12, 2026 (Rücktritt im Wortlaut, Kress, Futures, ASML Europa, Jobless Claims, PPI-Termin)](https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026)
+- [JournalArta – Stock Market Today: S&P 500 slips 0.32%, Nasdaq down 0.49% (abweichende Intraday-Werte, nicht abgerufen)](https://journalarta.com/en/2026/11/12/stock-market-today-sp-500-slips-0-32-to-7595-3-and-nasdaq-falls-0-49-as-vix-jumps-8-52/)
+- [Yahoo – Bessent moves to placate Beijing after Trump signs bill on deepening ties with Taiwan (Datum unklar, nicht abgerufen)](https://www.yahoo.com/news/articles/bessent-moves-placate-beijing-trump-093000480.html)
